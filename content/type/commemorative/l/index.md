@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><img src="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/sett.png" alt="Lady Diana Plaid" width="140"><br>Lady Diana Plaid</a></li>
 <li><a class="tartan" href="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/"><img src="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/sett.png" alt="Langholm Millennium" width="140"><br>Langholm Millennium</a></li>
-<li><a class="tartan" href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><img src="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/sett.png" alt="Lawrence's Seven Pillars of Khaki" width="140"><br>Lawrence's Seven Pillars of Khaki</a></li>
 <li><a class="tartan" href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><img src="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/sett.png" alt="Lawrence's Seven Pillars of Khaki" width="140"><br>Lawrence's Seven Pillars of Khaki</a></li>
+<li><a class="tartan" href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><img src="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/sett.png" alt="Lawrence's Seven Pillars of Khaki" width="140"><br>Lawrence's Seven Pillars of Khaki</a></li>
 <li><a class="tartan" href="/variants/s8/dy5dr6k5dr6dy36db3dy2k1~x2/"><img src="/variants/s8/dy5dr6k5dr6dy36db3dy2k1~x2/sett.png" alt="Lermontov Bicentenary" width="140"><br>Lermontov Bicentenary</a></li>
 <li><a class="tartan" href="/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/"><img src="/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/sett.png" alt="Lermontov Bicentenary" width="140"><br>Lermontov Bicentenary</a></li>
 <li><a class="tartan" href="/variants/s6/db1n8w1db4dr8w1~x6/"><img src="/variants/s6/db1n8w1db4dr8w1~x6/sett.png" alt="Little's Chauffeur Drive" width="140"><br>Little's Chauffeur Drive</a></li>

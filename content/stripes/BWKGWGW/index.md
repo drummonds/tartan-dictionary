@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macrobart-dress/">MacRobart Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrobart-dress/"><img src="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/sett.png" alt="MacRobart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrobart-dress/"><img src="/variants/s7/db8w33k15g17lb3g17lb3~x2/sett.png" alt="MacRobart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

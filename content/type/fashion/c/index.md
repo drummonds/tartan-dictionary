@@ -13,8 +13,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1~x4/"><img src="/variants/s14/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1~x4/sett.png" alt="Cairn" width="140"><br>Cairn</a></li>
 <li><a class="tartan" href="/variants/s5/k2w1k8w8k1~x8/"><img src="/variants/s5/k2w1k8w8k1~x8/sett.png" alt="Cairn (Marton Mills)" width="140"><br>Cairn (Marton Mills)</a></li>
 <li><a class="tartan" href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><img src="/variants/s7/db5lb4db22k15g22r4g4~x2/sett.png" alt="Cairngorm #2" width="140"><br>Cairngorm #2</a></li>
-<li><a class="tartan" href="/variants/s7/dg11g4dg6dy11g1k1dy4~x4/"><img src="/variants/s7/dg11g4dg6dy11g1k1dy4~x4/sett.png" alt="Calais (Fashion)" width="140"><br>Calais (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/"><img src="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/sett.png" alt="Calais (Fashion)" width="140"><br>Calais (Fashion)</a></li>
+<li><a class="tartan" href="/variants/s7/dg11g4dg6dy11g1k1dy4~x4/"><img src="/variants/s7/dg11g4dg6dy11g1k1dy4~x4/sett.png" alt="Calais (Fashion)" width="140"><br>Calais (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/sett.png" alt="Caledonia" width="140"><br>Caledonia</a></li>
 <li><a class="tartan" href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><img src="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/sett.png" alt="Caledonia - 1819 (Wilsons') No.155" width="140"><br>Caledonia - 1819 (Wilsons') No.155</a></li>
 <li><a class="tartan" href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><img src="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/sett.png" alt="Caledonia No 3" width="140"><br>Caledonia No 3</a></li>

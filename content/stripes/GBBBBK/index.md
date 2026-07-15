@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mu/murdoch/">Murdoch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mu/murdoch/"><img src="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/sett.png" alt="Murdoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murdoch/"><img src="/variants/s6/k2dr1db17dr17b1y2~x4/sett.png" alt="Murdoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

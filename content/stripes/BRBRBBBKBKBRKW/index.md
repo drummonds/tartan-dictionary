@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/capercaillie/">Capercaillie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/capercaillie/"><img src="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/sett.png" alt="Capercaillie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/capercaillie/"><img src="/variants/s14/n4o3n4o2n4dt8n30k4dt4k36n4r2k4w2~dt1602277-r2109032/sett.png" alt="Capercaillie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cy/cypress-presbyterian-church/">Cypress Presbyterian Church</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cy/cypress-presbyterian-church/"><img src="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/sett.png" alt="Cypress Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cy/cypress-presbyterian-church/"><img src="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/sett.png" alt="Cypress Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

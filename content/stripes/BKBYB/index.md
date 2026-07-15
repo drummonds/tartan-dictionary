@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/ik/ikelman-5/">Ikelman</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/ik/ikelman-5/"><img src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ik/ikelman-5/"><img src="/variants/s5/n11k4dr4lo4n1~x4/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

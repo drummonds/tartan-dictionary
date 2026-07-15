@@ -30,8 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/da/dalzell/">Dalzell</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/da/dalzell/"><img src="/variants/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/sett.png" alt="Dalzell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/d/da/dalziel/">Dalziel</a> <small class="dt">ΔTartan 0.39</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/dalziel/"><img src="/variants/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/sett.png" alt="Dalziel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/d/da/dalziel/">Dalziel</a> <small class="dt">ΔTartan 2.22</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalziel/"><img src="/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r2109032-ri2307033/sett.png" alt="Dalziel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

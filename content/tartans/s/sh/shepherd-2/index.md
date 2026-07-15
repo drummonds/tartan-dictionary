@@ -34,6 +34,12 @@ This tartan is also recorded under:
 
 - Shepherd Brown & White
 
+## Related setts
+
+Setts a curator has related to this tartan — what it derived from and what derived from it.
+
+- **parent-of**: [Shepherd or Falkirk](/setts/k1lb1/) — The black-and-white Shepherd's Check is the Falkirk sett restated in dyed wool.
+
 ## Nearest tartans
 
 The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.

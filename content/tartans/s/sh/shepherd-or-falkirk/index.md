@@ -24,6 +24,13 @@ The **Shepherd or Falkirk** tartan is recorded as a single sett.
 </table>
 
 
+## Related setts
+
+Setts a curator has related to this tartan — what it derived from and what derived from it.
+
+- **derived-from**: [Shepherd](/setts/dy1lb1/) — The Shepherd's Check is the black-and-white form of the Falkirk sett — the oldest surviving Scottish tartan (c. 3rd century AD), a simple 2:2 check recovered in undyed brown-and-white wool near Falkirk. Restated in dyed black and white it became the Border shepherds' plaid from which a long line of district checks descends.
+- **parent-of**: [Haig Check](/setts/k1w1k1w1t1/) — Haig is one of the Border district checks built on the Shepherd's Check.
+
 ## Nearest tartans
 
 The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.

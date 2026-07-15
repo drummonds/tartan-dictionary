@@ -26,6 +26,13 @@ The **Haig Check** tartan is recorded as a single sett.
 </table>
 
 
+## Related setts
+
+Setts a curator has related to this tartan — what it derived from and what derived from it.
+
+- **derived-from**: [Shepherd or Falkirk](/setts/k1lb1/) — The Haig estate check is a coloured elaboration of the black-and-white Shepherd's Check — the Border check — with a blue overcheck added. It was designed in 1908 by the Colonel of the 4th Battalion King's Own Scottish Borderers for the regiment's pipers and later taken up by Earl Haig's family of Bemersyde in the Scottish Borders.
+- **parent-of**: [Buccleuch Check](/setts/db5w4k4w4k4w4k4w4k4w4k4/) — The Buccleuch and Haig checks are the same Border estate check family; which came first is unclear.
+
 ## Nearest tartans
 
 The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.

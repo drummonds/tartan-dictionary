@@ -24,6 +24,12 @@ The **Buccleuch Check** tartan is recorded as a single sett.
 </table>
 
 
+## Related setts
+
+Setts a curator has related to this tartan — what it derived from and what derived from it.
+
+- **derived-from**: [Haig Check](/setts/k1w1k1w1t1/) — The Buccleuch check and the neighbouring Haig estate check are one Border check family built on the Shepherd's Check — one with a dark-blue overcheck on a wider nine-square window for the Buccleuch estates around Selkirk, the other with the Haig overcheck. They are clearly one group, though which version is the original is unclear. Tradition has the Haigs and the Buccleuchs long 'at daggers drawn', which makes the shared check the better story.
+
 ## Nearest tartans
 
 The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.

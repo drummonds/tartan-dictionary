@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kilbranan-sound/">Kilbranan Sound</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilbranan-sound/"><img src="/variants/s8/db8r11db28r4k17o1k7r2~x2~db1704245/sett.png" alt="Kilbranan Sound sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilbranan-sound/"><img src="/variants/s8/b8r11b28r4k17o1k7r2~x2/sett.png" alt="Kilbranan Sound sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

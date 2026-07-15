@@ -36,8 +36,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/mo/mowbray/">Mowbray</a> <small class="dt">ΔTartan 1.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/mowbray/"><img src="/variants/s5/n16r2n10r15lb5~x2/sett.png" alt="Mowbray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/ca/callum-2/">Callum</a> <small class="dt">ΔTartan 4.49</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/callum-2/"><img src="/variants/s5/dt7r1n6r8lb1~x8/sett.png" alt="Callum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/callum-2/">Callum</a> <small class="dt">ΔTartan 2.00</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/callum-2/"><img src="/variants/s5/n7r1dt6r8lb1~x8/sett.png" alt="Callum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/j/ja/jardine-4/">Jardine</a> <small class="dt">ΔTartan 5.36</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/ja/jardine-4/"><img src="/variants/s5/do18o9n9r1lb1~x4/sett.png" alt="Jardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

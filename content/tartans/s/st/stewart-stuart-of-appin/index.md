@@ -10,6 +10,8 @@ aliases:
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grwbrgrbrgrgrwbrbwrgrgrbrgrbwr/">GRWBRGRBRGRGRWBRBWRGRGRBRGRBWR</a></nav>
 Its design is pattern [GRWBRGRBRGRGRWBRBWRGRGRBRGRBWR](/stripes/grwbrgrbrgrgrwbrbwrgrgrbrgrbwr/) — the page of every tartan sharing this colour sequence.
 
+This is a Stewart of Appin with a thin green overstripe joining a half sett together.
+
 The **Stewart/Stuart of Appin** tartan is recorded as a single sett.
 
 <table class="sett-table">

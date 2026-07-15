@@ -16,6 +16,10 @@ The dictionary's owners beyond the Scottish clans — ancient finds, districts a
 
 - [Military](/groups/military/)
 
+## Similars
+
+- [Similars](/groups/similars/)
+
 ## District
 
 - [Towns & Cities](/groups/towns-and-cities/)

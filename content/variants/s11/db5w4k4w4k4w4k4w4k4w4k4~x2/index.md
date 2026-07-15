@@ -46,6 +46,12 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 647
 - Scottish Tartans World Register: 647
 
+## Related setts
+
+Setts a curator has related to this one.
+
+- **derived-from**: [Haig Check](/setts/k1w1k1w1t1/) — The Buccleuch check and the neighbouring Haig estate check are one Border check family built on the Shepherd's Check — one with a dark-blue overcheck on a wider nine-square window for the Buccleuch estates around Selkirk, the other with the Haig overcheck. They are clearly one group, though which version is the original is unclear. Tradition has the Haigs and the Buccleuchs long 'at daggers drawn', which makes the shared check the better story.
+
 ## Thread count
 DB/10 W8 K8 W8 K8 W8 K8 W8 K8 W8 K/8
 

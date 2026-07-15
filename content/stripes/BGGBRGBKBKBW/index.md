@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bh/bhoyrub/">Bhoyrub</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bh/bhoyrub/"><img src="/variants/s12/t20g3dy3t3r7g6t3k12t3k3t24w3~x2/sett.png" alt="Bhoyrub sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bh/bhoyrub/"><img src="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/sett.png" alt="Bhoyrub sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

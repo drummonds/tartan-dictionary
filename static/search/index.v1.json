@@ -13757,6 +13757,13 @@
       "rank": 1
     },
     {
+      "name": "king's own scottish borderers",
+      "display": "King's Own Scottish Borderers",
+      "kind": "group",
+      "url": "/groups/similars/kings-own-scottish-borderers/",
+      "rank": 1
+    },
+    {
       "name": "kinloch of loch awe",
       "display": "Kinloch of Loch Awe",
       "kind": "family",
@@ -17919,6 +17926,13 @@
       "display": "SiMBA",
       "kind": "family",
       "url": "/families/simba/",
+      "rank": 1
+    },
+    {
+      "name": "similars",
+      "display": "Similars",
+      "kind": "group",
+      "url": "/groups/similars/",
       "rank": 1
     },
     {

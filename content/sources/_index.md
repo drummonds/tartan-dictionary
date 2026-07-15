@@ -11,7 +11,7 @@ When the same cloth is recorded by more than one source, the records **collapse*
 
 | Source | Holds | Records | Status |
 |---|---|---|---|
-| [Editorial curation](/sources/curation/) | editorial curation overlay | 1672 | active |
+| [Editorial curation](/sources/curation/) | editorial curation overlay | 1673 | active |
 | [DC Dalgleish shade card](/sources/dc-dalgleish-colours/) | colour / shade definitions | 2 | active |
 | [House of Tartan](/sources/house-of-tartan/) | tartan setts | 2152 | active |
 | [Logan, The Scottish Gaël (1831)](/sources/logan-1831/) | tartan setts | 55 | active |

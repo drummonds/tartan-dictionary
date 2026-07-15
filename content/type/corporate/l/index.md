@@ -33,8 +33,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/k9w38k22g31k5g31y5/"><img src="/variants/s7/k9w38k22g31k5g31y5/sett.png" alt="Lawsons' Whisky" width="140"><br>Lawsons' Whisky</a></li>
 <li><a class="tartan" href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/"><img src="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/sett.png" alt="Le Mirage (Corporate?)" width="140"><br>Le Mirage (Corporate?)</a></li>
 <li><a class="tartan" href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><img src="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/sett.png" alt="Lees-McRae College" width="140"><br>Lees-McRae College</a></li>
-<li><a class="tartan" href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><img src="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/sett.png" alt="Legion of Frontiersmen" width="140"><br>Legion of Frontiersmen</a></li>
 <li><a class="tartan" href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><img src="/variants/s8/dy62y7g7r3w3db13w3r5~x2/sett.png" alt="Legion of Frontiersmen" width="140"><br>Legion of Frontiersmen</a></li>
+<li><a class="tartan" href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><img src="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/sett.png" alt="Legion of Frontiersmen" width="140"><br>Legion of Frontiersmen</a></li>
 <li><a class="tartan" href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><img src="/variants/s8/k45ly10g7r3w4db13w9r6~x2/sett.png" alt="Legion of Frontiersmen (Corporate)" width="140"><br>Legion of Frontiersmen (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/dp2o1dp10db1n10k1n2~x4/"><img src="/variants/s7/dp2o1dp10db1n10k1n2~x4/sett.png" alt="Lennox Primary School" width="140"><br>Lennox Primary School</a></li>
 <li><a class="tartan" href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><img src="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/sett.png" alt="Les Cercles de Femme" width="140"><br>Les Cercles de Femme</a></li>

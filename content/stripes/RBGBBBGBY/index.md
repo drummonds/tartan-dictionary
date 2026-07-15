@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/am/amazing-union/">Amazing Union</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/am/amazing-union/"><img src="/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/sett.png" alt="Amazing Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/amazing-union/"><img src="/variants/s9/r2do15dg12do2dt12do2dg12do15ly2~x4~dt0803284/sett.png" alt="Amazing Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ni/nibley/">Nibley</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ni/nibley/"><img src="/variants/s6/w3dg18db22r19dg1r2~x2/sett.png" alt="Nibley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ru/ruthven/">Ruthven</a> <small class="dt">ΔTartan 0.81</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruthven/"><img src="/variants/s6/w6g15db18r30g2r4~x2/sett.png" alt="Ruthven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nibley/"><img src="/variants/s6/w3g15db18r15g1r2~x2/sett.png" alt="Nibley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/ruthven/">Ruthven</a> <small class="dt">ΔTartan 0.59</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruthven/"><img src="/variants/s6/w3g15db18r30g1r2~x2/sett.png" alt="Ruthven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

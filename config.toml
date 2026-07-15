@@ -189,13 +189,91 @@ weight = 1
     name = "DC Dalgleish"
     url = "/colour/dc-dalgleish/"
     weight = 11
-  # Placeholder sections — "coming soon" holding pages (layout: holding) until the real
-  # Sources / Designers / Suppliers content is built. See content/{sources,designers,suppliers}/.
   [[menu.info]]
   parent = "info"
   name = "Sources"
+  identifier = "sources"
   url = "/sources/"
   weight = 2
+    # Third-level flyout (#31, same structure as Colour): navigate straight to any one source.
+    # The setts corpora first, then the colour cards, then the image / text / overlay sources.
+    [[menu.info]]
+    parent = "sources"
+    name = "Register of Tartans"
+    url = "/sources/register-of-tartans/"
+    weight = 1
+    [[menu.info]]
+    parent = "sources"
+    name = "Tartans Authority"
+    url = "/sources/tartans-authority/"
+    weight = 2
+    [[menu.info]]
+    parent = "sources"
+    name = "House of Tartan"
+    url = "/sources/house-of-tartan/"
+    weight = 3
+    [[menu.info]]
+    parent = "sources"
+    name = "Weddslist"
+    url = "/sources/weddslist/"
+    weight = 4
+    [[menu.info]]
+    parent = "sources"
+    name = "Logan (1831)"
+    url = "/sources/logan-1831/"
+    weight = 5
+    [[menu.info]]
+    parent = "sources"
+    name = "Peter (1856)"
+    url = "/sources/peter-1856/"
+    weight = 6
+    [[menu.info]]
+    parent = "sources"
+    name = "Our own research"
+    url = "/sources/research/"
+    weight = 7
+    [[menu.info]]
+    parent = "sources"
+    name = "Editorial curation"
+    url = "/sources/curation/"
+    weight = 8
+    [[menu.info]]
+    parent = "sources"
+    name = "Tartan Register colours"
+    url = "/sources/str-colours/"
+    weight = 9
+    [[menu.info]]
+    parent = "sources"
+    name = "DC Dalgleish"
+    url = "/sources/dc-dalgleish-colours/"
+    weight = 10
+    [[menu.info]]
+    parent = "sources"
+    name = "Lochcarron"
+    url = "/sources/lochcarron-colours/"
+    weight = 11
+    [[menu.info]]
+    parent = "sources"
+    name = "Ingles Buchan"
+    url = "/sources/inglesbuchan/"
+    weight = 12
+    [[menu.info]]
+    parent = "sources"
+    name = "Register site mirror"
+    url = "/sources/registry/"
+    weight = 13
+    [[menu.info]]
+    parent = "sources"
+    name = "Paintings"
+    url = "/sources/paintings/"
+    weight = 14
+    [[menu.info]]
+    parent = "sources"
+    name = "Wikipedia"
+    url = "/sources/wikipedia/"
+    weight = 15
+  # Placeholder sections — "coming soon" holding pages (layout: holding) until the real
+  # Designers / Suppliers content is built. See content/{designers,suppliers}/.
   [[menu.info]]
   parent = "info"
   name = "Designers"

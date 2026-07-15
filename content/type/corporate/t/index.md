@@ -17,8 +17,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s4/w80db30lo5y4~x2/"><img src="/variants/s4/w80db30lo5y4~x2/sett.png" alt="Tarbh Deargh (Red Bull)" width="140"><br>Tarbh Deargh (Red Bull)</a></li>
 <li><a class="tartan" href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><img src="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/sett.png" alt="Tartan Army" width="140"><br>Tartan Army</a></li>
 <li><a class="tartan" href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><img src="/variants/s7/n34k7n12k39n3k4lg3~x2/sett.png" alt="Tartan Army Children's Charity (Corp" width="140"><br>Tartan Army Children's Charity (Corp</a></li>
-<li><a class="tartan" href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/"><img src="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/sett.png" alt="Tartan Army Whisky" width="140"><br>Tartan Army Whisky</a></li>
 <li><a class="tartan" href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/"><img src="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/sett.png" alt="Tartan Army Whisky" width="140"><br>Tartan Army Whisky</a></li>
+<li><a class="tartan" href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/"><img src="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/sett.png" alt="Tartan Army Whisky" width="140"><br>Tartan Army Whisky</a></li>
 <li><a class="tartan" href="/variants/s8/w2db40g22y3g2r3g2w2~x2/"><img src="/variants/s8/w2db40g22y3g2r3g2w2~x2/sett.png" alt="Tartan Day SA" width="140"><br>Tartan Day SA</a></li>
 <li><a class="tartan" href="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/"><img src="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/sett.png" alt="Tartan Explorer, The" width="140"><br>Tartan Explorer, The</a></li>
 <li><a class="tartan" href="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/"><img src="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/sett.png" alt="Tartan Spirit" width="140"><br>Tartan Spirit</a></li>
@@ -42,8 +42,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s4/db10g10r5w1~x2/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law (Corporate)" width="140"><br>Thorntons Law (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s4/n62w11k4db17~x2/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord (Celtic Group, USA)" width="140"><br>Thunderlord (Celtic Group, USA)</a></li>
 <li><a class="tartan" href="/variants/s4/n62w11k4lg17~x2/"><img src="/variants/s4/n62w11k4lg17~x2/sett.png" alt="Thunderlord (Corporate)" width="140"><br>Thunderlord (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><img src="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png" alt="Tiger of Sweden" width="140"><br>Tiger of Sweden</a></li>
 <li><a class="tartan" href="/variants/s14/db3g1k1db2n16db2k4g1k1db16n2db2k1g3~x2/"><img src="/variants/s14/db3g1k1db2n16db2k4g1k1db16n2db2k1g3~x2/sett.png" alt="Tiger of Sweden" width="140"><br>Tiger of Sweden</a></li>
+<li><a class="tartan" href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><img src="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png" alt="Tiger of Sweden" width="140"><br>Tiger of Sweden</a></li>
 <li><a class="tartan" href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><img src="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/sett.png" alt="TIlted Kilt" width="140"><br>TIlted Kilt</a></li>
 <li><a class="tartan" href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><img src="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/sett.png" alt="Tilted Kilt (Corporate)" width="140"><br>Tilted Kilt (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s5/n6r1k6r1g6~x6/"><img src="/variants/s5/n6r1k6r1g6~x6/sett.png" alt="Timespan" width="140"><br>Timespan</a></li>

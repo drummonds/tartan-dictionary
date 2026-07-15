@@ -24,8 +24,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><img src="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/sett.png" alt="Reilly fae the Mearns (Personal)" width="140"><br>Reilly fae the Mearns (Personal)</a></li>
 <li><a class="tartan" href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><img src="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/sett.png" alt="Rendell, Charles (Personal)" width="140"><br>Rendell, Charles (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/w6k1g28k24dp25g3dp3g3dp3g4~x2/"><img src="/variants/s10/w6k1g28k24dp25g3dp3g3dp3g4~x2/sett.png" alt="Rennie (Personal)" width="140"><br>Rennie (Personal)</a></li>
-<li><a class="tartan" href="/variants/s12/o8k2o8k4dr3k26db21t8k7t8db24k3~x2/"><img src="/variants/s12/o8k2o8k4dr3k26db21t8k7t8db24k3~x2/sett.png" alt="Renton (Personal)" width="140"><br>Renton (Personal)</a></li>
 <li><a class="tartan" href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><img src="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/sett.png" alt="Renton (Personal)" width="140"><br>Renton (Personal)</a></li>
+<li><a class="tartan" href="/variants/s12/o8k2o8k4dr3k26db21t8k7t8db24k3~x2/"><img src="/variants/s12/o8k2o8k4dr3k26db21t8k7t8db24k3~x2/sett.png" alt="Renton (Personal)" width="140"><br>Renton (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/w4db32k2lb4k2y5k3y5k2lb4k2g32lb4~x2/"><img src="/variants/s13/w4db32k2lb4k2y5k3y5k2lb4k2g32lb4~x2/sett.png" alt="Reston (Personal)" width="140"><br>Reston (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/lg4n2dg24dy10w12r1w12dg2~x2/"><img src="/variants/s8/lg4n2dg24dy10w12r1w12dg2~x2/sett.png" alt="Reuben J Jolley Family (Personal)" width="140"><br>Reuben J Jolley Family (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/w4k30r1k1r3w12y3~x2/"><img src="/variants/s7/w4k30r1k1r3w12y3~x2/sett.png" alt="Richecourt, Baron of (Personal)" width="140"><br>Richecourt, Baron of (Personal)</a></li>
@@ -69,6 +69,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><img src="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/sett.png" alt="Rust (Personal)" width="140"><br>Rust (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/"><img src="/variants/s7/db64r3k3r3dp61dg5dp6~x2/sett.png" alt="Rutherford, John (Personal)" width="140"><br>Rutherford, John (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><img src="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/sett.png" alt="Rutlin (Personal)" width="140"><br>Rutlin (Personal)</a></li>
-<li><a class="tartan" href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><img src="/variants/s6/w4dr7ly5t13dr18g3~x2/sett.png" alt="Ryan/Fehder (Personal)" width="140"><br>Ryan/Fehder (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/w4r7y5db13dr18g3~x2/"><img src="/variants/s6/w4r7y5db13dr18g3~x2/sett.png" alt="Ryan/Fehder (Personal)" width="140"><br>Ryan/Fehder (Personal)</a></li>
+<li><a class="tartan" href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><img src="/variants/s6/w4dr7ly5t13dr18g3~x2/sett.png" alt="Ryan/Fehder (Personal)" width="140"><br>Ryan/Fehder (Personal)</a></li>
 </ul>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maitland/">Maitland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maitland/"><img src="/variants/s9/g3db9g3k4g8y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maitland/"><img src="/variants/s9/g3db8g3k4g9y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

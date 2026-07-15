@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ni/nickel-lodge-centennial/">Nickel Lodge Centennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ni/nickel-lodge-centennial/"><img src="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/sett.png" alt="Nickel Lodge Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nickel-lodge-centennial/"><img src="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/sett.png" alt="Nickel Lodge Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

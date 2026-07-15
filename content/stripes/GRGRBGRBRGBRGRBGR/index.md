@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/lo/lochiel/">Lochiel</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lochiel/"><img src="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2307033/sett.png" alt="Lochiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mu/munro/">Munro</a> <small class="dt">ΔTartan 3.07</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mu/munro/"><img src="/variants/s17/r19y1db1r2g18r2db1y1r2db4r2y1db1r19g2r2g2~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/munro/">Munro</a> <small class="dt">ΔTartan 3.17</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/munro/"><img src="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2r2g2~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

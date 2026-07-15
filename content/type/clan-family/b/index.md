@@ -34,8 +34,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/"><img src="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/sett.png" alt="Bowie, Black" width="140"><br>Bowie, Black</a></li>
 <li><a class="tartan" href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><img src="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/sett.png" alt="Boyd" width="140"><br>Boyd</a></li>
 <li><a class="tartan" href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><img src="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/sett.png" alt="Boyd (Clan)" width="140"><br>Boyd (Clan)</a></li>
-<li><a class="tartan" href="/variants/s6/k3r15k11y2k4r3~x2/"><img src="/variants/s6/k3r15k11y2k4r3~x2/sett.png" alt="Brodie (Clan)" width="140"><br>Brodie (Clan)</a></li>
 <li><a class="tartan" href="/variants/s6/k2r16k8ly1k8r2~x4/"><img src="/variants/s6/k2r16k8ly1k8r2~x4/sett.png" alt="Brodie (Clan)" width="140"><br>Brodie (Clan)</a></li>
+<li><a class="tartan" href="/variants/s6/k3r15k11y2k4r3~x2/"><img src="/variants/s6/k3r15k11y2k4r3~x2/sett.png" alt="Brodie (Clan)" width="140"><br>Brodie (Clan)</a></li>
 <li><a class="tartan" href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><img src="/variants/s8/r48w4db4k4r12db4r1y4~x2/sett.png" alt="Brodie (W &amp; A Smith)" width="140"><br>Brodie (W & A Smith)</a></li>
 <li><a class="tartan" href="/variants/s5/k6r33k18w20db6~x2/"><img src="/variants/s5/k6r33k18w20db6~x2/sett.png" alt="Brodie Dress" width="140"><br>Brodie Dress</a></li>
 <li><a class="tartan" href="/variants/s7/r2k8y1k8g8db8r2~x4/"><img src="/variants/s7/r2k8y1k8g8db8r2~x4/sett.png" alt="Brodie Hunting" width="140"><br>Brodie Hunting</a></li>

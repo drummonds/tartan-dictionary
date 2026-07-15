@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/braveheart-warrior-3/">Braveheart Warrior</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/braveheart-warrior-3/"><img src="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/sett.png" alt="Braveheart Warrior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braveheart-warrior-3/"><img src="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2w1~x4/sett.png" alt="Braveheart Warrior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

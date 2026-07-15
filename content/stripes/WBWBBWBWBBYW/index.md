@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ak/akashi/">Akashi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ak/akashi/"><img src="/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5~b2008266-db1004274/sett.png" alt="Akashi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ak/akashi/"><img src="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/sett.png" alt="Akashi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

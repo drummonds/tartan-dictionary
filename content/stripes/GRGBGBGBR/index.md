@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/barnaby-brown-pibroch/">Barnaby Brown Pibroch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/barnaby-brown-pibroch/"><img src="/variants/s9/r2db10g1db2g1db2g8r1g2~x4/sett.png" alt="Barnaby Brown Pibroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barnaby-brown-pibroch/"><img src="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/sett.png" alt="Barnaby Brown Pibroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

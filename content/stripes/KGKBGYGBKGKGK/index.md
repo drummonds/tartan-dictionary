@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sa/sawicki-peter/">Sawicki, Peter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/sawicki-peter/"><img src="/variants/s13/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4~x2/sett.png" alt="Sawicki, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sawicki-peter/"><img src="/variants/s13/k10dg2k2db2dg14ly1dg14db2k10dg4k2dg2k2~x2/sett.png" alt="Sawicki, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

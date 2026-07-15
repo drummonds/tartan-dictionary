@@ -30,8 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/k/ki/kidd/">Kidd</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ki/kidd/"><img src="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/sett.png" alt="Kidd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macpherson-5/">MacPherson</a> <small class="dt">ΔTartan 0.14</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-5/"><img src="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/sett.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-5/">MacPherson</a> <small class="dt">ΔTartan 4.38</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-5/"><img src="/variants/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1~x2/sett.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -42,7 +42,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/ca/cameron-4/">Cameron</a> <small class="dt">ΔTartan 1.78</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-4/"><img src="/variants/s6/r2g6r2g6r16y1~x2/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maguire-2/">Maguire</a> <small class="dt">ΔTartan 2.00</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maguire-2/"><img src="/variants/s6/r29g2r2g2r6y21~x4/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maguire-2/"><img src="/variants/s6/r29g2r2g2r6dy21~x4/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-11-3/">Harmony, 11</a> <small class="dt">ΔTartan 10.11</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-11-3/"><img src="/variants/s6/o6g2o29g29o2g6~x2/sett.png" alt="Harmony, 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

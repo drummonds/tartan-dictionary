@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/black-watch-5/">Black Watch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-5/"><img src="/variants/s20/db22k2db2k2db2k16g16k2g16k16db16k2db2g10k2g10k8db9k1db1~db0805267/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-5/"><img src="/variants/s20/db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

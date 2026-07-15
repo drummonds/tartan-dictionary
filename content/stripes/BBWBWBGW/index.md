@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/kr/kruenaegel-and-schropp/">Kruenaegel and Schropp</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/kr/kruenaegel-and-schropp/"><img src="/variants/s8/t20dr1w3db1w2db8g3w1~x4/sett.png" alt="Kruenaegel and Schropp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kr/kruenaegel-and-schropp/"><img src="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel and Schropp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

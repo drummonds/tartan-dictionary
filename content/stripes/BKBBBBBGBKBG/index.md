@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/bavidge/">Bavidge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/bavidge/"><img src="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8~db1406275-dp1607327/sett.png" alt="Bavidge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bavidge/"><img src="/variants/s12/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8~db0805267-dbi1604274/sett.png" alt="Bavidge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

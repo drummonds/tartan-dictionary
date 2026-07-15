@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/we/west-of-wells/">West of Wells</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/we/west-of-wells/"><img src="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/sett.png" alt="West of Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-of-wells/"><img src="/variants/s9/dg28k2db3k11db3k2db17b4lb2~x2~db1108266-b1511266/sett.png" alt="West of Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

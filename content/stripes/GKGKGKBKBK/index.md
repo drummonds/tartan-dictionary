@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/k/ke/kerr/">Kerr</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr/"><img src="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/sett.png" alt="Kerr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/k/ke/kerr-hunting/">Kerr Hunting</a> <small class="dt">ΔTartan 2.54</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr-hunting/"><img src="/variants/s10/g20k1g2k1g3k14db28k1db2k4~x2/sett.png" alt="Kerr Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerr-hunting/">Kerr Hunting</a> <small class="dt">ΔTartan 3.18</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr-hunting/"><img src="/variants/s10/g14k2g2k2g3k10db16k1db2k2~x2/sett.png" alt="Kerr Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

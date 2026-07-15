@@ -42,8 +42,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/"><img src="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/sett.png" alt="Melrose" width="140"><br>Melrose</a></li>
 <li><a class="tartan" href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><img src="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/sett.png" alt="Menez Du" width="140"><br>Menez Du</a></li>
 <li><a class="tartan" href="/variants/s6/g9lb1g6k7db7k1~x4/"><img src="/variants/s6/g9lb1g6k7db7k1~x4/sett.png" alt="Menteith" width="140"><br>Menteith</a></li>
-<li><a class="tartan" href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><img src="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/sett.png" alt="Methven" width="140"><br>Methven</a></li>
 <li><a class="tartan" href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><img src="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/sett.png" alt="Methven" width="140"><br>Methven</a></li>
+<li><a class="tartan" href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><img src="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/sett.png" alt="Methven" width="140"><br>Methven</a></li>
 <li><a class="tartan" href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><img src="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/sett.png" alt="Michigan, State of" width="140"><br>Michigan, State of</a></li>
 <li><a class="tartan" href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><img src="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/sett.png" alt="Michigan, State of (District)" width="140"><br>Michigan, State of (District)</a></li>
 <li><a class="tartan" href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><img src="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/sett.png" alt="Middleton, City of" width="140"><br>Middleton, City of</a></li>

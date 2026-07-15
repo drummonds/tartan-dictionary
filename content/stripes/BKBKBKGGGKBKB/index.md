@@ -40,8 +40,8 @@ second parent, beside its family or clan).
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/c/ca/campbell-of-breadalbane/">Campbell of Breadalbane</a> <small class="dt">ΔTartan 1.56</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-breadalbane/"><img src="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/sett.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/br/breadalbane-fencibles/">Breadalbane Fencibles</a> <small class="dt">ΔTartan 1.68</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/breadalbane-fencibles/"><img src="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/sett.png" alt="Breadalbane Fencibles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/breadalbane-fencibles/">Breadalbane Fencibles</a> <small class="dt">ΔTartan 1.71</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/breadalbane-fencibles/"><img src="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/sett.png" alt="Breadalbane Fencibles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

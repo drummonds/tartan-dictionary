@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/nh/nhs-grampian/">NHS Grampian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/nh/nhs-grampian/"><img src="/variants/s7/k4w1lb2w1k16t36lb4~x2~lb3203246-t2405244/sett.png" alt="NHS Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/nh/nhs-grampian/"><img src="/variants/s7/k4w1lb2w1k16db36lb4~x2/sett.png" alt="NHS Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

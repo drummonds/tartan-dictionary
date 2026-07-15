@@ -82,8 +82,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/k3db3r1db3k3g3y1~x8/"><img src="/variants/s7/k3db3r1db3k3g3y1~x8/sett.png" alt="Melrose of Alabama" width="140"><br>Melrose of Alabama</a></li>
 <li><a class="tartan" href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><img src="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/sett.png" alt="Mens Bigi" width="140"><br>Mens Bigi</a></li>
 <li><a class="tartan" href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><img src="/variants/s7/lb3k19db24r2db2y2db2~x2/sett.png" alt="Mensa" width="140"><br>Mensa</a></li>
-<li><a class="tartan" href="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/"><img src="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/sett.png" alt="Merchant Company, The" width="140"><br>Merchant Company, The</a></li>
 <li><a class="tartan" href="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/"><img src="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/sett.png" alt="Merchant Company, The" width="140"><br>Merchant Company, The</a></li>
+<li><a class="tartan" href="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/"><img src="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/sett.png" alt="Merchant Company, The" width="140"><br>Merchant Company, The</a></li>
 <li><a class="tartan" href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/"><img src="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/sett.png" alt="Merchiston Castle School" width="140"><br>Merchiston Castle School</a></li>
 <li><a class="tartan" href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><img src="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/sett.png" alt="Merchiston Castle School Pipe Band" width="140"><br>Merchiston Castle School Pipe Band</a></li>
 <li><a class="tartan" href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><img src="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/sett.png" alt="Methodist Church" width="140"><br>Methodist Church</a></li>
@@ -128,8 +128,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/k32t2k6t2k13n30w2~x2/"><img src="/variants/s7/k32t2k6t2k13n30w2~x2/sett.png" alt="Mountain Rescue Association Honor Guard" width="140"><br>Mountain Rescue Association Honor Guard</a></li>
 <li><a class="tartan" href="/variants/s9/dg2n13t12w3t10w3t12g13dp2~x2~dg1806142-g2203152/"><img src="/variants/s9/dg2n13t12w3t10w3t12g13dp2~x2~dg1806142-g2203152/sett.png" alt="Mounth, The" width="140"><br>Mounth, The</a></li>
 <li><a class="tartan" href="/variants/s6/y4dg30g15db5lb10y4~x2/"><img src="/variants/s6/y4dg30g15db5lb10y4~x2/sett.png" alt="MPS Emerald Society NCLEES 2012" width="140"><br>MPS Emerald Society NCLEES 2012</a></li>
-<li><a class="tartan" href="/variants/s7/dr5k3dr9dg56lb4dg2w3/"><img src="/variants/s7/dr5k3dr9dg56lb4dg2w3/sett.png" alt="MTV" width="140"><br>MTV</a></li>
 <li><a class="tartan" href="/variants/s7/r5k3r9dg56db4dg2w3/"><img src="/variants/s7/r5k3r9dg56db4dg2w3/sett.png" alt="MTV" width="140"><br>MTV</a></li>
+<li><a class="tartan" href="/variants/s7/dr5k3dr9dg56lb4dg2w3/"><img src="/variants/s7/dr5k3dr9dg56lb4dg2w3/sett.png" alt="MTV" width="140"><br>MTV</a></li>
 <li><a class="tartan" href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/"><img src="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/sett.png" alt="Muir Homes" width="140"><br>Muir Homes</a></li>
 <li><a class="tartan" href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><img src="/variants/s8/k44r2w10r3k6r1w2k18~x2/sett.png" alt="Mull Rugby Club" width="140"><br>Mull Rugby Club</a></li>
 <li><a class="tartan" href="/variants/s8/g44lr2g10lb3k6lr1r2k18~x2/"><img src="/variants/s8/g44lr2g10lb3k6lr1r2k18~x2/sett.png" alt="Mull Rugby Club (Old)" width="140"><br>Mull Rugby Club (Old)</a></li>

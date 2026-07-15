@@ -5,8 +5,8 @@ date: 2023-03-18
 25 District tartans beginning with P. [Back to all District tartans](/type/district/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><img src="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/sett.png" alt="Pagus Wasia" width="140"><br>Pagus Wasia</a></li>
 <li><a class="tartan" href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><img src="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/sett.png" alt="Pagus Wasia" width="140"><br>Pagus Wasia</a></li>
+<li><a class="tartan" href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><img src="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/sett.png" alt="Pagus Wasia" width="140"><br>Pagus Wasia</a></li>
 <li><a class="tartan" href="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/"><img src="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/sett.png" alt="Paisley" width="140"><br>Paisley</a></li>
 <li><a class="tartan" href="/variants/s6/g4dg18dgi6dg6dgi24k3~x2~dgi1605139/"><img src="/variants/s6/g4dg18dgi6dg6dgi24k3~x2~dgi1605139/sett.png" alt="Park Estate" width="140"><br>Park Estate</a></li>
 <li><a class="tartan" href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><img src="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/sett.png" alt="Parkhead" width="140"><br>Parkhead</a></li>

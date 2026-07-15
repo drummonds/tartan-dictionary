@@ -30,8 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/ca/cadence/">Cadence</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/cadence/"><img src="/variants/s7/db51dg5r15dg37db17r6dg5~x2/sett.png" alt="Cadence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/ca/cadence-design-systems/">Cadence Design Systems</a> <small class="dt">ΔTartan 0.19</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cadence-design-systems/"><img src="/variants/s7/db51g5r15g37db17r6g7~x2/sett.png" alt="Cadence Design Systems sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/c/ca/cadence-design-systems/">Cadence Design Systems</a> <small class="dt">ΔTartan 4.77</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cadence-design-systems/"><img src="/variants/s7/dt51g5r15g37dt17r6g7~x2/sett.png" alt="Cadence Design Systems sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

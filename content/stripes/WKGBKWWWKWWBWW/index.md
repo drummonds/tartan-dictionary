@@ -29,9 +29,8 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pr/praetorian-4/">Praetorian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/praetorian-4/"><img src="/variants/s14/w1ki1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6~ki0705267-db1505255/sett.png" alt="Praetorian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/p/pr/praetorian-imperatur/">Praetorian Imperatur</a> <small class="dt">ΔTartan 2.11</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/praetorian-4/"><img src="/variants/s14/w1k1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6/sett.png" alt="Praetorian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/praetorian-imperatur/">Praetorian Imperatur</a> <small class="dt">ΔTartan 0.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pr/praetorian-imperatur/"><img src="/variants/s14/w1k1y1b8k1lb1w8lb1k8lb1w1b8lb1w1~x6/sett.png" alt="Praetorian Imperatur sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

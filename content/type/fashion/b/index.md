@@ -110,8 +110,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><img src="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/sett.png" alt="Bottle Green (Fashion)" width="140"><br>Bottle Green (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><img src="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/sett.png" alt="Bowhunter" width="140"><br>Bowhunter</a></li>
 <li><a class="tartan" href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/"><img src="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/sett.png" alt="Bowhunter (Fashion)" width="140"><br>Bowhunter (Fashion)</a></li>
-<li><a class="tartan" href="/variants/s7/k13dy28lo13dy28k18w18k13~x2/"><img src="/variants/s7/k13dy28lo13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty" width="140"><br>Boxer Beauty</a></li>
 <li><a class="tartan" href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><img src="/variants/s7/k13dy28y13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty" width="140"><br>Boxer Beauty</a></li>
+<li><a class="tartan" href="/variants/s7/k13dy28lo13dy28k18w18k13~x2/"><img src="/variants/s7/k13dy28lo13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty" width="140"><br>Boxer Beauty</a></li>
 <li><a class="tartan" href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><img src="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/sett.png" alt="Bracken" width="140"><br>Bracken</a></li>
 <li><a class="tartan" href="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><img src="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/sett.png" alt="Bracken (WCWM)" width="140"><br>Bracken (WCWM)</a></li>
 <li><a class="tartan" href="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><img src="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/sett.png" alt="Brad Majors" width="140"><br>Brad Majors</a></li>

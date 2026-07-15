@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hayama-shirt-honten-the/">Hayama Shirt Honten, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hayama-shirt-honten-the/"><img src="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/sett.png" alt="Hayama Shirt Honten, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hayama-shirt-honten-the/"><img src="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/sett.png" alt="Hayama Shirt Honten, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

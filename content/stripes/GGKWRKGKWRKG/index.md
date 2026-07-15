@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/schwarzen-keiler-die/">Schwarzen Keiler, Die</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/schwarzen-keiler-die/"><img src="/variants/s12/g6k6r1w1k6g32k6r1w1k6g6y2~x4/sett.png" alt="Schwarzen Keiler, Die sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/schwarzen-keiler-die/"><img src="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/sett.png" alt="Schwarzen Keiler, Die sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

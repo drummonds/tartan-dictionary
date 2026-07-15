@@ -38,6 +38,10 @@ This tartan is also recorded under:
 
 Setts a curator has related to this tartan — what it derived from and what derived from it.
 
+<svg viewBox="0 0 640 164" role="img" style="max-width:100%;height:auto;display:block" xmlns="http://www.w3.org/2000/svg"><defs><marker id="lin-arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L8 4 L0 8 z" fill="#999"/></marker></defs><g><rect x="200" y="10" width="80" height="34" fill="#3a2b0d"/><rect x="280" y="10" width="80" height="34" fill="#b5bbde"/><rect x="360" y="10" width="80" height="34" fill="#3a2b0d"/><rect x="200" y="10" width="240" height="34" fill="none" stroke="#e0e0e0"/></g><text x="320" y="56" text-anchor="middle" font-size="12" fill="#555">Shepherd</text><a href="/setts/k1lb1/"><g><rect x="200" y="104" width="80" height="34" fill="#000000"/><rect x="280" y="104" width="80" height="34" fill="#b5bbde"/><rect x="360" y="104" width="80" height="34" fill="#000000"/><rect x="200" y="104" width="240" height="34" fill="none" stroke="#e0e0e0"/></g><text x="320" y="150" text-anchor="middle" font-size="12" fill="#555">Shepherd or Falkirk</text></a><path d="M320 62 C 320 82, 320 82, 320 100" fill="none" stroke="#999" stroke-width="1.5" marker-end="url(#lin-arrow)"><title>The black-and-white Shepherd's Check is the Falkirk sett restated in dyed wool.</title></path></svg>
+
+Arrows run parent → child; hover an arrow for the story of the transformation.
+
 - **parent-of**: [Shepherd or Falkirk](/setts/k1lb1/) — The black-and-white Shepherd's Check is the Falkirk sett restated in dyed wool.
 
 ## Nearest tartans

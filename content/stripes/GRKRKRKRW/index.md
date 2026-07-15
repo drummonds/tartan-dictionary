@@ -29,8 +29,8 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maciver/">MacIver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maciver/"><img src="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macivor/">MacIvor</a> <small class="dt">ΔTartan 0.66</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maciver/"><img src="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macivor/">MacIvor</a> <small class="dt">ΔTartan 0.35</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macivor/"><img src="/variants/s9/y1r12k2r2k16r2k2r12w1/sett.png" alt="MacIvor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

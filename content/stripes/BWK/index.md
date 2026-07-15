@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BWK</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWK" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/h/ho/hogg/">Hogg</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ho/hogg/"><img src="/variants/s3/k1w1do1~x8/sett.png" alt="Hogg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/i/in/international-karate-alliance/">International Karate Alliance</a></td></tr>
+<tr><td><a href="/tartans/i/in/international-karate-alliance/">International Karate Alliance</a> <small class="dt">ΔTartan 1.00</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/in/international-karate-alliance/"><img src="/variants/s3/dr8w1k1~x20/sett.png" alt="International Karate Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/f/fi/fily/">Fily</a></td></tr>
+<tr><td><a href="/tartans/f/fi/fily/">Fily</a> <small class="dt">ΔTartan 1.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fi/fily/"><img src="/variants/s3/k20w2db1~x6/sett.png" alt="Fily sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

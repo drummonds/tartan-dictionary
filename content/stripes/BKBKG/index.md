@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BKBKG</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKG" width="860" height="320">
@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/campbell-of-glenlyon/">Campbell of Glenlyon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-glenlyon/"><img src="/variants/s5/g7k6t7k1t2~x2/sett.png" alt="Campbell of Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-glenlyon/"><img src="/variants/s5/g7k6db7k1db2~x2/sett.png" alt="Campbell of Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mo/moorlands/">Moorlands</a></td></tr>
+<tr><td><a href="/tartans/m/mo/moorlands/">Moorlands</a> <small class="dt">ΔTartan 6.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/moorlands/"><img src="/variants/s5/dp27k10dp27k35y6/sett.png" alt="Moorlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

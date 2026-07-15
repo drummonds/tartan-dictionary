@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GBR</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/mo/mothers-pride/">Mothers Pride</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/mothers-pride/"><img src="/variants/s3/r1db1y1~x40/sett.png" alt="Mothers Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-084/">Wilson's No.084</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-084/">Wilson's No.084</a> <small class="dt">ΔTartan 3.33</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-084/"><img src="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/sett.png" alt="Wilson's No.084 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GGR</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGR" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/l/lu/lugo/">Lugo</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lu/lugo/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scottish-watch/">Scottish Watch</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-watch/">Scottish Watch</a> <small class="dt">ΔTartan 0.62</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-watch/"><img src="/variants/s3/r104g39y4/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/glenmorangie-check/">Glenmorangie Check</a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenmorangie-check/">Glenmorangie Check</a> <small class="dt">ΔTartan 7.25</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glenmorangie-check/"><img src="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/sett.png" alt="Glenmorangie Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

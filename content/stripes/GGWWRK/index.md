@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GGWWRK</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGWWRK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/br/bro-sant-malou/">Bro-sant-Malou</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/bro-sant-malou/"><img src="/variants/s6/k3r24lb16w11y1g3~x2/sett.png" alt="Bro-sant-Malou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/ta/tainsh/">Tainsh</a></td></tr>
+<tr><td><a href="/tartans/t/ta/tainsh/">Tainsh</a> <small class="dt">ΔTartan 1.89</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ta/tainsh/"><img src="/variants/s6/k62r9w7lb6y3g6~x2/sett.png" alt="Tainsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

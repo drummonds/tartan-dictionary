@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GGKGKBKBKBKBKGKG</span></div>
 
-It is a 16 stripe tartan.
+It is a [16 stripe pattern](/stripes/stripes16/) — every 16-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGKGKBKBKBKBKGKG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gr/grand-lodge-of-scotland-2/">Grand Lodge of Scotland</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grand-lodge-of-scotland-2/"><img src="/variants/s16/g18k6g1k1db1k6db1k2db1k6db1k1g1k6g21y1~x2/sett.png" alt="Grand Lodge of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gr/grand-lodge-of-scotland-corporate-weavers/">Grand Lodge of Scotland Corporate Weavers</a></td></tr>
+<tr><td><a href="/tartans/g/gr/grand-lodge-of-scotland-corporate-weavers/">Grand Lodge of Scotland Corporate Weavers</a> <small class="dt">ΔTartan 0.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grand-lodge-of-scotland-corporate-weavers/"><img src="/variants/s16/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21y1~x2/sett.png" alt="Grand Lodge of Scotland Corporate Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

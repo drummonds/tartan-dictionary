@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BGBGBKB</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBGBKB" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/l/la/lawrie/">Lawrie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/lawrie/"><img src="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/sett.png" alt="Lawrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/lo/lowry/">Lowry</a></td></tr>
+<tr><td><a href="/tartans/l/lo/lowry/">Lowry</a> <small class="dt">ΔTartan 0.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lowry/"><img src="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/sett.png" alt="Lowry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

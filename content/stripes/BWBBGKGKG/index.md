@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BWBBGKGKG</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBBGKGKG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/w/we/west-lothian/">West Lothian</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/we/west-lothian/"><img src="/variants/s9/g40k8g4k8g4dr14db64lb9db3/sett.png" alt="West Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/we/west-lothian-linlithgowshire/">West Lothian/Linlithgowshire</a></td></tr>
+<tr><td><a href="/tartans/w/we/west-lothian-linlithgowshire/">West Lothian/Linlithgowshire</a> <small class="dt">ΔTartan 0.17</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/we/west-lothian-linlithgowshire/"><img src="/variants/s9/g40k8g4k8g4dr14b64lb9b3/sett.png" alt="West Lothian/Linlithgowshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

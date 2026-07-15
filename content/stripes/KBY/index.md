@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KBY</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/k/ka/kazakhstan-relic/">Kazakhstan Relic</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ka/kazakhstan-relic/"><img src="/variants/s3/ly5db5k3~x4/sett.png" alt="Kazakhstan Relic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/we/westwater/">Westwater</a></td></tr>
+<tr><td><a href="/tartans/w/we/westwater/">Westwater</a> <small class="dt">ΔTartan 1.00</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/we/westwater/"><img src="/variants/s3/k62t33ly1~x2/sett.png" alt="Westwater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RBRGRBRGRGRBR</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBRGRBRGRGRBR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/lo/london-caledonian/">London Caledonian</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/london-caledonian/"><img src="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/sett.png" alt="London Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/london-caledonian-games-association/">London Caledonian Games Association</a></td></tr>
+<tr><td><a href="/tartans/l/lo/london-caledonian-games-association/">London Caledonian Games Association</a> <small class="dt">ΔTartan 1.36</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/london-caledonian-games-association/"><img src="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png" alt="London Caledonian Games Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">WKBKBKBKBKY</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WKBKBKBKBKY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/maccandlish-dress/">MacCandlish Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish-dress/"><img src="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/sett.png" alt="MacCandlish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mo/mount-isla/">Mount Isla</a></td></tr>
+<tr><td><a href="/tartans/m/mo/mount-isla/">Mount Isla</a> <small class="dt">ΔTartan 4.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/mount-isla/"><img src="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/sett.png" alt="Mount Isla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

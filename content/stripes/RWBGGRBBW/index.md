@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RWBGGRBBW</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RWBGGRBBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/dr/drummond-of-perth-2/">Drummond of Perth</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-2/"><img src="/variants/s9/r36w1db3y1g16r8db3t2w1~x2/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/p/pe/perthshire-or-drummond/">Perthshire or Drummond</a></td></tr>
+<tr><td><a href="/tartans/p/pe/perthshire-or-drummond/">Perthshire or Drummond</a> <small class="dt">ΔTartan 1.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pe/perthshire-or-drummond/"><img src="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/sett.png" alt="Perthshire or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

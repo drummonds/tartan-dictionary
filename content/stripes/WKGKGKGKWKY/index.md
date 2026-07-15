@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">WKGKGKGKWKY</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WKGKGKGKWKY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccandlish-arisaid/">MacCandlish Arisaid</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish-arisaid/"><img src="/variants/s11/lbi3k1g12k1g1k2g1k6lb12k1lo1~x4~lbi3203246-lb3200000/sett.png" alt="MacCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mc/mccandlish-arisaid/">McCandlish Arisaid</a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccandlish-arisaid/">McCandlish Arisaid</a> <small class="dt">ΔTartan 0.10</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mccandlish-arisaid/"><img src="/variants/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/sett.png" alt="McCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

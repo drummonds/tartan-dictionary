@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GKWKGKGK</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKWKGKGK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/maclean-vs/">MacLean VS</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-vs/"><img src="/variants/s8/g3k6w1k6g2k2g16k1~x2/sett.png" alt="MacLean VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclean-of-duart-hunting/">MacLean of Duart Hunting</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-of-duart-hunting/">MacLean of Duart Hunting</a> <small class="dt">ΔTartan 0.61</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-hunting/"><img src="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/sett.png" alt="MacLean of Duart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

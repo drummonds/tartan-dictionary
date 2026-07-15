@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KYKY</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KYKY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/j/ju/justus-3/">Justus</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-3/"><img src="/variants/s4/k5lo1k1lo1~x20/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ra/raeburn/">Raeburn</a></td></tr>
+<tr><td><a href="/tartans/r/ra/raeburn/">Raeburn</a> <small class="dt">ΔTartan 3.75</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/raeburn/"><img src="/variants/s4/k34ly3k34ly26~x2/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBKBWB</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBKBWB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macfarland-collins/">MacFarland-Collins</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarland-collins/"><img src="/variants/s6/db40t16k5b16w2dp6~x2/sett.png" alt="MacFarland-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mc/mcfarland-collins/">McFarland-Collins</a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcfarland-collins/">McFarland-Collins</a> <small class="dt">ΔTartan 2.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mcfarland-collins/"><img src="/variants/s6/db40b16k5dt16w2dp6~x2/sett.png" alt="McFarland-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

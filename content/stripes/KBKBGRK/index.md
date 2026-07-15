@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KBKBGRK</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBGRK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gi/gifford/">Gifford</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gi/gifford/"><img src="/variants/s7/k15r8y2db25k5db13k5~x2/sett.png" alt="Gifford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/logan-dark/">Logan, Dark</a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-dark/">Logan, Dark</a> <small class="dt">ΔTartan 1.93</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-dark/"><img src="/variants/s7/k9b4k1b4g15r4k1~x2/sett.png" alt="Logan, Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

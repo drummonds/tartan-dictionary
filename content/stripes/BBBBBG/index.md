@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BBBBBG</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBBG" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/r/ra/rajput/">Rajput</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/rajput/"><img src="/variants/s6/db6dr39db10dr10db21y5~x2/sett.png" alt="Rajput sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/robbins/">Robbins</a></td></tr>
+<tr><td><a href="/tartans/r/ro/robbins/">Robbins</a> <small class="dt">ΔTartan 1.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/robbins/"><img src="/variants/s6/db1dr3db1dr3db6g1~x8/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/k/ke/keeper-of-the-quaich/">Keeper of the Quaich</a></td></tr>
+<tr><td><a href="/tartans/k/ke/keeper-of-the-quaich/">Keeper of the Quaich</a> <small class="dt">ΔTartan 6.56</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ke/keeper-of-the-quaich/"><img src="/variants/s6/y3b40db27b3db3b3/sett.png" alt="Keeper of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WBWW</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WBWW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/le/lewis-magenta/">Lewis Magenta</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/le/lewis-magenta/"><img src="/variants/s4/w4dp31w35lb4~x2/sett.png" alt="Lewis Magenta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/manx-cornaa-2/">Manx, Cornaa</a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-cornaa-2/">Manx, Cornaa</a> <small class="dt">ΔTartan 3.93</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-cornaa-2/"><img src="/variants/s4/w1lb5db5lb1~x4/sett.png" alt="Manx, Cornaa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

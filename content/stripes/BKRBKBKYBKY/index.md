@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BKRBKBKYBKY</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKRBKBKYBKY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/p/pr/pride-of-scotland-dark/">Pride of Scotland Dark</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-dark/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/sett.png" alt="Pride of Scotland Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/p/pr/pride-of-scotland-hunting-dark/">Pride of Scotland Hunting/Dark</a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-scotland-hunting-dark/">Pride of Scotland Hunting/Dark</a> <small class="dt">ΔTartan 0.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-hunting-dark/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/sett.png" alt="Pride of Scotland Hunting/Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

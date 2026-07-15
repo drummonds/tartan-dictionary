@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BGW</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gy/gyle/">Gyle</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gy/gyle/"><img src="/variants/s3/lb8dg1dr2~x20/sett.png" alt="Gyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-209-2/">Wilson's, No 209</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-209-2/">Wilson's, No 209</a> <small class="dt">ΔTartan 1.98</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-209-2/"><img src="/variants/s3/dp5g4lb2~x2/sett.png" alt="Wilson's, No 209 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

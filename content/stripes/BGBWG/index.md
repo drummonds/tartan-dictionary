@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGBWG</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBWG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bo/boroughmuir-2/">Boroughmuir</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bo/boroughmuir-2/"><img src="/variants/s5/dg30w8b32y1b8~x2/sett.png" alt="Boroughmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wimbledon/">Wimbledon</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wimbledon/">Wimbledon</a> <small class="dt">ΔTartan 0.22</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wimbledon/"><img src="/variants/s5/g30w8db32y1db8~x2/sett.png" alt="Wimbledon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

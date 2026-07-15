@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GKBGYK</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKBGYK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macmillan-4/">MacMillan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-4/"><img src="/variants/s6/k3ly18g6dr17k31g3~x2/sett.png" alt="MacMillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/si/singh-gopal/">Singh, Gopal</a></td></tr>
+<tr><td><a href="/tartans/s/si/singh-gopal/">Singh, Gopal</a> <small class="dt">ΔTartan 6.23</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/si/singh-gopal/"><img src="/variants/s6/k10lo4dg34db34k1y3~x2/sett.png" alt="Singh, Gopal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

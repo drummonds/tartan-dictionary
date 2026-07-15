@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GRKRKRGRGR</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRKRKRGRGR" width="860" height="320">
@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/li/livingston-3/">Livingston</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/li/livingston-3/"><img src="/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/sett.png" alt="Livingston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/livingston-3/"><img src="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/sett.png" alt="Livingston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

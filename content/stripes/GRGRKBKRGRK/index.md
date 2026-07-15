@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GRGRKBKRGRK</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRGRKBKRGRK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macnichol/">MacNichol</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macnichol/"><img src="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/sett.png" alt="MacNichol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macnicol-dress/">MacNicol Dress</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnicol-dress/">MacNicol Dress</a> <small class="dt">ΔTartan 0.01</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macnicol-dress/"><img src="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/sett.png" alt="MacNicol Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

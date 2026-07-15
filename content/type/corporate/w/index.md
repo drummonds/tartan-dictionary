@@ -35,8 +35,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/dg44w18dg6w11db1r4~x2/"><img src="/variants/s6/dg44w18dg6w11db1r4~x2/sett.png" alt="Westfalia" width="140"><br>Westfalia</a></li>
 <li><a class="tartan" href="/variants/s6/w44dg18w6dg11db1r4~x2/"><img src="/variants/s6/w44dg18w6dg11db1r4~x2/sett.png" alt="Westfalia Dress" width="140"><br>Westfalia Dress</a></li>
 <li><a class="tartan" href="/variants/s4/db102r11db14w11/"><img src="/variants/s4/db102r11db14w11/sett.png" alt="Westfield (Corporate?)" width="140"><br>Westfield (Corporate?)</a></li>
-<li><a class="tartan" href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><img src="/variants/s8/o2k37r10db3r5dy4r3w2~x2/sett.png" alt="Westin Kierland" width="140"><br>Westin Kierland</a></li>
 <li><a class="tartan" href="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/"><img src="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/sett.png" alt="Westin Kierland" width="140"><br>Westin Kierland</a></li>
+<li><a class="tartan" href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><img src="/variants/s8/o2k37r10db3r5dy4r3w2~x2/sett.png" alt="Westin Kierland" width="140"><br>Westin Kierland</a></li>
 <li><a class="tartan" href="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/"><img src="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/sett.png" alt="Westin Kierland (Corporate)" width="140"><br>Westin Kierland (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><img src="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/sett.png" alt="WestJet" width="140"><br>WestJet</a></li>
 <li><a class="tartan" href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/sett.png" alt="Westminster College" width="140"><br>Westminster College</a></li>
@@ -48,15 +48,15 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r2k1r2k14w1k1w1~x8/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting" width="140"><br>White Stripes Hunting</a></li>
 <li><a class="tartan" href="/variants/s7/k7w3k7w45r3w3r3~x2/"><img src="/variants/s7/k7w3k7w45r3w3r3~x2/sett.png" alt="White Stripes, The" width="140"><br>White Stripes, The</a></li>
 <li><a class="tartan" href="/variants/s6/n9k16dg10k22dp67y4/"><img src="/variants/s6/n9k16dg10k22dp67y4/sett.png" alt="Widows Sons Scotland (MRA)" width="140"><br>Widows Sons Scotland (MRA)</a></li>
-<li><a class="tartan" href="/variants/s6/lb12g12k12g24dp75ly4/"><img src="/variants/s6/lb12g12k12g24dp75ly4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
 <li><a class="tartan" href="/variants/s6/lb12g16k12g24dp75y4/"><img src="/variants/s6/lb12g16k12g24dp75y4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
+<li><a class="tartan" href="/variants/s6/lb12g12k12g24dp75ly4/"><img src="/variants/s6/lb12g12k12g24dp75ly4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
 <li><a class="tartan" href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/"><img src="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png" alt="Wilbers" width="140"><br>Wilbers</a></li>
 <li><a class="tartan" href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5~x2/"><img src="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5~x2/sett.png" alt="Wild Geese (Corporate)" width="140"><br>Wild Geese (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/sett.png" alt="Wild Highlanders" width="140"><br>Wild Highlanders</a></li>
 <li><a class="tartan" href="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/"><img src="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/sett.png" alt="William and Mary GALA, Inc, The" width="140"><br>William and Mary GALA, Inc, The</a></li>
 <li><a class="tartan" href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><img src="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/sett.png" alt="William Glen and Son" width="140"><br>William Glen and Son</a></li>
-<li><a class="tartan" href="/variants/s4/r60w28y2lb3~x2/"><img src="/variants/s4/r60w28y2lb3~x2/sett.png" alt="Willis, H Graham" width="140"><br>Willis, H Graham</a></li>
 <li><a class="tartan" href="/variants/s4/r60w28ly2lb3~x2/"><img src="/variants/s4/r60w28ly2lb3~x2/sett.png" alt="Willis, H Graham" width="140"><br>Willis, H Graham</a></li>
+<li><a class="tartan" href="/variants/s4/r60w28y2lb3~x2/"><img src="/variants/s4/r60w28y2lb3~x2/sett.png" alt="Willis, H Graham" width="140"><br>Willis, H Graham</a></li>
 <li><a class="tartan" href="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/"><img src="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's No.060" width="140"><br>Wilson's No.060</a></li>
 <li><a class="tartan" href="/variants/s5/lb1dp3r1g3lb1~x4/"><img src="/variants/s5/lb1dp3r1g3lb1~x4/sett.png" alt="Wilson's No.95" width="140"><br>Wilson's No.95</a></li>
 <li><a class="tartan" href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/"><img src="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/sett.png" alt="Wingtip" width="140"><br>Wingtip</a></li>

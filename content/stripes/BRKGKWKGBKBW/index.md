@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BRKGKWKGBKBW</span></div>
 
-It is a 12 stripe tartan.
+It is a [12 stripe pattern](/stripes/stripes12/) — every 12-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRKGKWKGBKBW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macbeth/">MacBeth</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macbeth/"><img src="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/sett.png" alt="MacBeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclulich/">MacLulich</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclulich/">MacLulich</a> <small class="dt">ΔTartan 0.01</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclulich/"><img src="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/sett.png" alt="MacLulich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KWKYR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KWKYR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bu/burberry/">Burberry</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/bu/burberry-check/">Burberry Check</a></td></tr>
+<tr><td><a href="/tartans/b/bu/burberry-check/">Burberry Check</a> <small class="dt">ΔTartan 0.06</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry-check/"><img src="/variants/s5/k6w6k6ly21r2~x4/sett.png" alt="Burberry Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BGBGRWRB</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBGRWRB" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/du/duke-of-york/">Duke of York</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-york/"><img src="/variants/s8/db61r6w2r8y2db3y2db15~x2/sett.png" alt="Duke of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/i/in/inverness-duke-of-york/">Inverness, Duke of York</a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-duke-of-york/">Inverness, Duke of York</a> <small class="dt">ΔTartan 0.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-duke-of-york/"><img src="/variants/s8/db122r11w4r15y4db6y4db30/sett.png" alt="Inverness, Duke of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

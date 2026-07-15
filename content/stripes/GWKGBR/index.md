@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GWKGBR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GWKGBR" width="860" height="320">
@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hatfield-mize/">Hatfield &amp; Mize</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hatfield-mize/"><img src="/variants/s6/dg10w2k10dy10db35r6~x2/sett.png" alt="Hatfield &amp; Mize sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hatfield-mize/"><img src="/variants/s6/dg10w2k10y5db35r6~x2/sett.png" alt="Hatfield &amp; Mize sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

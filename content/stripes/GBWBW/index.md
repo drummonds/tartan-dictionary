@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GBWBW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBWBW" width="860" height="320">
@@ -31,10 +31,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/al/alloway-primary/">Alloway Primary</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/al/alloway-primary/"><img src="/variants/s5/lb30db1w4n10y18~x2/sett.png" alt="Alloway Primary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/co/common-ground/">Common Ground</a></td></tr>
+<tr><td><a href="/tartans/c/co/common-ground/">Common Ground</a> <small class="dt">ΔTartan 6.32</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/common-ground/"><img src="/variants/s5/y3db27w16dr27w3~x2/sett.png" alt="Common Ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/n/no/north-sea-commission/">North Sea Commission</a></td></tr>
+<tr><td><a href="/tartans/n/no/north-sea-commission/">North Sea Commission</a> <small class="dt">ΔTartan 8.59</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/north-sea-commission/"><img src="/variants/s5/lb9dt3lb1dt12y1~x4/sett.png" alt="North Sea Commission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

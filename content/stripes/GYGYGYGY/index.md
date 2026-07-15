@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">GYGYGYGY</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GYGYGYGY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sn/snaefell-2/">Snaefell</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sn/snaefell-2/"><img src="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/sett.png" alt="Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/y/ye/yellow-pencil-2/">Yellow Pencil</a></td></tr>
+<tr><td><a href="/tartans/y/ye/yellow-pencil-2/">Yellow Pencil</a> <small class="dt">ΔTartan 6.76</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/y/ye/yellow-pencil-2/"><img src="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/sett.png" alt="Yellow Pencil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

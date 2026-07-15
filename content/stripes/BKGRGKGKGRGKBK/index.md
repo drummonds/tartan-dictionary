@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BKGRGKGKGRGKBK</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKGRGKGKGRGKBK" width="860" height="320">
@@ -30,9 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gi/gillies-2/">Gillies</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gi/gillies-2/"><img src="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macclellan/">MacClellan</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macclellan/">MacClellan</a> <small class="dt">ΔTartan 0.85</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macclellan/"><img src="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/sett.png" alt="MacClellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclellan-2/">MacLellan</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclellan-2/">MacLellan</a> <small class="dt">ΔTartan 0.95</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclellan-2/"><img src="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/sett.png" alt="MacLellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

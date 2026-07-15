@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BRGRBWRBRG</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRGRBWRBRG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonell-of-keppoch-4/">MacDonell of Keppoch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-keppoch-4/"><img src="/variants/s10/g2r2db1r24w1db6r3g12r4db1/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackillop-2/">MacKillop</a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackillop-2/">MacKillop</a> <small class="dt">ΔTartan 0.85</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackillop-2/"><img src="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/sett.png" alt="MacKillop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

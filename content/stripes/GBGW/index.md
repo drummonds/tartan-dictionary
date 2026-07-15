@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GBGW</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBGW" width="860" height="320">
@@ -31,10 +31,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/ba/barclay-dress-2/">Barclay Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/barclay-dress-2/"><img src="/variants/s4/dy5dt32dy32w5~x2/sett.png" alt="Barclay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/o/o-neill-4/">O'Neill</a></td></tr>
+<tr><td><a href="/tartans/o/o/o-neill-4/">O'Neill</a> <small class="dt">ΔTartan 6.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-4/"><img src="/variants/s4/g9b20g40w5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-209/">Wilson's No.209</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-209/">Wilson's No.209</a> <small class="dt">ΔTartan 7.96</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-209/"><img src="/variants/s4/g4dp5g4lb2~x2/sett.png" alt="Wilson's No.209 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

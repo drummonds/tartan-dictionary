@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">WRGGY</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WRGGY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/sy/symington/">Symington</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sy/symington/"><img src="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/sett.png" alt="Symington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/to/tomomi/">Tomomi</a></td></tr>
+<tr><td><a href="/tartans/t/to/tomomi/">Tomomi</a> <small class="dt">ΔTartan 1.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/to/tomomi/"><img src="/variants/s5/w15r20y2g1lg1~x4/sett.png" alt="Tomomi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

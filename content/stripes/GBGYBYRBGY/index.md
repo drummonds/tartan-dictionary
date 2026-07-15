@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">GBGYBYRBGY</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBGYBYRBGY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/an/antrim-irish-county/">Antrim Irish County</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/an/antrim-irish-county/"><img src="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/sett.png" alt="Antrim Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/a/an/antrim-county/">Antrim, County</a></td></tr>
+<tr><td><a href="/tartans/a/an/antrim-county/">Antrim, County</a> <small class="dt">ΔTartan 2.69</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/an/antrim-county/"><img src="/variants/s10/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4~x2/sett.png" alt="Antrim, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

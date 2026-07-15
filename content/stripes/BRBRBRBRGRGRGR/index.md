@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRBRBRBRGRGRGR</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRBRBRGRGRGR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/r/ro/ross-5/">Ross 5</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-5/"><img src="/variants/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/sett.png" alt="Ross 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ro/ross-old/">Ross, Old</a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-old/">Ross, Old</a> <small class="dt">ΔTartan 2.35</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-old/"><img src="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/sett.png" alt="Ross, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BWBBGR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBBGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/ge/georgian-bay-waters-of/">Georgian Bay, Waters of</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/ge/georgian-bay-waters-of/"><img src="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/sett.png" alt="Georgian Bay, Waters of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wa/waters-of-georgian-bay/">Waters of Georgian Bay</a></td></tr>
+<tr><td><a href="/tartans/w/wa/waters-of-georgian-bay/">Waters of Georgian Bay</a> <small class="dt">ΔTartan 0.51</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wa/waters-of-georgian-bay/"><img src="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/sett.png" alt="Waters of Georgian Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

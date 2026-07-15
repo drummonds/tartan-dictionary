@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GRGRBRGRGRG</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRGRBRGRGRG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonald-of-vallay/">MacDonald of Vallay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-vallay/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/sett.png" alt="MacDonald of Vallay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonell-of-glengarry-3/">MacDonell of Glengarry</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonell-of-glengarry-3/">MacDonell of Glengarry</a> <small class="dt">ΔTartan 0.51</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-glengarry-3/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

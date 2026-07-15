@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BWBRBRGBWBGBG</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBRBRGBWBGBG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/massachusetts/">Massachusetts</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/massachusetts/"><img src="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/sett.png" alt="Massachusetts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/massachusetts-the-bay-state/">Massachusetts-The Bay State</a></td></tr>
+<tr><td><a href="/tartans/m/ma/massachusetts-the-bay-state/">Massachusetts-The Bay State</a> <small class="dt">ΔTartan 0.30</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/massachusetts-the-bay-state/"><img src="/variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/sett.png" alt="Massachusetts-The Bay State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BKBKBY</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/j/jo/joker-fancy/">Joker Fancy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/jo/joker-fancy/"><img src="/variants/s6/t11k1t3k5dp9lo1~x2/sett.png" alt="Joker Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/j/jo/joker-the/">Joker, The</a></td></tr>
+<tr><td><a href="/tartans/j/jo/joker-the/">Joker, The</a> <small class="dt">ΔTartan 0.44</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/jo/joker-the/"><img src="/variants/s6/t18k2t4k6dp12lo1~x2/sett.png" alt="Joker, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

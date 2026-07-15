@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RGBGBGBRWR</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGBGBGBRWR" width="860" height="320">
@@ -30,9 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/ch/chisholm-d/">Chisholm D</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm-d/"><img src="/variants/s10/r6w1r24db6g2db1g2db1g12r1/sett.png" alt="Chisholm D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/ch/chisholm-hunting/">Chisholm Hunting</a></td></tr>
+<tr><td><a href="/tartans/c/ch/chisholm-hunting/">Chisholm Hunting</a> <small class="dt">ΔTartan 0.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm-hunting/"><img src="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/sett.png" alt="Chisholm Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/ch/chisholm-of-strathglass/">Chisholm of Strathglass</a></td></tr>
+<tr><td><a href="/tartans/c/ch/chisholm-of-strathglass/">Chisholm of Strathglass</a> <small class="dt">ΔTartan 0.62</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm-of-strathglass/"><img src="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/sett.png" alt="Chisholm of Strathglass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

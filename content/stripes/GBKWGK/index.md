@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GBKWGK</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBKWGK" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/l/le/lennie/">Lennie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/le/lennie/"><img src="/variants/s6/k2g10lb2k9dp8g2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-76/">Wilson's, No 76</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-76/">Wilson's, No 76</a> <small class="dt">ΔTartan 0.84</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-76/"><img src="/variants/s6/k3g17w2k18dp17g3~x2/sett.png" alt="Wilson's, No 76 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/un/unnamed-3/">Unnamed 3</a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-3/">Unnamed 3</a> <small class="dt">ΔTartan 1.67</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-3/"><img src="/variants/s6/k2g9lb1k6b4g2~x2/sett.png" alt="Unnamed 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRBWBWBWR</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBWBWBWR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/0-9/0-9/31/">31</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/31/"><img src="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/sett.png" alt="31 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/a/am/american/">American</a></td></tr>
+<tr><td><a href="/tartans/a/am/american/">American</a> <small class="dt">ΔTartan 0.13</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/am/american/"><img src="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/sett.png" alt="American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

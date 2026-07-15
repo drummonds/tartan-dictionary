@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GWBWBW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GWBWBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress-2/">McKerrell of Hillhouse Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress-2/"><img src="/variants/s6/lb48n28w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/un/unidentified-78/">Unidentified</a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-78/">Unidentified</a> <small class="dt">ΔTartan 2.56</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-78/"><img src="/variants/s6/w7db16w20db3w3y3~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

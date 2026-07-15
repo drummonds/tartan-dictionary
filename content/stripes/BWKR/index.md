@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BWKR</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gl/gleneckley/">Gleneckley</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneckley/"><img src="/variants/s4/db3w25k25r3~x2/sett.png" alt="Gleneckley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/ha/hamby-sport/">Hamby Sport</a></td></tr>
+<tr><td><a href="/tartans/h/ha/hamby-sport/">Hamby Sport</a> <small class="dt">ΔTartan 0.90</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/hamby-sport/"><img src="/variants/s4/r25k13w8db5~x2/sett.png" alt="Hamby Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

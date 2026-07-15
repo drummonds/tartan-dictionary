@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RBKGKBGGGWGBRKRW</span></div>
 
-It is a 16 stripe tartan.
+It is a [16 stripe pattern](/stripes/stripes16/) — every 16-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBKGKBGGGWGBRKRW" width="860" height="320">
@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hu/hueg-scottish-thistle/">Hueg Scottish Thistle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hu/hueg-scottish-thistle/"><img src="/variants/s16/r2db2k3g25k2db3g4y2g2w2g6db2r7k2r3w2~x2/sett.png" alt="Hueg Scottish Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hueg-scottish-thistle/"><img src="/variants/s16/r2db2k3dg25k2db3dg4dy2dg2w2dg6db2r7k2r3w2~x2/sett.png" alt="Hueg Scottish Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

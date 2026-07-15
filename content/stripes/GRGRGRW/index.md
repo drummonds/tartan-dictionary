@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GRGRGRW</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRGRGRW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macfie-2/">MacFie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macfie-2/"><img src="/variants/s7/y1r12g162r1g2r12w1~x2/sett.png" alt="MacFie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/mackinnon-hunting-5/">MacKinnon, hunting</a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-hunting-5/">MacKinnon, hunting</a> <small class="dt">ΔTartan 2.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-5/"><img src="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/sett.png" alt="MacKinnon, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

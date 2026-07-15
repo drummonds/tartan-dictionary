@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBWBRB</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBWBRB" width="860" height="320">
@@ -30,19 +30,19 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/e/ed/edzell-u-s-navy/">Edzell, U.S. Navy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/ed/edzell-u-s-navy/"><img src="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/sett.png" alt="Edzell, U.S. Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/na/navy-radar/">Navy-Radar</a></td></tr>
+<tr><td><a href="/tartans/n/na/navy-radar/">Navy-Radar</a> <small class="dt">ΔTartan 0.34</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/na/navy-radar/"><img src="/variants/s6/db51t8w4t30r1t9~x2/sett.png" alt="Navy-Radar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/u/us/us-navy-edzell/">US Navy Edzell</a></td></tr>
+<tr><td><a href="/tartans/u/us/us-navy-edzell/">US Navy Edzell</a> <small class="dt">ΔTartan 0.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/us/us-navy-edzell/"><img src="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/sett.png" alt="US Navy Edzell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/p/pi/pitt/">Pitt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pi/pitt/"><img src="/variants/s6/t23db18w5db2r14db18~x2/sett.png" alt="Pitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/s/s-c-o-t-s/">S.C.O.T.S</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/s/s-c-o-t-s/"><img src="/variants/s6/t136db45w7db4r4db16/sett.png" alt="S.C.O.T.S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/s/s-c-o-t-s-u-s-a/">S.C.O.T.S. U.S.A.</a></td></tr>
+<tr><td><a href="/tartans/s/s/s-c-o-t-s-u-s-a/">S.C.O.T.S. U.S.A.</a> <small class="dt">ΔTartan 3.37</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/s/s-c-o-t-s-u-s-a/"><img src="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/sett.png" alt="S.C.O.T.S. U.S.A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/s/s-c-o-t-s/">S.C.O.T.S</a> <small class="dt">ΔTartan 5.08</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/s/s-c-o-t-s/"><img src="/variants/s6/t136db45w7db4r4db16/sett.png" alt="S.C.O.T.S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitt/">Pitt</a> <small class="dt">ΔTartan 6.87</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pitt/"><img src="/variants/s6/t23db18w5db2r14db18~x2/sett.png" alt="Pitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/u/u-s-navy-edzell/">U.S. Navy/Edzell</a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-navy-edzell/">U.S. Navy/Edzell</a> <small class="dt">ΔTartan 3.71</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-navy-edzell/"><img src="/variants/s6/dt45db7w3db27r1db7~x2/sett.png" alt="U.S. Navy/Edzell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

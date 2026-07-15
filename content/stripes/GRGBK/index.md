@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GRGBK</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRGBK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/do/douglas-of-roxburgh/">Douglas of Roxburgh</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-of-roxburgh/"><img src="/variants/s5/k6db3dg20r20y3~x2/sett.png" alt="Douglas of Roxburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/tu/turnbull-dress/">Turnbull Dress</a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnbull-dress/">Turnbull Dress</a> <small class="dt">ΔTartan 0.42</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/tu/turnbull-dress/"><img src="/variants/s5/k7db3g28r28y3~x2/sett.png" alt="Turnbull Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

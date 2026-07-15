@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBBB</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBB" width="860" height="320">
@@ -30,14 +30,14 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccallum-hs-of-philadelphia/">MacCallum HS of Philadelphia</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccallum-hs-of-philadelphia/"><img src="/variants/s5/n9b3n1b11n1~x6/sett.png" alt="MacCallum HS of Philadelphia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maccallum-high-school/">MacCallum High School</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccallum-high-school/">MacCallum High School</a> <small class="dt">ΔTartan 0.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccallum-high-school/"><img src="/variants/s5/n9db3n1db11n1~x6/sett.png" alt="MacCallum High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/ca/cairns-david/">Cairns, David</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairns-david/"><img src="/variants/s5/do11n1do4n8dr1~x8~do1400000-n1900000/sett.png" alt="Cairns, David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/hi/hillsdale/">Hillsdale</a></td></tr>
+<tr><td><a href="/tartans/h/hi/hillsdale/">Hillsdale</a> <small class="dt">ΔTartan 1.97</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hi/hillsdale/"><img src="/variants/s5/db13n6dr51db51n5~x2/sett.png" alt="Hillsdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/c/ca/cairns-david/">Cairns, David</a> <small class="dt">ΔTartan 6.42</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairns-david/"><img src="/variants/s5/do11n1do4n8dr1~x8~do1400000-n1900000/sett.png" alt="Cairns, David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

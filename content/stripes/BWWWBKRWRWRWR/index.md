@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BWWWBKRWRWRWR</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWWWBKRWRWRWR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/a/am/american-bi-centennial/">American Bi-Centennial</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/am/american-bi-centennial/"><img src="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/sett.png" alt="American Bi-Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/a/am/american-st-andrews-societies/">American St Andrews Societies</a></td></tr>
+<tr><td><a href="/tartans/a/am/american-st-andrews-societies/">American St Andrews Societies</a> <small class="dt">ΔTartan 0.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/am/american-st-andrews-societies/"><img src="/variants/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/sett.png" alt="American St Andrews Societies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

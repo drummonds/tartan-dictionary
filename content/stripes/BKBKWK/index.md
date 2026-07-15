@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BKBKWK</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKWK" width="860" height="320">
@@ -30,9 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/r/ra/ramsay-2/">Ramsay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/ramsay-2/"><img src="/variants/s6/k4w2k28db30k1db3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ra/ramsay-blue-hunting/">Ramsay Blue Hunting</a></td></tr>
+<tr><td><a href="/tartans/r/ra/ramsay-blue-hunting/">Ramsay Blue Hunting</a> <small class="dt">ΔTartan 0.44</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/ramsay-blue-hunting/"><img src="/variants/s6/k4lb2k28t30k1t3~x2/sett.png" alt="Ramsay Blue Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sw/swan/">Swan</a></td></tr>
+<tr><td><a href="/tartans/s/sw/swan/">Swan</a> <small class="dt">ΔTartan 0.67</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sw/swan/"><img src="/variants/s6/k3w2k18b18k2b3~x4/sett.png" alt="Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

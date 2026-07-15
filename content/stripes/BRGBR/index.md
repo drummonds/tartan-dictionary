@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRGBR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRGBR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fr/fraser-of-boblainy-hugh/">Fraser of Boblainy, Hugh</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-of-boblainy-hugh/"><img src="/variants/s5/db1r14g7db7r1~x4/sett.png" alt="Fraser of Boblainy, Hugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/u/un/unidentified-cant/">Unidentified Cant</a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-cant/">Unidentified Cant</a> <small class="dt">ΔTartan 0.84</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-cant/"><img src="/variants/s5/r44db2g26r3db2/sett.png" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

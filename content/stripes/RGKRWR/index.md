@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RGKRWR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGKRWR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/mackintosh-6/">MacKintosh 6</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-6/"><img src="/variants/s6/r5w2r28k12g16r3~x2/sett.png" alt="MacKintosh 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/ni/nisbet/">Nisbet</a></td></tr>
+<tr><td><a href="/tartans/n/ni/nisbet/">Nisbet</a> <small class="dt">ΔTartan 0.75</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ni/nisbet/"><img src="/variants/s6/r10g24k10r28lb3r6~x2/sett.png" alt="Nisbet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

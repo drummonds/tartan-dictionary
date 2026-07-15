@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GBRKGKGKRBG</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBRKGKGKRBG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fe/ferguson-2/">Ferguson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-2/"><img src="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fe/ferguson-of-woodhill/">Ferguson of Woodhill</a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-of-woodhill/">Ferguson of Woodhill</a> <small class="dt">ΔTartan 0.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-of-woodhill/"><img src="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/sett.png" alt="Ferguson of Woodhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

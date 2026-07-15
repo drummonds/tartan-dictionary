@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RKRGRGRKRWRKRKR</span></div>
 
-It is a 15 stripe tartan.
+It is a [15 stripe pattern](/stripes/stripes15/) — every 15-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RKRGRGRKRWRKRKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gr/grant-5/">Grant</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-5/"><img src="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/u/un/unidentified-no-3/">Unidentified No 3</a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-3/">Unidentified No 3</a> <small class="dt">ΔTartan 0.48</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-3/"><img src="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/sett.png" alt="Unidentified No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BBWBBBGGRK</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBWBBBGGRK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bo/boisserolles-de-st-julien-baron-of/">Boisserolles de St-Julien, Baron of</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bo/boisserolles-de-st-julien-baron-of/"><img src="/variants/s10/db4n4w1db2n50db20y1dg25o4k2~x2/sett.png" alt="Boisserolles de St-Julien, Baron of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/p/ph/philip-boisserolles-de-st-julien-baron-of-hartsyde/">Philip Boisserolles de St-Julien, baron of Hartsyde</a></td></tr>
+<tr><td><a href="/tartans/p/ph/philip-boisserolles-de-st-julien-baron-of-hartsyde/">Philip Boisserolles de St-Julien, baron of Hartsyde</a> <small class="dt">ΔTartan 0.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/ph/philip-boisserolles-de-st-julien-baron-of-hartsyde/"><img src="/variants/s10/db4n4w1db2n50db20y1g25r4k2~x2/sett.png" alt="Philip Boisserolles de St-Julien, baron of Hartsyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

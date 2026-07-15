@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BKBKBKGRGKBR</span></div>
 
-It is a 12 stripe tartan.
+It is a [12 stripe pattern](/stripes/stripes12/) — every 12-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBKGRGKBR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gl/glenalmond-college/">Glenalmond College</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glenalmond-college/"><img src="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/sett.png" alt="Glenalmond College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mu/murray-of-atholl/">Murray of Atholl</a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-atholl/">Murray of Atholl</a> <small class="dt">ΔTartan 0.49</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-atholl/"><img src="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

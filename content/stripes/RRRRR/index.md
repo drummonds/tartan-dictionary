@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RRRRR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RRRRR" width="860" height="320">

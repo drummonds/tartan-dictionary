@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RGRKRKR</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGRKRKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/mackintosh-3/">MacKintosh</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-3/"><img src="/variants/s7/r75g12r3k2r2k2r36~x2/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macquarrie-5/">MacQuarrie 5</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macquarrie-5/">MacQuarrie 5</a> <small class="dt">ΔTartan 0.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macquarrie-5/"><img src="/variants/s7/r4g5r2k6r18k2r4~x2/sett.png" alt="MacQuarrie 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

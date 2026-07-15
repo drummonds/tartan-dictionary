@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RBGWBWWWKWW</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBGWBWWWKWW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/manchester-blues/">Manchester Blues</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/manchester-blues/"><img src="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/sett.png" alt="Manchester Blues sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/manchester-blues-dress-2/">Manchester Blues Dress</a></td></tr>
+<tr><td><a href="/tartans/m/ma/manchester-blues-dress-2/">Manchester Blues Dress</a> <small class="dt">ΔTartan 1.00</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/manchester-blues-dress-2/"><img src="/variants/s11/w26lb9k2lb2w2lb2n11lb8y2n2r2~x2/sett.png" alt="Manchester Blues Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

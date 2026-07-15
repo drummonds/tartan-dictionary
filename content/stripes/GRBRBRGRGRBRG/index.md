@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GRBRBRGRGRBRG</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRBRBRGRGRBRG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fr/fraser-isabella-2/">Fraser, Isabella</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-isabella-2/"><img src="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/sett.png" alt="Fraser, Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fr/fraser-wedding-dress/">Fraser, Wedding dress</a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-wedding-dress/">Fraser, Wedding dress</a> <small class="dt">ΔTartan 0.12</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-wedding-dress/"><img src="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/sett.png" alt="Fraser, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KWRGKWRWK</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KWRGKWRWK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macnaughten/">MacNaughten</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macnaughten/"><img src="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/sett.png" alt="MacNaughten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macnaughton/">MacNaughton</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnaughton/">MacNaughton</a> <small class="dt">ΔTartan 0.90</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macnaughton/"><img src="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/sett.png" alt="MacNaughton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

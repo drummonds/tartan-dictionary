@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RBWBKGWBR</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBWBKGWBR" width="860" height="320">
@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macnaughton-dress/">MacNaughton Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnaughton-dress/"><img src="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/sett.png" alt="MacNaughton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnaughton-dress/"><img src="/variants/s9/r2db2w26g25k14db13w26db2r2~x2/sett.png" alt="MacNaughton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

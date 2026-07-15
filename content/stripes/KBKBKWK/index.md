@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KBKBKWK</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBKWK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sa/salt-lake-county/">Salt Lake County</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sa/salt-lake-county/"><img src="/variants/s7/k4dr40k1dr3k1w3k4~x2/sett.png" alt="Salt Lake County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sw/swan-2015-brian-e/">Swan 2015, Brian E</a></td></tr>
+<tr><td><a href="/tartans/s/sw/swan-2015-brian-e/">Swan 2015, Brian E</a> <small class="dt">ΔTartan 6.17</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sw/swan-2015-brian-e/"><img src="/variants/s7/k2db9k2db9k13w1k2~x4/sett.png" alt="Swan 2015, Brian E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

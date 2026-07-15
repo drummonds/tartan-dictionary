@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BGBKRKRK</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBKRKRK" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/h/ho/holmes/">Holmes</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ho/holmes/"><img src="/variants/s8/k30r3k3r3k6db32dg3db3~x2/sett.png" alt="Holmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/ho/home/">Home</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/home/"><img src="/variants/s8/k28r1k2r1k8db24g2db3~x2/sett.png" alt="Home sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ru/rutherford/">Rutherford</a></td></tr>
+<tr><td><a href="/tartans/r/ru/rutherford/">Rutherford</a> <small class="dt">ΔTartan 0.59</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ru/rutherford/"><img src="/variants/s8/k8r1k1r1k4db11y1db2~x6/sett.png" alt="Rutherford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/home/">Home</a> <small class="dt">ΔTartan 0.60</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/home/"><img src="/variants/s8/k36r3k3r3k9t36g3t2~x2/sett.png" alt="Home sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

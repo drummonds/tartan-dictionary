@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BKBKRGR</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKRGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fl/fletcher-c/">Fletcher C</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fl/fletcher-c/"><img src="/variants/s7/db6k1db6k8r1g8r2/sett.png" alt="Fletcher C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fl/fletcher-of-dunans/">Fletcher of Dunans</a></td></tr>
+<tr><td><a href="/tartans/f/fl/fletcher-of-dunans/">Fletcher of Dunans</a> <small class="dt">ΔTartan 0.39</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fl/fletcher-of-dunans/"><img src="/variants/s7/t10k3t10k14r2g14r5~x2/sett.png" alt="Fletcher of Dunans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

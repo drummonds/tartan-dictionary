@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BBWBW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBWBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gi/gilt-edge/">Gilt Edge</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gi/gilt-edge/"><img src="/variants/s5/db3dbi2lb31db34w2~x2~db1204274-dbi1406275/sett.png" alt="Gilt Edge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sc/scottish-tourist-board/">Scottish Tourist Board</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-tourist-board/">Scottish Tourist Board</a> <small class="dt">ΔTartan 2.00</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-tourist-board/"><img src="/variants/s5/t50db15w3db4w2~x2/sett.png" alt="Scottish Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

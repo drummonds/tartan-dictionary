@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BWBWBG</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBWBG" width="860" height="320">
@@ -30,15 +30,15 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/a/au/auchterlonie-2/">Auchterlonie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/au/auchterlonie-2/"><img src="/variants/s6/db40w8db25w14db8y4~x2/sett.png" alt="Auchterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/o/oc/ochterlonie/">Ochterlonie</a></td></tr>
+<tr><td><a href="/tartans/o/oc/ochterlonie/">Ochterlonie</a> <small class="dt">ΔTartan 0.28</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/oc/ochterlonie/"><img src="/variants/s6/b30w7b18w11b6y3~x2/sett.png" alt="Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wh/whitley/">Whitley</a></td></tr>
+<tr><td><a href="/tartans/w/wh/whitley/">Whitley</a> <small class="dt">ΔTartan 0.85</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wh/whitley/"><img src="/variants/s6/y1b15w5b1w5b1~x4/sett.png" alt="Whitley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/om/oman-raf-sultanate-of/">Oman RAF, Sultanate of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/om/oman-raf-sultanate-of/"><img src="/variants/s6/db9lb3db6lb3db20dy2~x2/sett.png" alt="Oman RAF, Sultanate of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/su/sultan-of-qaboo-s-air-force/">Sultan of Qaboo's Air Force</a></td></tr>
+<tr><td><a href="/tartans/s/su/sultan-of-qaboo-s-air-force/">Sultan of Qaboo's Air Force</a> <small class="dt">ΔTartan 3.08</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/su/sultan-of-qaboo-s-air-force/"><img src="/variants/s6/db24lb6db10lb6db32dy3~x2/sett.png" alt="Sultan of Qaboo's Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/om/oman-raf-sultanate-of/">Oman RAF, Sultanate of</a> <small class="dt">ΔTartan 3.24</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/om/oman-raf-sultanate-of/"><img src="/variants/s6/db9lb3db6lb3db20dy2~x2/sett.png" alt="Oman RAF, Sultanate of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

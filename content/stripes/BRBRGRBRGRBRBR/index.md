@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRBRGRBRGRBRBR</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRGRBRGRBRBR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/mu/munro-3/">Munro</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/munro-3/"><img src="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mu/munro-old/">Munro Old</a></td></tr>
+<tr><td><a href="/tartans/m/mu/munro-old/">Munro Old</a> <small class="dt">ΔTartan 0.51</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/munro-old/"><img src="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/sett.png" alt="Munro Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

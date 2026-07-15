@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BGBBGB</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBBGB" width="860" height="320">
@@ -31,10 +31,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/ch/cheadle/">Cheadle</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ch/cheadle/"><img src="/variants/s6/dp10y3dp8db42g5n5~x2/sett.png" alt="Cheadle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/d/di/discover-islay/">Discover Islay</a></td></tr>
+<tr><td><a href="/tartans/d/di/discover-islay/">Discover Islay</a> <small class="dt">ΔTartan 1.97</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/di/discover-islay/"><img src="/variants/s6/dp6y1dp20db6g19dp2~x4/sett.png" alt="Discover Islay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gr/green-highland-the/">Green Highland, The</a></td></tr>
+<tr><td><a href="/tartans/g/gr/green-highland-the/">Green Highland, The</a> <small class="dt">ΔTartan 9.52</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/green-highland-the/"><img src="/variants/s6/db2g15do3db7g7db2~x4/sett.png" alt="Green Highland, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

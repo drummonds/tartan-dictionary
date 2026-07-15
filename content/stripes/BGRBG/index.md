@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGRBG</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGRBG" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/ha/harmony-6-2/">Harmony, 6</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-6-2/"><img src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/or/orion-nebula/">Orion Nebula</a></td></tr>
+<tr><td><a href="/tartans/o/or/orion-nebula/">Orion Nebula</a> <small class="dt">ΔTartan 9.64</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/or/orion-nebula/"><img src="/variants/s5/dp49g3r5db15y4~x2/sett.png" alt="Orion Nebula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

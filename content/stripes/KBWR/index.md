@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KBWR</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBWR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/ci/city-of-london/">City of London</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-london/"><img src="/variants/s4/k5n24w24r5~x2/sett.png" alt="City of London sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ra/raven/">Raven</a></td></tr>
+<tr><td><a href="/tartans/r/ra/raven/">Raven</a> <small class="dt">ΔTartan 3.17</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/raven/"><img src="/variants/s4/k19db18w9r3~x4/sett.png" alt="Raven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

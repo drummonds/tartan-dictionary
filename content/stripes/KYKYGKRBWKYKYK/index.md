@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KYKYGKRBWKYKYK</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KYKYGKRBWKYKYK" width="860" height="320">
@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/ta/tarassow-russian-scout/">Tarassow Russian Scout</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/ta/tarassow-russian-scout/"><img src="/variants/s14/k8lo8k8lo2g100k42r8t8w8k21lo2k8lo8k8/sett.png" alt="Tarassow Russian Scout sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tarassow-russian-scout/"><img src="/variants/s14/k8ly8k8ly2g100k42r8t8w8k21ly2k8ly8k8/sett.png" alt="Tarassow Russian Scout sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

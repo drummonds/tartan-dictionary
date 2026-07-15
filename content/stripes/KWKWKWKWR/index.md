@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KWKWKWKWR</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KWKWKWKWR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/du/dupplin/">Dupplin</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/dupplin/"><img src="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/sett.png" alt="Dupplin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/macknight/">MacKnight</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macknight/">MacKnight</a> <small class="dt">ΔTartan 15.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macknight/"><img src="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/sett.png" alt="MacKnight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

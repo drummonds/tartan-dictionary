@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RKWRW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RKWRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/braes-high-school-falkirk/">Braes High School Falkirk</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/braes-high-school-falkirk/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/o/oa/oakland-centre/">Oakland Centre</a></td></tr>
+<tr><td><a href="/tartans/o/oa/oakland-centre/">Oakland Centre</a> <small class="dt">ΔTartan 0.79</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/oa/oakland-centre/"><img src="/variants/s5/w3r2w1k2r2~x4/sett.png" alt="Oakland Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

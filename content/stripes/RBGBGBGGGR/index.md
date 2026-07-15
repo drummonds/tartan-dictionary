@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RBGBGBGGGR</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBGBGBGGGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/a/ay/ayrton-laoch/">Ayrton Laoch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrton-laoch/"><img src="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/sett.png" alt="Ayrton Laoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/a/ay/ayrton-of-laoch/">Ayrton of Laoch</a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrton-of-laoch/">Ayrton of Laoch</a> <small class="dt">ΔTartan 0.12</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrton-of-laoch/"><img src="/variants/s10/r2g12dy2g12db3g2db2g2db4r2~x2/sett.png" alt="Ayrton of Laoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

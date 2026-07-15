@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GK</span></div>
 
-It is a 2 stripe tartan.
+It is a [2 stripe pattern](/stripes/stripes2/) — every 2-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GK" width="860" height="320">
@@ -30,12 +30,12 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/r/ro/robin-hood/">Robin Hood</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/robin-hood/"><img src="/variants/s2/k1dg1~x100/sett.png" alt="Robin Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/robin-hood-rob-roy-hunting/">Robin Hood / Rob Roy hunting</a></td></tr>
+<tr><td><a href="/tartans/r/ro/robin-hood-rob-roy-hunting/">Robin Hood / Rob Roy hunting</a> <small class="dt">ΔTartan 0.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/robin-hood-rob-roy-hunting/"><img src="/variants/s2/k1g1~x66/sett.png" alt="Robin Hood / Rob Roy hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/robin-hood-fancy/">Robin Hood Fancy</a></td></tr>
+<tr><td><a href="/tartans/r/ro/robin-hood-fancy/">Robin Hood Fancy</a> <small class="dt">ΔTartan 0.30</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/robin-hood-fancy/"><img src="/variants/s2/g9k8~x2/sett.png" alt="Robin Hood Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/j/ju/justus-check-2/">Justus Check</a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-check-2/">Justus Check</a> <small class="dt">ΔTartan 1.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-check-2/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

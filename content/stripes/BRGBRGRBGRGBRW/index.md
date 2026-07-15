@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BRGBRGRBGRGBRW</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRGBRGRBGRGBRW" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonald-of-staffa-6/">MacDonald of Staffa</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-6/"><img src="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackinnon-3/">MacKinnon</a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-3/">MacKinnon</a> <small class="dt">ΔTartan 0.48</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-3/"><img src="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/mackinnon-10/">MacKinnon 10</a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-10/">MacKinnon 10</a> <small class="dt">ΔTartan 2.50</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-10/"><img src="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/sett.png" alt="MacKinnon 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

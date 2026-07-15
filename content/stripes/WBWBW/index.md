@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WBWBW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WBWBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/as/asahi/">Asahi</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/as/asahi/"><img src="/variants/s5/w45t2w4t15w7~x2/sett.png" alt="Asahi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/loch-lomond/">Loch Lomond</a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-lomond/">Loch Lomond</a> <small class="dt">ΔTartan 6.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-lomond/"><img src="/variants/s5/lb37t9lb3db9w3~x2/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

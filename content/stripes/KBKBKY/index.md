@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KBKBKY</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBKY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/p/pr/pride-of-the-forth/">Pride of the Forth</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-the-forth/"><img src="/variants/s6/k3n23k3n3k20lg3~x2/sett.png" alt="Pride of the Forth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ro/robert-gordon-university-2/">Robert Gordon University</a></td></tr>
+<tr><td><a href="/tartans/r/ro/robert-gordon-university-2/">Robert Gordon University</a> <small class="dt">ΔTartan 3.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/robert-gordon-university-2/"><img src="/variants/s6/k4dr2k12db12k1lo2~x2/sett.png" alt="Robert Gordon University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

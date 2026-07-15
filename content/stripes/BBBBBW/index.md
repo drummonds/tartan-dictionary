@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BBBBBW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/ab/aberdeen-academy-of-performing-arts/">Aberdeen Academy of Performing Arts</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-academy-of-performing-arts/"><img src="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/sett.png" alt="Aberdeen Academy of Performing Arts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/u/u-s-s-john-paul-jones/">U.S.S. John Paul Jones</a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-s-john-paul-jones/">U.S.S. John Paul Jones</a> <small class="dt">ΔTartan 3.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-s-john-paul-jones/"><img src="/variants/s6/bi3db1b16db16b2lb2~x4~bi2706275-b1709272/sett.png" alt="U.S.S. John Paul Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

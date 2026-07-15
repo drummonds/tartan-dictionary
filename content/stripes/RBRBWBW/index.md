@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RBRBWBW</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBRBWBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/bl/blue/">Blue</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/blue/"><img src="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1604274-db0805267/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/le/lennox-dress-2/">Lennox Dress</a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-dress-2/">Lennox Dress</a> <small class="dt">ΔTartan 8.07</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress-2/"><img src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

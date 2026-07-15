@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GKG</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKG" width="860" height="320">
@@ -30,9 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gr/graham-3/">Graham</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-3/"><img src="/variants/s3/g12k4g1~x2/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scotch-tape/">Scotch Tape</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotch-tape/">Scotch Tape</a> <small class="dt">ΔTartan 0.63</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-tape/"><img src="/variants/s3/g30k20g3~x2/sett.png" alt="Scotch Tape sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stirling-of-keir-2/">Stirling of Keir</a></td></tr>
+<tr><td><a href="/tartans/s/st/stirling-of-keir-2/">Stirling of Keir</a> <small class="dt">ΔTartan 0.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-of-keir-2/"><img src="/variants/s3/dg1k20dg1~x6~dg1804158/sett.png" alt="Stirling of Keir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

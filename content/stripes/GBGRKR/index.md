@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GBGRKR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBGRKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/t/tu/tulsa/">Tulsa</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/tu/tulsa/"><img src="/variants/s6/r14k3r14g13db8g13~x2/sett.png" alt="Tulsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/tu/tulsa-city-of/">Tulsa, City of</a></td></tr>
+<tr><td><a href="/tartans/t/tu/tulsa-city-of/">Tulsa, City of</a> <small class="dt">ΔTartan 0.23</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/tu/tulsa-city-of/"><img src="/variants/s6/dg14db8dg14r14k3r14~x2/sett.png" alt="Tulsa, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

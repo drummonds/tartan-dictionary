@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BRBRBG</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRBG" width="860" height="320">
@@ -30,13 +30,13 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macqueen-variant/">MacQueen variant</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macqueen-variant/"><img src="/variants/s6/db2r7db2r7db22y2~x2/sett.png" alt="MacQueen variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/robbins/">Robbins</a></td></tr>
+<tr><td><a href="/tartans/r/ro/robbins/">Robbins</a> <small class="dt">ΔTartan 1.03</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/robbins/"><img src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/hm/hms-duncan-regimental/">HMS Duncan Regimental</a></td></tr>
+<tr><td><a href="/tartans/h/hm/hms-duncan-regimental/">HMS Duncan Regimental</a> <small class="dt">ΔTartan 4.13</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hm/hms-duncan-regimental/"><img src="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/sett.png" alt="HMS Duncan Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ro/royal-and-ancient-the/">Royal and Ancient, The</a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-and-ancient-the/">Royal and Ancient, The</a> <small class="dt">ΔTartan 6.63</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-and-ancient-the/"><img src="/variants/s6/g49db16o3db2o2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RGGBW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGGBW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/cl/clan-haggis-world/">Clan Haggis World</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-haggis-world/"><img src="/variants/s5/r13y13g13db22w4~x2/sett.png" alt="Clan Haggis World sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/tu/turnbull-hunting/">Turnbull Hunting</a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnbull-hunting/">Turnbull Hunting</a> <small class="dt">ΔTartan 0.83</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/tu/turnbull-hunting/"><img src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

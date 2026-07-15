@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBBWBBB</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBWBBB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/ba/bannockbane-5/">Bannockbane</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-5/"><img src="/variants/s8/db2b2db15b1w10b15db2b2~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/b/ba/bannockbane-silver/">Bannockbane Silver</a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-silver/">Bannockbane Silver</a> <small class="dt">ΔTartan 3.81</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-silver/"><img src="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/sett.png" alt="Bannockbane Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

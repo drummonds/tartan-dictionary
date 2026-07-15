@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BGY</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/k/ke/kenmore-hunting/">Kenmore Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ke/kenmore-hunting/"><img src="/variants/s3/dr1g22lo1~x4/sett.png" alt="Kenmore Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scottish-watch/">Scottish Watch</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-watch/">Scottish Watch</a> <small class="dt">ΔTartan 0.82</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-watch/"><img src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

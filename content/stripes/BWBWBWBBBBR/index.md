@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BWBWBWBBBBR</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBWBWBBBBR" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/co/commonwealth-games-1986-2/">Commonwealth Games 1986</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/commonwealth-games-1986-2/"><img src="/variants/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/sett.png" alt="Commonwealth Games 1986 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/e/ed/edinburgh-86/">Edinburgh '86</a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-86/">Edinburgh '86</a> <small class="dt">ΔTartan 0.17</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-86/"><img src="/variants/s11/db6w2db2w2db4w6db28b4db4b45r4/sett.png" alt="Edinburgh '86 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/un/unknown/">Unknown</a></td></tr>
+<tr><td><a href="/tartans/u/un/unknown/">Unknown</a> <small class="dt">ΔTartan 2.97</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unknown/"><img src="/variants/s11/n3w1n1w1n2w3n14db2n2db32r2~x2/sett.png" alt="Unknown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

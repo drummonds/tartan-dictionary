@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GWGWGWWBWWGWG</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GWGWGWWBWWGWG" width="860" height="320">
@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/poulter-millicent/">Poulter Millicent</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-millicent/"><img src="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-millicent/"><img src="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

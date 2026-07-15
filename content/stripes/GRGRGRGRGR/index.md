@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GRGRGRGRGR</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRGRGRGRGR" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/do/donachie/">Donachie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/donachie/"><img src="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png" alt="Donachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/li/livingstone-2/">Livingstone</a></td></tr>
+<tr><td><a href="/tartans/l/li/livingstone-2/">Livingstone</a> <small class="dt">ΔTartan 0.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/li/livingstone-2/"><img src="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png" alt="Livingstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/b/br/bruce-2/">Bruce</a></td></tr>
+<tr><td><a href="/tartans/b/br/bruce-2/">Bruce</a> <small class="dt">ΔTartan 1.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/bruce-2/"><img src="/variants/s10/r8g2r2g6r1g6r2g2r8y1/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

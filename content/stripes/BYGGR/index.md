@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BYGGR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BYGGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/cl/clare/">Clare</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clare/"><img src="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/sett.png" alt="Clare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/cl/clare-richard/">Clare, Richard</a></td></tr>
+<tr><td><a href="/tartans/c/cl/clare-richard/">Clare, Richard</a> <small class="dt">ΔTartan 0.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clare-richard/"><img src="/variants/s5/db5ly5dy13g41r3~x2/sett.png" alt="Clare, Richard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

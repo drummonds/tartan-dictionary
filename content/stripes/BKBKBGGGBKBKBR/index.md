@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BKBKBGGGBKBKBR</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBGGGBKBKBR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/h/ha/hay/">Hay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/hay/"><img src="/variants/s14/do18k2do2k2do9g10dy2g10dp11k9dp2k2dp1r3~x2/sett.png" alt="Hay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/ha/hay-gray/">Hay-Gray</a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-gray/">Hay-Gray</a> <small class="dt">ΔTartan 0.12</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-gray/"><img src="/variants/s14/do18k2do2k2do9dg10dy2dg10dp11k9dp2k2dp1r3~x2/sett.png" alt="Hay-Gray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

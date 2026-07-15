@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RYGYGYBKGKGKRW</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RYGYGYBKGKGKRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/be/berwick-2/">Berwick</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/be/berwick-2/"><img src="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/be/berwick-upon-tweed/">Berwick -upon-Tweed</a></td></tr>
+<tr><td><a href="/tartans/b/be/berwick-upon-tweed/">Berwick -upon-Tweed</a> <small class="dt">ΔTartan 1.23</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/be/berwick-upon-tweed/"><img src="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick -upon-Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

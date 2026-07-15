@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BRGGGRBW</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRGGGRBW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fo/forrester-2/">Forrester</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fo/forrester-2/"><img src="/variants/s8/db16r14g16dy3g16r14db16w3~x2/sett.png" alt="Forrester sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/j/ja/james-william-forrester-of-s-carolina/">James William Forrester of S. Carolina</a></td></tr>
+<tr><td><a href="/tartans/j/ja/james-william-forrester-of-s-carolina/">James William Forrester of S. Carolina</a> <small class="dt">ΔTartan 0.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/ja/james-william-forrester-of-s-carolina/"><img src="/variants/s8/db16r14g16y3g16r14db16w3~x2/sett.png" alt="James William Forrester of S. Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

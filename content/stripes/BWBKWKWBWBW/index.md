@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BWBKWKWBWBW</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBKWKWBWBW" width="860" height="320">
@@ -31,10 +31,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/cl/clark/">Clark</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clark/"><img src="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/cl/clergy-4/">Clergy</a></td></tr>
+<tr><td><a href="/tartans/c/cl/clergy-4/">Clergy</a> <small class="dt">ΔTartan 1.87</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-4/"><img src="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/cl/clergy-6/">Clergy 6</a></td></tr>
+<tr><td><a href="/tartans/c/cl/clergy-6/">Clergy 6</a> <small class="dt">ΔTartan 3.10</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-6/"><img src="/variants/s11/n1w1n6k6w1k6w1n1w1n3w1~x2/sett.png" alt="Clergy 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

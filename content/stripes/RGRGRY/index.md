@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">RGRGRY</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGRGRY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/ca/cameron-4/">Cameron</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-4/"><img src="/variants/s6/r2dg6r2dg6r16ly1~x4/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maguire-2/">Maguire</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maguire-2/">Maguire</a> <small class="dt">ΔTartan 0.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maguire-2/"><img src="/variants/s6/r29dg2r2dg2r6ly21~x4/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

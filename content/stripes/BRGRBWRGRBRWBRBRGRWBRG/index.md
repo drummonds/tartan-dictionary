@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BRGRBWRGRBRWBRBRGRWBRG</span></div>
 
-It is a 22 stripe tartan.
+It is a [22 stripe pattern](/stripes/stripes22/) — every 22-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRGRBWRGRBRWBRBRGRWBRG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/cu/cumming/">Cumming</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming/"><img src="/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/cu/cumming-glenorchy/">Cumming Glenorchy</a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumming-glenorchy/">Cumming Glenorchy</a> <small class="dt">ΔTartan 0.42</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming-glenorchy/"><img src="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/sett.png" alt="Cumming Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WBRBWBWBW</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WBRBWBWBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/ca/canadian-winter-games-1987/">Canadian Winter Games 1987</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-winter-games-1987/"><img src="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/sett.png" alt="Canadian Winter Games 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/j/je/jeux-canada-games-87/">Jeux Canada Games '87</a></td></tr>
+<tr><td><a href="/tartans/j/je/jeux-canada-games-87/">Jeux Canada Games '87</a> <small class="dt">ΔTartan 2.49</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/je/jeux-canada-games-87/"><img src="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png" alt="Jeux Canada Games '87 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BRG</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fe/ferguson/">Ferguson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson/"><img src="/variants/s3/g17r2db15~x2/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-62/">Wilson's No 62</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-62/">Wilson's No 62</a> <small class="dt">ΔTartan 0.29</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-62/"><img src="/variants/s3/db13r2g13~x2/sett.png" alt="Wilson's No 62 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">KW</span></div>
 
-It is a 2 stripe tartan.
+It is a [2 stripe pattern](/stripes/stripes2/) — every 2-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KW" width="860" height="320">
@@ -34,12 +34,12 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/j/jo/joy-s-fancy-allen/">Joy's Fancy, Allen</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/jo/joy-s-fancy-allen/"><img src="/variants/s2/k15lb1~x12/sett.png" alt="Joy's Fancy, Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sh/shepherd-or-falkirk/">Shepherd or Falkirk</a></td></tr>
+<tr><td><a href="/tartans/s/sh/shepherd-or-falkirk/">Shepherd or Falkirk</a> <small class="dt">ΔTartan 0.79</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sh/shepherd-or-falkirk/"><img src="/variants/s2/k1lb1~x6/sett.png" alt="Shepherd or Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-172/">Wilson's No.172</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-172/">Wilson's No.172</a> <small class="dt">ΔTartan 0.79</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-172/"><img src="/variants/s2/k9lb8~x2/sett.png" alt="Wilson's No.172 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sh/shepherd-3/">Shepherd</a></td></tr>
+<tr><td><a href="/tartans/s/sh/shepherd-3/">Shepherd</a> <small class="dt">ΔTartan 1.80</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sh/shepherd-3/"><img src="/variants/s2/k1w1/sett.png" alt="Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

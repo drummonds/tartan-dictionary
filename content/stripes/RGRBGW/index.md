@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RGRBGW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGRBGW" width="860" height="320">
@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/n/ni/nibley/">Nibley</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ni/nibley/"><img src="/variants/s6/w3dg18db22r19dg1r2~x2/sett.png" alt="Nibley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ru/ruthven/">Ruthven</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruthven/"><img src="/variants/s6/w3g15db18r30g1r2~x2/sett.png" alt="Ruthven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/ruthven/">Ruthven</a> <small class="dt">ΔTartan 0.81</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruthven/"><img src="/variants/s6/w6g15db18r30g2r4~x2/sett.png" alt="Ruthven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

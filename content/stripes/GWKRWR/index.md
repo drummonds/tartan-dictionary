@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GWKRWR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GWKRWR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/n/ne/nesbit-rose/">Nesbit, Rose</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ne/nesbit-rose/"><img src="/variants/s6/r6w3r37k16w16g4~x2/sett.png" alt="Nesbit, Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/ni/nisbet-dress-rose/">Nisbet Dress Rose</a></td></tr>
+<tr><td><a href="/tartans/n/ni/nisbet-dress-rose/">Nisbet Dress Rose</a> <small class="dt">ΔTartan 0.46</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ni/nisbet-dress-rose/"><img src="/variants/s6/r3w1r20k8w8g2~x4/sett.png" alt="Nisbet Dress Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KYKYKY</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KYKYKY" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/mo/monoch-airline/">Monoch Airline</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/monoch-airline/"><img src="/variants/s6/lo4k6lo1k1lo16k2~x2/sett.png" alt="Monoch Airline sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/schranz-gritte-2/">Schranz-Gritte</a></td></tr>
+<tr><td><a href="/tartans/s/sc/schranz-gritte-2/">Schranz-Gritte</a> <small class="dt">ΔTartan 0.77</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/schranz-gritte-2/"><img src="/variants/s6/lo24k5lo4k2lo3k2~x2/sett.png" alt="Schranz-Gritte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

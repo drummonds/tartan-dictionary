@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GKGGKBKR</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGGKBKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/t/th/thomas-of-craigie/">Thomas of Craigie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thomas-of-craigie/"><img src="/variants/s8/y2k4y1dg16k14db23k4r1~x2/sett.png" alt="Thomas of Craigie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/th/thomas-baron-of-craigie-robert/">Thomas, baron of Craigie, Robert</a></td></tr>
+<tr><td><a href="/tartans/t/th/thomas-baron-of-craigie-robert/">Thomas, baron of Craigie, Robert</a> <small class="dt">ΔTartan 0.14</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thomas-baron-of-craigie-robert/"><img src="/variants/s8/r2k4db23k14g16y1k4y2~x2/sett.png" alt="Thomas, baron of Craigie, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

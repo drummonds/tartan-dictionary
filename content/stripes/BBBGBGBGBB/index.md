@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBGBGBGBB</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBGBGBGBB" width="860" height="320">
@@ -31,11 +31,11 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gr/gray-2/">Gray</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/gray-2/"><img src="/variants/s10/b3n30g8b2g2b2g2b8n7b2~x2/sett.png" alt="Gray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/ho/house-of-bruar/">House of Bruar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-bruar/"><img src="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/sett.png" alt="House of Bruar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wc/wcwm-1527-2/">Wcwm 1527-2</a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1527-2/">Wcwm 1527-2</a> <small class="dt">ΔTartan 3.82</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1527-2/"><img src="/variants/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/sett.png" alt="Wcwm 1527-2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/h/ho/house-of-bruar/">House of Bruar</a> <small class="dt">ΔTartan 9.15</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-bruar/"><img src="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/sett.png" alt="House of Bruar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

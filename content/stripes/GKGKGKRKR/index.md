@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GKGKGKRKR</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGKGKRKR" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/st/stewart-of-athol/">Stewart of Athol</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-athol/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stewart-of-atholl/">Stewart of Atholl</a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-atholl/">Stewart of Atholl</a> <small class="dt">ΔTartan 0.13</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-atholl/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/a/al/alma-college/">Alma College</a></td></tr>
+<tr><td><a href="/tartans/a/al/alma-college/">Alma College</a> <small class="dt">ΔTartan 3.33</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/al/alma-college/"><img src="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/sett.png" alt="Alma College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BKWB</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKWB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/do/dobelman/">Dobelman</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/dobelman/"><img src="/variants/s4/dr1k20lb5dr1~x4/sett.png" alt="Dobelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/th/thunderlord/">Thunderlord</a></td></tr>
+<tr><td><a href="/tartans/t/th/thunderlord/">Thunderlord</a> <small class="dt">ΔTartan 2.43</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thunderlord/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

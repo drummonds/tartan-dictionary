@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGWG</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGWG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/h/hs/hsu/">Hsu</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hs/hsu/"><img src="/variants/s4/db60g16w8dy3~x2/sett.png" alt="Hsu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/malehsuhk/">MaleHsuHK</a></td></tr>
+<tr><td><a href="/tartans/m/ma/malehsuhk/">MaleHsuHK</a> <small class="dt">ΔTartan 0.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/malehsuhk/"><img src="/variants/s4/db60g16w8y3~x2/sett.png" alt="MaleHsuHK sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

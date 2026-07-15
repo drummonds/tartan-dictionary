@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GBWBGBGR</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBWBGBGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/marshall-field/">Marshall Field</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/marshall-field/"><img src="/variants/s8/g10db1w1db1y1db6g8r1~x8/sett.png" alt="Marshall Field sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/marshall-fields/">Marshall Fields</a></td></tr>
+<tr><td><a href="/tartans/m/ma/marshall-fields/">Marshall Fields</a> <small class="dt">ΔTartan 0.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/marshall-fields/"><img src="/variants/s8/g40db2w2db2y2db23g32r2~x2/sett.png" alt="Marshall Fields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

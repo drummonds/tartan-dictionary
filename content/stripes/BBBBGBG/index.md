@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BBBBGBG</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBGBG" width="860" height="320">
@@ -31,10 +31,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/da/danzas/">Danzas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/da/danzas/"><img src="/variants/s7/y4t3y1t17db40t2db3~x2/sett.png" alt="Danzas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/n/no/norwich-no-017/">Norwich No.017</a></td></tr>
+<tr><td><a href="/tartans/n/no/norwich-no-017/">Norwich No.017</a> <small class="dt">ΔTartan 8.20</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-017/"><img src="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/sett.png" alt="Norwich No.017 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/p/pi/pinehurst-resort/">Pinehurst Resort</a></td></tr>
+<tr><td><a href="/tartans/p/pi/pinehurst-resort/">Pinehurst Resort</a> <small class="dt">ΔTartan 22.82</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pi/pinehurst-resort/"><img src="/variants/s7/dt4dr1dt4dr1dg14n1dg1~x4/sett.png" alt="Pinehurst Resort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BKBKBKBKBKB</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBKBKBKB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/bl/black-shadow-2/">Black Shadow</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/black-shadow-2/"><img src="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/sett.png" alt="Black Shadow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/b/bu/bute-heather-6/">Bute Heather</a></td></tr>
+<tr><td><a href="/tartans/b/bu/bute-heather-6/">Bute Heather</a> <small class="dt">ΔTartan 4.84</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/bute-heather-6/"><img src="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

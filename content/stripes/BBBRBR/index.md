@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BBBRBR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBRBR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/au/auchairne-3/">Auchairne</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/au/auchairne-3/"><img src="/variants/s6/r13n3r4n56b4n4~x2/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/ly/lynch/">Lynch</a></td></tr>
+<tr><td><a href="/tartans/l/ly/lynch/">Lynch</a> <small class="dt">ΔTartan 9.22</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/ly/lynch/"><img src="/variants/s6/r19db6r7db101b6db7~x2/sett.png" alt="Lynch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

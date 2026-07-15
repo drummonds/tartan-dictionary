@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBBWB</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBWB" width="860" height="320">
@@ -30,12 +30,12 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/a/au/auchairne-2/">Auchairne</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/au/auchairne-2/"><img src="/variants/s6/t11db7t3db70lb4db6~x2~db1004274/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/co/covenant-college/">Covenant College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/covenant-college/"><img src="/variants/s6/t4db2t1db23lb2t2~x2~t2405244-lb3103284/sett.png" alt="Covenant College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/e/er/erskine/">Erskine</a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine/">Erskine</a> <small class="dt">ΔTartan 1.10</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/er/erskine/"><img src="/variants/s6/db3w1db12b12db1b3~x4/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/covenant-college/">Covenant College</a> <small class="dt">ΔTartan 1.20</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/covenant-college/"><img src="/variants/s6/t4db2t1db23lb2t2~x2~t2405244-lb3103284/sett.png" alt="Covenant College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/ga/gavin-2/">Gavin</a></td></tr>
+<tr><td><a href="/tartans/g/ga/gavin-2/">Gavin</a> <small class="dt">ΔTartan 8.94</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/ga/gavin-2/"><img src="/variants/s6/dri26w2dri3dt41dr2dt3~x2~dri1305012-dr1004029/sett.png" alt="Gavin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

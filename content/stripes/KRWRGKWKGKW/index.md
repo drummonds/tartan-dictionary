@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">KRWRGKWKGKW</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KRWRGKWKGKW" width="860" height="320">
@@ -30,11 +30,11 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-1/">MacLean of Duart 1</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-1/"><img src="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/sett.png" alt="MacLean of Duart 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclean-of-duart-2/">MacLean of Duart 2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-2/"><img src="/variants/s11/lb16k12y4k4w6k4dg32r50lb6r8k3/sett.png" alt="MacLean of Duart 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclean-of-duart-3/">MacLean of Duart 3</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-of-duart-3/">MacLean of Duart 3</a> <small class="dt">ΔTartan 0.22</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-3/"><img src="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/sett.png" alt="MacLean of Duart 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclean-of-duart-4/">MacLean of Duart 4</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-of-duart-2/">MacLean of Duart 2</a> <small class="dt">ΔTartan 0.31</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-2/"><img src="/variants/s11/lb16k12y4k4w6k4dg32r50lb6r8k3/sett.png" alt="MacLean of Duart 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-of-duart-4/">MacLean of Duart 4</a> <small class="dt">ΔTartan 0.49</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-4/"><img src="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/sett.png" alt="MacLean of Duart 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

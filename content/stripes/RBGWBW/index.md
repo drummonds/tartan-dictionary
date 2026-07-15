@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RBGWBW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBGWBW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/w/wi/winnipeg-embroiderers-guild/">Winnipeg Embroiderers' Guild</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/winnipeg-embroiderers-guild/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/winnipeg-embroiders-guild/">Winnipeg Embroiders' Guild</a></td></tr>
+<tr><td><a href="/tartans/w/wi/winnipeg-embroiders-guild/">Winnipeg Embroiders' Guild</a> <small class="dt">ΔTartan 0.27</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/winnipeg-embroiders-guild/"><img src="/variants/s6/r12db2y2w2db4w3~x2/sett.png" alt="Winnipeg Embroiders' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

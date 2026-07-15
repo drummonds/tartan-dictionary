@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WWYWYW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WWYWYW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/l/lu/lucard-stphane/">Lucard, Stphane )</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lu/lucard-stphane/"><img src="/variants/s6/w11lb20ly3lb8ly3lb10~x2/sett.png" alt="Lucard, Stphane ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/ta/takla-makan-3/">Takla Makan</a></td></tr>
+<tr><td><a href="/tartans/t/ta/takla-makan-3/">Takla Makan</a> <small class="dt">ΔTartan 0.91</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ta/takla-makan-3/"><img src="/variants/s6/lb4ly15lb4ly15lb4w2~x2/sett.png" alt="Takla Makan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

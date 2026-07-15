@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GKGKBRBKGKGKG</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGKBRBKGKGKG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/p/po/poulter-sg-100/">Poulter SG 100</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-sg-100/"><img src="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/sett.png" alt="Poulter SG 100 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/u/ur/urquhart-3/">Urquhart</a></td></tr>
+<tr><td><a href="/tartans/u/ur/urquhart-3/">Urquhart</a> <small class="dt">ΔTartan 0.45</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/ur/urquhart-3/"><img src="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GBGBWBW</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBGBWBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/o/o/o-long/">O'Long</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/o/o-long/"><img src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="O'Long sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/un/unidentified-no-17/">Unidentified No 17</a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-17/">Unidentified No 17</a> <small class="dt">ΔTartan 4.41</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-17/"><img src="/variants/s7/g10db2g2db6lb5db1lb2~x2/sett.png" alt="Unidentified No 17 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

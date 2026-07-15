@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BWBGW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBGW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gl/glen-app/">Glen App</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-app/"><img src="/variants/s5/dp37w9dp3dy9w3~x2/sett.png" alt="Glen App sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/glen-shiel/">Glen Shiel</a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-shiel/">Glen Shiel</a> <small class="dt">ΔTartan 2.92</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-shiel/"><img src="/variants/s5/dr13w3dr1dg3w1~x6/sett.png" alt="Glen Shiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

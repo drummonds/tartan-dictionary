@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BWKWKWKWKWK</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWKWKWKWKWK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bu/buccleuch-check/">Buccleuch Check</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/buccleuch-check/"><img src="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Buccleuch Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scott-of-buccleuch/">Scott of Buccleuch</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-of-buccleuch/">Scott of Buccleuch</a> <small class="dt">ΔTartan 0.07</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-of-buccleuch/"><img src="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Scott of Buccleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KBKBKBK</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBKBK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/bl/black-spirit/">Black Spirit</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/black-spirit/"><img src="/variants/s7/k17n4k13n4k3n45k3~x2/sett.png" alt="Black Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/ca/campbell-of-lochlane/">Campbell of Lochlane</a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-of-lochlane/">Campbell of Lochlane</a> <small class="dt">ΔTartan 6.20</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-lochlane/"><img src="/variants/s7/k2dr1k6dr6k1dr1k1~x4/sett.png" alt="Campbell of Lochlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

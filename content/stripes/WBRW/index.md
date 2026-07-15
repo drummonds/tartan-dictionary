@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WBRW</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WBRW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/p/pr/prince-of-orange-2/">Prince of Orange</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-of-orange-2/"><img src="/variants/s4/lb6b28o20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/tr/triplett-jack-arnold/">Triplett, Jack Arnold</a></td></tr>
+<tr><td><a href="/tartans/t/tr/triplett-jack-arnold/">Triplett, Jack Arnold</a> <small class="dt">ΔTartan 4.59</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/tr/triplett-jack-arnold/"><img src="/variants/s4/w14t5r1lb1~x8/sett.png" alt="Triplett, Jack Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

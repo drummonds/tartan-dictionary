@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BKBKGW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKGW" width="860" height="320">
@@ -30,9 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/ca/campbell-of-argyll/">Campbell of Argyll</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-argyll/"><img src="/variants/s6/db2k2db12k11g16w2~x2/sett.png" alt="Campbell of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/ca/campbell-the-white-stripe/">Campbell, The White Stripe</a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-the-white-stripe/">Campbell, The White Stripe</a> <small class="dt">ΔTartan 0.20</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-the-white-stripe/"><img src="/variants/s6/db2k2db12k11g12w2~x2/sett.png" alt="Campbell, The White Stripe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gr/granger/">Granger</a></td></tr>
+<tr><td><a href="/tartans/g/gr/granger/">Granger</a> <small class="dt">ΔTartan 0.85</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/granger/"><img src="/variants/s6/db40k4db12k21g27w4~x2/sett.png" alt="Granger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

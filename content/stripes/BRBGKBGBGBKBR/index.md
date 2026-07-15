@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRBGKBGBGBKBR</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBGKBGBGBKBR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/ba/balmoral-3/">Balmoral</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/balmoral-3/"><img src="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/ba/balmoral-gillies-2/">Balmoral, Gillies</a></td></tr>
+<tr><td><a href="/tartans/b/ba/balmoral-gillies-2/">Balmoral, Gillies</a> <small class="dt">ΔTartan 0.31</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/balmoral-gillies-2/"><img src="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/sett.png" alt="Balmoral, Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

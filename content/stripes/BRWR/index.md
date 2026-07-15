@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRWR</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRWR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/ha/haggis-hostels/">Haggis Hostels</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/haggis-hostels/"><img src="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/sett.png" alt="Haggis Hostels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/st/st-giles-check-2/">St. Giles Check</a></td></tr>
+<tr><td><a href="/tartans/s/st/st-giles-check-2/">St. Giles Check</a> <small class="dt">ΔTartan 14.08</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-giles-check-2/"><img src="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/sett.png" alt="St. Giles Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RGBWW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGBWW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macteddy-2/">MacTeddy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macteddy-2/"><img src="/variants/s5/lb3w10db10g10r2~x4/sett.png" alt="MacTeddy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/st/staves/">Staves</a></td></tr>
+<tr><td><a href="/tartans/s/st/staves/">Staves</a> <small class="dt">ΔTartan 2.01</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/staves/"><img src="/variants/s5/r10dg4dr1w1lb1~x2/sett.png" alt="Staves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

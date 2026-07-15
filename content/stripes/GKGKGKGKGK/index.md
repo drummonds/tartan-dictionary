@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GKGKGKGKGK</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGKGKGKGK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gu/guildry-of-stirling/">Guildry of Stirling</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gu/guildry-of-stirling/"><img src="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/sett.png" alt="Guildry of Stirling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/re/reagan-3/">Reagan</a></td></tr>
+<tr><td><a href="/tartans/r/re/reagan-3/">Reagan</a> <small class="dt">ΔTartan 4.31</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/re/reagan-3/"><img src="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/sett.png" alt="Reagan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

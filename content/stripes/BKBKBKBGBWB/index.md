@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BKBKBKBGBWB</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBKBGBWB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sc/scotland-forever/">Scotland Forever</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-forever/"><img src="/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2~db1204274/sett.png" alt="Scotland Forever sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sc/scotland-forever-fashion-weavers/">Scotland Forever Fashion Weavers</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-forever-fashion-weavers/">Scotland Forever Fashion Weavers</a> <small class="dt">ΔTartan 2.48</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-forever-fashion-weavers/"><img src="/variants/s11/t6k3db19k6db4k3dp12g4dp12w2t5~x2~t2205244-db1204274/sett.png" alt="Scotland Forever Fashion Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GBKBGWKWGWK</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBKBGWKWGWK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-149/">Wilson's No.149</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-149/"><img src="/variants/s11/k8w2g11lb2k2lb2g11db6k7db6g8~x2/sett.png" alt="Wilson's No.149 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-149-2/">Wilson's, No 149</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-149-2/">Wilson's, No 149</a> <small class="dt">ΔTartan 0.29</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-149-2/"><img src="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/sett.png" alt="Wilson's, No 149 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

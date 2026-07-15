@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRKWKWKBR</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRKWKWKBR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/k/kn/knights-templar-international/">Knights Templar International</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/kn/knights-templar-international/"><img src="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/sett.png" alt="Knights Templar International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sc/scottish-knights-templar-international/">Scottish Knights Templar International</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-knights-templar-international/">Scottish Knights Templar International</a> <small class="dt">ΔTartan 2.00</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-knights-templar-international/"><img src="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/sett.png" alt="Scottish Knights Templar International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

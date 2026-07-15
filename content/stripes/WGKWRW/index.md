@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WGKWRW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WGKWRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/w/we/wellington-or-waterloo/">Wellington or Waterloo</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/we/wellington-or-waterloo/"><img src="/variants/s6/lb3g12k14lb11r3lb3~x2/sett.png" alt="Wellington or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/we/wellington-or-waterloo-commemorative/">Wellington or Waterloo Commemorative</a></td></tr>
+<tr><td><a href="/tartans/w/we/wellington-or-waterloo-commemorative/">Wellington or Waterloo Commemorative</a> <small class="dt">ΔTartan 0.37</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/we/wellington-or-waterloo-commemorative/"><img src="/variants/s6/lb3g6k6lb4r1lb1~x2/sett.png" alt="Wellington or Waterloo Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

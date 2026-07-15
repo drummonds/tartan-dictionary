@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KGKGKGK</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KGKGKGK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gr/grass-of-rasunda/">Grass of Rasunda</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grass-of-rasunda/"><img src="/variants/s7/k14dg7k2g8k4y2k1~x4/sett.png" alt="Grass of Rasunda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/ta/taiheiyo-club-inc/">Taiheiyo Club, Inc</a></td></tr>
+<tr><td><a href="/tartans/t/ta/taiheiyo-club-inc/">Taiheiyo Club, Inc</a> <small class="dt">ΔTartan 4.53</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ta/taiheiyo-club-inc/"><img src="/variants/s7/k46dg6k6dg6k42dg47k12/sett.png" alt="Taiheiyo Club, Inc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

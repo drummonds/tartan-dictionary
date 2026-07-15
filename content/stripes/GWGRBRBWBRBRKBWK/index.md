@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GWGRBRBWBRBRKBWK</span></div>
 
-It is a 16 stripe tartan.
+It is a [16 stripe pattern](/stripes/stripes16/) — every 16-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GWGRBRBWBRBRKBWK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/maclellan/">MacLellan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclellan/"><img src="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1y2~x4/sett.png" alt="MacLellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclellan-blue-mclellan/">MacLellan Blue McLellan</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclellan-blue-mclellan/">MacLellan Blue McLellan</a> <small class="dt">ΔTartan 0.08</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclellan-blue-mclellan/"><img src="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/sett.png" alt="MacLellan Blue McLellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KBKBK</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/r/ro/romsdal-tresfjord/">Romsdal Tresfjord</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/romsdal-tresfjord/"><img src="/variants/s5/k2dr4k7dr1k2~x2/sett.png" alt="Romsdal Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wa/warwick/">Warwick</a></td></tr>
+<tr><td><a href="/tartans/w/wa/warwick/">Warwick</a> <small class="dt">ΔTartan 4.72</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wa/warwick/"><img src="/variants/s5/k13n8k15dp2k8~x2/sett.png" alt="Warwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

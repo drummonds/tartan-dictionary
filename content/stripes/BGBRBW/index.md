@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BGBRBW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBRBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/do/donnolly/">Donnolly</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/donnolly/"><img src="/variants/s6/db3dg21db3o21db35w3~x2/sett.png" alt="Donnolly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/e/ea/east-of-scotland-tartan-army/">East of Scotland Tartan Army</a></td></tr>
+<tr><td><a href="/tartans/e/ea/east-of-scotland-tartan-army/">East of Scotland Tartan Army</a> <small class="dt">ΔTartan 9.14</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/ea/east-of-scotland-tartan-army/"><img src="/variants/s6/dt40dy10dt8r20dt100w5/sett.png" alt="East of Scotland Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

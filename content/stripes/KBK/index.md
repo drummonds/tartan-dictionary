@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KBK</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/be/ben-dubh-2/">Ben Dubh</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/be/ben-dubh-2/"><img src="/variants/s3/k4dt1k3~x10/sett.png" alt="Ben Dubh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/bo/bodog/">Bodog</a></td></tr>
+<tr><td><a href="/tartans/b/bo/bodog/">Bodog</a> <small class="dt">ΔTartan 0.90</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bo/bodog/"><img src="/variants/s3/k80dr1k60~x2/sett.png" alt="Bodog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

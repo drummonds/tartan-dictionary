@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BRBRBRKWGRGRGW</span></div>
 
-It is a 14 stripe tartan.
+It is a [14 stripe pattern](/stripes/stripes14/) — every 14-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRBRKWGRGRGW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonald-of-clanranald/">MacDonald of Clanranald</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald/"><img src="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/sett.png" alt="MacDonald of Clanranald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-3/">MacDonald of Clanranald 3</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-3/">MacDonald of Clanranald 3</a> <small class="dt">ΔTartan 0.53</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-3/"><img src="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/sett.png" alt="MacDonald of Clanranald 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

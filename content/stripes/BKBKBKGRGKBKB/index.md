@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BKBKBKGRGKBKB</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBKGRGKBKB" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/mu/murray/">Murray</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/murray/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/we/westwood-gordon-pink/">Westwood Gordon Pink</a></td></tr>
+<tr><td><a href="/tartans/w/we/westwood-gordon-pink/">Westwood Gordon Pink</a> <small class="dt">ΔTartan 0.28</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/we/westwood-gordon-pink/"><img src="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/sett.png" alt="Westwood Gordon Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

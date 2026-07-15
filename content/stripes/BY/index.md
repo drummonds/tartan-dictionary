@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BY</span></div>
 
-It is a 2 stripe tartan.
+It is a [2 stripe pattern](/stripes/stripes2/) — every 2-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BY" width="860" height="320">

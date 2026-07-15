@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BRBRBRGRB</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRBRGRB" width="860" height="320">
@@ -31,11 +31,11 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/f/fr/fraser-8/">Fraser</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-8/"><img src="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/lovat-or-fraser/">Lovat or Fraser</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/lovat-or-fraser/"><img src="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/macpherson-gathering-1996/">MacPherson Gathering 1996</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-gathering-1996/">MacPherson Gathering 1996</a> <small class="dt">ΔTartan 1.84</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-gathering-1996/"><img src="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/sett.png" alt="MacPherson Gathering 1996 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/l/lo/lovat-or-fraser/">Lovat or Fraser</a> <small class="dt">ΔTartan 4.26</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lovat-or-fraser/"><img src="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

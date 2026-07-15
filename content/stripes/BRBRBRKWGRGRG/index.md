@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BRBRBRKWGRGRG</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRBRKWGRGRG" width="860" height="320">
@@ -30,9 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonald-of-clanranald/">MacDonald of Clanranald</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald/"><img src="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8/sett.png" alt="MacDonald of Clanranald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-1/">MacDonald of Clanranald 1</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-1/">MacDonald of Clanranald 1</a> <small class="dt">ΔTartan 0.24</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-1/"><img src="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/sett.png" alt="MacDonald of Clanranald 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-d/">MacDonald of Clanranald D</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-d/">MacDonald of Clanranald D</a> <small class="dt">ΔTartan 0.53</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-d/"><img src="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/sett.png" alt="MacDonald of Clanranald D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

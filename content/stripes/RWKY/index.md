@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">RWKY</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RWKY" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/broberg/">Broberg</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/broberg/"><img src="/variants/s4/r80lb40k5lo6/sett.png" alt="Broberg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/rogues-the/">Rogues , The</a></td></tr>
+<tr><td><a href="/tartans/r/ro/rogues-the/">Rogues , The</a> <small class="dt">ΔTartan 1.30</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/rogues-the/"><img src="/variants/s4/r3lb12k50ly3~x2/sett.png" alt="Rogues , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/ok/oklahoma-state-university-2/">Oklahoma State University</a></td></tr>
+<tr><td><a href="/tartans/o/ok/oklahoma-state-university-2/">Oklahoma State University</a> <small class="dt">ΔTartan 4.09</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state-university-2/"><img src="/variants/s4/lo80k52w7o12~o2500000/sett.png" alt="Oklahoma State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

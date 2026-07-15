@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BGBKGKGR</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBKGKGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/o/og/ogilvie-of-inverarity/">Ogilvie of Inverarity</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-of-inverarity/"><img src="/variants/s8/db28y1db2k26g24k1g2r3~x2/sett.png" alt="Ogilvie of Inverarity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/o/og/ogilvy-vs/">Ogilvy VS</a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvy-vs/">Ogilvy VS</a> <small class="dt">ΔTartan 0.27</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvy-vs/"><img src="/variants/s8/db28y1db2k16g24k1g2r3~x2/sett.png" alt="Ogilvy VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

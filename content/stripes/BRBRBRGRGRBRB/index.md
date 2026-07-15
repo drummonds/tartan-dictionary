@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BRBRBRGRGRBRB</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRBRGRGRBRB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/bl/black-watch-7/">Black Watch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-7/"><img src="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/ty/tyneside-scottish-4/">Tyneside, Scottish</a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyneside-scottish-4/">Tyneside, Scottish</a> <small class="dt">ΔTartan 3.32</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ty/tyneside-scottish-4/"><img src="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/sett.png" alt="Tyneside, Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

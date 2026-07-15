@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WRKRGKWKYKBRBKYKWKGRKRW</span></div>
 
-It is a 23 stripe tartan.
+It is a [23 stripe pattern](/stripes/stripes23/) — every 23-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WRKRGKWKYKBRBKYKWKGRKRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/st/stewart-13/">Stewart</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-13/"><img src="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/">Stuart-Forbes of Fettercairn and Pitsligo</a></td></tr>
+<tr><td><a href="/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/">Stuart-Forbes of Fettercairn and Pitsligo</a> <small class="dt">ΔTartan 0.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/"><img src="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

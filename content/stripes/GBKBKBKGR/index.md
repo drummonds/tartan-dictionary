@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GBKBKBKGR</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBKBKBKGR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macwilliams-wedding/">MacWilliams Wedding</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macwilliams-wedding/"><img src="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/sett.png" alt="MacWilliams Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mc/mcwilliams-wedding/">McWilliams Wedding</a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcwilliams-wedding/">McWilliams Wedding</a> <small class="dt">ΔTartan 2.74</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mcwilliams-wedding/"><img src="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/sett.png" alt="McWilliams Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

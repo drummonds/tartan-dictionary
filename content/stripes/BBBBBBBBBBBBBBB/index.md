@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBBBBBBBBBBBBB</span></div>
 
-It is a 15 stripe tartan.
+It is a [15 stripe pattern](/stripes/stripes15/) — every 15-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBBBBBBBBBBBB" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-gas/">Scottish Gas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-gas/"><img src="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/sett.png" alt="Scottish Gas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/william-murdoch/">William Murdoch</a></td></tr>
+<tr><td><a href="/tartans/w/wi/william-murdoch/">William Murdoch</a> <small class="dt">ΔTartan 0.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/william-murdoch/"><img src="/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/sett.png" alt="William Murdoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

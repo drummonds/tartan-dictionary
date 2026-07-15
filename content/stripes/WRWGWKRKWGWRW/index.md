@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WRWGWKRKWGWRW</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WRWGWKRKWGWRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bo/border-sett/">Border Sett</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bo/border-sett/"><img src="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png" alt="Border Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-blanket-sett/">Wilson's Blanket Sett</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-blanket-sett/">Wilson's Blanket Sett</a> <small class="dt">ΔTartan 0.64</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-blanket-sett/"><img src="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png" alt="Wilson's Blanket Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

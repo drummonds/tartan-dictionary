@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WGKWKGKWKRW</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WGKWKGKWKRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/ba/baxter-3/">Baxter</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/baxter-3/"><img src="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/sett.png" alt="Baxter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/ba/baxter-of-balgavies/">Baxter of Balgavies</a></td></tr>
+<tr><td><a href="/tartans/b/ba/baxter-of-balgavies/">Baxter of Balgavies</a> <small class="dt">ΔTartan 0.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/baxter-of-balgavies/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/sett.png" alt="Baxter of Balgavies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

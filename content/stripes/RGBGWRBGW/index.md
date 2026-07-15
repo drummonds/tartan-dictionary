@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RGBGWRBGW</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGBGWRBGW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/dr/drummond-of-perth-dress-5/">Drummond of Perth, dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-dress-5/"><img src="/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/sett.png" alt="Drummond of Perth, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/manx-laxey/">Manx Laxey</a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-laxey/">Manx Laxey</a> <small class="dt">ΔTartan 2.79</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-laxey/"><img src="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/sett.png" alt="Manx Laxey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

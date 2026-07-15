@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BKGKBKBKGW</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKGKBKBKGW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/p/pi/pitceathley-chamberlain/">Pitceathley Chamberlain</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pi/pitceathley-chamberlain/"><img src="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/sett.png" alt="Pitceathley Chamberlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/p/pi/pitceathly-chamberlain/">Pitceathly Chamberlain</a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitceathly-chamberlain/">Pitceathly Chamberlain</a> <small class="dt">ΔTartan 0.08</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pi/pitceathly-chamberlain/"><img src="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/sett.png" alt="Pitceathly Chamberlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

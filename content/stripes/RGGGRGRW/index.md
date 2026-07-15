@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RGGGRGRW</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGGGRGRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bu/burnett-of-leys-2/">Burnett of Leys</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-of-leys-2/"><img src="/variants/s8/r2g6y1g6r3g2r16lb1~x4/sett.png" alt="Burnett of Leys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/bu/burnett-of-powis/">Burnett of Powis</a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnett-of-powis/">Burnett of Powis</a> <small class="dt">ΔTartan 0.81</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-of-powis/"><img src="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/sett.png" alt="Burnett of Powis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

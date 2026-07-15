@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRBBR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBBR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/f/fe/ferguson-britt/">Ferguson Britt</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-britt/"><img src="/variants/s5/dr4r21dr21db24r4~x2/sett.png" alt="Ferguson Britt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/glen-boig/">Glen Boig</a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-boig/">Glen Boig</a> <small class="dt">ΔTartan 9.24</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-boig/"><img src="/variants/s5/b37o9b3do9o3~x2/sett.png" alt="Glen Boig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

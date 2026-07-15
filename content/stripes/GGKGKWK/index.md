@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GGKGKWK</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGKGKWK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/l/la/lawson-william-2002/">Lawson, William 2002</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/lawson-william-2002/"><img src="/variants/s7/k4w19k11dg15k3dg16y3~x2/sett.png" alt="Lawson, William 2002 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/la/lawsons-whisky/">Lawsons' Whisky</a></td></tr>
+<tr><td><a href="/tartans/l/la/lawsons-whisky/">Lawsons' Whisky</a> <small class="dt">ΔTartan 0.35</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/lawsons-whisky/"><img src="/variants/s7/k9w38k22g31k5g31y5/sett.png" alt="Lawsons' Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

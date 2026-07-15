@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BWBWBWG</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBWBWG" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/mu/muir-john/">Muir, John</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/muir-john/"><img src="/variants/s7/y2w21db16lb8db30w8db1~x2/sett.png" alt="Muir, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/ta/talisker/">Talisker</a></td></tr>
+<tr><td><a href="/tartans/t/ta/talisker/">Talisker</a> <small class="dt">ΔTartan 1.79</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ta/talisker/"><img src="/variants/s7/db16lb4db1lb2db24w1y4~x2/sett.png" alt="Talisker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

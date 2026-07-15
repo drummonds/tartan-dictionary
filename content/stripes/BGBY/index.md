@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BGBY</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBY" width="860" height="320">
@@ -31,11 +31,11 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/hi/hirstwood/">Hirstwood</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hi/hirstwood/"><img src="/variants/s4/ly28dr24dg55dp19~x2/sett.png" alt="Hirstwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/loch-garth-2/">Loch Garth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-garth-2/"><img src="/variants/s4/do12y6do2lo1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/ox/oxford-university-2/">Oxford University</a></td></tr>
+<tr><td><a href="/tartans/o/ox/oxford-university-2/">Oxford University</a> <small class="dt">ΔTartan 5.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/ox/oxford-university-2/"><img src="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-garth-2/">Loch Garth</a> <small class="dt">ΔTartan 9.44</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-garth-2/"><img src="/variants/s4/do12y6do2lo1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

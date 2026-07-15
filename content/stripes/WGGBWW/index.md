@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WGGBWW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WGGBWW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/al/allanton/">Allanton</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/al/allanton/"><img src="/variants/s6/w4lb28db7y2g16lb4~x2/sett.png" alt="Allanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/la/laxey-manx/">Laxey Manx</a></td></tr>
+<tr><td><a href="/tartans/l/la/laxey-manx/">Laxey Manx</a> <small class="dt">ΔTartan 2.62</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/laxey-manx/"><img src="/variants/s6/w4lb28dp7y2dg16lb4~x2/sett.png" alt="Laxey Manx sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

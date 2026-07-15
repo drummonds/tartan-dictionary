@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RWKGKWKGKRWR</span></div>
 
-It is a 12 stripe tartan.
+It is a [12 stripe pattern](/stripes/stripes12/) — every 12-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RWKGKWKGKRWR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/u/un/unidentified-no-1/">Unidentified No 1</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-1/"><img src="/variants/s12/r8lb7k8y2k1w2k1g19k1r8lb3r8~x2/sett.png" alt="Unidentified No 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-90/">Wilson's, No 90</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-90/">Wilson's, No 90</a> <small class="dt">ΔTartan 0.26</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-90/"><img src="/variants/s12/r19lb13k16y3k3w5k3g32k2r15lb5r15~x2/sett.png" alt="Wilson's, No 90 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

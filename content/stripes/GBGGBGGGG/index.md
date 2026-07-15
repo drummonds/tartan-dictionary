@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GBGGBGGGG</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBGGBGGGG" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/co/conlon/">Conlon</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/conlon/"><img src="/variants/s9/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171-db1406275/sett.png" alt="Conlon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/co/connemara/">Connemara</a></td></tr>
+<tr><td><a href="/tartans/c/co/connemara/">Connemara</a> <small class="dt">ΔTartan 8.21</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/connemara/"><img src="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/sett.png" alt="Connemara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

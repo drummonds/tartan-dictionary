@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KBKBKR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBKR" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/a/al/allen-nicholas-2/">Allen, Nicholas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/al/allen-nicholas-2/"><img src="/variants/s6/r8k24db10k5db10k5~x2/sett.png" alt="Allen, Nicholas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sl/slanj-2/">Slanj</a></td></tr>
+<tr><td><a href="/tartans/s/sl/slanj-2/">Slanj</a> <small class="dt">ΔTartan 0.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sl/slanj-2/"><img src="/variants/s6/o4k28t3k3t25k3~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/macsween/">MacSween</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macsween/">MacSween</a> <small class="dt">ΔTartan 3.48</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macsween/"><img src="/variants/s6/k2n6k2n6k12r1~x4/sett.png" alt="MacSween sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

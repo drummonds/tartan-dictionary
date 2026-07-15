@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KBKRBKGKRKR</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKRBKGKRKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gl/glennie-the-rhythms-of-evelyn/">Glennie, The Rhythms of Evelyn</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glennie-the-rhythms-of-evelyn/"><img src="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/sett.png" alt="Glennie, The Rhythms of Evelyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/th/the-rhythms-of-evelyn-glennie/">The Rhythms of Evelyn Glennie</a></td></tr>
+<tr><td><a href="/tartans/t/th/the-rhythms-of-evelyn-glennie/">The Rhythms of Evelyn Glennie</a> <small class="dt">ΔTartan 0.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/the-rhythms-of-evelyn-glennie/"><img src="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/sett.png" alt="The Rhythms of Evelyn Glennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

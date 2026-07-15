@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GKGKGKGKGKGKG</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGKGKGKGKGKG" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/brown-watch/">Brown Watch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brown-watch/"><img src="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/sett.png" alt="Brown Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/ca/campbell-collegiate/">Campbell Collegiate</a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-collegiate/">Campbell Collegiate</a> <small class="dt">ΔTartan 0.52</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-collegiate/"><img src="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/sett.png" alt="Campbell Collegiate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/y/ya/yamaguchi-tsutomu/">Yamaguchi Tsutomu</a></td></tr>
+<tr><td><a href="/tartans/y/ya/yamaguchi-tsutomu/">Yamaguchi Tsutomu</a> <small class="dt">ΔTartan 3.29</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/y/ya/yamaguchi-tsutomu/"><img src="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/sett.png" alt="Yamaguchi Tsutomu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

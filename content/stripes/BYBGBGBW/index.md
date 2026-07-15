@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BYBGBGBW</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BYBGBGBW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/0-9/0-9/21st-century/">21st Century</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/21st-century/"><img src="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/sett.png" alt="21st Century sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scotland-2000/">Scotland 2000</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-2000/">Scotland 2000</a> <small class="dt">ΔTartan 0.66</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-2000/"><img src="/variants/s8/lb4db38g6dr2g6dr36lo2dr3~x2/sett.png" alt="Scotland 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

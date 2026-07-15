@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBWBWB</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBWBWB" width="860" height="320">
@@ -30,17 +30,17 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/st/st-andrews-earl-of-royal/">St Andrews Earl of Royal</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-earl-of-royal/"><img src="/variants/s6/t52db28w3db2w2db10~x2/sett.png" alt="St Andrews Earl of Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/st-andrews-earl-of-2/">St. Andrews, Earl of</a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrews-earl-of-2/">St. Andrews, Earl of</a> <small class="dt">ΔTartan 0.06</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-earl-of-2/"><img src="/variants/s6/t52db28w5db3w2db10~x2/sett.png" alt="St. Andrews, Earl of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/f/fr/french-freemasons-pride/">French Freemasons' Pride</a></td></tr>
+<tr><td><a href="/tartans/u/un/united-french-freemasons-corporate/">United French Freemasons (Corporate</a> <small class="dt">ΔTartan 3.18</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-french-freemasons-corporate/"><img src="/variants/s6/db144dr9lb44db4lb4db4/sett.png" alt="United French Freemasons (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/f/fr/french-freemasons-pride/">French Freemasons' Pride</a> <small class="dt">ΔTartan 4.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/french-freemasons-pride/"><img src="/variants/s6/db128dr8lb41dt4lb4dt4/sett.png" alt="French Freemasons' Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/st/st-giles-cathedral/">St. Giles Cathedral</a></td></tr>
+<tr><td><a href="/tartans/s/st/st-giles-cathedral/">St. Giles Cathedral</a> <small class="dt">ΔTartan 4.84</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-giles-cathedral/"><img src="/variants/s6/dr2lb2n18lb1n2db2~x4/sett.png" alt="St. Giles Cathedral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/un/united-french-freemasons-corporate/">United French Freemasons (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/united-french-freemasons-corporate/"><img src="/variants/s6/db144dr9lb44db4lb4db4/sett.png" alt="United French Freemasons (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

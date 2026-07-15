@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BWBKBK</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBKBK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/ai/ailsa-navy-2/">Ailsa, Navy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/ai/ailsa-navy-2/"><img src="/variants/s6/k60dr3k5dr3lb18n3~x2/sett.png" alt="Ailsa, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gr/grammar-school-at-leeds/">Grammar School at Leeds</a></td></tr>
+<tr><td><a href="/tartans/g/gr/grammar-school-at-leeds/">Grammar School at Leeds</a> <small class="dt">ΔTartan 8.24</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grammar-school-at-leeds/"><img src="/variants/s6/n32w4n4k24dp29k4/sett.png" alt="Grammar School at Leeds sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

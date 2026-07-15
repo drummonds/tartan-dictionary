@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GWBW</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GWBW" width="860" height="320">
@@ -30,14 +30,14 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/v/va/varrie/">Varrie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/v/va/varrie/"><img src="/variants/s4/lb11db1w1y1~x20/sett.png" alt="Varrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/v/va/varrie-commemorative/">Varrie Commemorative</a></td></tr>
+<tr><td><a href="/tartans/v/va/varrie-commemorative/">Varrie Commemorative</a> <small class="dt">ΔTartan 0.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/v/va/varrie-commemorative/"><img src="/variants/s4/lb9db1w1y1~x20/sett.png" alt="Varrie Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/b/ba/baker-city/">Baker City</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/baker-city/"><img src="/variants/s4/dg4lb10db10lb1~x4/sett.png" alt="Baker City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress/">McKerrell of Hillhouse Dress</a></td></tr>
+<tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress/">McKerrell of Hillhouse Dress</a> <small class="dt">ΔTartan 2.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress/"><img src="/variants/s4/w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/b/ba/baker-city/">Baker City</a> <small class="dt">ΔTartan 4.51</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baker-city/"><img src="/variants/s4/dg4lb10db10lb1~x4/sett.png" alt="Baker City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

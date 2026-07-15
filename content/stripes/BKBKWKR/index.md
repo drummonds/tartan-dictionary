@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BKBKWKR</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKWKR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/k/ky/kyle-4/">Kyle</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ky/kyle-4/"><img src="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/sett.png" alt="Kyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/st/st-georges-edgbaston/">St. Georges, Edgbaston</a></td></tr>
+<tr><td><a href="/tartans/s/st/st-georges-edgbaston/">St. Georges, Edgbaston</a> <small class="dt">ΔTartan 6.93</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-georges-edgbaston/"><img src="/variants/s7/r4k21w2k20db21k2db2~x2/sett.png" alt="St. Georges, Edgbaston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

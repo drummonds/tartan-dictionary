@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBBBGBGBRBGB</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBBGBGBRBGB" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/p/pi/pitcairn-heritage-hunting/">Pitcairn Heritage Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pi/pitcairn-heritage-hunting/"><img src="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/sett.png" alt="Pitcairn Heritage Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/p/pi/pitcairn-hunting/">Pitcairn Hunting</a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitcairn-hunting/">Pitcairn Hunting</a> <small class="dt">ΔTartan 0.06</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pi/pitcairn-hunting/"><img src="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/sett.png" alt="Pitcairn Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

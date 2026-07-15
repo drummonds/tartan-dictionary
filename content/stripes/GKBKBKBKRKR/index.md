@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GKBKBKBKRKR</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKBKBKBKRKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/brotherhood-of-dirk/">Brotherhood of Dirk</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brotherhood-of-dirk/"><img src="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/sett.png" alt="Brotherhood of Dirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/br/brotherhood-of-dirk-the/">Brotherhood of Dirk, The</a></td></tr>
+<tr><td><a href="/tartans/b/br/brotherhood-of-dirk-the/">Brotherhood of Dirk, The</a> <small class="dt">ΔTartan 0.01</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brotherhood-of-dirk-the/"><img src="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/sett.png" alt="Brotherhood of Dirk, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

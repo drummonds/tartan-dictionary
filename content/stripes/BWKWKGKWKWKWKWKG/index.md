@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BWKWKGKWKWKWKWKG</span></div>
 
-It is a 16 stripe tartan.
+It is a [16 stripe pattern](/stripes/stripes16/) — every 16-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWKWKGKWKWKWKWKG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/l/li/livingston-dress/">Livingston, dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/li/livingston-dress/"><img src="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png" alt="Livingston, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/li/livingstone-dress/">Livingstone Dress</a></td></tr>
+<tr><td><a href="/tartans/l/li/livingstone-dress/">Livingstone Dress</a> <small class="dt">ΔTartan 0.66</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/li/livingstone-dress/"><img src="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/sett.png" alt="Livingstone Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

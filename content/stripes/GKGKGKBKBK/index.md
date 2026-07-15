@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GKGKGKBKBK</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGKGKBKBK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/k/ke/kerr/">Kerr</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr/"><img src="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/sett.png" alt="Kerr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/k/ke/kerr-hunting/">Kerr Hunting</a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerr-hunting/">Kerr Hunting</a> <small class="dt">ΔTartan 4.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr-hunting/"><img src="/variants/s10/g16k2g2k2g4k10t19k2t2k3~x2/sett.png" alt="Kerr Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

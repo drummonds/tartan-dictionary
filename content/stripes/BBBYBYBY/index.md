@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BBBYBYBY</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBYBYBY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/ch/chindecella-gorse/">Chindecella Gorse</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ch/chindecella-gorse/"><img src="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/sett.png" alt="Chindecella Gorse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/he/heil-rudiger/">Heil, Rudiger</a></td></tr>
+<tr><td><a href="/tartans/h/he/heil-rudiger/">Heil, Rudiger</a> <small class="dt">ΔTartan 2.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/he/heil-rudiger/"><img src="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/sett.png" alt="Heil, Rudiger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

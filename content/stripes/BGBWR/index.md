@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BGBWR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBWR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/brazell/">Brazell</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brazell/"><img src="/variants/s5/db7y1db7lb11r2~x6/sett.png" alt="Brazell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/ti/tilburg/">Tilburg</a></td></tr>
+<tr><td><a href="/tartans/t/ti/tilburg/">Tilburg</a> <small class="dt">ΔTartan 0.73</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ti/tilburg/"><img src="/variants/s5/db9y9db9lb23r3~x2/sett.png" alt="Tilburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

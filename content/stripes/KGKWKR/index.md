@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KGKWKR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KGKWKR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/lo/london-scottish-rugby-club-2/">London Scottish Rugby Club</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/london-scottish-rugby-club-2/"><img src="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/sett.png" alt="London Scottish Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/th/thomson-camel/">Thomson Camel</a></td></tr>
+<tr><td><a href="/tartans/t/th/thomson-camel/">Thomson Camel</a> <small class="dt">ΔTartan 9.68</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thomson-camel/"><img src="/variants/s6/r4k2lb10k10y28k3~x2/sett.png" alt="Thomson Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

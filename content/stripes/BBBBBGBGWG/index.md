@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BBBBBGBGWG</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBBGBGWG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/be/bell-of-ardbel/">Bell of Ardbel</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/be/bell-of-ardbel/"><img src="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/sett.png" alt="Bell of Ardbel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/be/bell-john/">Bell, John</a></td></tr>
+<tr><td><a href="/tartans/b/be/bell-john/">Bell, John</a> <small class="dt">ΔTartan 0.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/be/bell-john/"><img src="/variants/s10/do7dr4do4dr25dp1dg32dp4dg2w2dg5~x2/sett.png" alt="Bell, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

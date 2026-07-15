@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">KWKGW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KWKGW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gl/glen-coe/">Glen Coe</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-coe/"><img src="/variants/s5/k37w9k3dg9w3~x2/sett.png" alt="Glen Coe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gl/glencoe/">Glencoe</a></td></tr>
+<tr><td><a href="/tartans/g/gl/glencoe/">Glencoe</a> <small class="dt">ΔTartan 0.08</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glencoe/"><img src="/variants/s5/k37w9k3g9w3~x2/sett.png" alt="Glencoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

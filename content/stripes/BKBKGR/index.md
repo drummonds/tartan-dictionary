@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BKBKGR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKGR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/maceachain/">MacEachain</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maceachain/"><img src="/variants/s6/dr2k1db6k2g6o2~x4/sett.png" alt="MacEachain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mu/murray-2/">Murray</a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-2/">Murray</a> <small class="dt">ΔTartan 1.62</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-2/"><img src="/variants/s6/db2k2db12k8g11r2~x2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

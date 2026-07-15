@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GGGW</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGGW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/o/o/o-neill-3/">O'Neill</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-3/"><img src="/variants/s4/g9dy20g40w5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sp/special-saffron-2/">Special Saffron</a></td></tr>
+<tr><td><a href="/tartans/s/sp/special-saffron-2/">Special Saffron</a> <small class="dt">ΔTartan 0.56</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sp/special-saffron-2/"><img src="/variants/s4/dg21y43dg86lb10/sett.png" alt="Special Saffron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

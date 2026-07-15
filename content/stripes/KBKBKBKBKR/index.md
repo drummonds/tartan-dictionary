@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KBKBKBKBKR</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBKBKBKR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sl/slanj/">Slanj</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sl/slanj/"><img src="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wi/witches-blood-the/">Witches' Blood, The</a></td></tr>
+<tr><td><a href="/tartans/w/wi/witches-blood-the/">Witches' Blood, The</a> <small class="dt">ΔTartan 5.12</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/witches-blood-the/"><img src="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png" alt="Witches' Blood, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

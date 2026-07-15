@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BGBGBWBGBWBGBKB</span></div>
 
-It is a 15 stripe tartan.
+It is a [15 stripe pattern](/stripes/stripes15/) — every 15-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBGBWBGBWBGBKB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/maccall/">MacCall</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccall/"><img src="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/sett.png" alt="MacCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mc/mccall-2/">McCall</a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccall-2/">McCall</a> <small class="dt">ΔTartan 2.77</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mccall-2/"><img src="/variants/s15/dr8k5dr8g27dr8w2dr3g3dr3w2dr8dy27dr8dy3dr3~x2/sett.png" alt="McCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

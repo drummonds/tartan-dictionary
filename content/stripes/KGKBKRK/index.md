@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KGKBKRK</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KGKBKRK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/e/eg/eglinton/">Eglinton</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/eg/eglinton/"><img src="/variants/s7/k1r1k1db7k1g1k1~x8/sett.png" alt="Eglinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mo/montgomery/">Montgomery</a></td></tr>
+<tr><td><a href="/tartans/m/mo/montgomery/">Montgomery</a> <small class="dt">ΔTartan 0.05</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomery/"><img src="/variants/s7/k4r5k4db28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

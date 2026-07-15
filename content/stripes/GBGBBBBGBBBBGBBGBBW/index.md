@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GBGBBBBGBBBBGBBGBBW</span></div>
 
-It is a 19 stripe tartan.
+It is a [19 stripe pattern](/stripes/stripes19/) — every 19-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBGBBBBGBBBBGBBGBBW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/j/jo/jorgensen-of-taasinge/">Jorgensen of Taasinge</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/jo/jorgensen-of-taasinge/"><img src="/variants/s19/lb4dr10db6dg10db6dr22g6dr4db22dr4db22dg36db22dr4db22dr4g6db10g3/sett.png" alt="Jorgensen of Taasinge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/j/jr/jrgensen-of-taasingee/">Jrgensen of Taasingee</a></td></tr>
+<tr><td><a href="/tartans/j/jr/jrgensen-of-taasingee/">Jrgensen of Taasingee</a> <small class="dt">ΔTartan 0.12</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/jr/jrgensen-of-taasingee/"><img src="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/sett.png" alt="Jrgensen of Taasingee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

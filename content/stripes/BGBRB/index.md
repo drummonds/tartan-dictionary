@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BGBRB</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBRB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/ll/lloyd/">Lloyd</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/ll/lloyd/"><img src="/variants/s5/n40r2n20g19db2~db1204274/sett.png" alt="Lloyd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wy/wyeth/">Wyeth</a></td></tr>
+<tr><td><a href="/tartans/w/wy/wyeth/">Wyeth</a> <small class="dt">ΔTartan 5.74</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wy/wyeth/"><img src="/variants/s5/db18r18dp2g12db1~x4/sett.png" alt="Wyeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

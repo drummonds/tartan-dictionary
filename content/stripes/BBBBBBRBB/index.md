@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBBBBRBB</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBBBRBB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/me/meanwood-mcmain/">Meanwood McMain</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/me/meanwood-mcmain/"><img src="/variants/s9/dp30db10o5db10dp30db3dpi5db3dp30~x2~dp1105325-dpi1607327/sett.png" alt="Meanwood McMain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/tr/trotter-2/">Trotter</a></td></tr>
+<tr><td><a href="/tartans/t/tr/trotter-2/">Trotter</a> <small class="dt">ΔTartan 10.74</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/tr/trotter-2/"><img src="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/sett.png" alt="Trotter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

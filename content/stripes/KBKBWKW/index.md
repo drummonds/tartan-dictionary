@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">KBKBWKW</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBWKW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/e/ed/edinburgh-the-university-of/">Edinburgh, The University of</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-the-university-of/"><img src="/variants/s7/k8dr26k22dt110w4k5w4/sett.png" alt="Edinburgh, The University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/u/un/university-of-edinburgh/">University of Edinburgh</a></td></tr>
+<tr><td><a href="/tartans/u/un/university-of-edinburgh/">University of Edinburgh</a> <small class="dt">ΔTartan 1.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/university-of-edinburgh/"><img src="/variants/s7/k8dr26k22db110w4k5w4/sett.png" alt="University of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

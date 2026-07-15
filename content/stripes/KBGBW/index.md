@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">KBGBW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBGBW" width="860" height="320">
@@ -30,12 +30,12 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/ba/bath/">Bath</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/bath/"><img src="/variants/s5/k4t2g13db13w2~x4/sett.png" alt="Bath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/d/do/douglas/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas/"><img src="/variants/s5/k3db3g23db21w2~x2~db1406275/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/hi/highlander-highland-laddie/">Highlander Highland Laddie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlander-highland-laddie/"><img src="/variants/s5/k7dr3g30db28lb3~x2/sett.png" alt="Highlander Highland Laddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/hi/highlander-highland-laddie-kilts/">Highlander, Highland Laddie Kilts</a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlander-highland-laddie-kilts/">Highlander, Highland Laddie Kilts</a> <small class="dt">ΔTartan 0.65</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hi/highlander-highland-laddie-kilts/"><img src="/variants/s5/k7dr3g29db29w3~x2/sett.png" alt="Highlander, Highland Laddie Kilts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlander-highland-laddie/">Highlander Highland Laddie</a> <small class="dt">ΔTartan 1.00</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlander-highland-laddie/"><img src="/variants/s5/k7dr3g30db28lb3~x2/sett.png" alt="Highlander Highland Laddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas/">Douglas</a> <small class="dt">ΔTartan 1.44</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas/"><img src="/variants/s5/k3db3g23db21w2~x2~db1406275/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

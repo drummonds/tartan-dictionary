@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GG</span></div>
 
-It is a 2 stripe tartan.
+It is a [2 stripe pattern](/stripes/stripes2/) — every 2-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-219/">Wilson's No.219</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-219/"><img src="/variants/s2/dg7g6~x2/sett.png" alt="Wilson's No.219 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-219-2/">Wilson's, No 219</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-219-2/">Wilson's, No 219</a> <small class="dt">ΔTartan 0.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-219-2/"><img src="/variants/s2/dg1g1~x18/sett.png" alt="Wilson's, No 219 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

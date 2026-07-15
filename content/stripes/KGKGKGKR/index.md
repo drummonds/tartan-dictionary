@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KGKGKGKR</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KGKGKGKR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gw/gwynn/">Gwynn</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gw/gwynn/"><img src="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/sett.png" alt="Gwynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/macarthur-fox-1993/">MacArthur-Fox 1993</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur-fox-1993/">MacArthur-Fox 1993</a> <small class="dt">ΔTartan 10.11</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur-fox-1993/"><img src="/variants/s8/k22g5k2g5k11g33k2r4~x2/sett.png" alt="MacArthur-Fox 1993 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

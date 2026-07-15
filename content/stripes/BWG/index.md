@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BWG</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWG" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/aq/aquascutum-3/">Aquascutum</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/aq/aquascutum-3/"><img src="/variants/s3/dy1w2db1~x12/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/s/s3/">S3</a></td></tr>
+<tr><td><a href="/tartans/s/s/s3/">S3</a> <small class="dt">ΔTartan 5.95</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/s/s3/"><img src="/variants/s3/g30w2dr5~x4/sett.png" alt="S3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

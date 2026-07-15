@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRWBWRGRWR</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRWBWRGRWR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gl/glenaladale/">Glenaladale</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glenaladale/"><img src="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/sett.png" alt="Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/glenfinnan-2/">Glenfinnan</a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenfinnan-2/">Glenfinnan</a> <small class="dt">ΔTartan 2.33</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glenfinnan-2/"><img src="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/sett.png" alt="Glenfinnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

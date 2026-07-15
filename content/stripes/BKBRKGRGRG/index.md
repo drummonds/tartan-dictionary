@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BKBRKGRGRG</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBRKGRGRG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/n/ne/newlands/">Newlands</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ne/newlands/"><img src="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png" alt="Newlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/ne/newlands-of-lauriston/">Newlands of Lauriston</a></td></tr>
+<tr><td><a href="/tartans/n/ne/newlands-of-lauriston/">Newlands of Lauriston</a> <small class="dt">ΔTartan 0.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ne/newlands-of-lauriston/"><img src="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/sett.png" alt="Newlands of Lauriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

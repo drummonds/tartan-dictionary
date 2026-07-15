@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BYBYB</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BYBYB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/br/brooks-bros-tattersall-camel-fashio/">Brooks Bros Tattersall Camel (Fashio</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-bros-tattersall-camel-fashio/"><img src="/variants/s5/dr1ly9db2ly9db1~x4/sett.png" alt="Brooks Bros Tattersall Camel (Fashio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/ca/carlisle/">Carlisle</a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlisle/">Carlisle</a> <small class="dt">ΔTartan 5.59</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/carlisle/"><img src="/variants/s5/t11lo2dr1lo2dr1~x4/sett.png" alt="Carlisle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

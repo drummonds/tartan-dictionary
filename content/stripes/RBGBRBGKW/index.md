@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RBGBRBGKW</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBGBRBGKW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macaulay-3/">MacAulay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macaulay-3/"><img src="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/sett.png" alt="MacAulay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macaulay-of-ardincaple/">MacAulay of Ardincaple</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macaulay-of-ardincaple/">MacAulay of Ardincaple</a> <small class="dt">ΔTartan 0.93</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macaulay-of-ardincaple/"><img src="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/sett.png" alt="MacAulay of Ardincaple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

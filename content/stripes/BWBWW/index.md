@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BWBWW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWBWW" width="860" height="320">
@@ -30,9 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/ga/gallaecia/">Gallaecia</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/ga/gallaecia/"><img src="/variants/s5/db24lb13db4lb4w2~x2/sett.png" alt="Gallaecia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gu/gulfmark/">GulfMark</a></td></tr>
+<tr><td><a href="/tartans/g/gu/gulfmark/">GulfMark</a> <small class="dt">ΔTartan 0.72</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gu/gulfmark/"><img src="/variants/s5/db72lb6db12lb17w6~x2/sett.png" alt="GulfMark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/lo/louise-beveridge/">Louise Beveridge</a></td></tr>
+<tr><td><a href="/tartans/l/lo/louise-beveridge/">Louise Beveridge</a> <small class="dt">ΔTartan 0.98</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/louise-beveridge/"><img src="/variants/s5/lb40w25db16lb8db4~x2/sett.png" alt="Louise Beveridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

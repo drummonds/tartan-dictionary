@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GKGKBKR</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGKBKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/ca/campbell-of-cawdor/">Campbell of Cawdor</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-cawdor/"><img src="/variants/s7/r2k1db8k8g8k1y2~x2/sett.png" alt="Campbell of Cawdor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-230/">Wilson's No.230</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-230/">Wilson's No.230</a> <small class="dt">ΔTartan 0.17</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-230/"><img src="/variants/s7/r4k2db16k17dg16k2y4~x2/sett.png" alt="Wilson's No.230 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

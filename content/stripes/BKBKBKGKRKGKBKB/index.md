@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BKBKBKGKRKGKBKB</span></div>
 
-It is a 15 stripe tartan.
+It is a [15 stripe pattern](/stripes/stripes15/) — every 15-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBKGKRKGKBKB" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/mackinlay-2/">MacKinlay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinlay-2/"><img src="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/sett.png" alt="MacKinlay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sa/safeway/">Safeway</a></td></tr>
+<tr><td><a href="/tartans/s/sa/safeway/">Safeway</a> <small class="dt">ΔTartan 0.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sa/safeway/"><img src="/variants/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/sett.png" alt="Safeway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

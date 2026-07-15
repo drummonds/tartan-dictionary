@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KWK</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KWK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macfarlane-vs/">MacFarlane VS</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarlane-vs/"><img src="/variants/s3/k7w6k1/sett.png" alt="MacFarlane VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/no/northumberland/">Northumberland</a></td></tr>
+<tr><td><a href="/tartans/n/no/northumberland/">Northumberland</a> <small class="dt">ΔTartan 0.79</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/northumberland/"><img src="/variants/s3/k1w1k1~x10/sett.png" alt="Northumberland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

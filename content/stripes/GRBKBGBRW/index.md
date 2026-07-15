@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GRBKBGBRW</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRBKBGBRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/v/vi/virginia-military-institute/">Virginia Military Institute</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-military-institute/"><img src="/variants/s9/dy6r30n2k3n30g3n2r25w6~x2/sett.png" alt="Virginia Military Institute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/v/vi/virginia-military-institute-new-market/">Virginia Military Institute, New Market</a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-military-institute-new-market/">Virginia Military Institute, New Market</a> <small class="dt">ΔTartan 0.03</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-military-institute-new-market/"><img src="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/sett.png" alt="Virginia Military Institute, New Market sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

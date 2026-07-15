@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGGGBGGGGGBRG</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGGGBGGGGGBRG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macvicar-mcvicar-mcvicker/">MacVicar, McVicar, McVicker</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macvicar-mcvicar-mcvicker/"><img src="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicar, McVicar, McVicker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macvicker/">MacVicker</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macvicker/">MacVicker</a> <small class="dt">ΔTartan 0.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macvicker/"><img src="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

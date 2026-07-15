@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">KBKGKWKGRKRW</span></div>
 
-It is a 12 stripe tartan.
+It is a [12 stripe pattern](/stripes/stripes12/) — every 12-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKGKWKGRKRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/st/stewart-10/">Stewart</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-10/"><img src="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stewart-black-ground/">Stewart, Black ground</a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-black-ground/">Stewart, Black ground</a> <small class="dt">ΔTartan 0.37</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-black-ground/"><img src="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="Stewart, Black ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BWKY</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BWKY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/o/ok/oklahoma-state-university/">Oklahoma State University</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state-university/"><img src="/variants/s4/lo80k52w7n12/sett.png" alt="Oklahoma State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/th/thunderlord-2/">Thunderlord</a></td></tr>
+<tr><td><a href="/tartans/t/th/thunderlord-2/">Thunderlord</a> <small class="dt">ΔTartan 2.00</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thunderlord-2/"><img src="/variants/s4/n62w11k4lg17~x2/sett.png" alt="Thunderlord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

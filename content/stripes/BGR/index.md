@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BGR</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGR" width="860" height="320">
@@ -30,14 +30,14 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/a/ag/agnew/">Agnew</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/ag/agnew/"><img src="/variants/s3/db53g42r14/sett.png" alt="Agnew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fe/ferguson/">Ferguson</a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson/">Ferguson</a> <small class="dt">ΔTartan 0.42</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson/"><img src="/variants/s3/db6g5r1~x4/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/no/norwich-no-030/">Norwich No.030</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-030/"><img src="/variants/s3/db33g3r1~x2~db1406275-r2109032/sett.png" alt="Norwich No.030 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-84-ferguson/">Wilson's No 84, Ferguson</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-84-ferguson/">Wilson's No 84, Ferguson</a> <small class="dt">ΔTartan 0.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-84-ferguson/"><img src="/variants/s3/db5g6r1~x4/sett.png" alt="Wilson's No 84, Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norwich-no-030/">Norwich No.030</a> <small class="dt">ΔTartan 0.80</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-030/"><img src="/variants/s3/db33g3r1~x2~db1406275-r2109032/sett.png" alt="Norwich No.030 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/n/nu/nutwood/">Nutwood</a></td></tr>
+<tr><td><a href="/tartans/n/nu/nutwood/">Nutwood</a> <small class="dt">ΔTartan 1.72</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/nu/nutwood/"><img src="/variants/s3/r1y60t1~x2/sett.png" alt="Nutwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

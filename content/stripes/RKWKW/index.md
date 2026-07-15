@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RKWKW</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RKWKW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/co/cornish-flag/">Cornish Flag</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-flag/"><img src="/variants/s5/w5k20w10k1r2~x2/sett.png" alt="Cornish Flag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/ha/havel/">Havel</a></td></tr>
+<tr><td><a href="/tartans/h/ha/havel/">Havel</a> <small class="dt">ΔTartan 0.75</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/havel/"><img src="/variants/s5/r21k21w10k10w21~x2/sett.png" alt="Havel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GBBBWBGBGGGBGBBGBGG</span></div>
 
-It is a 19 stripe tartan.
+It is a [19 stripe pattern](/stripes/stripes19/) — every 19-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBBBWBGBGGGBGBBGBGG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/w/wa/watkins/">Watkins</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wa/watkins/"><img src="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/sett.png" alt="Watkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wa/watkins-of-wales/">Watkins of Wales</a></td></tr>
+<tr><td><a href="/tartans/w/wa/watkins-of-wales/">Watkins of Wales</a> <small class="dt">ΔTartan 0.10</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wa/watkins-of-wales/"><img src="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t20lb2db2t18db1g2~t2205244/sett.png" alt="Watkins of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

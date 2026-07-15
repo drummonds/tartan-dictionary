@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WGRW</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WGRW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/du/dunoon-irish/">Dunoon Irish</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/dunoon-irish/"><img src="/variants/s4/w2dg13o13w2~x6/sett.png" alt="Dunoon Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/q/qa/qaboos/">Qaboos</a></td></tr>
+<tr><td><a href="/tartans/q/qa/qaboos/">Qaboos</a> <small class="dt">ΔTartan 1.87</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/q/qa/qaboos/"><img src="/variants/s4/w9r23g23w9~x2/sett.png" alt="Qaboos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

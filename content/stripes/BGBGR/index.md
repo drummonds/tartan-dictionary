@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BGBGR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/brooks-brothers-tattersall-camel/">Brooks Brothers Tattersall Camel</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-brothers-tattersall-camel/"><img src="/variants/s5/db1dy9db2dy9r1~x4/sett.png" alt="Brooks Brothers Tattersall Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/u/un/unidentified-35/">Unidentified</a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-35/">Unidentified</a> <small class="dt">ΔTartan 0.77</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-35/"><img src="/variants/s5/db16dy2db16dy19r4~x3/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

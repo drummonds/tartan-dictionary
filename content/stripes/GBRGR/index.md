@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GBRGR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBRGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/british-hills/">British Hills</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/british-hills/"><img src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="British Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wo/wotherspoon/">Wotherspoon</a></td></tr>
+<tr><td><a href="/tartans/w/wo/wotherspoon/">Wotherspoon</a> <small class="dt">ΔTartan 1.09</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wo/wotherspoon/"><img src="/variants/s5/r12g8r54db45g6/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

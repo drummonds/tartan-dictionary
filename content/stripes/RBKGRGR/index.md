@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RBKGRGR</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBKGRGR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macduff-5/">MacDuff</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macduff-5/"><img src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="MacDuff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/st/sturrock/">Sturrock</a></td></tr>
+<tr><td><a href="/tartans/s/st/sturrock/">Sturrock</a> <small class="dt">ΔTartan 1.96</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/sturrock/"><img src="/variants/s7/r52db16k16g22r16y3r16/sett.png" alt="Sturrock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGBGKBGG</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBGKBGG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-power-2/">Scottish Power</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-power-2/"><img src="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/sett.png" alt="Scottish Power sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wo/womens-rural-institute/">Womens Rural Institute</a></td></tr>
+<tr><td><a href="/tartans/w/wo/womens-rural-institute/">Womens Rural Institute</a> <small class="dt">ΔTartan 0.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wo/womens-rural-institute/"><img src="/variants/s8/dg4g24dp4k6dg4dr3dg4dp3~x2/sett.png" alt="Womens Rural Institute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

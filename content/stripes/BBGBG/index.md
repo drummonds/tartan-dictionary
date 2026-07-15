@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BBGBG</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBGBG" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/be/bethlehem-city-of/">Bethlehem, City of</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/be/bethlehem-city-of/"><img src="/variants/s5/dg3dr1dg9n10db3~x4/sett.png" alt="Bethlehem, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/d/du/dunoon-burgh-hall-trust/">Dunoon Burgh Hall Trust</a></td></tr>
+<tr><td><a href="/tartans/d/du/dunoon-burgh-hall-trust/">Dunoon Burgh Hall Trust</a> <small class="dt">ΔTartan 3.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/dunoon-burgh-hall-trust/"><img src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="Dunoon Burgh Hall Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

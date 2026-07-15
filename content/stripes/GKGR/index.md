@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GKGR</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGR" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bi/billy-apple/">Billy Apple®</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bi/billy-apple/"><img src="/variants/s4/r1y13k8g1~x6/sett.png" alt="Billy Apple® sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/br/brooks-brothers-2/">Brooks Brothers</a></td></tr>
+<tr><td><a href="/tartans/b/br/brooks-brothers-2/">Brooks Brothers</a> <small class="dt">ΔTartan 0.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-brothers-2/"><img src="/variants/s4/r1g11k11y1~x4/sett.png" alt="Brooks Brothers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-094/">Wilson's No.094</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-094/">Wilson's No.094</a> <small class="dt">ΔTartan 1.93</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-094/"><img src="/variants/s4/g4k5g4r2~x2/sett.png" alt="Wilson's No.094 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

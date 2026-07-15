@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RKR</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bu/buie/">Buie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/buie/"><img src="/variants/s3/r18k3r2~x4/sett.png" alt="Buie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/masai-shuka-12/">Masai Shuka 12</a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-12/">Masai Shuka 12</a> <small class="dt">ΔTartan 0.61</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-12/"><img src="/variants/s3/r25k5r1~x4/sett.png" alt="Masai Shuka 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BRBG</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/ge/gem/">Gem</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/ge/gem/"><img src="/variants/s4/db140r11db14y11/sett.png" alt="Gem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maclaine-of-lochbuie/">MacLaine of Lochbuie</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclaine-of-lochbuie/">MacLaine of Lochbuie</a> <small class="dt">ΔTartan 0.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaine-of-lochbuie/"><img src="/variants/s4/db32r3db4y3~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

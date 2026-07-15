@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GGGKBKGKGKGGGKW</span></div>
 
-It is a 15 stripe tartan.
+It is a [15 stripe pattern](/stripes/stripes15/) — every 15-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGGKBKGKGKGGGKW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/e/ea/eastern-shore-police-emerald-so/">Eastern Shore Police Emerald So</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/ea/eastern-shore-police-emerald-so/"><img src="/variants/s15/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1~x2/sett.png" alt="Eastern Shore Police Emerald So sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/e/ea/eastern-shore-police-emerald-society/">Eastern Shore Police Emerald Society</a></td></tr>
+<tr><td><a href="/tartans/e/ea/eastern-shore-police-emerald-society/">Eastern Shore Police Emerald Society</a> <small class="dt">ΔTartan 0.03</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/ea/eastern-shore-police-emerald-society/"><img src="/variants/s15/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1lb1~x2/sett.png" alt="Eastern Shore Police Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

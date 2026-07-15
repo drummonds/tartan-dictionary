@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GKGK</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGK" width="860" height="320">
@@ -30,13 +30,13 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/sc/scotch-tape-2/">Scotch Tape 2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-tape-2/"><img src="/variants/s4/k3g15k20y3~x2/sett.png" alt="Scotch Tape 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wa/wallace-hunting-2/">Wallace Hunting</a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-hunting-2/">Wallace Hunting</a> <small class="dt">ΔTartan 0.45</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wa/wallace-hunting-2/"><img src="/variants/s4/k1g8k8y1/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/ca/campbell-simpson/">Campbell Simpson</a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-simpson/">Campbell Simpson</a> <small class="dt">ΔTartan 1.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-simpson/"><img src="/variants/s4/g22k3g25k4~x2/sett.png" alt="Campbell Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ra/raeburn/">Raeburn</a></td></tr>
+<tr><td><a href="/tartans/r/ra/raeburn/">Raeburn</a> <small class="dt">ΔTartan 1.97</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/raeburn/"><img src="/variants/s4/k34y3k34y26~x2/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

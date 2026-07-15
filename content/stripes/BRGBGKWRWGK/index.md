@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BRGBGKWRWGK</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRGBGKWRWGK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/st/stephenson/">Stephenson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stephenson/"><img src="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/sett.png" alt="Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stevenson-3/">Stevenson</a></td></tr>
+<tr><td><a href="/tartans/s/st/stevenson-3/">Stevenson</a> <small class="dt">ΔTartan 0.03</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stevenson-3/"><img src="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

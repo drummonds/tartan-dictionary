@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GBKBKGBKRK</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBKBKGBKRK" width="860" height="320">
@@ -29,8 +29,8 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/di/dinwiddie/">Dinwiddie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/di/dinwiddie/"><img src="/variants/s10/dy4n2k2n42k13g25n6k2r4k2~x2/sett.png" alt="Dinwiddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/d/di/dinwoodie/">Dinwoodie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dinwiddie/"><img src="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/sett.png" alt="Dinwiddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dinwoodie/">Dinwoodie</a> <small class="dt">ΔTartan 0.37</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/di/dinwoodie/"><img src="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/sett.png" alt="Dinwoodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

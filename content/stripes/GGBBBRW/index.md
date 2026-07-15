@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GGBBBRW</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGBBBRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fe/feis-an-eilein/">Feis An Eilein</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fe/feis-an-eilein/"><img src="/variants/s7/y2g2db8dr4db8r9lb2~x4/sett.png" alt="Feis An Eilein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/g/g-p-bathija/">G P Bathija</a></td></tr>
+<tr><td><a href="/tartans/g/g/g-p-bathija/">G P Bathija</a> <small class="dt">ΔTartan 1.27</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/g/g-p-bathija/"><img src="/variants/s7/y4g18db4dr8db8r21w1~x2/sett.png" alt="G P Bathija sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

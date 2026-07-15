@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RBKW</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBKW" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/mi/mirror/">Mirror</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mi/mirror/"><img src="/variants/s4/r5db26k12w2~x4/sett.png" alt="Mirror sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scottish-nuclear/">Scottish Nuclear</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-nuclear/">Scottish Nuclear</a> <small class="dt">ΔTartan 0.25</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-nuclear/"><img src="/variants/s4/r4db32k15w2~x2/sett.png" alt="Scottish Nuclear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/loganair-uniform-skirt/">Loganair Uniform Skirt</a></td></tr>
+<tr><td><a href="/tartans/l/lo/loganair-uniform-skirt/">Loganair Uniform Skirt</a> <small class="dt">ΔTartan 1.88</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/loganair-uniform-skirt/"><img src="/variants/s4/r5n32k31w5/sett.png" alt="Loganair Uniform Skirt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

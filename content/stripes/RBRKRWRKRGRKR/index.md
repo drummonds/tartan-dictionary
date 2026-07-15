@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RBRKRWRKRGRKR</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RBRKRWRKRGRKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fi/first-special-service-force/">First Special Service Force</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fi/first-special-service-force/"><img src="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/sett.png" alt="First Special Service Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fi/first-special-services-forces/">First Special Services Forces</a></td></tr>
+<tr><td><a href="/tartans/f/fi/first-special-services-forces/">First Special Services Forces</a> <small class="dt">ΔTartan 0.45</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fi/first-special-services-forces/"><img src="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/sett.png" alt="First Special Services Forces sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KGKGBR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KGKGBR" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/mo/morrison-2/">Morrison</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/morrison-2/"><img src="/variants/s6/k3g14k14g2db14r3/sett.png" alt="Morrison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mo/morrison-society/">Morrison Society</a></td></tr>
+<tr><td><a href="/tartans/m/mo/morrison-society/">Morrison Society</a> <small class="dt">ΔTartan 0.14</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/morrison-society/"><img src="/variants/s6/k3g14k14g2t14r3~x2/sett.png" alt="Morrison Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/b/bi/birse/">Birse</a></td></tr>
+<tr><td><a href="/tartans/b/bi/birse/">Birse</a> <small class="dt">ΔTartan 1.34</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bi/birse/"><img src="/variants/s6/k4g16k14y3db16r4~x2/sett.png" alt="Birse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KGKGR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KGKGR" width="860" height="320">
@@ -30,14 +30,14 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macleod-dress/">MacLeod Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-dress/"><img src="/variants/s5/k4y1k4y6r1~x4/sett.png" alt="MacLeod Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macleod-of-lewis/">MacLeod of Lewis</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-of-lewis/">MacLeod of Lewis</a> <small class="dt">ΔTartan 0.51</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-of-lewis/"><img src="/variants/s5/k8y1k8y12r1~x2/sett.png" alt="MacLeod of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/macarthur-fox-2/">MacArthur-Fox</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur-fox-2/"><img src="/variants/s5/k19g8k10g31r3/sett.png" alt="MacArthur-Fox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/to/tolmie/">Tolmie</a></td></tr>
+<tr><td><a href="/tartans/t/to/tolmie/">Tolmie</a> <small class="dt">ΔTartan 1.88</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/to/tolmie/"><img src="/variants/s5/k8y1k8g13r2~x4/sett.png" alt="Tolmie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur-fox-2/">MacArthur-Fox</a> <small class="dt">ΔTartan 3.16</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur-fox-2/"><img src="/variants/s5/k19g8k10g31r3/sett.png" alt="MacArthur-Fox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

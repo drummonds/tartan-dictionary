@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BBKWK</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBKWK" width="860" height="320">
@@ -30,14 +30,14 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/bu/burberry-4/">Burberry</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry-4/"><img src="/variants/s5/k5w7k5n20db1~x4/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gr/greystone/">Greystone</a></td></tr>
+<tr><td><a href="/tartans/g/gr/greystone/">Greystone</a> <small class="dt">ΔTartan 0.88</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/greystone/"><img src="/variants/s5/k3w3k3n10dr1~x6/sett.png" alt="Greystone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/e/ed/edinburgh-crystal/">Edinburgh Crystal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-crystal/"><img src="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/ob/oban/">Oban</a></td></tr>
+<tr><td><a href="/tartans/o/ob/oban/">Oban</a> <small class="dt">ΔTartan 1.88</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/ob/oban/"><img src="/variants/s5/k4lb4k4n15dr2~x4/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-crystal/">Edinburgh Crystal</a> <small class="dt">ΔTartan 4.71</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-crystal/"><img src="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KWR</span></div>
 
-It is a 3 stripe tartan.
+It is a [3 stripe pattern](/stripes/stripes3/) — every 3-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KWR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/da/dacre/">Dacre</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/da/dacre/"><img src="/variants/s3/k1w1r1~x14/sett.png" alt="Dacre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/st-georges-check/">St Georges Check</a></td></tr>
+<tr><td><a href="/tartans/s/st/st-georges-check/">St Georges Check</a> <small class="dt">ΔTartan 0.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-georges-check/"><img src="/variants/s3/r35w94k6/sett.png" alt="St Georges Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

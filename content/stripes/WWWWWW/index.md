@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WWWWWW</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern WWWWWW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/e/er/erskine-blue-dress/">Erskine Blue Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-blue-dress/"><img src="/variants/s6/w5lb2w25lb25w2lb5~x2/sett.png" alt="Erskine Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/e/er/erskine-lt/">Erskine, Lt</a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-lt/">Erskine, Lt</a> <small class="dt">ΔTartan 0.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-lt/"><img src="/variants/s6/w6lb2w29lb29w2lb6~x2/sett.png" alt="Erskine, Lt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

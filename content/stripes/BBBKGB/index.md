@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBKGB</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBKGB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sa/saorsa/">Saorsa</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sa/saorsa/"><img src="/variants/s6/dbi11g15k2n5db3n11~x2~dbi1204274-db1106275/sett.png" alt="Saorsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wi/williamson/">Williamson</a></td></tr>
+<tr><td><a href="/tartans/w/wi/williamson/">Williamson</a> <small class="dt">ΔTartan 2.64</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/williamson/"><img src="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/sett.png" alt="Williamson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

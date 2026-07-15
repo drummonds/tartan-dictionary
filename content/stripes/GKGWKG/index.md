@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GKGWKG</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GKGWKG" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/brandon-manitoba/">Brandon Manitoba</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brandon-manitoba/"><img src="/variants/s6/dy83k35w3g35k3y10/sett.png" alt="Brandon Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/j/ja/jacobite-3/">Jacobite</a></td></tr>
+<tr><td><a href="/tartans/j/ja/jacobite-3/">Jacobite</a> <small class="dt">ΔTartan 1.25</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-3/"><img src="/variants/s6/y70k30w3g30k3y10/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/k/ki/kincardine-city/">Kincardine City</a></td></tr>
+<tr><td><a href="/tartans/k/ki/kincardine-city/">Kincardine City</a> <small class="dt">ΔTartan 5.51</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ki/kincardine-city/"><img src="/variants/s6/g3k8g8lb3k18g2~x4/sett.png" alt="Kincardine City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

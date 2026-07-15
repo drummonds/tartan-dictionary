@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RGRGKWKGRGR</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern RGRGKWKGRGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macgregor/">MacGregor</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor/"><img src="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maconachie-of-meadowbank/">Maconachie of Meadowbank</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maconachie-of-meadowbank/">Maconachie of Meadowbank</a> <small class="dt">ΔTartan 0.14</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maconachie-of-meadowbank/"><img src="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="Maconachie of Meadowbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

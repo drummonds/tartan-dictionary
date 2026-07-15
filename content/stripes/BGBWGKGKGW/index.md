@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BGBWGKGKGW</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBWGKGKGW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/o/o/o-connell-william/">O'Connell, William</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/o/o-connell-william/"><img src="/variants/s10/db19g7db7lb2g20k9g6k4g10w3~x2/sett.png" alt="O'Connell, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/o/o/o-connell-william-benedict/">O'Connell, William Benedict</a></td></tr>
+<tr><td><a href="/tartans/o/o/o-connell-william-benedict/">O'Connell, William Benedict</a> <small class="dt">ΔTartan 0.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/o/o-connell-william-benedict/"><img src="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/sett.png" alt="O'Connell, William Benedict sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GGWGWGWGWG</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGWGWGWGWG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/st/st-patrick-trade-or-fancy/">St Patrick Trade or Fancy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-patrick-trade-or-fancy/"><img src="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/sett.png" alt="St Patrick Trade or Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/st-patrick/">St. Patrick</a></td></tr>
+<tr><td><a href="/tartans/s/st/st-patrick/">St. Patrick</a> <small class="dt">ΔTartan 0.21</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/st-patrick/"><img src="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

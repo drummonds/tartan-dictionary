@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KBBKBKBKBK</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBBKBKBKBK" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/do/douglas-6/">Douglas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-6/"><img src="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wc/wcwm-1527/">Wcwm 1527</a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1527/">Wcwm 1527</a> <small class="dt">ΔTartan 0.10</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1527/"><img src="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/sett.png" alt="Wcwm 1527 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KWKWKBKBKY</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KWKWKBKBKY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/li/little-of-morton-rig-family-clan/">Little of Morton Rig Family/Clan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/li/little-of-morton-rig-family-clan/"><img src="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rig Family/Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/li/little-of-morton-rigg-2/">Little of Morton Rigg</a></td></tr>
+<tr><td><a href="/tartans/l/li/little-of-morton-rigg-2/">Little of Morton Rigg</a> <small class="dt">ΔTartan 2.00</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/li/little-of-morton-rigg-2/"><img src="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rigg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

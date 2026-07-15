@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BGGYR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGGYR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/n/no/nolan/">Nolan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/nolan/"><img src="/variants/s5/dr8g19dg42ly3r1~x2/sett.png" alt="Nolan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/no/nolan-family-john-j/">Nolan Family, John J</a></td></tr>
+<tr><td><a href="/tartans/n/no/nolan-family-john-j/">Nolan Family, John J</a> <small class="dt">ΔTartan 0.31</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/nolan-family-john-j/"><img src="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/sett.png" alt="Nolan Family, John J sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BKBKBKGBGKBKB</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKBKGBGKBKB" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/bl/blanton/">Blanton</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/blanton/"><img src="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/sett.png" alt="Blanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/me/metropolitan-atlanta-police/">Metropolitan Atlanta Police</a></td></tr>
+<tr><td><a href="/tartans/m/me/metropolitan-atlanta-police/">Metropolitan Atlanta Police</a> <small class="dt">ΔTartan 13.19</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/me/metropolitan-atlanta-police/"><img src="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

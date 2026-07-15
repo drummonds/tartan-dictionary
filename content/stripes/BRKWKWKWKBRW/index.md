@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BRKWKWKWKBRW</span></div>
 
-It is a 12 stripe tartan.
+It is a [12 stripe pattern](/stripes/stripes12/) — every 12-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRKWKWKWKBRW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/k/kn/knights-templar-st-andrews-2/">Knights Templar St Andrews</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/kn/knights-templar-st-andrews-2/"><img src="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/sett.png" alt="Knights Templar St Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sc/scottish-knights-templar-st-a-corp/">Scottish Knights Templar St. A (Corp</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-knights-templar-st-a-corp/">Scottish Knights Templar St. A (Corp</a> <small class="dt">ΔTartan 3.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-knights-templar-st-a-corp/"><img src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/sett.png" alt="Scottish Knights Templar St. A (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

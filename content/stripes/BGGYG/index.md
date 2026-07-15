@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGGYG</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGGYG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/co/corey/">Corey</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/corey/"><img src="/variants/s5/t32dy16g3lo4dg28~x2/sett.png" alt="Corey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/co/corey-in-balachuirn/">Corey in Balachuirn</a></td></tr>
+<tr><td><a href="/tartans/c/co/corey-in-balachuirn/">Corey in Balachuirn</a> <small class="dt">ΔTartan 0.17</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/corey-in-balachuirn/"><img src="/variants/s5/db32dy16g3lo4dg28~x2/sett.png" alt="Corey in Balachuirn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

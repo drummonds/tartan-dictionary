@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">GBGBGBGY</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GBGBGBGY" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/cr/crow/">Crow</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cr/crow/"><img src="/variants/s8/g2db2g6db4g3db4g18ly2~x4/sett.png" alt="Crow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sc/scottish-pup/">Scottish Pup</a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-pup/">Scottish Pup</a> <small class="dt">ΔTartan 5.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-pup/"><img src="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png" alt="Scottish Pup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

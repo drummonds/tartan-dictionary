@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BKBKGGGKWBWBW</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKGGGKWBWBW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/go/gordon-dress-8/">Gordon Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-dress-8/"><img src="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/sett.png" alt="Gordon Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/go/gordon-dress-mini-design/">Gordon Dress MINI design</a></td></tr>
+<tr><td><a href="/tartans/g/go/gordon-dress-mini-design/">Gordon Dress MINI design</a> <small class="dt">ΔTartan 0.74</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-dress-mini-design/"><img src="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/sett.png" alt="Gordon Dress MINI design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

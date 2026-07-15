@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BRKG</span></div>
 
-It is a 4 stripe tartan.
+It is a [4 stripe pattern](/stripes/stripes4/) — every 4-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRKG" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macnathair-sgianach/">MacNathair Sgianach</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macnathair-sgianach/"><img src="/variants/s4/db1r1k12g1~x4/sett.png" alt="MacNathair Sgianach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sk/skinner/">Skinner</a></td></tr>
+<tr><td><a href="/tartans/s/sk/skinner/">Skinner</a> <small class="dt">ΔTartan 0.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sk/skinner/"><img src="/variants/s4/db1r16k16y1~x4/sett.png" alt="Skinner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

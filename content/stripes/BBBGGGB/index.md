@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBGGGB</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBGGGB" width="860" height="320">
@@ -31,10 +31,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/ba/baron-of-crawfordjohn/">Baron of Crawfordjohn</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/baron-of-crawfordjohn/"><img src="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/sett.png" alt="Baron of Crawfordjohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/gleneagles-2/">Gleneagles</a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneagles-2/">Gleneagles</a> <small class="dt">ΔTartan 3.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-2/"><img src="/variants/s7/do6dg6dy1dg6do5t6do1~x4/sett.png" alt="Gleneagles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/gleneagles-group/">Gleneagles Group</a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneagles-group/">Gleneagles Group</a> <small class="dt">ΔTartan 9.41</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-group/"><img src="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

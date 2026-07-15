@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KBKBKWKWKWK</span></div>
 
-It is a 11 stripe tartan.
+It is a [11 stripe pattern](/stripes/stripes11/) — every 11-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern KBKBKWKWKWK" width="860" height="320">
@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-jewish-community/">Scottish Jewish Community</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-jewish-community/"><img src="/variants/s11/k14lb3k3w4k3lb3k14db4k4db30k4~x2/sett.png" alt="Scottish Jewish Community sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sh/shalom/">Shalom</a></td></tr>
+<tr><td><a href="/tartans/s/sh/shalom/">Shalom</a> <small class="dt">ΔTartan 0.11</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sh/shalom/"><img src="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2~db1406275/sett.png" alt="Shalom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ro/royal-stuart-stewart/">Royal Stuart / Stewart</a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-stuart-stewart/">Royal Stuart / Stewart</a> <small class="dt">ΔTartan 5.96</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-stuart-stewart/"><img src="/variants/s11/k14w4k14w19k4w4k4n4k16n11k8/sett.png" alt="Royal Stuart / Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

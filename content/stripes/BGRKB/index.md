@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BGRKB</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGRKB" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/i/ik/ikelman-no-2/">Ikelman No 2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/ik/ikelman-no-2/"><img src="/variants/s5/n26k10r10y10n3~x2/sett.png" alt="Ikelman No 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/i/ik/ikelman-no-3/">Ikelman No 3</a></td></tr>
+<tr><td><a href="/tartans/i/ik/ikelman-no-3/">Ikelman No 3</a> <small class="dt">ΔTartan 0.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/ik/ikelman-no-3/"><img src="/variants/s5/n5k2r2y2n5~x10/sett.png" alt="Ikelman No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

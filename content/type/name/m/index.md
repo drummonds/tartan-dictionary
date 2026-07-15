@@ -35,8 +35,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/"><img src="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/sett.png" alt="MacGillivray" width="140"><br>MacGillivray</a></li>
 <li><a class="tartan" href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><img src="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/sett.png" alt="MacGillivray Dress, Janice" width="140"><br>MacGillivray Dress, Janice</a></li>
 <li><a class="tartan" href="/variants/s14/n5ly1n3lb6n1lb3n1o5ly1o3ly6o1ly3o1~x4~ly3607098-o2505058/"><img src="/variants/s14/n5ly1n3lb6n1lb3n1o5ly1o3ly6o1ly3o1~x4~ly3607098-o2505058/sett.png" alt="MacGlashan #2" width="140"><br>MacGlashan #2</a></li>
-<li><a class="tartan" href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><img src="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/sett.png" alt="MacGregor" width="140"><br>MacGregor</a></li>
 <li><a class="tartan" href="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/"><img src="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="MacGregor" width="140"><br>MacGregor</a></li>
+<li><a class="tartan" href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><img src="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/sett.png" alt="MacGregor" width="140"><br>MacGregor</a></li>
 <li><a class="tartan" href="/variants/s17/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1~x2/"><img src="/variants/s17/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1~x2/sett.png" alt="MacGuinness" width="140"><br>MacGuinness</a></li>
 <li><a class="tartan" href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><img src="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/sett.png" alt="MacGuire (Name)" width="140"><br>MacGuire (Name)</a></li>
 <li><a class="tartan" href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><img src="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/sett.png" alt="MacHarg, Iain" width="140"><br>MacHarg, Iain</a></li>
@@ -100,8 +100,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><img src="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png" alt="Mauthe Unidentified (Name?)" width="140"><br>Mauthe Unidentified (Name?)</a></li>
 <li><a class="tartan" href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><img src="/variants/s7/dg1y1dg1w1dg10r20y1~x4/sett.png" alt="Maver (Buckie)" width="140"><br>Maver (Buckie)</a></li>
 <li><a class="tartan" href="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/"><img src="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/sett.png" alt="Mazarian" width="140"><br>Mazarian</a></li>
-<li><a class="tartan" href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><img src="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/sett.png" alt="McAleavy (2014)" width="140"><br>McAleavy (2014)</a></li>
 <li><a class="tartan" href="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/"><img src="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/sett.png" alt="McAleavy (2014)" width="140"><br>McAleavy (2014)</a></li>
+<li><a class="tartan" href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><img src="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/sett.png" alt="McAleavy (2014)" width="140"><br>McAleavy (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/db8y1dg5y12r1dg2~x6/"><img src="/variants/s6/db8y1dg5y12r1dg2~x6/sett.png" alt="McCabe (2016)" width="140"><br>McCabe (2016)</a></li>
 <li><a class="tartan" href="/variants/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2~t2503227-db1204274/"><img src="/variants/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2~t2503227-db1204274/sett.png" alt="McCaig (2016)" width="140"><br>McCaig (2016)</a></li>
 <li><a class="tartan" href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><img src="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/sett.png" alt="McCall (Caithness)" width="140"><br>McCall (Caithness)</a></li>
@@ -126,8 +126,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/g13r1g13db6r1w6g13r1g13w6r1db6~x2/"><img src="/variants/s12/g13r1g13db6r1w6g13r1g13w6r1db6~x2/sett.png" alt="McGirr, David (Letterkenny)" width="140"><br>McGirr, David (Letterkenny)</a></li>
 <li><a class="tartan" href="/variants/s5/db62ly4dy10do3g21~x2/"><img src="/variants/s5/db62ly4dy10do3g21~x2/sett.png" alt="McGovern (2016)" width="140"><br>McGovern (2016)</a></li>
 <li><a class="tartan" href="/variants/s12/g13dy7g13dy2g13dy2g13dy2w3y4w3g4~x2/"><img src="/variants/s12/g13dy7g13dy2g13dy2g13dy2w3y4w3g4~x2/sett.png" alt="McGrane (2014)" width="140"><br>McGrane (2014)</a></li>
-<li><a class="tartan" href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><img src="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/sett.png" alt="McGuirk (2013)" width="140"><br>McGuirk (2013)</a></li>
 <li><a class="tartan" href="/variants/s12/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2~x2/"><img src="/variants/s12/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2~x2/sett.png" alt="McGuirk (2013)" width="140"><br>McGuirk (2013)</a></li>
+<li><a class="tartan" href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><img src="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/sett.png" alt="McGuirk (2013)" width="140"><br>McGuirk (2013)</a></li>
 <li><a class="tartan" href="/variants/s6/db15k10n30dy11w3lb5~x2/"><img src="/variants/s6/db15k10n30dy11w3lb5~x2/sett.png" alt="McHale, Barry" width="140"><br>McHale, Barry</a></li>
 <li><a class="tartan" href="/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/"><img src="/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/sett.png" alt="McKirgan (Name)" width="140"><br>McKirgan (Name)</a></li>
 <li><a class="tartan" href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/"><img src="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/sett.png" alt="McKirgan/Mackirgan" width="140"><br>McKirgan/Mackirgan</a></li>

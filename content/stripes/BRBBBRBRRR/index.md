@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRBBBRBRRR</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBBBRBRRR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/da/dark-lochnagar/">Dark Lochnagar</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/da/dark-lochnagar/"><img src="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Dark Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/lo/lochnagar-dark/">Lochnagar Dark</a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochnagar-dark/">Lochnagar Dark</a> <small class="dt">ΔTartan 0.30</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lochnagar-dark/"><img src="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Lochnagar Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

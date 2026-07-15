@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GGRWR</span></div>
 
-It is a 5 stripe tartan.
+It is a [5 stripe pattern](/stripes/stripes5/) — every 5-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GGRWR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/hi/highlands-at-wyomissing-the/">Highlands at Wyomissing, The</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-at-wyomissing-the/"><img src="/variants/s5/r35w3r8y2g11~x2/sett.png" alt="Highlands at Wyomissing, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/w/wi/wilson-s-no-179/">Wilson's No.179</a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-179/">Wilson's No.179</a> <small class="dt">ΔTartan 1.93</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-179/"><img src="/variants/s5/g6y1r1lb2r2~x4/sett.png" alt="Wilson's No.179 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

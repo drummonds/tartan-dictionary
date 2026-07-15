@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BBBWBWBWBW</span></div>
 
-It is a 10 stripe tartan.
+It is a [10 stripe pattern](/stripes/stripes10/) — every 10-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBWBWBWBW" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/i/in/intelligent-finance-2/">Intelligent Finance</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/in/intelligent-finance-2/"><img src="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/st/stewart-of-appin-htg-dress/">Stewart of Appin Htg Dress</a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-appin-htg-dress/">Stewart of Appin Htg Dress</a> <small class="dt">ΔTartan 4.35</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-htg-dress/"><img src="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/sett.png" alt="Stewart of Appin Htg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

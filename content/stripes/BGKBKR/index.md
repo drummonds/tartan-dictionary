@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BGKBKR</span></div>
 
-It is a 6 stripe tartan.
+It is a [6 stripe pattern](/stripes/stripes6/) — every 6-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGKBKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccaughan/">MacCaughan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccaughan/"><img src="/variants/s6/dp2dg6k2db6k1r2~x4/sett.png" alt="MacCaughan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/maccaughan-or-maceachain/">MacCaughan, or MacEachain</a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccaughan-or-maceachain/">MacCaughan, or MacEachain</a> <small class="dt">ΔTartan 0.41</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccaughan-or-maceachain/"><img src="/variants/s6/r2k1db6k2g6b2~x4/sett.png" alt="MacCaughan, or MacEachain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

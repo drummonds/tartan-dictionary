@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BKBKWGR</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKWGR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/co/colquhoun-2/">Colquhoun</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/colquhoun-2/"><img src="/variants/s7/db5k10db48k72w12dg48r5/sett.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fr/fruin-colquhoun-2/">Fruin Colquhoun</a></td></tr>
+<tr><td><a href="/tartans/f/fr/fruin-colquhoun-2/">Fruin Colquhoun</a> <small class="dt">ΔTartan 0.45</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/fruin-colquhoun-2/"><img src="/variants/s7/r5dg19w3k19db19k3db2~x2/sett.png" alt="Fruin Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

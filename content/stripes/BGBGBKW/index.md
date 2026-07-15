@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BGBGBKW</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBGBKW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/bro-sant-brieg/">Bro-sant-Brieg</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/bro-sant-brieg/"><img src="/variants/s7/db3g6db2y3db42k6w3~x2/sett.png" alt="Bro-sant-Brieg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/cu/cullen/">Cullen</a></td></tr>
+<tr><td><a href="/tartans/c/cu/cullen/">Cullen</a> <small class="dt">ΔTartan 1.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cu/cullen/"><img src="/variants/s7/db8y2db8g7db57k3lb1~x2/sett.png" alt="Cullen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

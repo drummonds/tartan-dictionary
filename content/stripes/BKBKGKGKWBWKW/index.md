@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BKBKGKGKWBWKW</span></div>
 
-It is a 13 stripe tartan.
+It is a [13 stripe pattern](/stripes/stripes13/) — every 13-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKBKGKGKWBWKW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/c/ca/campbell-dress/">Campbell Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-dress/"><img src="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/sett.png" alt="Campbell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/ca/campbell-42nd-dress/">Campbell, 42nd Dress</a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-42nd-dress/">Campbell, 42nd Dress</a> <small class="dt">ΔTartan 0.11</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-42nd-dress/"><img src="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/sett.png" alt="Campbell, 42nd Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

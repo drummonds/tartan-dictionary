@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">BRBRBRKWRWRW</span></div>
 
-It is a 12 stripe tartan.
+It is a [12 stripe pattern](/stripes/stripes12/) — every 12-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BRBRBRKWRWRW" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonald-dress/">MacDonald Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-dress/"><img src="/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/sett.png" alt="MacDonald Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-pattern-of-plaids/">MacDonald Pattern of Plaids</a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-pattern-of-plaids/">MacDonald Pattern of Plaids</a> <small class="dt">ΔTartan 0.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-pattern-of-plaids/"><img src="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/sett.png" alt="MacDonald Pattern of Plaids sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BGBGGGBGBGGR</span></div>
 
-It is a 12 stripe tartan.
+It is a [12 stripe pattern](/stripes/stripes12/) — every 12-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BGBGGGBGBGGR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/n/ni/niagara-falls-2/">Niagara Falls</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ni/niagara-falls-2/"><img src="/variants/s12/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8~x2/sett.png" alt="Niagara Falls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/n/ni/niagra-falls/">Niagra Falls</a></td></tr>
+<tr><td><a href="/tartans/n/ni/niagra-falls/">Niagra Falls</a> <small class="dt">ΔTartan 3.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/ni/niagra-falls/"><img src="/variants/s12/db22g4db4g17dy17g17db4g4db22y8dy8r8~x2/sett.png" alt="Niagra Falls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

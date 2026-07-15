@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GRGKWKR</span></div>
 
-It is a 7 stripe tartan.
+It is a [7 stripe pattern](/stripes/stripes7/) — every 7-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern GRGKWKR" width="860" height="320">
@@ -30,7 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/b/br/brough/">Brough</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brough/"><img src="/variants/s7/r20k14w2k14g9r3g11~x2/sett.png" alt="Brough sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/si/sinclair-hunting-2/">Sinclair Hunting</a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-hunting-2/">Sinclair Hunting</a> <small class="dt">ΔTartan 0.72</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-hunting-2/"><img src="/variants/s7/g6r2g13k6w2k16r3~x2/sett.png" alt="Sinclair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

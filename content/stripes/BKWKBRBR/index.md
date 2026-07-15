@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BKWKBRBR</span></div>
 
-It is a 8 stripe tartan.
+It is a [8 stripe pattern](/stripes/stripes8/) — every 8-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BKWKBRBR" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/si/sidney/">Sidney</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/si/sidney/"><img src="/variants/s8/n16k4w2k4n6r11n2r16~x2/sett.png" alt="Sidney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sy/sydney/">Sydney</a></td></tr>
+<tr><td><a href="/tartans/s/sy/sydney/">Sydney</a> <small class="dt">ΔTartan 2.91</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sy/sydney/"><img src="/variants/s8/n16k4w2k4n6o11n2o16~x2/sett.png" alt="Sydney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

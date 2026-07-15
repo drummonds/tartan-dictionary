@@ -6,7 +6,7 @@ aliases:
 ---
 <div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BBBBBBKBK</span></div>
 
-It is a 9 stripe tartan.
+It is a [9 stripe pattern](/stripes/stripes9/) — every 9-stripe pattern is gathered there.
 
 <figure class="pat-woven">
 <img src="woven.png" alt="idealised woven sample of pattern BBBBBBKBK" width="860" height="320">
@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/an/angus-2/">Angus</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/an/angus-2/"><img src="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db1406275/sett.png" alt="Angus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/ca/carlow/">Carlow</a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlow/">Carlow</a> <small class="dt">ΔTartan 1.85</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/carlow/"><img src="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/sett.png" alt="Carlow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

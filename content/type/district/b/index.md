@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><img src="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/sett.png" alt="Bahamas" width="140"><br>Bahamas</a></li>
 <li><a class="tartan" href="/variants/s4/dg4lb10db10lb1~x4/"><img src="/variants/s4/dg4lb10db10lb1~x4/sett.png" alt="Baker City (Estimated threadcount)" width="140"><br>Baker City (Estimated threadcount)</a></li>
-<li><a class="tartan" href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><img src="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/sett.png" alt="Ballarat" width="140"><br>Ballarat</a></li>
 <li><a class="tartan" href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><img src="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/sett.png" alt="Ballarat" width="140"><br>Ballarat</a></li>
+<li><a class="tartan" href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><img src="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/sett.png" alt="Ballarat" width="140"><br>Ballarat</a></li>
 <li><a class="tartan" href="/variants/s5/dr1ly1dr1ly1dg1~x8/"><img src="/variants/s5/dr1ly1dr1ly1dg1~x8/sett.png" alt="Ballindalloch Check" width="140"><br>Ballindalloch Check</a></li>
 <li><a class="tartan" href="/variants/s8/b17lb2b3db16t28db2t3lo2~x2~lb3300000-t2204245/"><img src="/variants/s8/b17lb2b3db16t28db2t3lo2~x2~lb3300000-t2204245/sett.png" alt="Banff &amp; Buchan (District)" width="140"><br>Banff & Buchan (District)</a></li>
 <li><a class="tartan" href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><img src="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/sett.png" alt="Banff and Buchan" width="140"><br>Banff and Buchan</a></li>

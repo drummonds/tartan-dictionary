@@ -12,8 +12,11 @@ aliases:
 - "/setts/r32n5r2n5r6n2r1n7/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrbrbr/">BRBRBRBR</a></nav>
+
 A tartan of the [Lomond](/families/lomond/) family.
+
 Its design is pattern [BRBRBRBR](/stripes/brbrbrbr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Lomond** tartan is recorded as a single sett.
 

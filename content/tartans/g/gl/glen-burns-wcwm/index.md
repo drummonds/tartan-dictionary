@@ -10,8 +10,11 @@ aliases:
 - "/setts/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwbwbrkrbwbwbwbrkr/">BWBWBWBRKRBWBWBWBRKR</a></nav>
+
 A tartan of [Clan Glen](/clan/glen/).
+
 Its design is pattern [BWBWBWBRKRBWBWBWBRKR](/stripes/bwbwbwbrkrbwbwbwbrkr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Glen Burns (WCWM** tartan is recorded as a single sett.
 

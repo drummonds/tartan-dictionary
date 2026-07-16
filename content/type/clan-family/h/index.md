@@ -42,8 +42,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s16/k6g4k1w16lb1w4lb6w1lb6w4lb1w16k1g4k6y1~x2/"><img src="/variants/s16/k6g4k1w16lb1w4lb6w1lb6w4lb1w16k1g4k6y1~x2/sett.png" alt="Henderson Dress #1" width="140"><br>Henderson Dress #1</a></li>
 <li><a class="tartan" href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/"><img src="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/sett.png" alt="Henderson Dress (Clan?)" width="140"><br>Henderson Dress (Clan?)</a></li>
 <li><a class="tartan" href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><img src="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/sett.png" alt="Henderson/MacKendrick" width="140"><br>Henderson/MacKendrick</a></li>
-<li><a class="tartan" href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><img src="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/sett.png" alt="Hepburn" width="140"><br>Hepburn</a></li>
 <li><a class="tartan" href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><img src="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/sett.png" alt="Hepburn" width="140"><br>Hepburn</a></li>
+<li><a class="tartan" href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><img src="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/sett.png" alt="Hepburn" width="140"><br>Hepburn</a></li>
 <li><a class="tartan" href="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><img src="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/sett.png" alt="Heston" width="140"><br>Heston</a></li>
 <li><a class="tartan" href="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/"><img src="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/sett.png" alt="Hewett" width="140"><br>Hewett</a></li>
 <li><a class="tartan" href="/variants/s11/db10k2g2r2g2k2r2k2r4k1g2~x4/"><img src="/variants/s11/db10k2g2r2g2k2r2k2r4k1g2~x4/sett.png" alt="Highfield" width="140"><br>Highfield</a></li>

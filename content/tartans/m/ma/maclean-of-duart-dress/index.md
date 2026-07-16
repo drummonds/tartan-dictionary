@@ -12,8 +12,11 @@ aliases:
 - "/setts/lb12o2db4g2dr3r3dr3r19w30n2w4k2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwbwrbrbgbrw/">KWBWRBRBGBRW</a></nav>
+
 A tartan of the [MacLean of Duart](/families/maclean-of-duart/) family.
+
 Its design is pattern [KWBWRBRBGBRW](/stripes/kwbwrbrbgbrw/) — the page of every tartan sharing this colour sequence.
+
 
 The **MacLean of Duart Dress** tartan is recorded as a single sett.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/r2ly20o2ly2r3dr3r3lo6loi24ly2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ryryrbryyy/">RYRYRBRYYY</a></nav>
+
 Its design is pattern [RYRYRBRYYY](/stripes/ryryrbryyy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Golden Heather, The** tartan is recorded as a single sett.
 

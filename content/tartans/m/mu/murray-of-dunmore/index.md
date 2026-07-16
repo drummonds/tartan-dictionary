@@ -12,8 +12,11 @@ aliases:
 - "/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbgbgbgbgbgbgbgbgbg/">GBGBGBGBGBGBGBGBGBGBG</a></nav>
+
 A tartan of the [Murray of Dunmore](/families/murray-of-dunmore/) family.
+
 Its design is pattern [GBGBGBGBGBGBGBGBGBGBG](/stripes/gbgbgbgbgbgbgbgbgbgbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Murray of Dunmore** tartan is recorded as a single sett.
 

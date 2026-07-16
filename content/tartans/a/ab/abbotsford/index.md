@@ -9,7 +9,9 @@ aliases:
 - "/setts/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwkgbkwkwkwkwkwkgrgwgk/">GKWKGBKWKWKWKWKWKGRGWGK</a></nav>
+
 Its design is pattern [GKWKGBKWKWKWKWKWKGRGWGK](/stripes/gkwkgbkwkwkwkwkwkgrgwgk/) — the page of every tartan sharing this colour sequence.
+
 
 Designed by Alistair Buchan in 1971 for Sir Walter Scott's bicentenary; black-and-white check from the Border Shepherd's Plaid.
 

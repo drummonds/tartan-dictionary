@@ -12,8 +12,11 @@ aliases:
 - "/setts/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/">KWKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW</a></nav>
+
 A tartan of the [Dunbar](/families/dunbar/) family.
+
 Its design is pattern [KWKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW](/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Dunbar** tartan is recorded as a single sett.
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/bedford-academy/">Bedford Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/bedford-academy/"><img src="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/sett.png" alt="Bedford Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bedford-academy/"><img src="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/sett.png" alt="Bedford Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

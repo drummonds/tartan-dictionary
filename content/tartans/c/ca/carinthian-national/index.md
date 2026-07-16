@@ -8,7 +8,9 @@ aliases:
 - "/setts/dy3dt16do15dg18do3r3do3dg18do15dt16w3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbbgbrbgbbw/">GBBGBRBGBBW</a></nav>
+
 Its design is pattern [GBBGBRBGBBW](/stripes/gbbgbrbgbbw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Carinthian National** tartan is recorded as a single sett.
 

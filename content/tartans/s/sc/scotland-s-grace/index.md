@@ -8,7 +8,9 @@ aliases:
 - "/setts/n24t2n4o2t2n4o4t5g5y3r7dp2r2dp3r1dp23n4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbrbbrbggrbrbrbb/">BBBRBBRBGGRBRBRBB</a></nav>
+
 Its design is pattern [BBBRBBRBGGRBRBRBB](/stripes/bbbrbbrbggrbrbrbb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Scotland's Grace** tartan is recorded as a single sett.
 

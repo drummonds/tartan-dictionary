@@ -9,7 +9,9 @@ aliases:
 - "/setts/r15dp3dy2do2dy3r3y3dy3b3r4b2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grggyrgbgrr/">GRGGYRGBGRR</a></nav>
+
 Its design is pattern [GRGGYRGBGRR](/stripes/grggyrgbgrr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Unidentified Chair Covering** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -17,7 +19,7 @@ The **Unidentified Chair Covering** tartan groups 2 setts — the same named des
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/">Unidentified Chair Covering</a> ★</td><td></td><td><code>R/15 O3 DY2 DO2 DY3 R3 LY3 DY3 G3 R4 G/2</code></td><td>—</td><td>—</td></tr>
+<tr><td><a href="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/">Unidentified Chair Covering</a> ★</td><td></td><td><code>R/30 O6 DY4 DO4 DY6 R6 LO6 DY6 G6 R8 G/4</code></td><td>138</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/"><img src="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/sett.png" alt="Unidentified Chair Covering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/r15dp3dy2do2dy3r3y3dy3b3r4b2~x2~dp1607335-dy1103057/">Unidentified, chair covering</a></td><td>2.74</td><td><code>R/30 DP6 DY4 DO4 DY6 R6 Y6 DY6 B6 R8 B/4</code></td><td>138</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r15dp3dy2do2dy3r3y3dy3b3r4b2~x2~dp1607335-dy1103057/"><img src="/variants/s11/r15dp3dy2do2dy3r3y3dy3b3r4b2~x2~dp1607335-dy1103057/sett.png" alt="Unidentified, chair covering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
@@ -30,3 +32,15 @@ The **Unidentified Chair Covering** tartan groups 2 setts — the same named des
 This tartan is also recorded under:
 
 - Unidentified, chair covering
+
+## Nearest tartans
+
+The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">138</div><div class="nn-name nn-base"><a href="/variants/s11/r15o3dy2do2dy3r3lo3dy3g3r4g2~x2~dy1503057-lo2806085/">Unidentified Chair Covering</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/r15o3dy2do2dy3r3lo3dy3g3r4g2~x2~dy1503057-lo2806085/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r1dy1r9g6lg2gi3r2y1~x4~lg2803208-gi2203208&amp;base=r15o3dy2do2dy3r3lo3dy3g3r4g2~x2~dy1503057-lo2806085" title="compare in the TTD">3.52</a></div><div class="nn-threads nn-far2">192</div><div class="nn-name nn-far2"><a href="/variants/s8/r1dy1r9g6lg2gi3r2y1~x4~lg2803208-gi2203208/">Battle of Bannockburn, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r1dy1r9g6lg2gi3r2y1~x4~lg2803208-gi2203208/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090&amp;base=r15o3dy2do2dy3r3lo3dy3g3r4g2~x2~dy1503057-lo2806085" title="compare in the TTD">3.80</a></div><div class="nn-threads nn-far2">208</div><div class="nn-name nn-far2"><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/">Pubcrawlers</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 10794 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r1dy1r9g6lg2gi3r2y1~x4~lg2803208-gi2203208/"><circle cx="246.0" cy="198.5" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="311.1" cy="218.2" r="4" fill="#3465a4"><title>Pubcrawlers</title></circle></a><circle cx="275.3" cy="193.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -10,8 +10,11 @@ aliases:
 - "/setts/dt2y3dt3y3dt10y2dt18y1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbgbg/">BGBGBGBG</a></nav>
+
 A tartan of [Clan Hebridean](/clan/hebridean/).
+
 Its design is pattern [BGBGBGBG](/stripes/bgbgbgbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Hebridean Cairn** tartan is recorded as a single sett.
 

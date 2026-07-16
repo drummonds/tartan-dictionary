@@ -12,8 +12,11 @@ aliases:
 - "/setts/dg18dgi4lb1dgi5dg6dgi3k1dy6k1dgi25lb1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggwgggkgkgw/">GGWGGGKGKGW</a></nav>
+
 A tartan of the [Mack of Stoneywood](/families/mack-of-stoneywood/) family.
+
 Its design is pattern [GGWGGGKGKGW](/stripes/ggwgggkgkgw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Mack of Stoneywood Hunting** tartan is recorded as a single sett.
 

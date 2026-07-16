@@ -9,7 +9,9 @@ aliases:
 - "/setts/lb19lo12r4ly8n4dg6g16/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wyrgbgy/">WYRGBGY</a></nav>
+
 Its design is pattern [WYRGBGY](/stripes/wyrgbgy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Aberdeenshire Home Colours** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

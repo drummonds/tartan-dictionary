@@ -8,7 +8,9 @@ aliases:
 - "/setts/dg12y1lb1w1dr2w1db1w1db4w1db1w1dr2w1lb1y1dg12y1dg1w1y3w1db5w1y3w1dg1y1dg12y1dg1y1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggggggwgwbwgwggggwwbwbwbwbwbwwgg/">GGGGGGWGWBWGWGGGGWWBWBWBWBWBWWGG</a></nav>
+
 Its design is pattern [GGGGGGWGWBWGWGGGGWWBWBWBWBWBWWGG](/stripes/ggggggwgwbwgwggggwwbwbwbwbwbwwgg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Henry** tartan is recorded as a single sett.
 

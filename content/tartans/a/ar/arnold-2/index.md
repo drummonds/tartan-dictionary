@@ -12,8 +12,11 @@ aliases:
 - "/setts/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kkykkkkkkkkkkkkrkkbkkkwkkkbkkrkkkkkkkkkkkky/">KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY</a></nav>
+
 A tartan of the [Arnold](/families/arnold/) family.
+
 Its design is pattern [KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY](/stripes/kkykkkkkkkkkkkkrkkbkkkwkkkbkkrkkkkkkkkkkkky/) — the page of every tartan sharing this colour sequence.
+
 
 The **Arnold** tartan is recorded as a single sett.
 

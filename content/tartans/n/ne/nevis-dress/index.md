@@ -8,7 +8,9 @@ aliases:
 - "/setts/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ybbbwbywbwy/">YBBBWBYWBWY</a></nav>
+
 Its design is pattern [YBBBWBYWBWY](/stripes/ybbbwbywbwy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Nevis Dress** tartan is recorded as a single sett.
 

@@ -12,8 +12,11 @@ aliases:
 - "/setts/n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/">BRBWBWBWBRBRBRBWBYBWBRBWBYBWB</a></nav>
+
 A tartan of the [Delmarva](/families/delmarva/) family.
+
 Its design is pattern [BRBWBWBWBRBRBRBWBYBWBRBWBYBWB](/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Delmarva** tartan is recorded as a single sett.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bryybywywykywywybyyrbryybyyrbryybywywyyywywybyyrbryybyyrbryybywywykywywybyyrbryyb/">BRYYBYWYWYKYWYWYBYYRBRYYBYYRBRYYBYWYWYYYWYWYBYYRBRYYBYYRBRYYBYWYWYKYWYWYBYYRBRYYB</a></nav>
+
 Its design is pattern [BRYYBYWYWYKYWYWYBYYRBRYYBYYRBRYYBYWYWYYYWYWYBYYRBRYYBYYRBRYYBYWYWYKYWYWYBYYRBRYYB](/stripes/bryybywywykywywybyyrbryybyyrbryybywywyyywywybyyrbryybyyrbryybywywykywywybyyrbryyb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Unidentified Scarlett** tartan is recorded as a single sett.
 

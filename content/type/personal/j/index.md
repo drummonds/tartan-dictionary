@@ -9,8 +9,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><img src="/variants/s7/db4dr2db40k11g2w16dr2~x2/sett.png" alt="Jack Sinclair (Personal)" width="140"><br>Jack Sinclair (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/g4r52k20dy9g2y1~x2/"><img src="/variants/s6/g4r52k20dy9g2y1~x2/sett.png" alt="Jack, John (Fife) (Personal)" width="140"><br>Jack, John (Fife) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><img src="/variants/s8/g5y2dp40w1db15w1db1w1~x2/sett.png" alt="Jackson (Personal)" width="140"><br>Jackson (Personal)</a></li>
-<li><a class="tartan" href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><img src="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/sett.png" alt="James (Personal)" width="140"><br>James (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><img src="/variants/s7/r2k6y1dg12y1db6lb2~x4/sett.png" alt="James (Personal)" width="140"><br>James (Personal)</a></li>
+<li><a class="tartan" href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><img src="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/sett.png" alt="James (Personal)" width="140"><br>James (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><img src="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/sett.png" alt="James of Glencarr (Personal)" width="140"><br>James of Glencarr (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/lb6ly6t21db32r3~x2/"><img src="/variants/s5/lb6ly6t21db32r3~x2/sett.png" alt="Jamieson, Robert (Personal)" width="140"><br>Jamieson, Robert (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/"><img src="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/sett.png" alt="Jefferson (Personal)" width="140"><br>Jefferson (Personal)</a></li>
@@ -40,12 +40,12 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/r72db6y2db11lb2db2lb2r9k2~x2/"><img src="/variants/s9/r72db6y2db11lb2db2lb2r9k2~x2/sett.png" alt="Junor (Personal)" width="140"><br>Junor (Personal)</a></li>
 <li><a class="tartan" href="/variants/s16/r9lb2db2lb2db11y2db6r72db6y2db11lb2db2lb2r9k2~x2/"><img src="/variants/s16/r9lb2db2lb2db11y2db6r72db6y2db11lb2db2lb2r9k2~x2/sett.png" alt="Junor (Personal)" width="140"><br>Junor (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/t1k4r1k1ly1k4t1~x12/"><img src="/variants/s7/t1k4r1k1ly1k4t1~x12/sett.png" alt="Justus #1 (Personal)" width="140"><br>Justus #1 (Personal)</a></li>
-<li><a class="tartan" href="/variants/s3/k5lo1k1~x20/"><img src="/variants/s3/k5lo1k1~x20/sett.png" alt="Justus #2 (Personal)" width="140"><br>Justus #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k5lo1k1lo1~x20/"><img src="/variants/s4/k5lo1k1lo1~x20/sett.png" alt="Justus #2 (Personal)" width="140"><br>Justus #2 (Personal)</a></li>
+<li><a class="tartan" href="/variants/s3/k5lo1k1~x20/"><img src="/variants/s3/k5lo1k1~x20/sett.png" alt="Justus #2 (Personal)" width="140"><br>Justus #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/db1k4dr1k1lo1k4db1~x12/"><img src="/variants/s7/db1k4dr1k1lo1k4db1~x12/sett.png" alt="Justus (Personal)" width="140"><br>Justus (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/"><img src="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/sett.png" alt="Justus Black &amp; Gold (Angus) (Personal)" width="140"><br>Justus Black & Gold (Angus) (Personal)</a></li>
-<li><a class="tartan" href="/variants/s2/k1lo1~x50/"><img src="/variants/s2/k1lo1~x50/sett.png" alt="Justus Check (Personal)" width="140"><br>Justus Check (Personal)</a></li>
 <li><a class="tartan" href="/variants/s2/k1y1~x40/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check (Personal)" width="140"><br>Justus Check (Personal)</a></li>
+<li><a class="tartan" href="/variants/s2/k1lo1~x50/"><img src="/variants/s2/k1lo1~x50/sett.png" alt="Justus Check (Personal)" width="140"><br>Justus Check (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/sett.png" alt="Justus Dress (Personal)" width="140"><br>Justus Dress (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/sett.png" alt="Justus Dress (Personal)" width="140"><br>Justus Dress (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/"><img src="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/sett.png" alt="Justus Htg (Personal)" width="140"><br>Justus Htg (Personal)</a></li>

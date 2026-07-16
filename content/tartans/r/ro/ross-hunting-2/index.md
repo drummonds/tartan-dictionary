@@ -12,8 +12,11 @@ aliases:
 - "/setts/dg4g2dg3g3dg4k5dg3k5dg28r2dg4r2dg4r2dg28k5dg3k5dg4g2dg2g2dg3g4dg3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggggggkgkgrgrgrgkgkggggg/">GGGGGGGKGKGRGRGRGKGKGGGGG</a></nav>
+
 A tartan of the [Ross](/families/ross/) family.
+
 Its design is pattern [GGGGGGGKGKGRGRGRGKGKGGGGG](/stripes/gggggggkgkgrgrgrgkgkggggg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Ross Hunting** tartan is recorded as a single sett.
 
@@ -40,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10794 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/"><circle cx="347.9" cy="93.4" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><circle cx="368.8" cy="118.9" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s12/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2~x2~dg1806142-g2408144/"><circle cx="378.5" cy="136.1" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><circle cx="384.6" cy="102.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/"><circle cx="352.2" cy="94.2" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><circle cx="372.1" cy="119.6" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s12/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2~x2~dg1806142-g2408144/"><circle cx="381.8" cy="136.8" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><circle cx="388.4" cy="103.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

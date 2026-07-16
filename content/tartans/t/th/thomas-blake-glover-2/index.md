@@ -10,8 +10,11 @@ aliases:
 - "/setts/db4b16o6b16o6b16db8b6db4b16db2o1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrbrbbbbbbr/">BBRBRBBBBBBR</a></nav>
+
 A tartan of [Clan Thomas](/clan/thomas/).
+
 Its design is pattern [BBRBRBBBBBBR](/stripes/bbrbrbbbbbbr/) — the page of every tartan sharing this colour sequence.
+
 
 Designed by Johnsons of Elgin for the Thomas Blake Glover Heritage Centre, honouring the Fraserburgh-born founder of Mitsubishi.
 

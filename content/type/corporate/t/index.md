@@ -25,8 +25,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r1w1dp4w1r4k1w1~x8/"><img src="/variants/s7/r1w1dp4w1r4k1w1~x8/sett.png" alt="Tartan Tangerine" width="140"><br>Tartan Tangerine</a></li>
 <li><a class="tartan" href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/"><img src="/variants/s6/r19k3r19k32g3k8~x2~r2109032/sett.png" alt="Tartan TV" width="140"><br>Tartan TV</a></li>
 <li><a class="tartan" href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><img src="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/sett.png" alt="Tayside Police" width="140"><br>Tayside Police</a></li>
-<li><a class="tartan" href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"><img src="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/sett.png" alt="Teddy Bear 111th Anniversary" width="140"><br>Teddy Bear 111th Anniversary</a></li>
 <li><a class="tartan" href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><img src="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/sett.png" alt="Teddy Bear 111th Anniversary" width="140"><br>Teddy Bear 111th Anniversary</a></li>
+<li><a class="tartan" href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"><img src="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/sett.png" alt="Teddy Bear 111th Anniversary" width="140"><br>Teddy Bear 111th Anniversary</a></li>
 <li><a class="tartan" href="/variants/s4/db3k32r27w2~x2/"><img src="/variants/s4/db3k32r27w2~x2/sett.png" alt="Templar Grand Priory USA" width="140"><br>Templar Grand Priory USA</a></li>
 <li><a class="tartan" href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><img src="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png" alt="Tennessee Volunteer" width="140"><br>Tennessee Volunteer</a></li>
 <li><a class="tartan" href="/variants/s19/g40loi3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1loi1lo1loi3r12loi3~x2~loi2906085-lo2905070/"><img src="/variants/s19/g40loi3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1loi1lo1loi3r12loi3~x2~loi2906085-lo2905070/sett.png" alt="Tenon Tours" width="140"><br>Tenon Tours</a></li>
@@ -42,8 +42,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s4/db10g10r5w1~x2/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law (Corporate)" width="140"><br>Thorntons Law (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s4/n62w11k4db17~x2/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord (Celtic Group, USA)" width="140"><br>Thunderlord (Celtic Group, USA)</a></li>
 <li><a class="tartan" href="/variants/s4/n62w11k4lg17~x2/"><img src="/variants/s4/n62w11k4lg17~x2/sett.png" alt="Thunderlord (Corporate)" width="140"><br>Thunderlord (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><img src="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png" alt="Tiger of Sweden" width="140"><br>Tiger of Sweden</a></li>
 <li><a class="tartan" href="/variants/s14/db3g1k1db2n16db2k4g1k1db16n2db2k1g3~x2/"><img src="/variants/s14/db3g1k1db2n16db2k4g1k1db16n2db2k1g3~x2/sett.png" alt="Tiger of Sweden" width="140"><br>Tiger of Sweden</a></li>
+<li><a class="tartan" href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><img src="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png" alt="Tiger of Sweden" width="140"><br>Tiger of Sweden</a></li>
 <li><a class="tartan" href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><img src="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/sett.png" alt="TIlted Kilt" width="140"><br>TIlted Kilt</a></li>
 <li><a class="tartan" href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><img src="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/sett.png" alt="Tilted Kilt (Corporate)" width="140"><br>Tilted Kilt (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s5/n6r1k6r1g6~x6/"><img src="/variants/s5/n6r1k6r1g6~x6/sett.png" alt="Timespan" width="140"><br>Timespan</a></li>

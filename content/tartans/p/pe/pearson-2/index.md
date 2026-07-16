@@ -12,8 +12,11 @@ aliases:
 - "/setts/oi3g14o1g14oi3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrgr/">RGRGR</a></nav>
+
 A tartan of the [Pearson](/families/pearson/) family.
+
 Its design is pattern [RGRGR](/stripes/rgrgr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Pearson** tartan is recorded as a single sett.
 

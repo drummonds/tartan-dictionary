@@ -11,8 +11,11 @@ aliases:
 - "/setts/g6lb8r2lb2y2lb16g18lb4g4lb3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbgbrbg/">BGBGBGBRBG</a></nav>
+
 A tartan of [Clan Blue](/clan/blue/).
+
 Its design is pattern [BGBGBGBRBG](/stripes/bgbgbgbrbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Blue Ridge** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

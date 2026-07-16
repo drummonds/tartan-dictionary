@@ -8,7 +8,9 @@ aliases:
 - "/setts/lr24n2lr6m3lr6w6lr6w6/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wywyryby/">WYWYRYBY</a></nav>
+
 Its design is pattern [WYWYRYBY](/stripes/wywyryby/) — the page of every tartan sharing this colour sequence.
+
 
 The **Weaving for Life** tartan is recorded as a single sett.
 

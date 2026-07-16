@@ -272,28 +272,41 @@ weight = 1
     name = "Wikipedia"
     url = "/sources/wikipedia/"
     weight = 15
+  [[menu.info]]
+  parent = "info"
+  name = "Paintings"
+  identifier = "paintings"
+  url = "/paintings/"
+  weight = 3
+    # Third-level flyout (#37, same structure as Colour and Sources): straight to any one
+    # painting. Grows as paintings are read — keep chronological (earliest first).
+    [[menu.info]]
+    parent = "paintings"
+    name = "Duke of Perth (1739)"
+    url = "/paintings/duke-of-perth-portrait/"
+    weight = 1
   # Placeholder sections — "coming soon" holding pages (layout: holding) until the real
   # Designers / Suppliers content is built. See content/{designers,suppliers}/.
   [[menu.info]]
   parent = "info"
   name = "Designers"
   url = "/designers/"
-  weight = 3
+  weight = 4
   [[menu.info]]
   parent = "info"
   name = "Suppliers"
   url = "/suppliers/"
-  weight = 4
+  weight = 5
   [[menu.info]]
   parent = "info"
   name = "About"
   url = "/about/"
-  weight = 5
+  weight = 6
   [[menu.info]]
   parent = "info"
   name = "Glossary"
   url = "/glossary/"
-  weight = 6
+  weight = 7
 
 [params.social]
   github = "https://github.com/Drummonds"

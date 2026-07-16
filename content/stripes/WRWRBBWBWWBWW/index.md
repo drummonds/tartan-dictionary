@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/da/daughters-of-the-american-revolution/">Daughters of the American Revolution</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/daughters-of-the-american-revolution/"><img src="/variants/s13/w2r4w2r4db18b14lb6b5lb4w2b5w2lb2~x2~db1204274-b2008266/sett.png" alt="Daughters of the American Revolution sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daughters-of-the-american-revolution/"><img src="/variants/s13/w2r2w2r4db18dbi14lb6dbi5lb4w2dbi5w2lb2~x2~db1204274-dbi1706275/sett.png" alt="Daughters of the American Revolution sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

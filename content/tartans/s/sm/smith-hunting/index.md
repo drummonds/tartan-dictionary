@@ -12,8 +12,11 @@ aliases:
 - "/setts/ly60w1o15w1ly9o15w1g9w1o15/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwgwrywrwy/">RWGWRYWRWY</a></nav>
+
 A tartan of the [Smith](/families/smith/) family.
+
 Its design is pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Smith Hunting** tartan is recorded as a single sett.
 

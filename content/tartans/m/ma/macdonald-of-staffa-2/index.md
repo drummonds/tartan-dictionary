@@ -12,8 +12,11 @@ aliases:
 - "/setts/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbybbgygbybgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbybgygbbybby/">BBYBBGYGBYBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBYBGYGBBYBBY</a></nav>
+
 A tartan of the [MacDonald of Staffa](/families/macdonald-of-staffa/) family.
+
 Its design is pattern [BBYBBGYGBYBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBYBGYGBBYBBY](/stripes/bbybbgygbybgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbybgygbbybby/) — the page of every tartan sharing this colour sequence.
+
 
 The **MacDonald of Staffa** tartan is recorded as a single sett.
 

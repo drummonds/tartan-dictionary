@@ -13,8 +13,11 @@ aliases:
 - "/setts/dg6dy2dg3lb4dg14lb36k2lb3w2lb3k2lb36dg14lb4dg3dy2dg6r1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggbgbkbwbkbgbgggr/">GGGBGBKBWBKBGBGGGR</a></nav>
+
 A tartan of the [Sarasota](/families/sarasota/) family.
+
 Its design is pattern [GGGBGBKBWBKBGBGGGR](/stripes/gggbgbkbwbkbgbgggr/) — the page of every tartan sharing this colour sequence.
+
 
 Commemorates the twinning of Dunfermline, Scotland with Sarasota, Florida; created for Robert Nicol.
 

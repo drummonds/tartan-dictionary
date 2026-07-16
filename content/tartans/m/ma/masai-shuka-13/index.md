@@ -12,7 +12,9 @@ aliases:
 - "/setts/lb25w5r1w1r1w20/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wrwrww/">WRWRWW</a></nav>
+
 Its design is pattern [WRWRWW](/stripes/wrwrww/) — the page of every tartan sharing this colour sequence.
+
 
 The **Masai Shuka 13** tartan is recorded as a single sett.
 

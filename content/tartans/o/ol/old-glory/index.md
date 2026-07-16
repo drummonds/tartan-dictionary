@@ -8,7 +8,9 @@ aliases:
 - "/setts/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/">BBBBBBBBBBBBBBWBWBWBWBWB</a></nav>
+
 Its design is pattern [BBBBBBBBBBBBBBWBWBWBWBWB](/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Old Glory** tartan is recorded as a single sett.
 

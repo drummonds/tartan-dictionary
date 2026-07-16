@@ -12,8 +12,11 @@ aliases:
 - "/setts/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gygrgygygrgyg/">GYGRGYGYGRGYG</a></nav>
+
 A tartan of the [Terry](/families/terry/) family.
+
 Its design is pattern [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/) — the page of every tartan sharing this colour sequence.
+
 
 Designed 1993 by Thomas Terry of Geneseo, Illinois, for all bearing the Terry name.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/r4o3dy2o38y30dy3y3dy3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggggrgrr/">GGGGRGRR</a></nav>
+
 Its design is pattern [GGGGRGRR](/stripes/ggggrgrr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Unidentified Lindley** tartan is recorded as a single sett.
 

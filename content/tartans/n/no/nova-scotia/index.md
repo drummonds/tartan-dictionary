@@ -9,7 +9,9 @@ aliases:
 - "/setts/db50ly16db8dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly20dg40db12dg24g8ly1g1ly1g1ly1g1ly1g1ly1g1ly1g1ly28g6dg4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgggggggggggggggggbgggggggggggggggbg/">BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG</a></nav>
+
 Its design is pattern [BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG](/stripes/bgggggggggggggggggbgggggggggggggggbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Nova Scotia** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

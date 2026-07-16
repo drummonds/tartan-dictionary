@@ -8,7 +8,9 @@ aliases:
 - "/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbkbbkbbkbbkbbkbbkwbwkbwbkwbygygygyg/">BBKBBKBBKBBKBBKBBKWBWKBWBKWBYGYGYGYG</a></nav>
+
 Its design is pattern [BBKBBKBBKBBKBBKBBKWBWKBWBKWBYGYGYGYG](/stripes/bbkbbkbbkbbkbbkbbkwbwkbwbkwbygygygyg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Am Yisrael Chair** tartan is recorded as a single sett.
 
@@ -29,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10794 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9dy2y1dy2y1dy2y1dy2y1~x2/"><circle cx="76.3" cy="14.0" r="4" fill="#3465a4"><title>Am Yisrael Chai</title></circle></a><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/"><circle cx="114.9" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily</title></circle></a><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/"><circle cx="115.5" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily Hunting</title></circle></a><circle cx="74.2" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9dy2y1dy2y1dy2y1dy2y1~x2/"><circle cx="81.0" cy="14.0" r="4" fill="#3465a4"><title>Am Yisrael Chai</title></circle></a><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/"><circle cx="119.8" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily</title></circle></a><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/"><circle cx="120.3" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily Hunting</title></circle></a><circle cx="78.9" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

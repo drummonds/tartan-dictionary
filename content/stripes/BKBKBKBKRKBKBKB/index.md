@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mu/mundigl/">Mundigl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mu/mundigl/"><img src="/variants/s15/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2~x2~db1406275-dbi1506265/sett.png" alt="Mundigl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/mundigl/"><img src="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/sett.png" alt="Mundigl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

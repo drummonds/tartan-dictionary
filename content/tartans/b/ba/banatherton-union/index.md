@@ -8,7 +8,9 @@ aliases:
 - "/setts/lg10n8ly1lb5w5lg28n2ly1lb8w5/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wwybywwyby/">WWYBYWWYBY</a></nav>
+
 Its design is pattern [WWYBYWWYBY](/stripes/wwybywwyby/) — the page of every tartan sharing this colour sequence.
+
 
 The **Banatherton Union** tartan is recorded as a single sett.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/dr15dg3dr3dg19dyi6dy6o6dg19dr3dg3dr15dy13/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgggrgbgbg/">BGBGGGRGBGBG</a></nav>
+
 Its design is pattern [BGBGGGRGBGBG](/stripes/bgbgggrgbgbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Maple Leaf** tartan is recorded as a single sett.
 

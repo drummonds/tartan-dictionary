@@ -8,7 +8,9 @@ aliases:
 - "/setts/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggggygggggbgy/">BGGGGYGGGGGBGY</a></nav>
+
 Its design is pattern [BGGGGYGGGGGBGY](/stripes/bggggygggggbgy/) — the page of every tartan sharing this colour sequence.
+
 
 The **State Seal of Vermont** tartan is recorded as a single sett.
 

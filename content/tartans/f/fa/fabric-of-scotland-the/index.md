@@ -8,7 +8,9 @@ aliases:
 - "/setts/o42y11o5y4dg29dgi19g24dpi2dp8dpii23/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbggggrgr/">BBBGGGGRGR</a></nav>
+
 Its design is pattern [BBBGGGGRGR](/stripes/bbbggggrgr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Fabric of Scotland , The** tartan is recorded as a single sett.
 

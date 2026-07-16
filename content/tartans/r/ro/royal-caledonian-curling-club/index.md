@@ -8,7 +8,9 @@ aliases:
 - "/setts/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbgbbbbbbwbr/">BBBBBGBBBBBBWBR</a></nav>
+
 Its design is pattern [BBBBBGBBBBBBWBR](/stripes/bbbbbgbbbbbbwbr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Royal Caledonian Curling Club** tartan is recorded as a single sett.
 

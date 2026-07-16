@@ -9,7 +9,9 @@ aliases:
 - "/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbwbbbbbbbrbbbbbbbgbbb/">BBBBWBBBBBBBRBBBBBBBGBBB</a></nav>
+
 Its design is pattern [BBBBWBBBBBBBRBBBBBBBGBBB](/stripes/bbbbwbbbbbbbrbbbbbbbgbbb/) — the page of every tartan sharing this colour sequence.
+
 
 Asymmetric corporate tartan designed by Janet Helm Presents Tartan of Vancouver for property company Colliers International.
 

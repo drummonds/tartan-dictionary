@@ -12,8 +12,11 @@ aliases:
 - "/setts/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwbwbwbwbwywywywywywbybybybyby/">WBWBWBWBWBWYWYWYWYWYWBYBYBYBYBY</a></nav>
+
 A tartan of the [Wcwm](/families/wcwm/) family.
+
 Its design is pattern [WBWBWBWBWBWYWYWYWYWYWBYBYBYBYBY](/stripes/wbwbwbwbwbwywywywywywbybybybyby/) — the page of every tartan sharing this colour sequence.
+
 
 The **Wcwm 1131** tartan is recorded as a single sett.
 

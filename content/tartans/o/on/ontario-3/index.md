@@ -12,8 +12,11 @@ aliases:
 - "/setts/y14o2r2o2r2o2r2o2r2o2g25y8r4o4g3o1g3o1g4r10o2g2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grrgrgrgrrggrrrrrrrrrg/">GRRGRGRGRRGGRRRRRRRRRG</a></nav>
+
 A tartan of the [Ontario](/families/ontario/) family.
+
 Its design is pattern [GRRGRGRGRRGGRRRRRRRRRG](/stripes/grrgrgrgrrggrrrrrrrrrg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Ontario** tartan is recorded as a single sett.
 

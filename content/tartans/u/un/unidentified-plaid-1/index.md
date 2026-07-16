@@ -8,7 +8,9 @@ aliases:
 - "/setts/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbbbwbgbgbwbgbgbwbgbgw/">BBGBBBWBGBGBWBGBGBWBGBGW</a></nav>
+
 Its design is pattern [BBGBBBWBGBGBWBGBGBWBGBGW](/stripes/bbgbbbwbgbgbwbgbgbwbgbgw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Unidentified Plaid 1** tartan is recorded as a single sett.
 

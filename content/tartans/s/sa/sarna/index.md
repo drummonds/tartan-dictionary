@@ -12,8 +12,11 @@ aliases:
 - "/setts/o13r1o2r2o2r1o2r5o11r1o2g2o2r1o2g7/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grrrgrrrrrrrrrrr/">GRRRGRRRRRRRRRRR</a></nav>
+
 A tartan of the [Sarna](/families/sarna/) family.
+
 Its design is pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Sarna** tartan is recorded as a single sett.
 

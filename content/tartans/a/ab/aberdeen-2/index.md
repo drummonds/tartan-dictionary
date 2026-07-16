@@ -12,8 +12,11 @@ aliases:
 - "/setts/g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri23r3w2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwrrwrrwwwbrrwrrbwkgkwbrrwrrbwbwwwbwkgwgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/">GWRRWRRWWWBRRWRRBWKGKWBRRWRRBWBWWWBWKGWGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW</a></nav>
+
 A tartan of the [Aberdeen](/families/aberdeen/) family.
+
 Its design is pattern [GWRRWRRWWWBRRWRRBWKGKWBRRWRRBWBWWWBWKGWGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/gwrrwrrwwwbrrwrrbwkgkwbrrwrrbwbwwwbwkgwgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/) — the page of every tartan sharing this colour sequence.
+
 
 One of Scotland's oldest district tartans, likely introduced by Wilsons of Bannockburn; documented from 1794.
 

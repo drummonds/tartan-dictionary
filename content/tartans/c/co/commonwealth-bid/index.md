@@ -10,8 +10,11 @@ aliases:
 - "/setts/t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbwgwbbgbrbgbbwgwbbbryrb/">BBWGWBBGBRBGBBWGWBBBRYRB</a></nav>
+
 A tartan of [Clan Commonwealth](/clan/commonwealth/).
+
 Its design is pattern [BBWGWBBGBRBGBBWGWBBBRYRB](/stripes/bbwgwbbgbrbgbbwgwbbbryrb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Commonwealth Bid** tartan is recorded as a single sett.
 

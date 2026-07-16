@@ -12,8 +12,11 @@ aliases:
 - "/setts/n9o9yi9r1y1o9y1r1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgrgrgr/">BRGRGRGR</a></nav>
+
 A tartan of the [Jardine](/families/jardine/) family.
+
 Its design is pattern [BRGRGRGR](/stripes/brgrgrgr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Jardine** tartan is recorded as a single sett.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/db4dbi2db43dbi20db4dbi2db2dbi4db2dbi2db4dbi20db43dbi2db4dbi2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbbbbbbbbbb/">BBBBBBBBBBBBBBBB</a></nav>
+
 Its design is pattern [BBBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbbb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Dark Island Navy** tartan is recorded as a single sett.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgbwbgrbgrbgrygyr/">BRGBWBGRBGRBGRYGYR</a></nav>
+
 Its design is pattern [BRGBWBGRBGRBGRYGYR](/stripes/brgbwbgrbgrbgrygyr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Belk Festive** tartan is recorded as a single sett.
 

@@ -12,8 +12,11 @@ aliases:
 - "/setts/dp2g3lp21dp42w1g2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwbwg/">BGWBWG</a></nav>
+
 A tartan of the [SiMBA](/families/simba/) family.
+
 Its design is pattern [BGWBWG](/stripes/bgwbwg/) — the page of every tartan sharing this colour sequence.
+
 
 The **SiMBA** tartan is recorded as a single sett.
 
@@ -34,6 +37,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10794 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="453.2" cy="129.5" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="382.0" cy="91.3" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="404.3" cy="200.1" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="378.4" cy="123.5" r="4" fill="#3465a4"><title>Caithness Glass</title></circle></a><circle cx="425.6" cy="125.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="456.8" cy="131.4" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="387.4" cy="92.8" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="407.9" cy="201.9" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="383.3" cy="125.3" r="4" fill="#3465a4"><title>Caithness Glass</title></circle></a><circle cx="430.4" cy="127.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

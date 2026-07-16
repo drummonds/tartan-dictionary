@@ -10,8 +10,11 @@ aliases:
 - "/setts/lg25lo8lg8lo8lg8lo46w46g8w46lo46lg46lo8lg8/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/yyyywgwyyyyyy/">YYYYWGWYYYYYY</a></nav>
+
 A tartan of [Clan Poulter](/clan/poulter/).
+
 Its design is pattern [YYYYWGWYYYYYY](/stripes/yyyywgwyyyyyy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Poulter SG 105** tartan is recorded as a single sett.
 

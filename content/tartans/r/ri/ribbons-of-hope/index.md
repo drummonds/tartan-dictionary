@@ -8,7 +8,9 @@ aliases:
 - "/setts/w3g6gi4rii12w4ri10r5lp8w3lp3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wggrwrrwww/">WGGRWRRWWW</a></nav>
+
 Its design is pattern [WGGRWRRWWW](/stripes/wggrwrrwww/) — the page of every tartan sharing this colour sequence.
+
 
 The **Ribbons of Hope** tartan is recorded as a single sett.
 

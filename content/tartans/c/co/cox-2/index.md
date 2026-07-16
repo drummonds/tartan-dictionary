@@ -12,8 +12,11 @@ aliases:
 - "/setts/lb3dg12dy3lp3dy3lp4dg12n3dg3n3dg28w3dg3n3dg12lp4dy3lp3dy3dg12dy4dg2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggggwgwgbgwgbgbgwgwggw/">GGGGWGWGBGWGBGBGWGWGGW</a></nav>
+
 A tartan of the [Cox](/families/cox/) family.
+
 Its design is pattern [GGGGWGWGBGWGBGBGWGWGGW](/stripes/ggggwgwgbgwgbgbgwgwggw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Cox** tartan is recorded as a single sett.
 

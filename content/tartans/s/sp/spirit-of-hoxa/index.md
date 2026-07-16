@@ -9,7 +9,9 @@ aliases:
 - "/setts/dg2dt19dg2do46lb2dt10dg3o2r2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbwbgrr/">GBGBWBGRR</a></nav>
+
 Its design is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/) — the page of every tartan sharing this colour sequence.
+
 
 Designed by Allison Dearness with Lochcarron for the Hoxa district of South Ronaldsay, Orkney.
 

@@ -13,8 +13,11 @@ aliases:
 - "/setts/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbgbgbgbrbr/">GBGBGBGBGBRBR</a></nav>
+
 A tartan of the [Angotta](/families/angotta/) family.
+
 Its design is pattern [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Angotta** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

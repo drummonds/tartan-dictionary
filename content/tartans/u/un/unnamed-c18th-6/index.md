@@ -8,7 +8,9 @@ aliases:
 - "/setts/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbgbbbgybgbbbgbgw/">BBBGBBBGYBGBBBGBGW</a></nav>
+
 Its design is pattern [BBBGBBBGYBGBBBGBGW](/stripes/bbbgbbbgybgbbbgbgw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Unnamed C18th** tartan is recorded as a single sett.
 

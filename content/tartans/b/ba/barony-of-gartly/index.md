@@ -8,7 +8,9 @@ aliases:
 - "/setts/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27o4dg27dt8db3dt3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbgrgbgbgbgbgwbwgbbbbgb/">BBBGRGBGBGBGBGWBWGBBBBGB</a></nav>
+
 Its design is pattern [BBBGRGBGBGBGBGWBWGBBBBGB](/stripes/bbbgrgbgbgbgbgwbwgbbbbgb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Barony of Gartly** tartan is recorded as a single sett.
 

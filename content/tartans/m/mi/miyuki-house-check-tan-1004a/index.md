@@ -10,8 +10,11 @@ aliases:
 - "/setts/o11oi3o20oi20r3oi8r3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rrrrrrr/">RRRRRRR</a></nav>
+
 A tartan of [Clan Miyuki](/clan/miyuki/).
+
 Its design is pattern [RRRRRRR](/stripes/rrrrrrr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Miyuki, House Check Tan, 1004A** tartan is recorded as a single sett.
 

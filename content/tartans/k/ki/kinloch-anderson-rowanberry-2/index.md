@@ -10,8 +10,11 @@ aliases:
 - "/setts/y7ri30dr4ri8dr4r12ri6r12ri28dr4ri8dr8ri8dr4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrbrrrrbrbrg/">BRBRBRRRRBRBRG</a></nav>
+
 A tartan of [Clan Kinloch](/clan/kinloch/).
+
 Its design is pattern [BRBRBRRRRBRBRG](/stripes/brbrbrrrrbrbrg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Kinloch Anderson Rowanberry** tartan is recorded as a single sett.
 

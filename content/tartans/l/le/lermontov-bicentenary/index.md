@@ -8,7 +8,9 @@ aliases:
 - "/setts/dy5dr6k5dr6dy36db3dy2k1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbgbgk/">GBKBGBGK</a></nav>
+
 Its design is pattern [GBKBGBGK](/stripes/gbkbgbgk/) — the page of every tartan sharing this colour sequence.
+
 
 The **Lermontov Bicentenary** tartan is recorded as a single sett.
 

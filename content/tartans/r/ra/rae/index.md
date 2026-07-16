@@ -8,7 +8,9 @@ aliases:
 - "/setts/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/">BGBGBGBGBGBGBGBGBGBGBGBGBGB</a></nav>
+
 Its design is pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Rae** tartan is recorded as a single sett.
 

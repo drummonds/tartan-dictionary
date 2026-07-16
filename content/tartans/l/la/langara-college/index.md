@@ -8,7 +8,9 @@ aliases:
 - "/setts/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wwbwbybwbwwwwyww/">WWBWBYBWBWWWWYWW</a></nav>
+
 Its design is pattern [WWBWBYBWBWWWWYWW](/stripes/wwbwbybwbwwwwyww/) — the page of every tartan sharing this colour sequence.
+
 
 The **Langara College** tartan is recorded as a single sett.
 

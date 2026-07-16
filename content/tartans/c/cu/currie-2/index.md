@@ -12,8 +12,11 @@ aliases:
 - "/setts/gi44k1gi3y3gi3w1g21w1g3w3g3w1g21/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgggwgwgwgwg/">GKGGGWGWGWGWG</a></nav>
+
 A tartan of the [Currie](/families/currie/) family.
+
 Its design is pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Currie** tartan is recorded as a single sett.
 

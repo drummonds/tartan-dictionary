@@ -12,8 +12,11 @@ aliases:
 - "/setts/ly2db1dpi42lb2dpi6db1lo1db1dp4b4g1dpi1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbbbybbwbby/">BGBBBYBBWBBY</a></nav>
+
 A tartan of the [Kerr of Ardgowan Clergy](/families/kerr-of-ardgowan-clergy/) family.
+
 Its design is pattern [BGBBBYBBWBBY](/stripes/bgbbbybbwbby/) — the page of every tartan sharing this colour sequence.
+
 
 The **Kerr of Ardgowan Clergy** tartan is recorded as a single sett.
 

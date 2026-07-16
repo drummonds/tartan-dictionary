@@ -12,8 +12,11 @@ aliases:
 - "/setts/n4lr4do4lr4n4lr4do4lr4dr1n4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbybybybyb/">BBYBYBYBYB</a></nav>
+
 A tartan of the [Brook](/families/brook/) family.
+
 Its design is pattern [BBYBYBYBYB](/stripes/bbybybybyb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Brook** tartan is recorded as a single sett.
 

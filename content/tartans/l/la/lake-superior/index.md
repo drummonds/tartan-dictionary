@@ -8,7 +8,9 @@ aliases:
 - "/setts/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwwbwbwbwbwbwbwbwbwbwbwbwbwbwbbbww/">BWWBWBWBWBWBWBWBWBWBWBWBWBWBWBBBWW</a></nav>
+
 Its design is pattern [BWWBWBWBWBWBWBWBWBWBWBWBWBWBWBBBWW](/stripes/bwwbwbwbwbwbwbwbwbwbwbwbwbwbwbbbww/) — the page of every tartan sharing this colour sequence.
+
 
 The **Lake Superior** tartan is recorded as a single sett.
 

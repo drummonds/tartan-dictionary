@@ -8,7 +8,9 @@ aliases:
 - "/setts/db1n1r1n1db1n1r1n1db1n1r1t1n1lb1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrbbbrbbbrbbw/">BBRBBBRBBBRBBW</a></nav>
+
 Its design is pattern [BBRBBBRBBBRBBW](/stripes/bbrbbbrbbbrbbw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Spey** tartan is recorded as a single sett.
 

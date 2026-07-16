@@ -12,8 +12,11 @@ aliases:
 - "/setts/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbwbbbgbg/">BBBBBBBWBBBGBG</a></nav>
+
 A tartan of the [Allen](/families/allen/) family.
+
 Its design is pattern [BBBBBBBWBBBGBG](/stripes/bbbbbbbwbbbgbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Allen** tartan is recorded as a single sett.
 

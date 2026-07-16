@@ -8,7 +8,9 @@ aliases:
 - "/setts/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbggyybyrbbbkkbbbggyybyrwk/">BBGGYYBYRBBBKKBBBGGYYBYRWK</a></nav>
+
 Its design is pattern [BBGGYYBYRBBBKKBBBGGYYBYRWK](/stripes/bbggyybyrbbbkkbbbggyybyrwk/) — the page of every tartan sharing this colour sequence.
+
 
 The **Trithart** tartan is recorded as a single sett.
 

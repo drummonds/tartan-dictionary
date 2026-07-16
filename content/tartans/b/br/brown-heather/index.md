@@ -10,8 +10,11 @@ aliases:
 - "/setts/do1dy6do6dy1n6dy1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbg/">BGBGBG</a></nav>
+
 A tartan of [Clan Brown](/clan/brown/).
+
 Its design is pattern [BGBGBG](/stripes/bgbgbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Brown Heather** tartan is recorded as a single sett.
 

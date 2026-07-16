@@ -12,8 +12,11 @@ aliases:
 - "/setts/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10lr2r14w2r14lr2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwrwrwwwbwbwwwggwggyrwrygwgggwwwwwgggwgwrwrwbwwgwgwgwwbwrwwwrw/">RWRWRWWWBWBWWWGGWGGYRWRYGWGGGWWWWWGGGWGWRWRWBWWGWGWGWWBWRWWWRW</a></nav>
+
 A tartan of the [Ritch](/families/ritch/) family.
+
 Its design is pattern [RWRWRWWWBWBWWWGGWGGYRWRYGWGGGWWWWWGGGWGWRWRWBWWGWGWGWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwggwggyrwrygwgggwwwwwgggwgwrwrwbwwgwgwgwwbwrwwwrw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Ritch** tartan is recorded as a single sett.
 
@@ -34,6 +37,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10794 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/"><circle cx="83.0" cy="36.9" r="4" fill="#3465a4"><title>Ritch</title></circle></a><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y2w2dg2w2y2w2lb2dp10w2r20w2lb6w2r14w1~x2/"><circle cx="111.6" cy="49.1" r="4" fill="#3465a4"><title>Ritch</title></circle></a><circle cx="88.2" cy="41.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/"><circle cx="85.4" cy="37.9" r="4" fill="#3465a4"><title>Ritch</title></circle></a><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y2w2dg2w2y2w2lb2dp10w2r20w2lb6w2r14w1~x2/"><circle cx="114.0" cy="50.1" r="4" fill="#3465a4"><title>Ritch</title></circle></a><circle cx="90.4" cy="42.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,7 +8,9 @@ aliases:
 - "/setts/r2b3r1b16t2b9t9b3t15g1t3g2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbbbbbbrbr/">GBGBBBBBBRBR</a></nav>
+
 Its design is pattern [GBGBBBBBBRBR](/stripes/gbgbbbbbbrbr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Clydebank** tartan is recorded as a single sett.
 

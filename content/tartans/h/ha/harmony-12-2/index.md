@@ -12,8 +12,11 @@ aliases:
 - "/setts/n6o2n29o29n2o6/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrbr/">BRBRBR</a></nav>
+
 A tartan of the [Harmony](/families/harmony/) family.
+
 Its design is pattern [BRBRBR](/stripes/brbrbr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Harmony, 12** tartan is recorded as a single sett.
 

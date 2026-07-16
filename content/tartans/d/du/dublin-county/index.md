@@ -8,7 +8,9 @@ aliases:
 - "/setts/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbgbgbgrgr/">GBGBGBGBGRGR</a></nav>
+
 Its design is pattern [GBGBGBGBGRGR](/stripes/gbgbgbgbgrgr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Dublin, County** tartan is recorded as a single sett.
 

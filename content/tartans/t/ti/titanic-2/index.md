@@ -12,8 +12,11 @@ aliases:
 - "/setts/dy2n1dy1o3n3db3dy2r2db1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgbbrgbg/">BRGBBRGBG</a></nav>
+
 A tartan of the [Titanic](/families/titanic/) family.
+
 Its design is pattern [BRGBBRGBG](/stripes/brgbbrgbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Titanic** tartan is recorded as a single sett.
 

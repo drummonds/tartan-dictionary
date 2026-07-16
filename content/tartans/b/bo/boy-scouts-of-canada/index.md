@@ -8,7 +8,9 @@ aliases:
 - "/setts/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/">RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW</a></nav>
+
 Its design is pattern [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Boy Scouts of Canada** tartan is recorded as a single sett.
 

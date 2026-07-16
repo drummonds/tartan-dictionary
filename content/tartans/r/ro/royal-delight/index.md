@@ -8,7 +8,9 @@ aliases:
 - "/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbbbbb/">BBBBBBBBBBB</a></nav>
+
 Its design is pattern [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Royal Delight** tartan is recorded as a single sett.
 

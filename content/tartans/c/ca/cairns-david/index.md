@@ -11,8 +11,11 @@ aliases:
 - "/setts/n11o1n4o8dr1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbb/">BBBBB</a></nav>
+
 A tartan of [Clan Cairns](/clan/cairns/).
+
 Its design is pattern [BBBBB](/stripes/bbbbb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Cairns, David** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

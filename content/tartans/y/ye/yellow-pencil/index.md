@@ -8,7 +8,9 @@ aliases:
 - "/setts/dy48y9dy6y9dy12y4dy2y16/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggggggg/">GGGGGGGG</a></nav>
+
 Its design is pattern [GGGGGGGG](/stripes/gggggggg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Yellow Pencil** tartan is recorded as a single sett.
 

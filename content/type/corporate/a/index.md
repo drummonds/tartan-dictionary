@@ -88,8 +88,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/"><img src="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/sett.png" alt="Auchairne Grey" width="140"><br>Auchairne Grey</a></li>
 <li><a class="tartan" href="/variants/s6/db80r8w1r8y20db15~x2/"><img src="/variants/s6/db80r8w1r8y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army" width="140"><br>Auchtermuchty Tartan Army</a></li>
 <li><a class="tartan" href="/variants/s6/db80r7w1r7y20db15~x2/"><img src="/variants/s6/db80r7w1r7y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army (Corp)" width="140"><br>Auchtermuchty Tartan Army (Corp)</a></li>
-<li><a class="tartan" href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3lo3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
 <li><a class="tartan" href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3dy3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
+<li><a class="tartan" href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3lo3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
 <li><a class="tartan" href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><img src="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/sett.png" alt="Aurora House Check" width="140"><br>Aurora House Check</a></li>
 <li><a class="tartan" href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><img src="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/sett.png" alt="Austin College (Corporate)" width="140"><br>Austin College (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/"><img src="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/sett.png" alt="Austin College Page" width="140"><br>Austin College Page</a></li>

@@ -10,8 +10,11 @@ aliases:
 - "/setts/w25r8w8r8w8r46lr46w8lr46r46w46r8w8/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wrwrwrywyrwrw/">WRWRWRYWYRWRW</a></nav>
+
 A tartan of [Clan Poulter](/clan/poulter/).
+
 Its design is pattern [WRWRWRYWYRWRW](/stripes/wrwrwrywyrwrw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Poulter SG 097** tartan is recorded as a single sett.
 

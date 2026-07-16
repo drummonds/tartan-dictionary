@@ -12,8 +12,11 @@ aliases:
 - "/setts/n48dr2n12w2ly2dr2ly2w2n2db12dr3ly3w3n3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbwybywbbbywb/">BBBWYBYWBBBYWB</a></nav>
+
 A tartan of the [Wcwm](/families/wcwm/) family.
+
 Its design is pattern [BBBWYBYWBBBYWB](/stripes/bbbwybywbbbywb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Wcwm 1543** tartan is recorded as a single sett.
 

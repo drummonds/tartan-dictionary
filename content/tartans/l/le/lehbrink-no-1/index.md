@@ -8,7 +8,9 @@ aliases:
 - "/setts/y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbbbyryryryryryryryryrrg/">GBBBYRYRYRYRYRYRYRYRYRRG</a></nav>
+
 Its design is pattern [GBBBYRYRYRYRYRYRYRYRYRRG](/stripes/gbbbyryryryryryryryryrrg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Lehbrink No. 1** tartan is recorded as a single sett.
 

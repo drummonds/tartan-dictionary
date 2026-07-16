@@ -8,7 +8,9 @@ aliases:
 - "/setts/dr1ki1k2ki6k2ki2k50ki3k2ki15dp2k3ki4db1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkkbkkkkkkkkkb/">BKKBKKKKKKKKKB</a></nav>
+
 Its design is pattern [BKKBKKKKKKKKKB](/stripes/bkkbkkkkkkkkkb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Bowcutt, David** tartan is recorded as a single sett.
 

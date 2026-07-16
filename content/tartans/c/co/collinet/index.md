@@ -8,7 +8,9 @@ aliases:
 - "/setts/ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r8dg4lr4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ygrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbgrgryrgry/">YGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBGRGRYRGRY</a></nav>
+
 Its design is pattern [YGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBGRGRYRGRY](/stripes/ygrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbgrgryrgry/) — the page of every tartan sharing this colour sequence.
+
 
 The **Collinet** tartan is recorded as a single sett.
 

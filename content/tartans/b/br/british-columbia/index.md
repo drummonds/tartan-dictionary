@@ -9,7 +9,9 @@ aliases:
 - "/setts/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24g8w1g1w1g1w1g1w1g1w1g1w1g1w28g6dg4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbgwgwgwgwgwgwgwgbggwgwgwgwgwgwgwgg/">BWBGWGWGWGWGWGWGWGBGGWGWGWGWGWGWGWGG</a></nav>
+
 Its design is pattern [BWBGWGWGWGWGWGWGWGBGGWGWGWGWGWGWGWGG](/stripes/bwbgwgwgwgwgwgwgwgbggwgwgwgwgwgwgwgg/) — the page of every tartan sharing this colour sequence.
+
 
 The **British Columbia** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

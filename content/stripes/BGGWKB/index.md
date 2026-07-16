@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wo/woodward-r-glenn/">Woodward, R Glenn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wo/woodward-r-glenn/"><img src="/variants/s6/db25k84w5g32y5dp8~x2/sett.png" alt="Woodward, R Glenn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/woodward-r-glenn/"><img src="/variants/s6/db25k84w5g23y5dp8~x2/sett.png" alt="Woodward, R Glenn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

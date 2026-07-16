@@ -10,8 +10,11 @@ aliases:
 - "/setts/o2g1w4dg1w4dg3w1g3dg2w2g2w2dg1w2g3w1o1g6w1g32o1g2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgwgrwgwgwgwggwgwgwgr/">GRGWGRWGWGWGWGGWGWGWGR</a></nav>
+
 A tartan of [Clan Glen](/clan/glen/).
+
 Its design is pattern [GRGWGRWGWGWGWGGWGWGWGR](/stripes/grgwgrwgwgwgwggwgwgwgr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Glen Elg** tartan is recorded as a single sett.
 

@@ -10,8 +10,11 @@ aliases:
 - "/setts/g112dp2k4dp2g6lo1g2dr2lb2dr2g2lo1g6dp2k4dp2g6dr2lb6k4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbgygbwbgygbkbgbwk/">GBKBGYGBWBGYGBKBGBWK</a></nav>
+
 A tartan of [Clan Wcwm](/clan/wcwm/).
+
 Its design is pattern [GBKBGYGBWBGYGBKBGBWK](/stripes/gbkbgygbwbgygbkbgbwk/) — the page of every tartan sharing this colour sequence.
+
 
 The **Wcwm 9275-1572-1** tartan is recorded as a single sett.
 

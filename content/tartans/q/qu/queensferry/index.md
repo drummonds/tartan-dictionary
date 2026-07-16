@@ -13,8 +13,11 @@ aliases:
 - "/setts/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbbbbgbgbgbgwbg/">BBGBBBBGBGBGBGWBG</a></nav>
+
 A tartan of the [Queensferry](/families/queensferry/) family.
+
 Its design is pattern [BBGBBBBGBGBGBGWBG](/stripes/bbgbbbbgbgbgbgwbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Queensferry** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

@@ -12,7 +12,9 @@ aliases:
 - "/setts/dr50dp1dr4dp3dr8dp15dr2dp2dr3dp4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbbbb/">BBBBBBBBBB</a></nav>
+
 Its design is pattern [BBBBBBBBBB](/stripes/bbbbbbbbbb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Masai Shuka 06** tartan is recorded as a single sett.
 

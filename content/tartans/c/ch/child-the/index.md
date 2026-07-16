@@ -8,7 +8,9 @@ aliases:
 - "/setts/p10k1dg4k1p10r4p10k1o4k1p10y4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgkbrbkrkbg/">BKGKBRBKRKBG</a></nav>
+
 Its design is pattern [BKGKBRBKRKBG](/stripes/bkgkbrbkrkbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Child, The** tartan is recorded as a single sett.
 

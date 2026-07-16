@@ -12,8 +12,11 @@ aliases:
 - "/setts/o64g6o2g3o2g6o64do2o2do6/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrgrgrgr/">BRBRGRGRGR</a></nav>
+
 A tartan of the [Connacht](/families/connacht/) family.
+
 Its design is pattern [BRBRGRGRGR](/stripes/brbrgrgrgr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Connacht** tartan is recorded as a single sett.
 

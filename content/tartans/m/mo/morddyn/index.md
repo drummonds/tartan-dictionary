@@ -12,8 +12,11 @@ aliases:
 - "/setts/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wywwywywwrwgygywywrwwygyy/">WYWWYWYWWRWGYGYWYWRWWYGYY</a></nav>
+
 A tartan of the [Morddyn](/families/morddyn/) family.
+
 Its design is pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Morddyn** tartan is recorded as a single sett.
 

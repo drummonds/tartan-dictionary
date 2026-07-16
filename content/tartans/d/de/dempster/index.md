@@ -12,8 +12,11 @@ aliases:
 - "/setts/lb9b6lb18b34db6b10db6b34r6b8y6db34b4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbrbbbbbwbw/">BBGBRBBBBBWBW</a></nav>
+
 A tartan of the [Dempster](/families/dempster/) family.
+
 Its design is pattern [BBGBRBBBBBWBW](/stripes/bbgbrbbbbbwbw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Dempster** tartan is recorded as a single sett.
 

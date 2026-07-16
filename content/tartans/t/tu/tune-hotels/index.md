@@ -9,7 +9,9 @@ aliases:
 - "/setts/ri3r18dr6ri15r4ri3r4ri7k2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rrbrrrrrw/">RRBRRRRRW</a></nav>
+
 Its design is pattern [RRBRRRRRW](/stripes/rrbrrrrrw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Tune Hotels** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

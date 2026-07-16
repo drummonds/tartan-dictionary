@@ -8,7 +8,9 @@ aliases:
 - "/setts/lb2do2lb2do2lb2db4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwbwbwbwbwbwbwbwbwbw/">WBWBWBWBWBWBWBWBWBWBW</a></nav>
+
 Its design is pattern [WBWBWBWBWBWBWBWBWBWBW](/stripes/wbwbwbwbwbwbwbwbwbwbw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Prince of Wales Check** tartan is recorded as a single sett.
 
@@ -29,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10794 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s22/lb2do2lb2do2lb2db4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/"><circle cx="229.8" cy="272.8" r="4" fill="#3465a4"><title>Prince of Wales</title></circle></a><circle cx="241.4" cy="274.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s22/lb2do2lb2do2lb2db4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/"><circle cx="230.0" cy="273.7" r="4" fill="#3465a4"><title>Prince of Wales</title></circle></a><circle cx="241.6" cy="275.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,7 +8,9 @@ aliases:
 - "/setts/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg4w2r4w2dg4w2dbi9/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwgwrwgwrbwbrwrwrwrbwbrwgwrwgwbgwgbwrbwbrwrwrwrwrbwbrwbgwgbwrwrwbgwgbwrbwbrwrwrwr/">BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR</a></nav>
+
 Its design is pattern [BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR](/stripes/bwgwrwgwrbwbrwrwrwrbwbrwgwrwgwbgwgbwrbwbrwrwrwrwrbwbrwbgwgbwrwrwbgwgbwrbwbrwrwrwr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Unidentified Cant** tartan is recorded as a single sett.
 

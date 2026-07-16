@@ -12,8 +12,11 @@ aliases:
 - "/setts/o2y10r15o10y2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grrgr/">GRRGR</a></nav>
+
 A tartan of the [Harmony](/families/harmony/) family.
+
 Its design is pattern [GRRGR](/stripes/grrgr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Harmony, 9** tartan is recorded as a single sett.
 

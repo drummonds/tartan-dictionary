@@ -12,8 +12,11 @@ aliases:
 - "/setts/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6ly2dp4ly2k2w1r4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgykrwrwrkygwgykrwrwrwrkygkgkgykrwrwrkwbwkygygygygrkrbwrwbwrkrbygwgykrwrkygykrkrkrkygybykwr/">GKGYKRWRWRKYGWGYKRWRWRWRKYGKGKGYKRWRWRKWBWKYGYGYGYGRKRBWRWBWRKRBYGWGYKRWRKYGYKRKRKRKYGYBYKWR</a></nav>
+
 A tartan of the [Ogilvie](/families/ogilvie/) family.
+
 Its design is pattern [GKGYKRWRWRKYGWGYKRWRWRWRKYGKGKGYKRWRWRKWBWKYGYGYGYGRKRBWRWBWRKRBYGWGYKRWRKYGYKRKRKRKYGYBYKWR](/stripes/gkgykrwrwrkygwgykrwrwrwrkygkgkgykrwrwrkwbwkygygygygrkrbwrwbwrkrbygwgykrwrkygykrkrkrkygybykwr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Ogilvie** tartan is recorded as a single sett.
 

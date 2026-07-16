@@ -12,8 +12,11 @@ aliases:
 - "/setts/y2o2y12dg2y32o2y1g2y1o2y1g2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggrgggrgggrg/">GGRGGGRGGGRG</a></nav>
+
 A tartan of the [Houston](/families/houston/) family.
+
 Its design is pattern [GGRGGGRGGGRG](/stripes/ggrgggrgggrg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Houston** tartan is recorded as a single sett.
 

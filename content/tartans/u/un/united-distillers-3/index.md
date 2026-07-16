@@ -8,7 +8,9 @@ aliases:
 - "/setts/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgrggbbbbrgrgrgrbb/">BBGRGGBBBBRGRGRGRBB</a></nav>
+
 Its design is pattern [BBGRGGBBBBRGRGRGRBB](/stripes/bbgrggbbbbrgrgrgrbb/) — the page of every tartan sharing this colour sequence.
+
 
 The **United Distillers** tartan is recorded as a single sett.
 

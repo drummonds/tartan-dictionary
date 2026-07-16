@@ -8,7 +8,9 @@ aliases:
 - "/setts/lb26w2y1w3y2w3y4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgwgww/">GWGWGWW</a></nav>
+
 Its design is pattern [GWGWGWW](/stripes/gwgwgww/) — the page of every tartan sharing this colour sequence.
+
 
 Designed as a seamlessly tileable computer-screen version of the Argentine flag.
 

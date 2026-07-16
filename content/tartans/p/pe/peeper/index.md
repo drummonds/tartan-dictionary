@@ -12,8 +12,11 @@ aliases:
 - "/setts/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rggygygykrkgygyrgygygygygygygygygygygygygygygy/">RGGYGYGYKRKGYGYRGYGYGYGYGYGYGYGYGYGYGYGYGYGYGY</a></nav>
+
 A tartan of the [Peeper](/families/peeper/) family.
+
 Its design is pattern [RGGYGYGYKRKGYGYRGYGYGYGYGYGYGYGYGYGYGYGYGYGYGY](/stripes/rggygygykrkgygyrgygygygygygygygygygygygygygygy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Peeper** tartan is recorded as a single sett.
 

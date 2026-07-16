@@ -12,8 +12,11 @@ aliases:
 - "/setts/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbgbwbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbgbggggggggggrbrgggggggggg/">BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG</a></nav>
+
 A tartan of the [Virginia](/families/virginia/) family.
+
 Its design is pattern [BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG](/stripes/bgbgbgbwbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbgbggggggggggrbrgggggggggg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Virginia** tartan is recorded as a single sett.
 

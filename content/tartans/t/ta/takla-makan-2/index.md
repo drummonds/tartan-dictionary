@@ -12,7 +12,9 @@ aliases:
 - "/setts/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbwbbbwbbbwbbbbbwbbbbwbwbwbbbbwbkbrbkbwbbbwbbbwbbbbbwbbbw/">BBBBBWBBBWBBBWBBBBBWBBBBWBWBWBBBBWBKBRBKBWBBBWBBBWBBBBBWBBBW</a></nav>
+
 Its design is pattern [BBBBBWBBBWBBBWBBBBBWBBBBWBWBWBBBBWBKBRBKBWBBBWBBBWBBBBBWBBBW](/stripes/bbbbbwbbbwbbbwbbbbbwbbbbwbwbwbbbbwbkbrbkbwbbbwbbbwbbbbbwbbbw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Takla Makan** tartan is recorded as a single sett.
 

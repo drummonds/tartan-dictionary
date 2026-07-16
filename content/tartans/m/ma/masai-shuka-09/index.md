@@ -12,7 +12,9 @@ aliases:
 - "/setts/lo60ly15lo4ly2lo2ly2lo2ly2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/yyyyyyyy/">YYYYYYYY</a></nav>
+
 Its design is pattern [YYYYYYYY](/stripes/yyyyyyyy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Masai Shuka 09** tartan is recorded as a single sett.
 

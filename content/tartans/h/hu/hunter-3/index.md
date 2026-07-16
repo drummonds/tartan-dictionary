@@ -12,8 +12,11 @@ aliases:
 - "/setts/r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwkwbwggggggyrwryggwrwgwbwgkwbwrwrwbwkgwbwgwrwggyrwryggggggwbwkwrw/">RWKWBWGGGGGGYRWRYGGWRWGWBWGKWBWRWRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW</a></nav>
+
 A tartan of the [Hunter](/families/hunter/) family.
+
 Its design is pattern [RWKWBWGGGGGGYRWRYGGWRWGWBWGKWBWRWRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW](/stripes/rwkwbwggggggyrwryggwrwgwbwgkwbwrwrwbwkgwbwgwrwggyrwryggggggwbwkwrw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Hunter** tartan is recorded as a single sett.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwwywwywywywywywywwywywywywywywywywwy/">KWWYWWYWYWYWYWYWYWWYWYWYWYWYWYWYWYWWY</a></nav>
+
 Its design is pattern [KWWYWWYWYWYWYWYWYWWYWYWYWYWYWYWYWYWWY](/stripes/kwwywwywywywywywywwywywywywywywywywwy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Shapiro** tartan is recorded as a single sett.
 

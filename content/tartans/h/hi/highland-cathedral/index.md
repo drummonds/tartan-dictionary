@@ -10,8 +10,11 @@ aliases:
 - "/setts/dr4g1dbi22db2dp2dr1dp2dr4db1dp10dr2db20dp1db2y2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbbbbbbbbbbbbg/">BGBBBBBBBBBBBBG</a></nav>
+
 A tartan of [Clan Highland](/clan/highland/).
+
 Its design is pattern [BGBBBBBBBBBBBBG](/stripes/bgbbbbbbbbbbbbg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Highland Cathedral** tartan is recorded as a single sett.
 

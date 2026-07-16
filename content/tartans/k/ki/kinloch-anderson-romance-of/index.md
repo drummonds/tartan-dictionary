@@ -10,8 +10,11 @@ aliases:
 - "/setts/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwywyrwrwywy/">BWYWYRWRWYWY</a></nav>
+
 A tartan of [Clan Kinloch](/clan/kinloch/).
+
 Its design is pattern [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/) — the page of every tartan sharing this colour sequence.
+
 
 The **Kinloch Anderson, Romance of** tartan is recorded as a single sett.
 

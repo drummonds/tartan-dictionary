@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/brooks-brothers-signature/">Brooks Brothers Signature</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-brothers-signature/"><img src="/variants/s9/db5dy1dg7dr1db45dr5dy3db4dy3~x2/sett.png" alt="Brooks Brothers Signature sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-brothers-signature/"><img src="/variants/s9/dt5dy1dg7dr1dt45dr5dy3dt4dy3~x2/sett.png" alt="Brooks Brothers Signature sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

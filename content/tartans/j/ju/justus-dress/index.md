@@ -13,8 +13,11 @@ aliases:
 - "/setts/b1lr4dr1lr1ly1lr4b1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bybyyyb/">BYBYYYB</a></nav>
+
 A tartan of the [Justus](/families/justus/) family.
+
 Its design is pattern [BYBYYYB](/stripes/bybyyyb/) — the page of every tartan sharing this colour sequence.
+
 
 One of seven tartans created by Christopher Carlisle Justus in Hendersonville NC, adopted by the Justus Family Society.
 

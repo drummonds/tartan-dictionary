@@ -8,7 +8,9 @@ aliases:
 - "/setts/lb54dy4n4g12o4g8w1g8db6/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwgrgbgw/">BGWGRGBGW</a></nav>
+
 Its design is pattern [BGWGRGBGW](/stripes/bgwgrgbgw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Cadenhead** tartan is recorded as a single sett.
 

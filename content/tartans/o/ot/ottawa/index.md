@@ -14,8 +14,11 @@ aliases:
 - "/setts/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bywywybybybywywywybybyby/">BYWYWYBYBYBYWYWYWYBYBYBY</a></nav>
+
 A tartan of the [Ottawa](/families/ottawa/) family.
+
 Its design is pattern [BYWYWYBYBYBYWYWYWYBYBYBY](/stripes/bywywybybybywywywybybyby/) — the page of every tartan sharing this colour sequence.
+
 
 Accepted as Ottawa's official tartan by Council order on 21 November 1966; out of production by 1985.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gygggwgwggr/">GYGGGWGWGGR</a></nav>
+
 Its design is pattern [GYGGGWGWGGR](/stripes/gygggwgwggr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Long Way Down, The** tartan is recorded as a single sett.
 

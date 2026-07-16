@@ -8,7 +8,9 @@ aliases:
 - "/setts/lg64n4lg4ly4lg4n26w4ly1w2ly1w32n2ly4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ybwywywbyyyby/">YBWYWYWBYYYBY</a></nav>
+
 Its design is pattern [YBWYWYWBYYYBY](/stripes/ybwywywbyyyby/) — the page of every tartan sharing this colour sequence.
+
 
 The **Morag** tartan is recorded as a single sett.
 

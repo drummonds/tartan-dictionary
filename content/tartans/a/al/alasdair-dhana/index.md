@@ -8,7 +8,9 @@ aliases:
 - "/setts/dg3dt20dg16dr2dg2dr3dg3dr5dg16dt20dy1k2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbgbgbgbgk/">GBGBGBGBGBGK</a></nav>
+
 Its design is pattern [GBGBGBGBGBGK](/stripes/gbgbgbgbgbgk/) — the page of every tartan sharing this colour sequence.
+
 
 The **Alasdair Dhana** tartan is recorded as a single sett.
 

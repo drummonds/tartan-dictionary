@@ -8,7 +8,9 @@ aliases:
 - "/setts/dy2lb2ly4dy5ly5dy46ly7dy1w2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwygygygw/">GWYGYGYGW</a></nav>
+
 Its design is pattern [GWYGYGYGW](/stripes/gwygygygw/) — the page of every tartan sharing this colour sequence.
+
 
 The **KIltwalk, The** tartan is recorded as a single sett.
 

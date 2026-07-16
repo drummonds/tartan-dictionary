@@ -8,7 +8,9 @@ aliases:
 - "/setts/db1n2db2n1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbwbwbwbwbwbwbwbwbwbwbwbw/">BBBBBWBWBWBWBWBWBWBWBWBWBWBW</a></nav>
+
 Its design is pattern [BBBBBWBWBWBWBWBWBWBWBWBWBWBW](/stripes/bbbbbwbwbwbwbwbwbwbwbwbwbwbw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Kilnsey** tartan is recorded as a single sett.
 

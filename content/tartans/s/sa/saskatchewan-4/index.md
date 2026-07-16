@@ -12,8 +12,11 @@ aliases:
 - "/setts/gi50g16gi8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40gi12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggwgwgwgwgwgwgwgwgwygygygygygygygyw/">GGGWGWGWGWGWGWGWGWGWYGYGYGYGYGYGYGYW</a></nav>
+
 A tartan of the [Saskatchewan](/families/saskatchewan/) family.
+
 Its design is pattern [GGGWGWGWGWGWGWGWGWGWYGYGYGYGYGYGYGYW](/stripes/gggwgwgwgwgwgwgwgwgwygygygygygygygyw/) — the page of every tartan sharing this colour sequence.
+
 
 Canadian district tartan using flag colours: red for Christ's blood, blue for the Father, yellow for the Holy Spirit's Pentecostal fire.
 

@@ -8,7 +8,9 @@ aliases:
 - "/setts/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwywywwwwwwwwwww/">WBWYWYWWWWWWWWWWW</a></nav>
+
 Its design is pattern [WBWYWYWWWWWWWWWWW](/stripes/wbwywywwwwwwwwwww/) — the page of every tartan sharing this colour sequence.
+
 
 The **Weston-McCue** tartan is recorded as a single sett.
 

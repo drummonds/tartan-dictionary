@@ -8,7 +8,9 @@ aliases:
 - "/setts/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkbkbkkkbkkkbkb/">BKBKBKBKKKBKKKBKB</a></nav>
+
 Its design is pattern [BKBKBKBKKKBKKKBKB](/stripes/bkbkbkbkkkbkkkbkb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Birrell** tartan is recorded as a single sett.
 

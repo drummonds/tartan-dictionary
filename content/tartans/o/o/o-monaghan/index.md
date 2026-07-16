@@ -8,7 +8,9 @@ aliases:
 - "/setts/y25w2lb4lo7lb4w2ly25w2lb4lo7/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwwywwywwy/">GWWYWWYWWY</a></nav>
+
 Its design is pattern [GWWYWWYWWY](/stripes/gwwywwywwy/) — the page of every tartan sharing this colour sequence.
+
 
 The **O'Monaghan** tartan is recorded as a single sett.
 

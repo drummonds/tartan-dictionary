@@ -12,8 +12,11 @@ aliases:
 - "/setts/g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gygrggbggwgry/">GYGRGGBGGWGRY</a></nav>
+
 A tartan of the [Kerr of Ardgowan](/families/kerr-of-ardgowan/) family.
+
 Its design is pattern [GYGRGGBGGWGRY](/stripes/gygrggbggwgry/) — the page of every tartan sharing this colour sequence.
+
 
 The **Kerr of Ardgowan Hunting** tartan is recorded as a single sett.
 

@@ -1,0 +1,13 @@
+{{/* Paintings landing page (#37): render the generated chronology (intro + date-ordered table of
+     dated witnesses in art) — the default list layout would show a date-grouped post archive and
+     ignore .Content. Modelled on sources/list.html. */}}
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

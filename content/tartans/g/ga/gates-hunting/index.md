@@ -12,8 +12,11 @@ aliases:
 - "/setts/dg24g3dg4g12dg8g3dg8g30t3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgggggggg/">BGGGGGGGG</a></nav>
+
 A tartan of the [Gates](/families/gates/) family.
+
 Its design is pattern [BGGGGGGGG](/stripes/bgggggggg/) — the page of every tartan sharing this colour sequence.
+
 
 The **Gates, Hunting** tartan is recorded as a single sett.
 

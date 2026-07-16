@@ -8,7 +8,9 @@ aliases:
 - "/setts/ly2o2n2g2o6g3o3n3g2o2ly2/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/yrbgrgrbgry/">YRBGRGRBGRY</a></nav>
+
 Its design is pattern [YRBGRGRBGRY](/stripes/yrbgrgrbgry/) — the page of every tartan sharing this colour sequence.
+
 
 The **Callanish** tartan is recorded as a single sett.
 

@@ -10,8 +10,11 @@ aliases:
 - "/setts/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbbbbbrbbbwbwbwbwbwbwbbbr/">BBBBBBBBBBBRBBBWBWBWBWBWBWBBBR</a></nav>
+
 A tartan of [Clan Edinburgh](/clan/edinburgh/).
+
 Its design is pattern [BBBBBBBBBBBRBBBWBWBWBWBWBWBBBR](/stripes/bbbbbbbbbbbrbbbwbwbwbwbwbwbbbr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Edinburgh, '86 Border** tartan is recorded as a single sett.
 

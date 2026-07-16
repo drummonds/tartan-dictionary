@@ -12,8 +12,11 @@ aliases:
 - "/setts/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kryryrygygwgygyryryr/">KRYRYRYGYGWGYGYRYRYR</a></nav>
+
 A tartan of the [Shenzhen](/families/shenzhen/) family.
+
 Its design is pattern [KRYRYRYGYGWGYGYRYRYR](/stripes/kryryrygygwgygyryryr/) — the page of every tartan sharing this colour sequence.
+
 
 The **Shenzhen** tartan is recorded as a single sett.
 

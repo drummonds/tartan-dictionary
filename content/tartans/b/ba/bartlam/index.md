@@ -13,8 +13,11 @@ aliases:
 - "/setts/do12db2do2db2do2db12do2db2do2db2do12n12dr2n12do12db11do2db2do2db11do12n12ly2n12/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbbbbbbbbbbbbbbbybb/">BBBBBBBBBBBBBBBBBBBBBYBB</a></nav>
+
 A tartan of the [Bartlam](/families/bartlam/) family.
+
 Its design is pattern [BBBBBBBBBBBBBBBBBBBBBYBB](/stripes/bbbbbbbbbbbbbbbbbbbbbybb/) — the page of every tartan sharing this colour sequence.
+
 
 The **Bartlam** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.

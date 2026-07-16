@@ -8,7 +8,9 @@ aliases:
 - "/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbrbrbrbrbkrbr/">GBGBRBRBRBRBKRBR</a></nav>
+
 Its design is pattern [GBGBRBRBRBRBKRBR](/stripes/gbgbrbrbrbrbkrbr/) — the page of every tartan sharing this colour sequence.
+
 
 Commemorates the 1014 Battle of Clontarf, where Irish king Brian Boru was killed.
 
@@ -37,6 +39,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10794 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/"><circle cx="355.4" cy="115.9" r="4" fill="#3465a4"><title>Brian Boru 1014</title></circle></a><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><circle cx="289.5" cy="106.3" r="4" fill="#3465a4"><title>Internationale, The</title></circle></a><circle cx="395.3" cy="135.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/"><circle cx="356.7" cy="117.2" r="4" fill="#3465a4"><title>Brian Boru 1014</title></circle></a><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><circle cx="291.1" cy="107.4" r="4" fill="#3465a4"><title>Internationale, The</title></circle></a><circle cx="395.5" cy="136.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

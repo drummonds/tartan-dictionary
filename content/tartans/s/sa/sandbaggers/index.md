@@ -8,7 +8,9 @@ aliases:
 - "/setts/lb6n3o7n2o5n8o5n15o18r2o2y2t3/"
 ---
 <nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrrrbrbrbrbw/">BGRRRBRBRBRBW</a></nav>
+
 Its design is pattern [BGRRRBRBRBRBW](/stripes/bgrrrbrbrbrbw/) — the page of every tartan sharing this colour sequence.
+
 
 The **Sandbaggers** tartan is recorded as a single sett.
 

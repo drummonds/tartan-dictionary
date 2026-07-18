@@ -60,7 +60,7 @@
   </g>
   <g class="overlay">
     <defs>
-      <pattern id="ct0" width="24" height="24" patternUnits="userSpaceOnUse"><image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAIAAADajyQQAAABGklEQVR4nOyaUQrCMBBEt8Vj9FgexKP0ID2IxxIUJLBk2/izO/HNVwyuzDh5BqG3zR52psN2M7u7d7b7Fdat1tNUH7Wf0tuvsB4LJpdqoDG503gpmFwqGFNLBWNqqWBMLdXMjC3b4DfR26+g1tv6A5e9/Qr6elue79ejJ7h+b+uUqQ7bF/6Pif3ic4+pnUbusUbcYzn6j3tsslQwJtgbjLnJJOeRYEy5Nxhzk0nOI8GYcm8w5iaTnEeCMeXeYMxNJjmPBGPKvcGYm0xyHgnGlHuDMTeZ5DwSjCn3BmNuMsl5JBhT7g3G3GSS80gwptwbjLnJJOeRYEy5Nxhzk0nOI8GYcm+zMxbrypmssG7FM8FSqWZ+JvgVAAD//3iPCZt2EHWlAAAAAElFTkSuQmCC" x="0" y="0" width="24" height="24" preserveAspectRatio="xMidYMid slice"/></pattern>
+      <pattern id="ct0" width="24" height="24" patternUnits="userSpaceOnUse"><image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAIAAADajyQQAAABI0lEQVR4nOyawa3CMBBEHetfot8BZVEJpaSS1EFHXDlEQharbJxcdse8OVkWi2YYPwxS/m71UY60zksp5f76fmW7n2Hdqh6m2tS+y95+hvW5YHKpTjQmdxq7gsmlgjG1VDCmlgrG1FKNzNi0/Vbs/yT29jOo9VYvcLm3n0Efb9Pzv1w4wfl7q0OmWudl4v+Y2Dc+95jaaeQea8Q9FqPfuMcGSwVjgr3BmJkMcu4JxpR7gzEzGeTcE4wp9wZjZjLIuScYU+4NxsxkkHNPMKbcG4yZySDnnmBMuTcYM5NBzj3BmHJvMGYmg5x7gjHl3mDMTAY59wRjyr3BmJkMcu4JxpR7gzEzGeTcE4wp9zY6Y756zmSGdSueCZZKNfIzwe8AAAD//1XyBUig6GcjAAAAAElFTkSuQmCC" x="0" y="0" width="24" height="24" preserveAspectRatio="xMidYMid slice"/></pattern>
     </defs>
     <circle cx="387.5" cy="424.6" r="19.2" fill="url(#ct0)" stroke="#2a2a2a" stroke-width="2.5"/>
   </g>

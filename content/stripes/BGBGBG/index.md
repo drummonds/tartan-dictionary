@@ -42,7 +42,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/ha/harmony-11/">Harmony 11</a> <small class="dt">ΔTartan 14.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-11/"><img src="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/b/br/brown-heather/">Brown Heather</a> <small class="dt">ΔTartan 15.71</small></td></tr>
+<tr><td><a href="/tartans/b/br/brown-heather/">Brown Heather</a> <small class="dt">ΔTartan 15.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brown-heather/"><img src="/variants/s6/do1dy6do6dy1n6dy1~x8/sett.png" alt="Brown Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

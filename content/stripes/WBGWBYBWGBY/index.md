@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ci/cian-of-ely/">Cian of Ely</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ci/cian-of-ely/"><img src="/variants/s11/lb38db4y4lb19db8lr18dp8lb18y4db4ly4~x2~y2602166-lr3102083/sett.png" alt="Cian of Ely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/cian-of-ely/"><img src="/variants/s11/lb38db4y4lb19db8lr18dp8lb18y4db4ly4~x2~y6304159-lr7706090/sett.png" alt="Cian of Ely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

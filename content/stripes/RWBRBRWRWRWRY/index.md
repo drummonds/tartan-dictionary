@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/es/espras/">ESPRAS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/es/espras/"><img src="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/sett.png" alt="ESPRAS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/es/espras/"><img src="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri5221030-r4317006/sett.png" alt="ESPRAS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

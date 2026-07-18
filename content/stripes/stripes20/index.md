@@ -645,7 +645,7 @@ weight: 20
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [MacBain](/tartans/m/ma/macbain-2/) | 1 | 1 |
+| 0.08 | [MacBain](/tartans/m/ma/macbain-3/) | 1 | 1 |
 
 ### GRBKBRGRBRGRKBRBKGRK
 <a class="pat" href="/stripes/grbkbrgrbrgrkbrbkgrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GRBKBRGRBRGRKBRBKGRK</span></a>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/du/dunbroch/">DunBroch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbroch/"><img src="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/sett.png" alt="DunBroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbroch/"><img src="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi8007237-lb80/sett.png" alt="DunBroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

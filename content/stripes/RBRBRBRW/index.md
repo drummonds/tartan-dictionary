@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hamilton-3/">Hamilton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamilton-3/"><img src="/variants/s8/r15db8r2db8r2db8r15w2~x4~db1406275-w3600000/sett.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamilton-3/"><img src="/variants/s8/r15db8r2db8r2db8r15w2~x4~db3514276-w90/sett.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/u/u/u-s-coast-guard/">U.S. Coast Guard</a> <small class="dt">ΔTartan 0.81</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-coast-guard/"><img src="/variants/s8/r5db6r1db6r1db6r5w5~x4/sett.png" alt="U.S. Coast Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/re/red-hatters-united/">Red Hatters United</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/re/red-hatters-united/"><img src="/variants/s12/k4r2k2ri2k2r36k2dp12k2ri1k3r2~x2~r2109032-ri2806019/sett.png" alt="Red Hatters United sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-hatters-united/"><img src="/variants/s12/k4r2k2ri2k2r36k2dp12k2ri1k3r2~x2~r5221030-ri6914021/sett.png" alt="Red Hatters United sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

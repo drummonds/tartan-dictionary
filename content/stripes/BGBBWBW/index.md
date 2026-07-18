@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/blue-boy-the/">Blue Boy, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-boy-the/"><img src="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/sett.png" alt="Blue Boy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-boy-the/"><img src="/variants/s7/db1g7db7dbi2w6db1w1~x4~db2316264-dbi2920264/sett.png" alt="Blue Boy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/lo/loch-katrine/">Loch Katrine</a> <small class="dt">ΔTartan 5.36</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-katrine/"><img src="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/sett.png" alt="Loch Katrine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-katrine/"><img src="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi3409246-db2616276/sett.png" alt="Loch Katrine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

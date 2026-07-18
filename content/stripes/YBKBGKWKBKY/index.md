@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/u/u-s-customs-border-protection-c/">U.S. Customs &amp; Border Protection (C</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-customs-border-protection-c/"><img src="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/sett.png" alt="U.S. Customs &amp; Border Protection (C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-customs-border-protection-c/"><img src="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly6307084/sett.png" alt="U.S. Customs &amp; Border Protection (C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

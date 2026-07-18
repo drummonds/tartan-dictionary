@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ho/hogeboom/">Hogeboom</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/hogeboom/"><img src="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/sett.png" alt="Hogeboom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hogeboom/"><img src="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r5221030-ri6914021/sett.png" alt="Hogeboom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

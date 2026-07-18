@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fu/fujisankei-serene/">Fujisankei Serene</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fu/fujisankei-serene/"><img src="/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4~o2500000-n1900000/sett.png" alt="Fujisankei Serene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fujisankei-serene/"><img src="/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4~o62-n47/sett.png" alt="Fujisankei Serene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

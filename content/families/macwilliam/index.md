@@ -20,7 +20,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macwilliam-2/"><img src="/variants/s6/dy2g12k10r1db16r2~x2/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macwilliam-hunting/">MacWilliam Hunting</a></td><td>1989</td><td>2</td><td>2</td><td>2.23</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macwilliam-hunting/"><img src="/variants/s6/dy2dg44k10r1db16r1~x2/sett.png" alt="MacWilliam Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macwilliam/">MacWilliam</a></td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macwilliam/"><img src="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macwilliam/">MacWilliam</a></td><td>—</td><td>1</td><td>1</td><td>2.43</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macwilliam/"><img src="r10dbi24r4k30g36db5-rev.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

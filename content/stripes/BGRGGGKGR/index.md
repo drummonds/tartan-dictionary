@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/battle-of-the-somme-centenary/">Battle of the Somme Centenary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/battle-of-the-somme-centenary/"><img src="/variants/s9/n3dy3r5dg10g3dg10k4dg24r3~x2~dg1806142-g2203152/sett.png" alt="Battle of the Somme Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/battle-of-the-somme-centenary/"><img src="/variants/s9/n3dy3r5dg10g3dg10k4dg24r3~x2~dg4514144-g5408159/sett.png" alt="Battle of the Somme Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/it/italian-2/">Italian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/it/italian-2/"><img src="/variants/s30/db24k2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1db24dr2lb2g2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1~x2~db1406275-dg1806142-g2408144/sett.png" alt="Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/it/italian-2/"><img src="/variants/s30/db24k2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1db24dr2lb2g2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1~x2~db3514276-dg4514144-g6019141/sett.png" alt="Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

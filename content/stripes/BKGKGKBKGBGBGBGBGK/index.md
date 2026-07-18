@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/q/qu/quraysh/">Quraysh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/q/qu/quraysh/"><img src="/variants/s18/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2~x2~y2400000-n1700000/sett.png" alt="Quraysh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/quraysh/"><img src="/variants/s18/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2~x2~y59-n43/sett.png" alt="Quraysh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

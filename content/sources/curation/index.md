@@ -12,7 +12,7 @@ The hand-curated overlay: variant names/stories/dating, pattern notes, clan and 
 | **Code** | `curation` |
 | **Status** | active — contributes data to the build |
 | **Kind** | editorial curation overlay |
-| **Records** | 1673 |
+| **Records** | 5039 |
 | **Source** | — |
 | **Attribution** | Tartan Dictionary editorial (tartandictionary.org) |
 | **Licence** | CC BY-SA 4.0 |

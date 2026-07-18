@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/manitoba-2/">Manitoba</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba-2/"><img src="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba-2/"><img src="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r4217018-ri5623030/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/mu/muskoka/">Muskoka</a> <small class="dt">ΔTartan 2.25</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mu/muskoka/"><img src="/variants/s8/w2g5lb10g20ri1dy2r2dy1~x2~ri2109032-r1807033/sett.png" alt="Muskoka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muskoka/"><img src="/variants/s8/w2g5lb10g20ri1dy2r2dy1~x2~ri5221030-r4418030/sett.png" alt="Muskoka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ke/keogh-2/">Keogh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/keogh-2/"><img src="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g2408144-dg1806142/sett.png" alt="Keogh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keogh-2/"><img src="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g6019141-dg4514144/sett.png" alt="Keogh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

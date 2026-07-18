@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/state-seal-of-wyoming/">State Seal of Wyoming</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-wyoming/"><img src="/variants/s11/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9~x2~lyi2705081-ly2503076/sett.png" alt="State Seal of Wyoming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-wyoming/"><img src="/variants/s11/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9~x2~lyi6614084-ly6307084/sett.png" alt="State Seal of Wyoming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/cahaba-memorial/">Cahaba Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cahaba-memorial/"><img src="/variants/s13/lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1~x2~b1511266-bi2501240/sett.png" alt="Cahaba Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cahaba-memorial/"><img src="/variants/s13/lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1~x2~b3826264-bi6103249/sett.png" alt="Cahaba Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

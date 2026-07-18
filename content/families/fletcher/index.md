@@ -18,7 +18,7 @@ A family of [Clan Fletcher](/clan/fletcher/).
 <tbody>
 <tr><td><a href="/tartans/f/fl/fletcher-2/">Fletcher</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fl/fletcher-2/"><img src="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png" alt="Fletcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fl/fletcher/">Fletcher</a></td><td>1906</td><td>2</td><td>3</td><td>4.25</td></tr>
+<tr><td><a href="/tartans/f/fl/fletcher/">Fletcher</a></td><td>1906</td><td>2</td><td>3</td><td>4.26</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fl/fletcher/"><img src="t10k3t10k14r2g14k4-rev.png" alt="Fletcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

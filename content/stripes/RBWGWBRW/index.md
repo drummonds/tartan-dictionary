@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/j/ja/jacobite-2/">Jacobite</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-2/"><img src="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-2/"><img src="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r5221030/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

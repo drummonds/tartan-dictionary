@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/internationale-the/">Internationale, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/internationale-the/"><img src="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/sett.png" alt="Internationale, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/internationale-the/"><img src="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr70-k2101054/sett.png" alt="Internationale, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

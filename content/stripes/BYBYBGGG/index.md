@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ka/katsushika/">Katsushika</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ka/katsushika/"><img src="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/sett.png" alt="Katsushika sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/katsushika/"><img src="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly8117093-y59/sett.png" alt="Katsushika sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

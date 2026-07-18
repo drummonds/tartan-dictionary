@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/roast-den-the-2/">Roast Den, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/roast-den-the-2/"><img src="/variants/s9/ly62dr12g1dgi4dg2dgi4g1dr12dg12~x2~g2408144-dgi1806142/sett.png" alt="Roast Den, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roast-den-the-2/"><img src="/variants/s9/ly62dr12g1dgi4dg2dgi4g1dr12dg12~x2~g6019141-dgi4514144/sett.png" alt="Roast Den, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/w/wa/watkins/">Watkins</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wa/watkins/"><img src="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/sett.png" alt="Watkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/watkins-of-wales/">Watkins of Wales</a> <small class="dt">ΔTartan 0.10</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/watkins-of-wales/"><img src="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t20lb2db2t18db1g2~t2205244/sett.png" alt="Watkins of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/watkins-of-wales/"><img src="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t20lb2db2t18db1g2~t5313246/sett.png" alt="Watkins of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

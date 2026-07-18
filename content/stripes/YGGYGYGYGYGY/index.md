@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ke/kelso/">Kelso</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelso/"><img src="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4~g1903114/sett.png" alt="Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelso/"><img src="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4~g4808117/sett.png" alt="Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

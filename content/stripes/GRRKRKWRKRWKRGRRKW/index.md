@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/stewart-of-ardshiel-3/">Stewart of Ardshiel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-ardshiel-3/"><img src="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/sett.png" alt="Stewart of Ardshiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-ardshiel-3/"><img src="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r5221030-ri6914021/sett.png" alt="Stewart of Ardshiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

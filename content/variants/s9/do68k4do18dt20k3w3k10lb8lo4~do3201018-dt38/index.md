@@ -1,0 +1,87 @@
+---
+title: "Carbon"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Carbon"
+  url: "/clan/carbon/"
+- name: "Carbon"
+  url: "/families/carbon/"
+- name: "Carbon"
+  url: "/tartans/c/ca/carbon-2/"
+- name: "Carbon"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carbon-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBKWKWY](/stripes/bkbbkwkwy/).
+
+Part of the [Carbon](/tartans/c/ca/carbon-2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10710](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10710)
+
+## Provenance
+
+Earliest known date: 2 October 2012 This exclusive tartan was designed by Kinloch Anderson on behalf of Carbon Financial Partners Ltd, to reflect their corporate branding and identity. The Company was originally founded in Perth in 1999 and therefore the Perthshire District tartan has been chosen as the initial starting point for the Carbon Tartan design. Carbon is among the most stable of all the elements and encapsulates much of what the company stands for. A tonal range of Carbon Greys sit alongside Black to form the base of the design, while the other corporate colours of Orange and White are used as highlights.
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/05/2012 — Carbon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10710">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3C3232;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3232"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#434546;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #434546"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D2D2D2;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #D2D2D2"></span><span style="display:inline-block;width:.85em;height:.85em;background:#919598;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #919598"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8880E;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #F8880E"></span><br><em>This exclusive tartan was designed by Kinloch Anderson on behalf of Carbon Financial Partners Ltd, to reflect their corporate branding and identity. The Company was originally founded in Perth in 1999 and therefore the Perthshire District tartan has been chosen as the initial starting point for the Carbon Tartan design. Carbon is among the most stable of all the elements and encapsulates much of what the company stands for. A tonal range of Carbon Greys sit alongside Black to form the base of the design, while the other corporate colours of Orange and White are used as highlights.</em></li>
+<li>2 October 2012 — Carbon Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10710">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3C3232;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3232"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#434546;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #434546"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D2D2D2;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #D2D2D2"></span><span style="display:inline-block;width:.85em;height:.85em;background:#919598;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #919598"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8880E;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #F8880E"></span></li>
+</ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>08/05/2012 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10710](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10710)
+
+## Thread count
+DO/68 K4 DO18 DT20 K3 W3 K10 LB8 LO/4
+
+One full sett is **204 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>LB</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DT</td><td><code style="background-color:#434546;"><span style="color:#434546;filter:grayscale(1) invert(1) contrast(100);">#434546</span></code> <small style="color:#888">#434546</small></td><td><small style="color:#888">oklch(38.9% 0.003 228.9)</small></td></tr><tr><td>LO</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr><tr><td>DO</td><td><code style="background-color:#3C3232;"><span style="color:#3C3232;filter:grayscale(1) invert(1) contrast(100);">#3C3232</span></code> <small style="color:#888">#3C3232</small></td><td><small style="color:#888">oklch(32.8% 0.014 17.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/68 K4 DO18 DT20 K3 W3 K10 LB8 LO/4 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">204</div><div class="nn-name nn-base"><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38/">Carbon</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n68k4n18o20k3w3k10lb8lr4~n47-o62&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">0.43</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n47-o62/">Carbon (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n47-o62/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n68t5k9lo3k3lb3k3n20dr9k3dr5lb4&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.62</a></div><div class="nn-threads nn-far">198</div><div class="nn-name nn-far"><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/">British Caledonian Airways #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr6k3do4k10do5o3k2do31w1do2w2~x2~do35-o62&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.63</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do35-o62/">Glen and Son, William (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do35-o62/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg4w1db2y2k3db3w1dr22y1~x4&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/">Town of Petawawa</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n19do2k3o1k1w1k1do6n3k1n6~x4&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">252</div><div class="nn-name nn-far"><a href="/variants/s11/n19do2k3o1k1w1k1do6n3k1n6~x4/">Glen Clova #1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/n19do2k3o1k1w1k1do6n3k1n6~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n27k5dp2o1dp1w1dp5~x4~n47-o62&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">208</div><div class="nn-name nn-far"><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n47-o62/">Caledonian Mist</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n47-o62/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy62y7g7r3w3db13w3r5~x2&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/">Legion of Frontiersmen</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy62y7g7r3w3db13w3r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1k6n35k8dp3db1k8w1~x2&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/">Melrose Newbigging Grey</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db1k6n35k8dp3db1k8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lo3dy40db12lo3k2lb4k2lo3~x2&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/">Tunes of Glory (Film)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp60lo2dp10k9lb2k2t2k2y28lo3~x2&amp;base=do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">354</div><div class="nn-name nn-far"><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/">Wcwm 9275-1510-5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n47-o62/"><circle cx="315.8" cy="93.1" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.7" cy="71.1" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do35-o62/"><circle cx="333.7" cy="83.7" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.5" cy="87.8" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s11/n19do2k3o1k1w1k1do6n3k1n6~x4/"><circle cx="346.6" cy="107.0" r="4" fill="#3465a4"><title>Glen Clova #1</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n47-o62/"><circle cx="394.0" cy="107.3" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.5" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="49.9" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/"><circle cx="312.1" cy="110.3" r="4" fill="#3465a4"><title>Tunes of Glory (Film)</title></circle></a><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/"><circle cx="319.5" cy="64.5" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><circle cx="334.6" cy="99.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38/

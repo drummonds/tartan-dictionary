@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/n/no/nolan/">Nolan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/nolan/"><img src="/variants/s5/dr8g19dg42ly3r1~x2/sett.png" alt="Nolan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/n/no/nolan-family-john-j/">Nolan Family, John J</a> <small class="dt">ΔTartan 0.31</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/nolan-family-john-j/"><img src="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/sett.png" alt="Nolan Family, John J sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nolan-family-john-j/"><img src="/variants/s5/do8g19dg42lo3r1~x2~do2604045-lo7414078/sett.png" alt="Nolan Family, John J sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

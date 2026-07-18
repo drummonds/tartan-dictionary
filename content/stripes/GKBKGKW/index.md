@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccormick/"><img src="/variants/s7/y3k1db20k16g20k1w3~x2/sett.png" alt="MacCormick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/ma/marchant/">Marchant</a> <small class="dt">ΔTartan 6.71</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/marchant/"><img src="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/sett.png" alt="Marchant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marchant/"><img src="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db2508270-ki1209264/sett.png" alt="Marchant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

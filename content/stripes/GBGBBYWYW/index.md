@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/se/sean-f-forrester/">Sean F Forrester</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/se/sean-f-forrester/"><img src="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt1300000-lr2700000/sett.png" alt="Sean F Forrester sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sean-f-forrester/"><img src="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt32-lr68/sett.png" alt="Sean F Forrester sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

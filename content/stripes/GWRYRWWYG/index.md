@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sa/satchidananda/">Satchidananda</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/satchidananda/"><img src="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy1603076-ly3307090/sett.png" alt="Satchidananda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/satchidananda/"><img src="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy3908078-ly8117093/sett.png" alt="Satchidananda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

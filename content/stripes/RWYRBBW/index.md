@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/su/susan-g-komen/">Susan G Komen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/su/susan-g-komen/"><img src="/variants/s7/w6n27dp6o40lr44w8o4~o2505023-lr3003019/sett.png" alt="Susan G Komen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/susan-g-komen/"><img src="/variants/s7/w6n27dp6o40lr44w8o4~o6212024-lr7508015/sett.png" alt="Susan G Komen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

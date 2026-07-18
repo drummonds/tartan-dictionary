@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/ha/hawick-rugby-club/">Hawick Rugby Club</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/hawick-rugby-club/"><img src="/variants/s6/db2y1db7w1k7w2~x6/sett.png" alt="Hawick Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/th/thompson-s-fancy/">Thompson's Fancy</a> <small class="dt">ΔTartan 5.09</small></td></tr>
+<tr><td><a href="/tartans/t/th/thompson-s-fancy/">Thompson's Fancy</a> <small class="dt">ΔTartan 5.10</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thompson-s-fancy/"><img src="/variants/s6/dr1dy6db2lb4k4lb1~x6/sett.png" alt="Thompson's Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

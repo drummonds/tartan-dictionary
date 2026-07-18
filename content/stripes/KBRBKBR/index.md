@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/ed/edinburgh-and-lothian-tourist-board/">Edinburgh and Lothian Tourist Board</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-and-lothian-tourist-board/"><img src="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/sett.png" alt="Edinburgh and Lothian Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-and-lothian-tourist-board/"><img src="/variants/s7/ki40db8o3db6k3db6r4~x2~ki1209264-db2508270/sett.png" alt="Edinburgh and Lothian Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

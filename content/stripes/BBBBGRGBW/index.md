@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/se/seaford-house/">Seaford House</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/se/seaford-house/"><img src="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/sett.png" alt="Seaford House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/seaford-house/"><img src="/variants/s9/b3db3b12db26g26r3g26db28w3~b6306264-db3409246/sett.png" alt="Seaford House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

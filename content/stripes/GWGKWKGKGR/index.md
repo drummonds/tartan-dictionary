@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/z/zo/zorra-caledonian-society-corporate/">Zorra Caledonian Society (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/z/zo/zorra-caledonian-society-corporate/"><img src="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/sett.png" alt="Zorra Caledonian Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/z/zo/zorra-caledonian-society-corporate/"><img src="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dg3007159-dgi4410159/sett.png" alt="Zorra Caledonian Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

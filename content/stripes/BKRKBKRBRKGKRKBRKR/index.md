@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/grand-lodge-of-canada/">Grand Lodge of Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grand-lodge-of-canada/"><img src="/variants/s18/t5k1r15k2t3k10r5db15r5k2dy4k2r1k2db15r15k4r2~x2~t2405244/sett.png" alt="Grand Lodge of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grand-lodge-of-canada/"><img src="/variants/s18/t5k1r15k2t3k10r5db15r5k2dy4k2r1k2db15r15k4r2~x2~t5912243/sett.png" alt="Grand Lodge of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

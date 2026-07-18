@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/care-leaver/">Care Leaver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/care-leaver/"><img src="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/sett.png" alt="Care Leaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/care-leaver/"><img src="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi8007237-lb80/sett.png" alt="Care Leaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

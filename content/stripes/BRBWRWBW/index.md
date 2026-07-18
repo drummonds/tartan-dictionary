@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/th/thompson-megan-kate/">Thompson, Megan Kate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/th/thompson-megan-kate/"><img src="/variants/s8/dp5r8p16w25r4lb4n3lp3~x2~dp1507327-r1807008-p2312307-lp3104331/sett.png" alt="Thompson, Megan Kate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thompson-megan-kate/"><img src="/variants/s8/dp5r8p16w25r4lb4n3lp3~x2~dp3717327-r4518006-p5830306-lp7811336/sett.png" alt="Thompson, Megan Kate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

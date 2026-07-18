@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/om/oman-sultanate-of-oliver-dress/">Oman, Sultanate of / Oliver dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/om/oman-sultanate-of-oliver-dress/"><img src="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/sett.png" alt="Oman, Sultanate of / Oliver dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/om/oman-sultanate-of-oliver-dress/"><img src="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy3908078-ly8117093/sett.png" alt="Oman, Sultanate of / Oliver dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,11 +20,11 @@ A family of [Clan Mackintosh (Clan Chattan)](/clan/mackintosh/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackintosh-5/"><img src="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/sett.png" alt="Mackintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh/">MacKintosh</a></td><td>1810</td><td>1</td><td>1</td><td>5.52</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackintosh/"><img src="/variants/s19/r24k1w1g6w1g1y2r2k1r2y2g1w1lb6k2r3y3g2w1~x2/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackintosh-5/">MacKintosh 5</a></td><td>—</td><td>1</td><td>1</td><td>5.82</td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-5/">MacKintosh 5</a></td><td>—</td><td>1</td><td>1</td><td>5.83</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackintosh-5/"><img src="/variants/s41/db48r40k4r4g48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r12db4r4db4r48k4r4dg60r48db4r4db4r4k7/sett.png" alt="MacKintosh 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-8/">MacKintosh 8</a></td><td>—</td><td>1</td><td>1</td><td>7.36</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackintosh-8/"><img src="r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4-rev.png" alt="MacKintosh 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackintosh-dress-2/">MacKintosh Dress</a></td><td>2005</td><td>1</td><td>1</td><td>10.45</td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-dress-2/">MacKintosh Dress</a></td><td>2005</td><td>1</td><td>1</td><td>10.46</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackintosh-dress-2/"><img src="/variants/s6/r3w33dp8dg18r9g3~x2/sett.png" alt="MacKintosh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-6/">MacKintosh 6</a></td><td>1842</td><td>1</td><td>1</td><td>11.08</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackintosh-6/"><img src="r5w2r28k12g16r3-rev.png" alt="MacKintosh 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

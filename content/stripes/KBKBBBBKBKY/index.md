@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/au/australia-2000/">Australia 2000</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/au/australia-2000/"><img src="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/sett.png" alt="Australia 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/australia-2000/"><img src="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b6306264/sett.png" alt="Australia 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

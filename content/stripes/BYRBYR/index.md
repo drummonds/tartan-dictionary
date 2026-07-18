@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/o/ou/outlander/">Outlander</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ou/outlander/"><img src="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ou/outlander-3/">Outlander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ou/outlander-3/"><img src="/variants/s6/o52lyi2n24r3ly26n4~x2~o62-lyi8517093-n47-ly6307084/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/heart-of-the-highlands-2/">Heart of the Highlands</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/heart-of-the-highlands-2/"><img src="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/sett.png" alt="Heart of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heart-of-the-highlands-2/"><img src="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o62-n47/sett.png" alt="Heart of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

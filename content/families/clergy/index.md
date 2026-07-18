@@ -22,8 +22,8 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-6/"><img src="y1db4y1db3y1k8y1k8db6y1db1y1-rev.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-7/">Clergy</a></td><td>1819</td><td>2</td><td>3</td><td>2.30</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-7/"><img src="k1lb1db6k6lb1k6lb1db2lb1db3lb1-rev.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/cl/clergy-8/">Clergy</a></td><td>1850</td><td>1</td><td>1</td><td>3.33</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-8/"><img src="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clergy-8/">Clergy</a></td><td>1850</td><td>1</td><td>1</td><td>3.31</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-8/"><img src="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr70-t6107234/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-4/">Clergy</a></td><td>2002</td><td>1</td><td>1</td><td>3.42</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-4/"><img src="n1lb1n6k6lb1k6lb1n2lb1n3lb1-rev.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-6/">Clergy 6</a></td><td>—</td><td>1</td><td>1</td><td>4.14</td></tr>

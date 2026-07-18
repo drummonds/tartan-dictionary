@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-motor-trade-association-2/">Scottish Motor Trade Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-motor-trade-association-2/"><img src="/variants/s11/g5t2g16t10k2w3db6t14w2db4w2~x2~t2405244-db1106275/sett.png" alt="Scottish Motor Trade Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-motor-trade-association-2/"><img src="/variants/s11/g5t2g16t10k2w3db6t14w2db4w2~x2~t5912243-db2616276/sett.png" alt="Scottish Motor Trade Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

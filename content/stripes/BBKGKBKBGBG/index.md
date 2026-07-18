@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/brethwe-powys/">Brethwe Powys</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/brethwe-powys/"><img src="/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40dr14~db1605267-k0503265/sett.png" alt="Brethwe Powys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brethwe-powys/"><img src="/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40dr14~db3912267-k1209264/sett.png" alt="Brethwe Powys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

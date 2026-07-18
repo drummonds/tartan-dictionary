@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccandlish-arisaid/">MacCandlish Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish-arisaid/"><img src="/variants/s11/lbi3k1g12k1g1k2g1k6lb12k1lo1~x4~lbi3203246-lb3200000/sett.png" alt="MacCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish-arisaid/"><img src="/variants/s11/lbi3k1g12k1g1k2g1k6lb12k1lo1~x4~lbi8007237-lb80/sett.png" alt="MacCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mc/mccandlish-arisaid/">McCandlish Arisaid</a> <small class="dt">ΔTartan 0.10</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mccandlish-arisaid/"><img src="/variants/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/sett.png" alt="McCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

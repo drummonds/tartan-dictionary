@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/go/goodwin-robert-richard/">Goodwin, Robert Richard</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/go/goodwin-robert-richard/"><img src="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t2105244-db1406275/sett.png" alt="Goodwin, Robert Richard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/goodwin-robert-richard/"><img src="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t5211240-db3514276/sett.png" alt="Goodwin, Robert Richard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

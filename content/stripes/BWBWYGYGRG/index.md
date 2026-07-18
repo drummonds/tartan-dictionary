@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mi/michigan-state/">Michigan State</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mi/michigan-state/"><img src="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/sett.png" alt="Michigan State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/michigan-state/"><img src="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w98-lo6911069/sett.png" alt="Michigan State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

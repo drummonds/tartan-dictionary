@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/is/isle-of-skye/">Isle of Skye</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-skye/"><img src="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-skye/"><img src="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp2110327-dg2709141/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

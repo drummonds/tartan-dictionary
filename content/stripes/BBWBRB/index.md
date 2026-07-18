@@ -29,14 +29,14 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/ed/edzell-u-s-navy/">Edzell, U.S. Navy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ed/edzell-u-s-navy/"><img src="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/sett.png" alt="Edzell, U.S. Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edzell-u-s-navy/"><img src="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db1913264-dbi3911270/sett.png" alt="Edzell, U.S. Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/n/na/navy-radar/">Navy-Radar</a> <small class="dt">ΔTartan 0.34</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/na/navy-radar/"><img src="/variants/s6/db51t8w4t30r1t9~x2/sett.png" alt="Navy-Radar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/u/us/us-navy-edzell/">US Navy Edzell</a> <small class="dt">ΔTartan 0.40</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/us/us-navy-edzell/"><img src="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/sett.png" alt="US Navy Edzell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/us/us-navy-edzell/"><img src="/variants/s6/db104dbi16w8dbi66r3dbi16~db3409246-dbi3514276/sett.png" alt="US Navy Edzell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/s/s-c-o-t-s-u-s-a/">S.C.O.T.S. U.S.A.</a> <small class="dt">ΔTartan 3.37</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/s/s-c-o-t-s-u-s-a/"><img src="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/sett.png" alt="S.C.O.T.S. U.S.A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/s/s-c-o-t-s-u-s-a/"><img src="/variants/s6/dbi55db18w3db2r2db6~x2~dbi3911270-db1913264/sett.png" alt="S.C.O.T.S. U.S.A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/s/s-c-o-t-s/">S.C.O.T.S</a> <small class="dt">ΔTartan 5.08</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/s/s-c-o-t-s/"><img src="/variants/s6/t136db45w7db4r4db16/sett.png" alt="S.C.O.T.S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pi/pitt/">Pitt</a> <small class="dt">ΔTartan 6.87</small></td></tr>

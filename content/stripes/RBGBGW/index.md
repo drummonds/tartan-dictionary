@@ -29,11 +29,11 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/connacht-2/">Connacht</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/connacht-2/"><img src="/variants/s6/r2db32g14db5g16w2~x2~g2106142/sett.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connacht-2/"><img src="/variants/s6/r2db32g14db5g16w2~x2~g5215144/sett.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/connaught-2/">Connaught</a> <small class="dt">ΔTartan 0.78</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/connaught-2/"><img src="/variants/s6/r1db12g5db2g4lb1~x2/sett.png" alt="Connaught sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mo/moray-of-abercairney-2/">Moray of Abercairney</a> <small class="dt">ΔTartan 1.29</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/moray-of-abercairney-2/"><img src="/variants/s6/r8b1g4b1g1lb2~x2/sett.png" alt="Moray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moray-of-abercairney-3/">Moray of Abercairney</a> <small class="dt">ΔTartan 1.29</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moray-of-abercairney-3/"><img src="/variants/s6/r8b1g4b1g1lb2~x2/sett.png" alt="Moray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/d/de/deeside-royal/">Deeside, Royal</a> <small class="dt">ΔTartan 3.83</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/de/deeside-royal/"><img src="/variants/s6/lp4dy2dp4dy35t27r3~x2/sett.png" alt="Deeside, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

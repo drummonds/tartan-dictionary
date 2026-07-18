@@ -5,17 +5,17 @@ date: 2023-03-18
 20 tartans beginning with Ai, each with the number of setts it groups. Back to [A](/tartans/a/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/a/ai/ais-group/"><img src="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt1102249-db1605267-t2003208/sett.png" alt="AIS Group" width="140"><br><strong>AIS Group (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/a/ai/ais-group/"><img src="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt2705249-db3912267-t5008216/sett.png" alt="AIS Group" width="140"><br><strong>AIS Group (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ai/aiton/"><img src="/variants/s8/db6k1g3k1db3k1g10r3~x2/sett.png" alt="AIton" width="140"><br><strong>AIton (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa/"><img src="/variants/s6/y8w3y28w32dp3w4~x2/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-2/"><img src="/variants/s6/r8dr3r28w32dr3w4~x2/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
-<li><a class="tartan" href="/tartans/a/ai/ailsa-3/"><img src="/variants/s9/o9w9o9n25o1w1o1w1g3~x2~o2500000-n1900000/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
+<li><a class="tartan" href="/tartans/a/ai/ailsa-3/"><img src="/variants/s9/o9w9o9n25o1w1o1w1g3~x2~o62-n47/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-craig/"><img src="/variants/s8/r5w2db20y2k16w18k2w5~x2/sett.png" alt="Ailsa Craig" width="140"><br><strong>Ailsa Craig (2)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
-<li><a class="tartan" href="/tartans/a/ai/ailsa-craig-2/"><img src="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/sett.png" alt="Ailsa Craig" width="140"><br><strong>Ailsa Craig (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
+<li><a class="tartan" href="/tartans/a/ai/ailsa-craig-2/"><img src="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r5221030-o62/sett.png" alt="Ailsa Craig" width="140"><br><strong>Ailsa Craig (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-gold/"><img src="/variants/s6/lo8w3lo28w32dp3w4~x2/sett.png" alt="Ailsa Gold" width="140"><br><strong>Ailsa Gold (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-navy/"><img src="/variants/s6/db8w3db28w32k3w4~x2/sett.png" alt="Ailsa Navy" width="140"><br><strong>Ailsa Navy (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-pink/"><img src="/variants/s6/r8w3r28w32k3w4~x2/sett.png" alt="Ailsa Pink" width="140"><br><strong>Ailsa Pink (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
-<li><a class="tartan" href="/tartans/a/ai/ailsa-royal/"><img src="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/sett.png" alt="Ailsa Royal" width="140"><br><strong>Ailsa Royal (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
+<li><a class="tartan" href="/tartans/a/ai/ailsa-royal/"><img src="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi3514276-db3409246/sett.png" alt="Ailsa Royal" width="140"><br><strong>Ailsa Royal (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-navy-2/"><img src="/variants/s6/k60dr3k5dr3lb18n3~x2/sett.png" alt="Ailsa, Navy" width="140"><br><strong>Ailsa, Navy (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ainslie/"><img src="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/sett.png" alt="Ainslie" width="140"><br><strong>Ainslie (2)</strong></a><div class="clan-territory">Ainslie</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ainslie-2/"><img src="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/sett.png" alt="Ainslie" width="140"><br><strong>Ainslie (2)</strong></a><div class="clan-territory">Ainslie</div></li>

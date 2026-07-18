@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/lorne/">Lorne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/lorne/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lorne/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n5507264/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/lo/lorne-asymmetric/">Lorne Asymmetric</a> <small class="dt">ΔTartan 0.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lorne-asymmetric/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/sett.png" alt="Lorne Asymmetric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

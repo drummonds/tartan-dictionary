@@ -35,7 +35,7 @@ crumbs:
 <tr><td><a href="/tartans/b/ba/bannockbane/">Bannockbane</a></td><td>1975</td><td>2</td><td>2</td><td>10.78</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bannockbane/"><img src="k4lo2k13lo1w8t13lo2t4-rev.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/ba/bannockbane-2/">Bannockbane</a></td><td>—</td><td>1</td><td>1</td><td>11.44</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bannockbane-2/"><img src="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bannockbane-2/"><img src="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly8117093-y59/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/ba/bannockbane-10/">Bannockbane</a></td><td>1975</td><td>1</td><td>1</td><td>11.74</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bannockbane-10/"><img src="/variants/s8/k4y2k13y1w8n13y2n4~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/ba/bannockbane-hunting-2/">Bannockbane Hunting</a></td><td>1984</td><td>3</td><td>3</td><td>16.37</td></tr>

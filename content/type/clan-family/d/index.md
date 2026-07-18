@@ -12,7 +12,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/r4dg15k15db15lb4~x2/"><img src="/variants/s5/r4dg15k15db15lb4~x2/sett.png" alt="Dalmeny #1" width="140"><br>Dalmeny #1</a></li>
 <li><a class="tartan" href="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/"><img src="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/sett.png" alt="Dalrymple of Castleton #2" width="140"><br>Dalrymple of Castleton #2</a></li>
 <li><a class="tartan" href="/variants/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/"><img src="/variants/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/sett.png" alt="Dalziel #1" width="140"><br>Dalziel #1</a></li>
-<li><a class="tartan" href="/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r2109032-ri2307033/"><img src="/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r2109032-ri2307033/sett.png" alt="Dalziel #2" width="140"><br>Dalziel #2</a></li>
+<li><a class="tartan" href="/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r5221030-ri5717030/"><img src="/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r5221030-ri5717030/sett.png" alt="Dalziel #2" width="140"><br>Dalziel #2</a></li>
 <li><a class="tartan" href="/variants/s17/r24w1dp2r4dg32r4dp2w1r4dp6r4w1dp2r32dg6dr6dg6~x2/"><img src="/variants/s17/r24w1dp2r4dg32r4dp2w1r4dp6r4w1dp2r32dg6dr6dg6~x2/sett.png" alt="Dalziel (Clan)" width="140"><br>Dalziel (Clan)</a></li>
 <li><a class="tartan" href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><img src="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png" alt="Davidson" width="140"><br>Davidson</a></li>
 <li><a class="tartan" href="/variants/s5/r2db10k5g12w2~x2/"><img src="/variants/s5/r2db10k5g12w2~x2/sett.png" alt="Davidson of Tulloch" width="140"><br>Davidson of Tulloch</a></li>
@@ -38,7 +38,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/w4db25lb25db2lb5w2~x2/"><img src="/variants/s6/w4db25lb25db2lb5w2~x2/sett.png" alt="Douglas Variation" width="140"><br>Douglas Variation</a></li>
 <li><a class="tartan" href="/variants/s5/k7lb3dy30db30w3~x2/"><img src="/variants/s5/k7lb3dy30db30w3~x2/sett.png" alt="Douglas, (Brown)" width="140"><br>Douglas, (Brown)</a></li>
 <li><a class="tartan" href="/variants/s5/k8t5g44k40r6/"><img src="/variants/s5/k8t5g44k40r6/sett.png" alt="Douglas, Black" width="140"><br>Douglas, Black</a></li>
-<li><a class="tartan" href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><img src="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/sett.png" alt="Douglas, Green (Wilsons)" width="140"><br>Douglas, Green (Wilsons)</a></li>
+<li><a class="tartan" href="/variants/s5/k1dbi1g8db8w1~x4~dbi3514276-db2911276/"><img src="/variants/s5/k1dbi1g8db8w1~x4~dbi3514276-db2911276/sett.png" alt="Douglas, Green (Wilsons)" width="140"><br>Douglas, Green (Wilsons)</a></li>
 <li><a class="tartan" href="/variants/s8/k10n1k2n1k4n10k1n2~x4/"><img src="/variants/s8/k10n1k2n1k4n10k1n2~x4/sett.png" alt="Douglas, Grey (Vestiarium Scoticum)" width="140"><br>Douglas, Grey (Vestiarium Scoticum)</a></li>
 <li><a class="tartan" href="/variants/s12/db7w3g3db18ly3k15ly3g17dr6g3dr2g7~x2/"><img src="/variants/s12/db7w3g3db18ly3k15ly3g17dr6g3dr2g7~x2/sett.png" alt="Drennan" width="140"><br>Drennan</a></li>
 <li><a class="tartan" href="/variants/s15/r6t2r2g24r2g2r2t8r2lb1r32t2r2t1r6~x2/"><img src="/variants/s15/r6t2r2g24r2g2r2t8r2lb1r32t2r2t1r6~x2/sett.png" alt="Drummond" width="140"><br>Drummond</a></li>

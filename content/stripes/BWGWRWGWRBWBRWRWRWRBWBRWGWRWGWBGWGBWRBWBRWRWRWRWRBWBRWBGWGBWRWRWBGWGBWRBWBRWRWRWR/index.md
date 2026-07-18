@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/unidentified-cant-12/">Unidentified Cant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-cant-12/"><img src="/variants/s81/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg-h54630e7daf3d593c/sett.png?s=ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg4w2r4w2dg4w2dbi9~x2~ri2109032-r1807008-db1106275-dbi1204274" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-cant-12/"><img src="/variants/s81/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg-h1bbecf30173bc2e4/sett.png?s=ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg4w2r4w2dg4w2dbi9~x2~ri5221030-r4518006-db2616276-dbi2911276" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/beanpole-brown-trial/">Beanpole Brown Trial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/beanpole-brown-trial/"><img src="/variants/s12/o4do31o2dr2o2dr2o2do2doi2do4doi11o4~do1103038-doi1402055/sett.png" alt="Beanpole Brown Trial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beanpole-brown-trial/"><img src="/variants/s12/o4do31o2dr2o2dr2o2do2doi2do4doi11o4~do2708045-doi3504048/sett.png" alt="Beanpole Brown Trial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

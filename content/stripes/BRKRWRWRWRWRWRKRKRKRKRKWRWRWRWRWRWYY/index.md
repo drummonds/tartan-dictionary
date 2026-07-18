@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/al/all-breeds-dairy-goats-2/">All Breeds Dairy Goats</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/all-breeds-dairy-goats-2/"><img src="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/sett.png" alt="All Breeds Dairy Goats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/all-breeds-dairy-goats-2/"><img src="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o6312063-ly8818099/sett.png" alt="All Breeds Dairy Goats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

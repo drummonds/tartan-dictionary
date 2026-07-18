@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cr/crombie-house-check/">Crombie House Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cr/crombie-house-check/"><img src="/variants/s10/db18g6db2lb10k3lb10db2g6db18g2~x2~db1406275/sett.png" alt="Crombie House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crombie-house-check/"><img src="/variants/s10/db18g6db2lb10k3lb10db2g6db18g2~x2~db3514276/sett.png" alt="Crombie House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

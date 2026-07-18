@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mc/mccruden-raymond-2/">McCruden, Raymond</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccruden-raymond-2/"><img src="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/sett.png" alt="McCruden, Raymond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccruden-raymond-2/"><img src="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k1309264-ki17/sett.png" alt="McCruden, Raymond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

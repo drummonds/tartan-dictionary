@@ -9,7 +9,7 @@ crumbs:
 
 ## Tartan
 
-<a class="tartan" href="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/"><img src="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/sett.png" alt="Little Hunting" width="240"><br>Little Hunting</a>
+<a class="tartan" href="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db2609279-dbi3514276/"><img src="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db2609279-dbi3514276/sett.png" alt="Little Hunting" width="240"><br>Little Hunting</a>
 
 ## Families
 

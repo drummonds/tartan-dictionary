@@ -26,7 +26,7 @@ A family of [Clan Drummond](/clan/drummond/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-dress-2/"><img src="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-of-perth-dress/">Drummond of Perth Dress</a></td><td>—</td><td>2</td><td>2</td><td>5.73</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-dress/"><img src="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/d/dr/drummond-of-perth-dress-4/">Drummond of Perth Dress</a></td><td>~2002</td><td>1</td><td>1</td><td>6.61</td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-of-perth-dress-4/">Drummond of Perth Dress</a></td><td>~2002</td><td>1</td><td>1</td><td>6.63</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-dress-4/"><img src="w50k3dg10g11w1k1r20w3r5-rev.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-of-perth-dress-3/">Drummond of Perth Dress</a></td><td>~2002</td><td>1</td><td>1</td><td>8.99</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-dress-3/"><img src="dg41ly3g7n3w24dg10g7n7w3-rev.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

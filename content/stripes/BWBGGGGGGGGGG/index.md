@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pi/pino/">Pino</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pi/pino/"><img src="/variants/s13/dg25dgi7dg25dgi7g5dg25dgi7dg25dgi7g5dr2w2dr2~x2~dgi1806142-g2408144/sett.png" alt="Pino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pino/"><img src="/variants/s13/dg25dgi7dg25dgi7g5dg25dgi7dg25dgi7g5dr2w2dr2~x2~dgi4514144-g6019141/sett.png" alt="Pino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

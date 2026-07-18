@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/i/it/ithilien-heather-2/">Ithilien Heather</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/it/ithilien-heather-2/"><img src="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi2203152-g1903114/sett.png" alt="Ithilien Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/it/ithilien-heather/">Ithilien Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/it/ithilien-heather/"><img src="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi5408159-g4808117/sett.png" alt="Ithilien Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

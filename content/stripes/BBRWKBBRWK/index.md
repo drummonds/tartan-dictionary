@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/le/le-mirage/">Le Mirage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/le-mirage/"><img src="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/sett.png" alt="Le Mirage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/le-mirage/"><img src="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db2609279-dbi3514276/sett.png" alt="Le Mirage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

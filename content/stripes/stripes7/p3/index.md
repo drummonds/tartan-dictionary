@@ -3,8 +3,22 @@ title: 7 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 7
 ---
-1,360 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,362 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes7/p2/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes7/p4/">4</a> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p4/">next ›</a></nav>
+
+### BBGBKWB
+<a class="pat" href="/stripes/bbgbkwb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">BBGBKWB</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.13 | [Milne-Murtagh](/tartans/m/mi/milne-murtagh/) | 1 | 1 |
+
+### BBGBKWR
+<a class="pat" href="/stripes/bbgbkwr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">BBGBKWR</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.11 | [Milne-Murtaugh](/tartans/m/mi/milne-murtaugh/) | 1 | 1 |
 
 ### BBGBRBR
 <a class="pat" href="/stripes/bbgbrbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BBGBRBR</span></a>
@@ -1392,13 +1406,6 @@ weight: 7
 |---|---|---|---|
 | 0.15 | [von Prondzynski](/tartans/v/vo/von-prondzynski/) | 1 | 1 |
 
-### BWBBGBG
-<a class="pat" href="/stripes/bwbbgbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BWBBGBG</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.07 | [United Colours of Scotland](/tartans/u/un/united-colours-of-scotland/) | 1 | 1 |
-
 ### BWBBRBR
 <a class="pat" href="/stripes/bwbbrbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BWBBRBR</span></a>
 
@@ -2098,12 +2105,5 @@ weight: 7
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.10 | [Unidentified No 39](/tartans/u/un/unidentified-no-39/) | 1 | 1 |
-
-### GBKKRKK
-<a class="pat" href="/stripes/gbkkrkk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">GBKKRKK</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.10 | [Montrose of Alabama](/tartans/m/mo/montrose-of-alabama/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes7/p2/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes7/p4/">4</a> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p4/">next ›</a></nav>

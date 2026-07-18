@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/london-scottish-rugby-club/"><img src="/variants/s6/r5db40w1db13g8k4~x2/sett.png" alt="London Scottish Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/k/ke/kendle/">Kendle</a> <small class="dt">ΔTartan 2.20</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/kendle/"><img src="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/sett.png" alt="Kendle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kendle/"><img src="/variants/s6/r5db58lb4n6y4k4~x2~db3514276-n5507264/sett.png" alt="Kendle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

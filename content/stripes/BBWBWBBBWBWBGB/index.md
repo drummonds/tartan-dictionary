@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wo/worsoff/">Worsoff</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wo/worsoff/"><img src="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/sett.png" alt="Worsoff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/worsoff/"><img src="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi4714279-db2609279/sett.png" alt="Worsoff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

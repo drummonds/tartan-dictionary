@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/ot/otago-peninsula-2/">Otago Peninsula</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ot/otago-peninsula-2/"><img src="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/sett.png" alt="Otago Peninsula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ot/otago-peninsula-2/"><img src="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db3409246-r4315012-ri6016021-dbi3514276/sett.png" alt="Otago Peninsula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

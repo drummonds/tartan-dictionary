@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/cherry-valley-new-york/">Cherry Valley New York</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/cherry-valley-new-york/"><img src="/variants/s21/oi16r2oi2r2oi2k16dg2b2dg2b2dg10r2o10b2o2b2o2k16oi15r2oi2~x2~oi2600000-b2409265/sett.png" alt="Cherry Valley New York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/cherry-valley-new-york/"><img src="/variants/s21/oi16r2oi2r2oi2k16dg2b2dg2b2dg10r2o10b2o2b2o2k16oi15r2oi2~x2~oi63-b5921264/sett.png" alt="Cherry Valley New York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

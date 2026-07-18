@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/j/ju/juchter/"><img src="/variants/s3/dg20w5r3~x2/sett.png" alt="Juchter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-208/">Wilson's No.208</a> <small class="dt">ΔTartan 1.88</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-208/"><img src="/variants/s3/g7lb2r4~x2~r2109032/sett.png" alt="Wilson's No.208 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-208/"><img src="/variants/s3/g7lb2r4~x2~r5221030/sett.png" alt="Wilson's No.208 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

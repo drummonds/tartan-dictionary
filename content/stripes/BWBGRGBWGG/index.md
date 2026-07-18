@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/heriot-watt-university/">Heriot Watt University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/heriot-watt-university/"><img src="/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/sett.png" alt="Heriot Watt University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heriot-watt-university/"><img src="/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db1913264-dbi3911270/sett.png" alt="Heriot Watt University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

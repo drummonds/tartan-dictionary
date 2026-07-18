@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/gretna-gold/">Gretna Gold</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/gretna-gold/"><img src="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2~db1204274/sett.png" alt="Gretna Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/gretna-gold/"><img src="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2~db2911276/sett.png" alt="Gretna Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/haut-2/">Haut</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/haut-2/"><img src="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haut-2/"><img src="/variants/s6/n46dp15k12ni8g8b8~x2~dp3408294-ni5209315/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/n/no/notre-dame-marching-guard-2/">Notre Dame Marching Guard</a> <small class="dt">ΔTartan 5.54</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/notre-dame-marching-guard-2/"><img src="/variants/s6/dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

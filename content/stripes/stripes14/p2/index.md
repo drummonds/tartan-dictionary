@@ -249,7 +249,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Hyndman](/tartans/h/hy/hyndman-2/) | 1 | 1 |
+| 0.11 | [Hyndman](/tartans/h/hy/hyndman-3/) | 1 | 1 |
 
 ### GBGBGBGBGBGKGK
 <a class="pat" href="/stripes/gbgbgbgbgbgkgk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GBGBGBGBGBGKGK</span></a>
@@ -690,7 +690,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [MacKinnon](/tartans/m/ma/mackinnon-2/) | 1 | 1 |
+| 0.08 | [MacKinnon](/tartans/m/ma/mackinnon-3/) | 1 | 1 |
 
 ### GRGKGKGKGKGRGW
 <a class="pat" href="/stripes/grgkgkgkgkgrgw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRGKGKGKGKGRGW</span></a>
@@ -1075,7 +1075,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Duke of Perth](/tartans/d/du/duke-of-perth/) | 1 | 1 |
+| 0.13 | [Duke of Perth (1739 Portrait)](/tartans/d/du/duke-of-perth-1739-portrait/) | 1 | 1 |
 
 ### KRKRKRBKRKRKRK
 <a class="pat" href="/stripes/krkrkrbkrkrkrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">KRKRKRBKRKRKRK</span></a>
@@ -1516,7 +1516,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.04 | [MacKinnon](/tartans/m/ma/mackinnon-3/) | 1 | 1 |
+| 0.04 | [MacKinnon](/tartans/m/ma/mackinnon-4/) | 1 | 1 |
 
 ### RRKRGYWBWYGWBW
 <a class="pat" href="/stripes/rrkrgywbwygwbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRKRGYWBWYGWBW</span></a>
@@ -1845,7 +1845,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [MacKinnon](/tartans/m/ma/mackinnon-3/) | 1 | 1 |
+| 0.07 | [MacKinnon](/tartans/m/ma/mackinnon-2/) | 1 | 1 |
 
 ### WRGYGBGWWWWWWW
 <a class="pat" href="/stripes/wrgygbgwwwwwww/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRGYGBGWWWWWWW</span></a>

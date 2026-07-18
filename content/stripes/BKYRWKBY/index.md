@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/c/co/conroy-2/">Conroy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/conroy-2/"><img src="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2~lb3300000/sett.png" alt="Conroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/conroy/">Conroy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/conroy/"><img src="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2~lb82/sett.png" alt="Conroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

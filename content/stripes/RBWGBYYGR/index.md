@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/bailey-leslie-a/">Bailey, Leslie A</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/bailey-leslie-a/"><img src="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/sett.png" alt="Bailey, Leslie A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bailey-leslie-a/"><img src="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db2911276-dg4514144-dbi3514276-loi7115081-lo6715063-g6019141/sett.png" alt="Bailey, Leslie A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

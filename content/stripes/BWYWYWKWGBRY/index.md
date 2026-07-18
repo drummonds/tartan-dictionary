@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/robitaille-jean-francois/">Robitaille, Jean-Francois</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/robitaille-jean-francois/"><img src="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/sett.png" alt="Robitaille, Jean-Francois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robitaille-jean-francois/"><img src="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly6307084-lyi8517093/sett.png" alt="Robitaille, Jean-Francois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

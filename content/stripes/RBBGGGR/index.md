@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/b/br/brodie-silver-3/"><img src="/variants/s7/r3dg20y2dg20n20b20r3~x2/sett.png" alt="Brodie, Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/lu/lunting-papi/">Lunting Papi</a> <small class="dt">ΔTartan 4.81</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lu/lunting-papi/"><img src="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/sett.png" alt="Lunting Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lunting-papi/"><img src="/variants/s7/o5dr8dp13dg21dgi34g55o3~dg2709141-dgi3007159/sett.png" alt="Lunting Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

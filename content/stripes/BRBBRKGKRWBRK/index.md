@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gi/giants-causeway/">Giants Causeway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gi/giants-causeway/"><img src="/variants/s13/n19o4t2n10o22k1g3k1o3w1t5o1k3~x2~n1900000-o2500000/sett.png" alt="Giants Causeway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/giants-causeway/"><img src="/variants/s13/n19o4t2n10o22k1g3k1o3w1t5o1k3~x2~n47-o62/sett.png" alt="Giants Causeway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

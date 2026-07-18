@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pr/praetorian-imperator/">Praetorian Imperator</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/praetorian-imperator/"><img src="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/sett.png" alt="Praetorian Imperator sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/praetorian-imperator/"><img src="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp2612327-dpi4219327/sett.png" alt="Praetorian Imperator sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/cork-county/">Cork, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/cork-county/"><img src="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/sett.png" alt="Cork, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cork-county/"><img src="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~dg3007159-ly6614084/sett.png" alt="Cork, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

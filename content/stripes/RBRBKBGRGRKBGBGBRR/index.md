@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/cooper-2/">Cooper</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/cooper-2/"><img src="/variants/s18/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2~x2~db1204274/sett.png" alt="Cooper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cooper-2/"><img src="/variants/s18/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2~x2~db2911276/sett.png" alt="Cooper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/hebridean-cairn/">Hebridean Cairn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-cairn/"><img src="/variants/s8/n2o3n3o3n10o2n18o1~x4~n1900000-o2500000/sett.png" alt="Hebridean Cairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-cairn/"><img src="/variants/s8/n2o3n3o3n10o2n18o1~x4~n47-o62/sett.png" alt="Hebridean Cairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/lo/lomond-2/">Lomond</a> <small class="dt">ΔTartan 11.69</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lomond-2/"><img src="/variants/s8/r32n5r2n5r6n2r1n7~x4/sett.png" alt="Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

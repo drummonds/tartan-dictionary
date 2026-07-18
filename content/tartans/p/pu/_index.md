@@ -5,10 +5,10 @@ date: 2023-03-18
 13 tartans beginning with Pu, each with the number of setts it groups. Back to [P](/tartans/p/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/p/pu/pubcrawlers/"><img src="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/sett.png" alt="Pubcrawlers" width="140"><br><strong>Pubcrawlers (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/p/pu/pubcrawlers/"><img src="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy3908078-ly8117093/sett.png" alt="Pubcrawlers" width="140"><br><strong>Pubcrawlers (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pu/pubcrawlers-the/"><img src="/variants/s7/y3r16n5dy22g2dy4w3~x2/sett.png" alt="Pubcrawlers, The" width="140"><br><strong>Pubcrawlers, The (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pu/puccini/"><img src="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/sett.png" alt="Puccini" width="140"><br><strong>Puccini (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pu/puccini-s-madama-butterfly/"><img src="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/sett.png" alt="Puccini's Madama Butterfly" width="140"><br><strong>Puccini's Madama Butterfly (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/p/pu/puccini/"><img src="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r5221030-ri6914021/sett.png" alt="Puccini" width="140"><br><strong>Puccini (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/p/pu/puccini-s-madama-butterfly/"><img src="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r6226030-wi99-w9005003-ri7214006/sett.png" alt="Puccini's Madama Butterfly" width="140"><br><strong>Puccini's Madama Butterfly (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pu/puffin/"><img src="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/sett.png" alt="Puffin" width="140"><br><strong>Puffin (2)</strong></a><div class="clan-territory">Puffin</div></li>
 <li><a class="tartan" href="/tartans/p/pu/punky-princess/"><img src="/variants/s7/k14r2k4lb3k12r8k1~x2/sett.png" alt="Punky Princess" width="140"><br><strong>Punky Princess (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pu/punky-princess-2/"><img src="/variants/s7/k14dp2k4lb3k12dp8k1~x2/sett.png" alt="Punky Princess" width="140"><br><strong>Punky Princess (1)</strong></a></li>

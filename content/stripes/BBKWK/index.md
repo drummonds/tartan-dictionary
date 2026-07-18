@@ -37,7 +37,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/o/ob/oban/"><img src="/variants/s5/k4lb4k4n15dr2~x4/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/e/ed/edinburgh-crystal/">Edinburgh Crystal</a> <small class="dt">ΔTartan 4.71</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-crystal/"><img src="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-crystal/"><img src="/variants/s5/ki61w4k11db5dr5~x2~ki1410264/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

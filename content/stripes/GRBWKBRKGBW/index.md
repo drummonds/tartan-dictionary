@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/ge/gemmell-dress/">Gemmell Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/ge/gemmell-dress/"><img src="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/sett.png" alt="Gemmell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/gemmell-dress/"><img src="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db3522276-t6011252/sett.png" alt="Gemmell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

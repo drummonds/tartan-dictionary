@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/international-cricket-council/">International Cricket Council</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/international-cricket-council/"><img src="/variants/s13/t33db4t3db4t7g2t2g2t2g16dr2g2dr2~x2~t2205244-db1003265/sett.png" alt="International Cricket Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-cricket-council/"><img src="/variants/s13/t33db4t3db4t7g2t2g2t2g16dr2g2dr2~x2~t5313246-db2508270/sett.png" alt="International Cricket Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

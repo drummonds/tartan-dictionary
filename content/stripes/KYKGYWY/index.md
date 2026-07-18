@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-andrews-bay/">St Andrews Bay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-bay/"><img src="/variants/s7/ly30w4ly20g20k20lo3k6~x2~ly2503076/sett.png" alt="St Andrews Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-bay/"><img src="/variants/s7/ly30w4ly20g20k20lo3k6~x2~ly6307084/sett.png" alt="St Andrews Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

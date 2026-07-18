@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/ur/urbino/">Urbino</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/ur/urbino/"><img src="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp1607327/sett.png" alt="Urbino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ur/urbino/"><img src="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp4018327/sett.png" alt="Urbino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

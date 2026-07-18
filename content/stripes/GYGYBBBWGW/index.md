@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/ou/outpost-club/">Outpost Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ou/outpost-club/"><img src="/variants/s10/w6dy5w9db2t3db2ly36dy2ly4dy2~x2~db0705267-t2308259/sett.png" alt="Outpost Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ou/outpost-club/"><img src="/variants/s10/w6dy5w9db2t3db2ly36dy2ly4dy2~x2~db1812264-t5719258/sett.png" alt="Outpost Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

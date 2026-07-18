@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/blackstock/">Blackstock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackstock/"><img src="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/sett.png" alt="Blackstock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackstock/"><img src="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r4719030/sett.png" alt="Blackstock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

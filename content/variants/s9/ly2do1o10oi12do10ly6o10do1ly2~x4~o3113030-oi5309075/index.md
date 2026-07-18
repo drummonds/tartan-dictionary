@@ -1,0 +1,74 @@
+---
+title: "Highland Village"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
+- name: "Highland Village"
+  url: "/tartans/h/hi/highland-village/"
+- name: "Highland Village"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-village/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YBRRBYRBY](/stripes/ybrrbyrby/).
+
+Part of the [Highland Village](/tartans/h/hi/highland-village/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1724](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1724)
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>1901 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1724](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1724)
+- Scottish Tartans Authority (ITI): 5195
+
+## Thread count
+LY/8 DO4 O40 Oi48 DO40 LY24 O40 DO4 LY/8
+
+One full sett is **416 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>O</td><td><code style="background-color:#640000;"><span style="color:#640000;filter:grayscale(1) invert(1) contrast(100);">#640000</span></code> <small style="color:#888">#640000</small></td><td><small style="color:#888">oklch(31.6% 0.130 29.2)</small></td></tr><tr><td>DO</td><td><code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> <small style="color:#888">#412714</small></td><td><small style="color:#888">oklch(30.1% 0.050 55.7)</small></td></tr><tr><td>O</td><td><code style="background-color:#8C6428;"><span style="color:#8C6428;filter:grayscale(1) invert(1) contrast(100);">#8C6428</span></code> <small style="color:#888">#8C6428</small></td><td><small style="color:#888">oklch(53.3% 0.092 74.3)</small></td></tr><tr><td>LY</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/8 DO4 O40 Oi48 DO40 LY24 O40 DO4 LY/8 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">416</div><div class="nn-name nn-base"><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075/">Highland Village</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ly3do2r14ly8do14dg16r13do2ly3~x2&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">1.40</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/">Monaghan, County</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp9r4dp1r4g15ri4dp1~x2~r5419027-ri5623030&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">132</div><div class="nn-name nn-far"><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r5419027-ri5623030/">Logan Light</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r5419027-ri5623030/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy16r16lr3dg16o2r1o2dy6r2~x4&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">440</div><div class="nn-name nn-far"><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/">Henry, W. A.</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy24g2dy5r14g2r5lo17dy2~x2&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/">Loch Rannoch #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o18dt2o2dt2o2dt14dr14ly3~x2&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">2.95</a></div><div class="nn-threads nn-far">186</div><div class="nn-name nn-far"><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/">Talladale</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp1r5g15r3dp9r10w1~x4&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">2.96</a></div><div class="nn-threads nn-far">344</div><div class="nn-name nn-far"><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/">Geddes</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp1r5g15r3dp9r10w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp8r3y1r3g14r3y1~x4&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">3.15</a></div><div class="nn-threads nn-far2">228</div><div class="nn-name nn-far2"><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/">Logan with Yellow</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp8r3y1r3g14r3y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">3.22</a></div><div class="nn-threads nn-far2">388</div><div class="nn-name nn-far2"><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/">Mauthe Unidentified (Name?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r5221030-ri6016021&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">3.22</a></div><div class="nn-threads nn-far2">336</div><div class="nn-name nn-far2"><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r5221030-ri6016021/">Drumlithie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r5221030-ri6016021/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r5221030-ri6016021&amp;base=ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075" title="compare in the TTD">3.24</a></div><div class="nn-threads nn-far2">336</div><div class="nn-name nn-far2"><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r5221030-ri6016021/">Drumlithie Rock and Wheel Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r5221030-ri6016021/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="167.0" cy="203.3" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r5419027-ri5623030/"><circle cx="243.4" cy="195.8" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="171.5" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/"><circle cx="244.1" cy="185.8" r="4" fill="#3465a4"><title>Loch Rannoch #2</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.5" cy="218.5" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="196.1" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="192.5" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><circle cx="220.3" cy="173.6" r="4" fill="#3465a4"><title>Mauthe Unidentified (Name?)</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r5221030-ri6016021/"><circle cx="244.0" cy="180.3" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r5221030-ri6016021/"><circle cx="244.1" cy="182.3" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><circle cx="211.6" cy="207.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o3113030-oi5309075/

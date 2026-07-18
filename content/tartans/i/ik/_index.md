@@ -15,5 +15,5 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/i/ik/ikelman-no-2/"><img src="/variants/s5/n26k10r10y10n3~x2/sett.png" alt="Ikelman No 2" width="140"><br><strong>Ikelman No 2 (1)</strong></a><div class="clan-territory">Clan Ikelman</div></li>
 <li><a class="tartan" href="/tartans/i/ik/ikelman-no-3/"><img src="/variants/s5/n5k2r2y2n5~x10/sett.png" alt="Ikelman No 3" width="140"><br><strong>Ikelman No 3 (1)</strong></a><div class="clan-territory">Clan Ikelman</div></li>
 <li><a class="tartan" href="/tartans/i/ik/ikelman-no-4/"><img src="/variants/s7/r10k15g2k2w1k1w1~x4/sett.png" alt="Ikelman No 4" width="140"><br><strong>Ikelman No 4 (1)</strong></a><div class="clan-territory">Clan Ikelman</div></li>
-<li><a class="tartan" href="/tartans/i/ik/ikelman-no-6/"><img src="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/sett.png" alt="Ikelman No. 6" width="140"><br><strong>Ikelman No. 6 (1)</strong></a><div class="clan-territory">Clan Ikelman</div></li>
+<li><a class="tartan" href="/tartans/i/ik/ikelman-no-6/"><img src="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki1410264/sett.png" alt="Ikelman No. 6" width="140"><br><strong>Ikelman No. 6 (1)</strong></a><div class="clan-territory">Clan Ikelman</div></li>
 </ul>

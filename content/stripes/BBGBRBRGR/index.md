@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/loch-lomond-6/">Loch Lomond</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-lomond-6/"><img src="/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-lomond-6/"><img src="/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db2506264-dg3210147/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

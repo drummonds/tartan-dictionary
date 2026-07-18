@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/ta/takashimaya-dm-rose/">Takashimaya Dm Rose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/ta/takashimaya-dm-rose/"><img src="/variants/s8/dp4b2lb11ly9y16n16ly2b4~x2~ly3203095-y2303095/sett.png" alt="Takashimaya Dm Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/takashimaya-dm-rose/"><img src="/variants/s8/dp4b2lb11ly9y16n16ly2b4~x2~ly7808090-y5607087/sett.png" alt="Takashimaya Dm Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

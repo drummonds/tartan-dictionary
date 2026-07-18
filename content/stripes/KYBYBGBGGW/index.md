@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/au/auld-scotland-weavers/">Auld Scotland Weavers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-scotland-weavers/"><img src="/variants/s10/k2ly12dr3ly3dr12g12n12y12g1lb2~x2~n1900000-y2302111/sett.png" alt="Auld Scotland Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-scotland-weavers/"><img src="/variants/s10/k2ly12dr3ly3dr12g12n12y12g1lb2~x2~n47-y5704120/sett.png" alt="Auld Scotland Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

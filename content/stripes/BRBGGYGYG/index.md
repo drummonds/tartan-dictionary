@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ke/keith-stanhope-society/">Keith Stanhope Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/keith-stanhope-society/"><img src="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/sett.png" alt="Keith Stanhope Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keith-stanhope-society/"><img src="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg4514144-g4808117-ly6614084-lyi8517093/sett.png" alt="Keith Stanhope Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/ingenico/">Ingenico</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/ingenico/"><img src="/variants/s6/lg50r4lg12y23r4g4~x2~g2408144/sett.png" alt="Ingenico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/ingenico/"><img src="/variants/s6/lg50r4lg12y23r4g4~x2~g6019141/sett.png" alt="Ingenico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

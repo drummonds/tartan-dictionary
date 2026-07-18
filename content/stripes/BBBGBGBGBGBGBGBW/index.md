@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/bell-mctier-thistle/">Bell-McTier Thistle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-mctier-thistle/"><img src="/variants/s16/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6~n1703265-db1104274/sett.png" alt="Bell-McTier Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-mctier-thistle/"><img src="/variants/s16/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6~n4207258-db2610267/sett.png" alt="Bell-McTier Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

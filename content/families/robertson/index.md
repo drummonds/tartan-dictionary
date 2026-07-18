@@ -38,7 +38,7 @@ A family of [Clan Robertson](/clan/robertson/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/robertson-4/"><img src="r2g20r2db8r36g1-rev.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/robertson-dress-hunting/">Robertson dress Hunting</a></td><td>2002</td><td>2</td><td>2</td><td>6.43</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/robertson-dress-hunting/"><img src="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/sett.png" alt="Robertson dress Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/robertson-dress/">Robertson Dress</a></td><td>~2003</td><td>2</td><td>2</td><td>7.05</td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-dress/">Robertson Dress</a></td><td>~2003</td><td>2</td><td>2</td><td>7.06</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/robertson-dress/"><img src="/variants/s8/db24r4g24r4w20r10g3w4~x2/sett.png" alt="Robertson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/robertson-hunting-2/">Robertson Hunting</a></td><td>~2003</td><td>1</td><td>1</td><td>8.75</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/robertson-hunting-2/"><img src="db18k10g9k2r2k2g9k10db9w2-rev.png" alt="Robertson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

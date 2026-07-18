@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/h/ho/hose-2/"><img src="/variants/s3/w37k2r36~x2/sett.png" alt="Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-198/">Wilson's No.198</a> <small class="dt">ΔTartan 1.99</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-198/"><img src="/variants/s3/r4k7lb4~x2~r2109032/sett.png" alt="Wilson's No.198 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-198/"><img src="/variants/s3/r4k7lb4~x2~r5221030/sett.png" alt="Wilson's No.198 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

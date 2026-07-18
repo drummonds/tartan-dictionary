@@ -3,8 +3,22 @@ title: 9 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 9
 ---
-1,239 setts across 1,156 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,241 setts across 1,157 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes9/p3/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <a href="/stripes/stripes9/p2/">2</a> <a href="/stripes/stripes9/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes9/p5/">5</a> <a href="/stripes/stripes9/p5/">next ›</a></nav>
+
+### GKGRGRGKW
+<a class="pat" href="/stripes/gkgrgrgkw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GKGRGRGKW</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.07 | [Ellis](/tartans/e/el/ellis-3/) | 1 | 1 |
+
+### GKGRKRGKY
+<a class="pat" href="/stripes/gkgrkrgky/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GKGRKRGKY</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.09 | [Cozumel](/tartans/c/co/cozumel/) | 1 | 1 |
 
 ### GKGWKBRKR
 <a class="pat" href="/stripes/gkgwkbrkr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">GKGWKBRKR</span></a>
@@ -95,7 +109,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Ithilien Heather](/tartans/i/it/ithilien-heather-2/) | 1 | 1 |
+| 0.09 | [Ithilien Heather](/tartans/i/it/ithilien-heather/) | 1 | 1 |
 
 ### GRGBWBKBK
 <a class="pat" href="/stripes/grgbwbkbk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">GRGBWBKBK</span></a>
@@ -886,14 +900,14 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [Dunedin](/tartans/d/du/dunedin-3/) | 1 | 1 |
+| 0.07 | [Dunedin](/tartans/d/du/dunedin/) | 1 | 1 |
 
 ### KRGRRRKWW
 <a class="pat" href="/stripes/krgrrrkww/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KRGRRRKWW</span></a>
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Dunedin](/tartans/d/du/dunedin-3/) | 1 | 1 |
+| 0.09 | [Dunedin](/tartans/d/du/dunedin/) | 1 | 1 |
 
 ### KRKBRBRBR
 <a class="pat" href="/stripes/krkbrbrbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRKBRBRBR</span></a>
@@ -1362,7 +1376,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.15 | [Outlander](/tartans/o/ou/outlander-5/) | 1 | 1 |
+| 0.15 | [Outlander](/tartans/o/ou/outlander-6/) | 1 | 1 |
 
 ### RBWYGYGWR
 <a class="pat" href="/stripes/rbwygygwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBWYGYGWR</span></a>
@@ -1768,7 +1782,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.05 | [Duke of Perth](/tartans/d/du/duke-of-perth-5/) | 1 | 1 |
+| 0.05 | [Duke of Perth](/tartans/d/du/duke-of-perth-7/) | 1 | 1 |
 
 ### RWRRBWRRW
 <a class="pat" href="/stripes/rwrrbwrrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWRRBWRRW</span></a>
@@ -2091,19 +2105,5 @@ weight: 9
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.10 | [Elystan Glodrydd](/tartans/e/el/elystan-glodrydd-3/) | 1 | 1 |
-
-### WGKGKGKGY
-<a class="pat" href="/stripes/wgkgkgkgy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WGKGKGKGY</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.05 | [MacIver Hunting](/tartans/m/ma/maciver-hunting/) | 1 | 1 |
-
-### WGWRWRRRW
-<a class="pat" href="/stripes/wgwrwrrrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WGWRWRRRW</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.11 | [Yair Dance](/tartans/y/ya/yair-dance/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes9/p3/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <a href="/stripes/stripes9/p2/">2</a> <a href="/stripes/stripes9/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes9/p5/">5</a> <a href="/stripes/stripes9/p5/">next ›</a></nav>

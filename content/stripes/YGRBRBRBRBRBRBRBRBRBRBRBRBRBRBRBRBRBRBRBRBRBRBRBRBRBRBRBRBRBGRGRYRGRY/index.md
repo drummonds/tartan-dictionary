@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/collinet/">Collinet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/collinet/"><img src="/variants/s69/ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r-h18ef43c67468082a/sett.png?s=ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r8dg4lr4~ri2307033-r1908022" alt="Collinet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/collinet/"><img src="/variants/s69/ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r-h08774792287f714d/sett.png?s=ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r8dg4lr4~ri5717030-r4719021" alt="Collinet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

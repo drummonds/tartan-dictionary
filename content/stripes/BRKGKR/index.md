@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/0-9/0-9/205-field-hospital/">205 Field Hospital</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/205-field-hospital/"><img src="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/sett.png" alt="205 Field Hospital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/205-field-hospital/"><img src="/variants/s6/n3r18k2dg18k24ri1~x2~r4315012-ri5221030/sett.png" alt="205 Field Hospital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

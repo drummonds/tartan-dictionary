@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ri/rikaco-heirloom/">Rikaco Heirloom</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ri/rikaco-heirloom/"><img src="/variants/s10/k3n3k1dg26k10y1k3dp5n4ly2~x2~k0603284-n1802249/sett.png" alt="Rikaco Heirloom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/rikaco-heirloom/"><img src="/variants/s10/k3n3k1dg26k10y1k3dp5n4ly2~x2~k1608276-n4405237/sett.png" alt="Rikaco Heirloom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

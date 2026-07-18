@@ -1,0 +1,72 @@
+---
+title: "LS Curling"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "LS Curling"
+  url: "/tartans/l/ls/ls-curling/"
+- name: "LS Curling"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/l/ls/ls-curling/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBKBGBGBKBGBGBBG](/stripes/gbbbkbgbgbkbgbgbbg/).
+
+Part of the [LS Curling](/tartans/l/ls/ls-curling/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2241](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2241)
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>2000 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2241](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2241)
+- Scottish Tartans Authority (ITI): 4041
+
+## Thread count
+DY/4 DB8 DBi4 DG50 DBi8 DG4 DBi8 K20 DB8 DG4 DB8 DG22 DBi4 K4 DBi48 DB8 DBi4 DY/4
+
+One full sett is **432 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> <small style="color:#888">#1C0070</small></td><td><small style="color:#888">oklch(26.3% 0.162 277.1)</small></td></tr><tr><td>DB</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>DY</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/4 DB8 DBi4 DG50 DBi8 DG4 DBi8 K20 DB8 DG4 DB8 DG22 DBi4 K4 DBi48 DB8 DBi4 DY/4 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">432</div><div class="nn-name nn-base"><a href="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276/">LS Curling</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi3514276-db2911276&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.02</a></div><div class="nn-threads nn-far2">524</div><div class="nn-name nn-far2"><a href="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi3514276-db2911276/">Frangord</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi3514276-db2911276/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2~x2~dp3406321-dpi4018327&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.15</a></div><div class="nn-threads nn-far2">732</div><div class="nn-name nn-far2"><a href="/variants/s24/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2~x2~dp3406321-dpi4018327/">Spirit of Bannockburn Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2~x2~dp3406321-dpi4018327/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg24db7dg7db7k22db7k4dy4k4db40dr14~db3912267-k1209264&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.24</a></div><div class="nn-threads nn-far2">242</div><div class="nn-name nn-far2"><a href="/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40dr14~db3912267-k1209264/">Brethwe Powys</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40dr14~db3912267-k1209264/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k16lb6dbi12db4dp4db4dbi35db40dbi4db4dbi4db6dp4o6~dbi3514276-db3409246&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.40</a></div><div class="nn-threads nn-far2">276</div><div class="nn-name nn-far2"><a href="/variants/s14/k16lb6dbi12db4dp4db4dbi35db40dbi4db4dbi4db6dp4o6~dbi3514276-db3409246/">Benedictus Blue (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/k16lb6dbi12db4dp4db4dbi35db40dbi4db4dbi4db6dp4o6~dbi3514276-db3409246/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db3514276-ki17&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.45</a></div><div class="nn-threads nn-far2">432</div><div class="nn-name nn-far2"><a href="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db3514276-ki17/">LS Curling (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db3514276-ki17/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k1309264-ki17&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.50</a></div><div class="nn-threads nn-far2">458</div><div class="nn-name nn-far2"><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k1309264-ki17/">McCruden, Raymond (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k1309264-ki17/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~dg3007159-db2911276-k1511264-g4808117&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.51</a></div><div class="nn-threads nn-far2">366</div><div class="nn-name nn-far2"><a href="/variants/s17/dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~dg3007159-db2911276-k1511264-g4808117/">National Trust for Scotland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~dg3007159-db2911276-k1511264-g4808117/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp6db4k4db26k12dp3dbi42y4dbi4~db3409246-dbi3514276&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">200</div><div class="nn-name nn-far2"><a href="/variants/s9/dp6db4k4db26k12dp3dbi42y4dbi4~db3409246-dbi3514276/">Goldblatt, Joe, Jeff (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dp6db4k4db26k12dp3dbi42y4dbi4~db3409246-dbi3514276/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k3dg4db25k16dg3k3dg3k3dg6r3~x2~k17-db3514276&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.76</a></div><div class="nn-threads nn-far2">264</div><div class="nn-name nn-far2"><a href="/variants/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2~k17-db3514276/">MacAndreis (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2~k17-db3514276/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db45dp6n6dp30dg6dp6dg30k4r4k3&amp;base=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276" title="compare in the TTD">3.76</a></div><div class="nn-threads nn-far2">232</div><div class="nn-name nn-far2"><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/">Dalgliesh, Ewen (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi3514276-db2911276/"><circle cx="260.5" cy="187.2" r="4" fill="#3465a4"><title>Frangord</title></circle></a><a href="/variants/s24/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2~x2~dp3406321-dpi4018327/"><circle cx="220.2" cy="101.2" r="4" fill="#3465a4"><title>Spirit of Bannockburn Fashion Tartan</title></circle></a><a href="/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40dr14~db3912267-k1209264/"><circle cx="284.8" cy="200.5" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><a href="/variants/s14/k16lb6dbi12db4dp4db4dbi35db40dbi4db4dbi4db6dp4o6~dbi3514276-db3409246/"><circle cx="226.2" cy="148.9" r="4" fill="#3465a4"><title>Benedictus Blue (Personal)</title></circle></a><a href="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db3514276-ki17/"><circle cx="285.0" cy="158.6" r="4" fill="#3465a4"><title>LS Curling (Corporate)</title></circle></a><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k1309264-ki17/"><circle cx="264.2" cy="168.8" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/variants/s17/dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~dg3007159-db2911276-k1511264-g4808117/"><circle cx="262.1" cy="211.1" r="4" fill="#3465a4"><title>National Trust for Scotland</title></circle></a><a href="/variants/s9/dp6db4k4db26k12dp3dbi42y4dbi4~db3409246-dbi3514276/"><circle cx="302.4" cy="173.8" r="4" fill="#3465a4"><title>Goldblatt, Joe, Jeff (Personal)</title></circle></a><a href="/variants/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2~k17-db3514276/"><circle cx="287.2" cy="207.9" r="4" fill="#3465a4"><title>MacAndreis (Personal)</title></circle></a><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/"><circle cx="239.6" cy="159.6" r="4" fill="#3465a4"><title>Dalgliesh, Ewen (Personal)</title></circle></a><circle cx="264.9" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db2616276-dbi3514276/

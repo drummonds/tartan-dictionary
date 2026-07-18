@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/ly/lyon-jeffrey-m/">Lyon, Jeffrey M</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/ly/lyon-jeffrey-m/"><img src="/variants/s12/dt30k4g5k2r2k2g5k4w10k5b8k1~x2~dt1503227-k0802249/sett.png" alt="Lyon, Jeffrey M sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lyon-jeffrey-m/"><img src="/variants/s12/dt30k4g5k2r2k2g5k4w10k5b8k1~x2~dt3706231-k1906261/sett.png" alt="Lyon, Jeffrey M sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

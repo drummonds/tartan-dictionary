@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/le/leiato-of-american-samoa/">Leiato of American Samoa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/leiato-of-american-samoa/"><img src="/variants/s7/o45k5o28k5oi5w2do6~x2~o2005046-oi2007033/sett.png" alt="Leiato of American Samoa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leiato-of-american-samoa/"><img src="/variants/s7/o45k5o28k5oi5w2do6~x2~o4912045-oi5017036/sett.png" alt="Leiato of American Samoa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

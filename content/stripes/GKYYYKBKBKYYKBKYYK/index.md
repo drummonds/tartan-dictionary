@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ra/raznotravie/">Raznotravie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/raznotravie/"><img src="/variants/s18/k10lyi1ly2k1n2k1ly2lyi1k1n2k3n1k17ly18lyi1ly2k1dg2~x2~lyi3106095-ly3104101/sett.png" alt="Raznotravie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raznotravie/"><img src="/variants/s18/k10ly1lyi2k1n2k1lyi2ly1k1n2k3n1k17lyi18ly1lyi2k1dg2~x2~ly7616093-lyi7811105/sett.png" alt="Raznotravie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

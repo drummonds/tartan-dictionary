@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pm/pmmc/">PMMC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pm/pmmc/"><img src="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/sett.png" alt="PMMC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pm/pmmc/"><img src="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg4514144-g6019141/sett.png" alt="PMMC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

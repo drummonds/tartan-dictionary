@@ -14,7 +14,7 @@ Each painting is a **dated witness**: a portrait of c.1750 attests how a sett lo
 | **Code** | `paintings` |
 | **Status** | pending — captured, setts not yet recovered |
 | **Kind** | cloth photographs |
-| **Records** | 1 |
+| **Records** | 57 |
 | **Source** | — |
 | **Attribution** | Painting images are reproduced with attribution per each artwork's credit line (see each record's license and attribution fields); not redistributed (local research cache). |
 | **Licence** | All rights reserved (per-artwork; each record carries its gallery's terms) |

@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-5/"><img src="/variants/s9/w2o1w2g6w10o6w2g1w2~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/o/o/o-neill-pipe-band-1999/">O'Neill Pipe Band 1999</a> <small class="dt">ΔTartan 2.18</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-pipe-band-1999/"><img src="/variants/s9/w2r1w2g6w10r6w2g1w2~x4~w3600000-g2408144/sett.png" alt="O'Neill Pipe Band 1999 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-pipe-band-1999/"><img src="/variants/s9/w2r1w2g6w10r6w2g1w2~x4~w90-g6019141/sett.png" alt="O'Neill Pipe Band 1999 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

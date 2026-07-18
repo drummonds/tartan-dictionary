@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gu/guardian-of-scotland-wthd/">Guardian of Scotland, Wthd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gu/guardian-of-scotland-wthd/"><img src="/variants/s10/lyi2k1r30db8g24ly5g5dp11k1lyi2~x2~lyi3104101-ly2503076/sett.png" alt="Guardian of Scotland, Wthd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guardian-of-scotland-wthd/"><img src="/variants/s10/lyi2k1r30db8g24ly5g5dp11k1lyi2~x2~lyi7811105-ly6307084/sett.png" alt="Guardian of Scotland, Wthd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

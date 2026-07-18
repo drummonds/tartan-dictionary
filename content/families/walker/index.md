@@ -26,7 +26,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/walker-dress-3/"><img src="/variants/s12/y4k2r7k15r3k3r3k7w28r7w6r2/sett.png" alt="Walker, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/walker-hunting/">Walker Hunting</a></td><td>1992</td><td>1</td><td>1</td><td>8.06</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/walker-hunting/"><img src="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/sett.png" alt="Walker Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wa/walker-hunting-2/">Walker, hunting</a></td><td>—</td><td>1</td><td>1</td><td>8.30</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/walker-hunting-2/"><img src="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/sett.png" alt="Walker, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/walker-hunting-2/">Walker, hunting</a></td><td>—</td><td>1</td><td>1</td><td>8.32</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/walker-hunting-2/"><img src="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki1410264/sett.png" alt="Walker, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

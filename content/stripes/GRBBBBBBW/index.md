@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/rose-vs-2/">Rose VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/rose-vs-2/"><img src="/variants/s4/g4r32dr34w3~r1908029/sett.png" alt="Rose VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rose-vs-2/"><img src="/variants/s9/g4r32dr9dri6dr2dri3dr2dri12w3~r4619030-dri3010027/sett.png" alt="Rose VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -34,8 +34,8 @@ A family of [Clan MacRae](/clan/macrae/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macrae-10/"><img src="g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4-rev.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macrae-9/">MacRae</a></td><td>1977</td><td>1</td><td>1</td><td>7.57</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macrae-9/"><img src="/variants/s11/dr2k9lb4w2k22w2lb4w22lb2w8dr2~x2/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macrae-7/">MacRae</a></td><td>~2013</td><td>1</td><td>1</td><td>7.77</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macrae-7/"><img src="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-7/">MacRae</a></td><td>~2013</td><td>1</td><td>1</td><td>7.78</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macrae-7/"><img src="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o62-n47/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macrae-hunting-2/">MacRae Hunting</a></td><td>1820</td><td>2</td><td>2</td><td>8.08</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macrae-hunting-2/"><img src="g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7-rev.png" alt="MacRae Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macrae/">MacRae</a></td><td>—</td><td>1</td><td>1</td><td>8.22</td></tr>

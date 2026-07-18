@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/polaris-3/">Polaris</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/polaris-3/"><img src="/variants/s17/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1~x4~db0805267-dbi1604274/sett.png" alt="Polaris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/polaris-3/"><img src="/variants/s17/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1~x4~db1913264-dbi3911270/sett.png" alt="Polaris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/s/st/stevens-3/">Stevens</a> ★</td><td>2006</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stevens-3/"><img src="/variants/s7/db4lr3db4lr3o3n11o3~x2/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stevens/">Stevens</a></td><td>2006</td><td>1</td><td>1</td><td>5.84</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stevens/"><img src="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stevens-2/">Stevens</a></td><td>2005</td><td>1</td><td>1</td><td>8.05</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stevens-2/"><img src="/variants/s17/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6~db1106275-dbi1406275/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stevens/">Stevens</a></td><td>2006</td><td>1</td><td>1</td><td>5.85</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stevens/"><img src="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri5221030-r4315012/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stevens-2/">Stevens</a></td><td>2005</td><td>1</td><td>1</td><td>8.07</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stevens-2/"><img src="/variants/s17/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6~db2616276-dbi3514276/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stevens-5/">Stevens</a></td><td>2006</td><td>1</td><td>1</td><td>9.37</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stevens-5/"><img src="/variants/s11/n53y6k10w3k3y4k10r8k3r6w3/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stevens-6/">Stevens</a></td><td>2006</td><td>1</td><td>1</td><td>9.57</td></tr>

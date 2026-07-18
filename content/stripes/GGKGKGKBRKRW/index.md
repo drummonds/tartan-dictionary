@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/chattahoochee/">Chattahoochee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/chattahoochee/"><img src="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki0604259/sett.png" alt="Chattahoochee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chattahoochee/"><img src="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki1410264/sett.png" alt="Chattahoochee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

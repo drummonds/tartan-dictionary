@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/strange-of-balcaskie-2/">Strange of Balcaskie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/strange-of-balcaskie-2/"><img src="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/sett.png" alt="Strange of Balcaskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strange-of-balcaskie-2/"><img src="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg4514144-db3514276/sett.png" alt="Strange of Balcaskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

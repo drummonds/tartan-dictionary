@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/te/teallach-2/">Teallach</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/te/teallach-2/"><img src="/variants/s9/ly4o24dy19w3g23n13dy3oi13dy3~x2~n1900000-oi2500000/sett.png" alt="Teallach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/teallach-2/"><img src="/variants/s9/ly4o24dy19w3g23n13dy3oi13dy3~x2~n47-oi62/sett.png" alt="Teallach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

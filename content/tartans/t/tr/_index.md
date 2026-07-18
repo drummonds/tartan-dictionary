@@ -23,8 +23,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/t/tr/trinity-presbyterian-church/"><img src="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/sett.png" alt="Trinity Presbyterian Church" width="140"><br><strong>Trinity Presbyterian Church (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tr/triplett-jack-arnold/"><img src="/variants/s4/w14t5r1lb1~x8/sett.png" alt="Triplett, Jack Arnold" width="140"><br><strong>Triplett, Jack Arnold (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tr/triplett-jack-arnold-2/"><img src="/variants/s4/w35db12r2n2~x2/sett.png" alt="Triplett, Jack Arnold" width="140"><br><strong>Triplett, Jack Arnold (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/tr/trithart/"><img src="/variants/s25/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4~o2505035-lo2904058-lg3211141-gi2007139-t2707270-b1812264/sett.png" alt="Trithart" width="140"><br><strong>Trithart (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/tr/trost/"><img src="/variants/s23/g4ri2r2ri24w2ri3w3ri3g10r10t2r4t2r10g10ri3w3ri2w2ri24r2ri2g4~x2~ri2308036-r1506019/sett.png" alt="Trost" width="140"><br><strong>Trost (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/tr/trithart/"><img src="/variants/s25/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4~o6213030-lo7109054-lg7927141-gi5117141-t6617267-b4531264/sett.png" alt="Trithart" width="140"><br><strong>Trithart (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/tr/trost/"><img src="/variants/s23/g4ri2r2ri24w2ri3w3ri3g10r10t2r4t2r10g10ri3w3ri2w2ri24r2ri2g4~x2~ri5720033-r3815015/sett.png" alt="Trost" width="140"><br><strong>Trost (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tr/trotter/"><img src="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/sett.png" alt="Trotter" width="140"><br><strong>Trotter (1)</strong></a><div class="clan-territory">Trotter</div></li>
 <li><a class="tartan" href="/tartans/t/tr/trotter-2/"><img src="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/sett.png" alt="Trotter" width="140"><br><strong>Trotter (1)</strong></a><div class="clan-territory">Trotter</div></li>
 </ul>

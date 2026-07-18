@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ku/kumikyoku/">Kumikyoku</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ku/kumikyoku/"><img src="/variants/s33/n38db3n5db3n5db3dr13db3lb5db3dr13db3o5db3n12db3w5db3n12db3lg5db3dr13db3lb5db3dr13db3n5db3n5db3n36~db0906265-lg2704216/sett.png" alt="Kumikyoku sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kumikyoku/"><img src="/variants/s33/n38db3n5db3n5db3dr13db3lb5db3dr13db3o5db3n12db3w5db3n12db3lg5db3dr13db3lb5db3dr13db3n5db3n5db3n36~db2316264-lg6709222/sett.png" alt="Kumikyoku sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

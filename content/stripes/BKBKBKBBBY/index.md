@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/comme-a-il-principe/">Comme Ça Il Principe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/comme-a-il-principe/"><img src="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/sett.png" alt="Comme Ça Il Principe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/comme-a-il-principe/"><img src="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi3409246-db2508270/sett.png" alt="Comme Ça Il Principe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

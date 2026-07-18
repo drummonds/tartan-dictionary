@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/ballater/">Ballater</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballater/"><img src="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/sett.png" alt="Ballater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballater/"><img src="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db2920264-b6306264/sett.png" alt="Ballater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

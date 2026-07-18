@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/al/allied-facenna-2/">Allied Facenna</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/allied-facenna-2/"><img src="/variants/s24/ly17k17db3k3db3k3db19k3db3k3db3k17ly17lb3ly17k17db17k3db3k3db17k17ly17y3~x2~ly2602166-k0604259-db1309265/sett.png" alt="Allied Facenna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allied-facenna-2/"><img src="/variants/s24/ly17k17db3k3db3k3db19k3db3k3db3k17ly17lb3ly17k17db17k3db3k3db17k17ly17y3~x2~ly6505159-k1410264-db3121264/sett.png" alt="Allied Facenna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

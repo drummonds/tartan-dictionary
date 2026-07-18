@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/bergen-scottish/">Bergen Scottish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/bergen-scottish/"><img src="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi1406275-db1204274/sett.png" alt="Bergen Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bergen-scottish/"><img src="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi3514276-db2911276/sett.png" alt="Bergen Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

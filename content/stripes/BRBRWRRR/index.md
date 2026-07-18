@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-navy/"><img src="/variants/s8/db3r2db30r1w18o30r2o3~x2/sett.png" alt="Bannockbane Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/b/ba/bannockbane-variant/">Bannockbane Variant</a> <small class="dt">ΔTartan 4.67</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-variant/"><img src="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/sett.png" alt="Bannockbane Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-variant/"><img src="/variants/s8/n3r2n30r1w18o14r2o3~x2~n47-o62/sett.png" alt="Bannockbane Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

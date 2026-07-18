@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/montreal-olympics/">Montreal Olympics</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/montreal-olympics/"><img src="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg1605139/sett.png" alt="Montreal Olympics sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montreal-olympics/"><img src="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg4112135/sett.png" alt="Montreal Olympics sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

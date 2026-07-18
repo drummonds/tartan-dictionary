@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/police-college-tulliallan/">Police College Tulliallan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/police-college-tulliallan/"><img src="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/sett.png" alt="Police College Tulliallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/police-college-tulliallan/"><img src="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii1907141-ki1510264/sett.png" alt="Police College Tulliallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

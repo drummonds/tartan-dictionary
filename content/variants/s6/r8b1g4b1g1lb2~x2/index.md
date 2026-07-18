@@ -10,15 +10,15 @@ crumbs:
 - name: "Moray of Abercairney"
   url: "/families/moray-of-abercairney/"
 - name: "Moray of Abercairney"
-  url: "/tartans/m/mo/moray-of-abercairney-2/"
+  url: "/tartans/m/mo/moray-of-abercairney-3/"
 - name: "Moray of Abercairney"
   url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/m/mo/moray-of-abercairney-2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moray-of-abercairney-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGW](/stripes/rbgbgw/).
 
-Part of the [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -54,6 +54,21 @@ One full sett is **48 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 B2 G8 B2 G2 LB/4 tartan" width="880" height="480">
 
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **2.58** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/ri8r1g4r1db4/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
+
 ## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
@@ -62,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13657 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="300.2" cy="207.7" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><circle cx="247.9" cy="194.3" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.1" cy="201.9" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.3" cy="197.5" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.9" cy="183.9" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.5" cy="239.8" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.9" cy="178.8" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.0" cy="218.4" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="212.7" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="230.3" cy="193.7" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><circle cx="277.1" cy="221.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="300.1" cy="207.7" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><circle cx="247.9" cy="194.3" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.0" cy="201.9" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.3" cy="197.5" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.8" cy="183.9" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.5" cy="239.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.8" cy="178.8" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="309.9" cy="218.4" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="212.7" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="230.3" cy="193.7" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><circle cx="277.0" cy="221.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r8b1g4b1g1lb2~x2/

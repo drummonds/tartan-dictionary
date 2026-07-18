@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ky/kyle-pink/">Kyle Pink</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ky/kyle-pink/"><img src="/variants/s10/r17k1r2dpi2r2k1r3dp8w17y2~x4~dpi1607327/sett.png" alt="Kyle Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ky/kyle-pink/"><img src="/variants/s10/r17k1r2dpi2r2k1r3dp8w17y2~x4~dpi4018327-dp3013330/sett.png" alt="Kyle Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

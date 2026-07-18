@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/beechgrove-garden-the/">Beechgrove Garden, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/beechgrove-garden-the/"><img src="/variants/s15/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2~x2~g2408144-dg1806142/sett.png" alt="Beechgrove Garden, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beechgrove-garden-the/"><img src="/variants/s15/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2~x2~g6019141-dg4514144/sett.png" alt="Beechgrove Garden, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

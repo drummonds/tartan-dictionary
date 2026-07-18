@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/au/auld-alliance/">Auld Alliance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-alliance/"><img src="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/sett.png" alt="Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-alliance/"><img src="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db2508270-dbi3912267/sett.png" alt="Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

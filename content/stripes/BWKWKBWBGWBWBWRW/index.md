@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/manhattan-financial-2/">Manhattan Financial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/manhattan-financial-2/"><img src="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/sett.png" alt="Manhattan Financial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manhattan-financial-2/"><img src="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w90-wi98/sett.png" alt="Manhattan Financial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

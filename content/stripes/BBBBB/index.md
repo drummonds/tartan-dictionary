@@ -37,7 +37,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/h/hi/hillsdale/"><img src="/variants/s5/db13n6dr51db51n5~x2/sett.png" alt="Hillsdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/c/ca/cairns-david/">Cairns, David</a> <small class="dt">ΔTartan 6.42</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairns-david/"><img src="/variants/s5/do11n1do4n8dr1~x8~do1400000-n1900000/sett.png" alt="Cairns, David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairns-david/"><img src="/variants/s5/do11n1do4n8dr1~x8~do34-n47/sett.png" alt="Cairns, David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

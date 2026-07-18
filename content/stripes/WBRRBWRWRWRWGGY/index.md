@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/british-airways/">British Airways</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/british-airways/"><img src="/variants/s15/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1~x2~r2109032-ri2307033/sett.png" alt="British Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-airways/"><img src="/variants/s15/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1~x2~r5221030-ri5717030/sett.png" alt="British Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,15 +29,15 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gu/gunn-2/">Gunn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gu/gunn-2/"><img src="/variants/s4/t20k20g20r1~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/u/un/unidentified-pattern-2/">Unidentified pattern</a> <small class="dt">ΔTartan 0.74</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/gunn-2/"><img src="/variants/s4/db20k20g20r1~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-pattern-2/">Unidentified pattern</a> <small class="dt">ΔTartan 0.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-pattern-2/"><img src="/variants/s4/db4k5g4r1~x4/sett.png" alt="Unidentified pattern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/n/no/norwich-collection-no-60/">Norwich Collection No. 60</a> <small class="dt">ΔTartan 1.83</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-collection-no-60/"><img src="/variants/s4/dp8k11g9r2~x2~dp1607327/sett.png" alt="Norwich Collection No. 60 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-collection-no-60/"><img src="/variants/s4/dp8k11g9r2~x2~dp4018327/sett.png" alt="Norwich Collection No. 60 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/u/un/unidentified-no-60/">Unidentified No 60</a> <small class="dt">ΔTartan 1.98</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-60/"><img src="/variants/s4/dp6k5g5r1~x2/sett.png" alt="Unidentified No 60 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/b/bo/bowater/">Bowater</a> <small class="dt">ΔTartan 8.76</small></td></tr>
+<tr><td><a href="/tartans/b/bo/bowater/">Bowater</a> <small class="dt">ΔTartan 8.54</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bo/bowater/"><img src="/variants/s4/dp1k1dy1r1~x4/sett.png" alt="Bowater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

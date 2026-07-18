@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hi/highland-granite/">Highland Granite</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-granite/"><img src="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/sett.png" alt="Highland Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-granite/"><img src="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt32-n46/sett.png" alt="Highland Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/re/recovery/">Recovery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/re/recovery/"><img src="/variants/s21/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/sett.png" alt="Recovery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/recovery/"><img src="/variants/s21/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg4514144-g6019141/sett.png" alt="Recovery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

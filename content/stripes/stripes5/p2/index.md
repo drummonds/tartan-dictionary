@@ -589,7 +589,7 @@ weight: 5
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-4/) | 1 | 1 |
+| 0.10 | [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-3/) | 1 | 1 |
 
 ### BBGWG
 <a class="pat" href="/stripes/bbgwg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BBGWG</span></a>

@@ -1,0 +1,40 @@
+---
+title: "Heather Mead"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Heather"
+  url: "/clan/heather/"
+aliases:
+- "/setts/dpi13dg16g4dp1g4dp34y1dp1/"
+---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbggb/">BGBGBGGB</a></nav>
+
+A tartan of [Clan Heather](/clan/heather/).
+
+Its design is pattern [BGBGBGGB](/stripes/bgbgbggb/) — the page of every tartan sharing this colour sequence.
+
+
+The **Heather Mead** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327/">Heather Mead</a></td><td></td><td><code>DPi/26 DG32 G8 DP2 G8 DP68 Y2 DP/2</code></td><td>268</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327/"><img src="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327/sett.png" alt="Heather Mead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Nearest tartans
+
+The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327/">Heather Mead</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=o13dg16g4dp4g4dp34y1dp1~x2&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">1.12</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/">Heather Mead</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g9db2dp2g2dp18g2db2g1db19dr33g2~x2&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">3.49</a></div><div class="nn-threads nn-far2">346</div><div class="nn-name nn-far2"><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/">Pride of Scotland Autumn</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr32r2g2db30dr1db2ly1~x2&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">3.53</a></div><div class="nn-threads nn-far2">214</div><div class="nn-name nn-far2"><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/">Highland Prince</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dr32r2g2db30dr1db2ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp2712327-dpi3717327&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">3.80</a></div><div class="nn-threads nn-far2">468</div><div class="nn-name nn-far2"><a href="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp2712327-dpi3717327/">Heather</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp2712327-dpi3717327/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb2dg2db1dg30n10db20dg1db2lo1~x2&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">3.80</a></div><div class="nn-threads nn-far2">270</div><div class="nn-name nn-far2"><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/">Scottish Borderland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y2dg4db1dr3db3dg3g1dr32db14w3y2~x2&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">3.81</a></div><div class="nn-threads nn-far2">264</div><div class="nn-name nn-far2"><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/">Banause-Zunft zu Olte</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lr3db28dt12dr22dg1~x2&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">3.85</a></div><div class="nn-threads nn-far2">256</div><div class="nn-name nn-far2"><a href="/variants/s5/lr3db28dt12dr22dg1~x2/">Diaspora</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lr3db28dt12dr22dg1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db5n4r6ly1r9dbi35db5ly1db12w1~x2~db2609279-dbi3514276-w90&amp;base=dpi13dg16g4dp1g4dp34y1dp1~x2~dpi4018327-dp2712327" title="compare in the TTD">3.98</a></div><div class="nn-threads nn-far2">304</div><div class="nn-name nn-far2"><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db2609279-dbi3514276-w90/">University of Dundee</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db2609279-dbi3514276-w90/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 10816 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><circle cx="351.0" cy="146.0" r="4" fill="#3465a4"><title>Heather Mead</title></circle></a><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/"><circle cx="328.2" cy="170.6" r="4" fill="#3465a4"><title>Pride of Scotland Autumn</title></circle></a><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><circle cx="407.9" cy="147.3" r="4" fill="#3465a4"><title>Highland Prince</title></circle></a><a href="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp2712327-dpi3717327/"><circle cx="288.4" cy="183.6" r="4" fill="#3465a4"><title>Heather</title></circle></a><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/"><circle cx="394.0" cy="171.7" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.7" cy="113.1" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.4" cy="233.7" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db2609279-dbi3514276-w90/"><circle cx="301.5" cy="117.4" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><circle cx="384.7" cy="166.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

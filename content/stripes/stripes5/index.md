@@ -669,7 +669,7 @@ weight: 5
 |---|---|---|---|
 | 0.01 | [MacLeod of Raasay](/tartans/m/ma/macleod-of-raasay/) | 2 | 2 |
 | 0.01 | [Unidentified Kirtle](/tartans/u/un/unidentified-kirtle/) | 1 | 1 |
-| 0.06 | [Romsdal Tresfjord](/tartans/r/ro/romsdal-tresfjord/) | 1 | 1 |
+| 0.06 | [Romsdal, Tresfjord](/tartans/r/ro/romsdal-tresfjord-2/) | 1 | 1 |
 
 ### RKRKR
 <a class="pat" href="/stripes/rkrkr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">RKRKR</span></a>
@@ -687,7 +687,7 @@ weight: 5
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.01 | [Hopkins](/tartans/h/ho/hopkins-2/) | 1 | 1 |
-| 0.01 | [MacGregor](/tartans/m/ma/macgregor-4/) | 1 | 1 |
+| 0.01 | [MacGregor](/tartans/m/ma/macgregor-5/) | 1 | 1 |
 | 0.01 | [Masai Shuka 15](/tartans/m/ma/masai-shuka-15/) | 1 | 1 |
 | 0.07 | [Bodog.com](/tartans/b/bo/bodog-com/) | 1 | 1 |
 

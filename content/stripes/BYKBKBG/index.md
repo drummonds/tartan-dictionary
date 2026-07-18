@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ci/city-of-rome-pipe-band/">City of Rome Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-rome-pipe-band/"><img src="/variants/s7/dr12lo6k88db45k6db6y6~db1406275/sett.png" alt="City of Rome Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-rome-pipe-band/"><img src="/variants/s7/dr12lo6k88db45k6db6y6~db3514276/sett.png" alt="City of Rome Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

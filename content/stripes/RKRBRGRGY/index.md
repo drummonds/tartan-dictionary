@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/o/ol/oliver/">Oliver</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver/"><img src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="Oliver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/o/ol/oliver-dress-2/">Oliver Dress</a> <small class="dt">ΔTartan 0.07</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver-dress-2/"><img src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver-dress-2/"><img src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt4207201/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

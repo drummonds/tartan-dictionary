@@ -216,7 +216,7 @@ weight: 24
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Spirit of Bannockburn](/tartans/s/sp/spirit-of-bannockburn/) | 1 | 1 |
+| 0.13 | [Spirit of Bannockburn](/tartans/s/sp/spirit-of-bannockburn-2/) | 1 | 1 |
 
 ### BBBGRGBGBGBGBGWBWGBBBBGB
 <a class="pat" href="/stripes/bbbgrgbgbgbgbgwbwgbbbbgb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">BBBGRGBGBGBGBGWBWGBBBBGB</span></a>

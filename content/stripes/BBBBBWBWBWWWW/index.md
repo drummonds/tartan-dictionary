@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/di/diamond-jubilee-3/">Diamond Jubilee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/di/diamond-jubilee-3/"><img src="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/sett.png" alt="Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/diamond-jubilee-3/"><img src="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp2712327-dpi4018327/sett.png" alt="Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

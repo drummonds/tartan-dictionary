@@ -5,7 +5,7 @@ date: 2023-03-18
 12 Royal tartans beginning with P. [Back to all Royal tartans](/type/royal/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/sett.png" alt="Prince David" width="140"><br>Prince David</a></li>
+<li><a class="tartan" href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg4514144-g4808117/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg4514144-g4808117/sett.png" alt="Prince David" width="140"><br>Prince David</a></li>
 <li><a class="tartan" href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><img src="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/sett.png" alt="Prince David #1 (Royal)" width="140"><br>Prince David #1 (Royal)</a></li>
 <li><a class="tartan" href="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><img src="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/sett.png" alt="Prince George" width="140"><br>Prince George</a></li>
 <li><a class="tartan" href="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/"><img src="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/sett.png" alt="Prince George (Royal)" width="140"><br>Prince George (Royal)</a></li>

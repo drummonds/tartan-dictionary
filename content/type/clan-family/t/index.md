@@ -14,7 +14,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r1dy7g7k7t7dy7r1~x4/"><img src="/variants/s7/r1dy7g7k7t7dy7r1~x4/sett.png" alt="Tennant #2" width="140"><br>Tennant #2</a></li>
 <li><a class="tartan" href="/variants/s7/r1do7g7k7t7do7r1~x4/"><img src="/variants/s7/r1do7g7k7t7do7r1~x4/sett.png" alt="Tennant (Clan)" width="140"><br>Tennant (Clan)</a></li>
 <li><a class="tartan" href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><img src="/variants/s7/r1dy7g7db7g7db7r1~x8/sett.png" alt="Tennant (Yules)" width="140"><br>Tennant (Yules)</a></li>
-<li><a class="tartan" href="/variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g1903114-dg1806142/"><img src="/variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g1903114-dg1806142/sett.png" alt="Terry" width="140"><br>Terry</a></li>
+<li><a class="tartan" href="/variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g4808117-dg4514144/"><img src="/variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g4808117-dg4514144/sett.png" alt="Terry" width="140"><br>Terry</a></li>
 <li><a class="tartan" href="/variants/s7/y6k8g7r6k2r18w6~x4/"><img src="/variants/s7/y6k8g7r6k2r18w6~x4/sett.png" alt="Thirkill (Dalgliesh)" width="140"><br>Thirkill (Dalgliesh)</a></li>
 <li><a class="tartan" href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><img src="/variants/s8/r2db1g2db1g19db2r27g2~x2/sett.png" alt="Thomas of Wales" width="140"><br>Thomas of Wales</a></li>
 <li><a class="tartan" href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><img src="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/sett.png" alt="Thompson Variant" width="140"><br>Thompson Variant</a></li>
@@ -27,8 +27,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r1t10k2w4k4y1~x6/"><img src="/variants/s6/r1t10k2w4k4y1~x6/sett.png" alt="Thomson Dress (Blue)" width="140"><br>Thomson Dress (Blue)</a></li>
 <li><a class="tartan" href="/variants/s6/db3lb14db3n16db34r3~x2/"><img src="/variants/s6/db3lb14db3n16db34r3~x2/sett.png" alt="Thorburn (Lochcarron)" width="140"><br>Thorburn (Lochcarron)</a></li>
 <li><a class="tartan" href="/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/"><img src="/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/sett.png" alt="Todd" width="140"><br>Todd</a></li>
-<li><a class="tartan" href="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi2205128-g2007139/"><img src="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi2205128-g2007139/sett.png" alt="Tomass" width="140"><br>Tomass</a></li>
-<li><a class="tartan" href="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g2408144/"><img src="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g2408144/sett.png" alt="Toshach" width="140"><br>Toshach</a></li>
+<li><a class="tartan" href="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi5413123-g4917141/"><img src="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi5413123-g4917141/sett.png" alt="Tomass" width="140"><br>Tomass</a></li>
+<li><a class="tartan" href="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g6019141/"><img src="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g6019141/sett.png" alt="Toshach" width="140"><br>Toshach</a></li>
 <li><a class="tartan" href="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/"><img src="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/sett.png" alt="Traynor" width="140"><br>Traynor</a></li>
 <li><a class="tartan" href="/variants/s5/k2db1g10r10ly1~x6/"><img src="/variants/s5/k2db1g10r10ly1~x6/sett.png" alt="Turnbull Dress" width="140"><br>Turnbull Dress</a></li>
 <li><a class="tartan" href="/variants/s5/dr7y3g28db28w3~x2/"><img src="/variants/s5/dr7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting" width="140"><br>Turnbull Hunting</a></li>

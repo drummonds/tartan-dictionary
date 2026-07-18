@@ -18,6 +18,8 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides-8/"><img src="/variants/s8/db7r3g7r1g7r3db7lb1~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/hebrides-5/">Hebrides</a></td><td>2002</td><td>1</td><td>1</td><td>3.89</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides-5/"><img src="r3g11r3db2lb2db11r2g2r2db11lb2db2r3g11r3db2-rev.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebrides-4/">Hebrides</a></td><td>1989</td><td>1</td><td>1</td><td>4.66</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides-4/"><img src="/variants/s9/do15ly2do2w2do2dg10o6do3w2~x2~ly7014087-o6011066/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/hebrides/">Hebrides</a></td><td>2002</td><td>1</td><td>1</td><td>6.03</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides/"><img src="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/hebrides-2/">Hebrides</a></td><td>2002</td><td>1</td><td>1</td><td>6.55</td></tr>
@@ -27,8 +29,6 @@ crumbs:
 <tr><td><a href="/tartans/h/he/hebrides-3/">Hebrides</a></td><td>2004</td><td>1</td><td>1</td><td>12.19</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides-3/"><img src="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/hebrides-6/">Hebrides</a></td><td>2002</td><td>1</td><td>1</td><td>13.46</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides-6/"><img src="/variants/s34/k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg1804158/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/he/hebrides-4/">Hebrides</a></td><td>1989</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides-4/"><img src="/variants/s9/do15ly2do2w2do2dg10o6do3w2~x2~ly2806085-o2404072/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebrides-6/"><img src="/variants/s34/k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg4410159/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

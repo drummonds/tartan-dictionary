@@ -15,6 +15,6 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/d/de/deighan/">Deighan</a> ★</td><td>2010</td><td>2</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/deighan/"><img src="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/sett.png" alt="Deighan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/deighan/"><img src="/variants/s5/dt4db43k20dt7y2~x2~dt22-y52/sett.png" alt="Deighan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

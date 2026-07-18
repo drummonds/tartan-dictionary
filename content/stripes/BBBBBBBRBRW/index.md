@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/united-scots-american/">United Scots American</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/united-scots-american/"><img src="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt1103246-db1504259/sett.png" alt="United Scots American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-scots-american/"><img src="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt2807246-db3609264/sett.png" alt="United Scots American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

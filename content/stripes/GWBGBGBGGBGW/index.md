@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ho/holroyd-john-2/">Holroyd, John</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/holroyd-john-2/"><img src="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/sett.png" alt="Holroyd, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holroyd-john-2/"><img src="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db2508270-gi4705195/sett.png" alt="Holroyd, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

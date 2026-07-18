@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bo/bonnie-brae/">Bonnie Brae</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonnie-brae/"><img src="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/sett.png" alt="Bonnie Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonnie-brae/"><img src="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri4116015-r3715030/sett.png" alt="Bonnie Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

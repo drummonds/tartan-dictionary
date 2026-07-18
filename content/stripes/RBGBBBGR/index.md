@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/da/daks-3/">Daks</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-3/"><img src="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-3/"><img src="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db2911276-dbi3514276/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/da/daks-navy/">Daks, Navy</a> <small class="dt">ΔTartan 0.12</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-navy/"><img src="/variants/s8/r5g12db4dbi4db22g18db4r5~db0805267-dbi1604274/sett.png" alt="Daks, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-navy/"><img src="/variants/s8/r5g12db4dbi4db22g18db4r5~db1913264-dbi3911270/sett.png" alt="Daks, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

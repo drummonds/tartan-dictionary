@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/bank-of-scotland-2/">Bank of Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/bank-of-scotland-2/"><img src="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db1106275-r1606028-dbi1404245/sett.png" alt="Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bank-of-scotland-2/"><img src="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db2616276-r3916030-dbi3409246/sett.png" alt="Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,7 +20,7 @@ A family of [Clan Scott](/clan/scott/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-9/"><img src="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scott/">Scott</a></td><td>—</td><td>1</td><td>1</td><td>4.77</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott/"><img src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scott-4/">Scott</a></td><td>1822</td><td>1</td><td>1</td><td>7.01</td></tr>
+<tr><td><a href="/tartans/s/sc/scott-4/">Scott</a></td><td>1822</td><td>1</td><td>1</td><td>6.98</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-4/"><img src="g3lb1db7lb1g3k1-rev.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scott-hunting-3/">Scott Hunting</a></td><td>1906</td><td>1</td><td>1</td><td>7.34</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-hunting-3/"><img src="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/sett.png" alt="Scott Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
@@ -38,10 +38,10 @@ A family of [Clan Scott](/clan/scott/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-dress/"><img src="g7r3k3w54g24r5g5w5g5r5-rev.png" alt="Scott Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scott-7/">Scott</a></td><td>—</td><td>1</td><td>1</td><td>10.74</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-7/"><img src="w2k1w6k6w2k1w1-rev.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sc/scott-10/">Scott</a></td><td>—</td><td>1</td><td>1</td><td>10.77</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-10/"><img src="r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1-rev.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scott-hunting-5/">Scott, hunting</a></td><td>—</td><td>1</td><td>1</td><td>10.77</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-hunting-5/"><img src="/variants/s8/r3o14g8r2g2w2g2r1~x2/sett.png" alt="Scott, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-10/">Scott</a></td><td>—</td><td>1</td><td>1</td><td>10.77</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-10/"><img src="r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1-rev.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scott-3/">Scott</a></td><td>1829</td><td>1</td><td>1</td><td>11.16</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-3/"><img src="g4r3k1r28g14r4g4w3g4r4g4w3-rev.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scott-5/">Scott</a></td><td>1829</td><td>2</td><td>2</td><td>11.94</td></tr>

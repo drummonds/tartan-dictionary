@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/confederate-memorial/">Confederate Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/confederate-memorial/"><img src="/variants/s12/t12n4r4n4k2n56r18w1db4w3db4w1~x2~t2405244-r2109032-db1406275/sett.png" alt="Confederate Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/confederate-memorial/"><img src="/variants/s12/t12n4r4n4k2n56r18w1db4w3db4w1~x2~t5912243-r5221030-db3514276/sett.png" alt="Confederate Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

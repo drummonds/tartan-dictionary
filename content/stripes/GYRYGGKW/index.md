@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sa/saskatchewan-3/">Saskatchewan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/saskatchewan-3/"><img src="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~dy1603076/sett.png" alt="Saskatchewan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saskatchewan-3/"><img src="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~dy3908078/sett.png" alt="Saskatchewan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

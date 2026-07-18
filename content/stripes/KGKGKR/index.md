@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/childers-3/">Childers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/childers-3/"><img src="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/sett.png" alt="Childers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/childers-3/"><img src="/variants/s6/k88dg17k8g28k8r6~dg3612141-g4808117/sett.png" alt="Childers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ch/childers-regimental/">Childers Regimental</a> <small class="dt">ΔTartan 0.85</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/childers-regimental/"><img src="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/sett.png" alt="Childers Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/childers-regimental/"><img src="/variants/s6/k88g17k8dg28k8r6~x2~g6019141-dg4514144/sett.png" alt="Childers Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/po/porter-drinkers-the/">Porter Drinkers', The</a> <small class="dt">ΔTartan 4.08</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/po/porter-drinkers-the/"><img src="/variants/s6/k2y6k2y11k9r1~x2/sett.png" alt="Porter Drinkers', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

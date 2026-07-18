@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/cameron-hose-2/">Cameron Hose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-hose-2/"><img src="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/sett.png" alt="Cameron Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-hose-2/"><img src="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r5321009-ri5623030/sett.png" alt="Cameron Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/langholm-millennium/">Langholm Millennium</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/langholm-millennium/"><img src="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/sett.png" alt="Langholm Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/langholm-millennium/"><img src="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy3908078-ly8117093/sett.png" alt="Langholm Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

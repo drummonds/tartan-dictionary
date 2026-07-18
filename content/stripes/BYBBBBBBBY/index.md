@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/calum-s-cabin/">Calum's Cabin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/calum-s-cabin/"><img src="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/sett.png" alt="Calum's Cabin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/calum-s-cabin/"><img src="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db1812264-dbi3409246/sett.png" alt="Calum's Cabin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

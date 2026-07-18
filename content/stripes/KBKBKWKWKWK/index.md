@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sc/scottish-jewish-community/">Scottish Jewish Community</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-jewish-community/"><img src="/variants/s11/k14lb3k3w4k3lb3k14db4k4db30k4~x2/sett.png" alt="Scottish Jewish Community sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sh/shalom/">Shalom</a> <small class="dt">ΔTartan 0.11</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sh/shalom/"><img src="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2~db1406275/sett.png" alt="Shalom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shalom/"><img src="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2~db3514276/sett.png" alt="Shalom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/r/ro/royal-stuart-stewart/">Royal Stuart / Stewart</a> <small class="dt">ΔTartan 5.96</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-stuart-stewart/"><img src="/variants/s11/k14w4k14w19k4w4k4n4k16n11k8/sett.png" alt="Royal Stuart / Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

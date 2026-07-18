@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/ramsay-of-dalhousie/"><img src="/variants/s6/k4w2k28r30k1r3~x2/sett.png" alt="Ramsay of Dalhousie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ha/hakkarain/">Hakkarain</a> <small class="dt">ΔTartan 1.99</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hakkarain/"><img src="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/sett.png" alt="Hakkarain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hakkarain/"><img src="/variants/s6/ki37w18k37r2k2r2~x2~ki1712264-k17/sett.png" alt="Hakkarain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

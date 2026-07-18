@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/international-festival-of-authors/">International Festival of Authors</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/international-festival-of-authors/"><img src="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/sett.png" alt="International Festival of Authors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-festival-of-authors/"><img src="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp3817306-m6124345/sett.png" alt="International Festival of Authors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

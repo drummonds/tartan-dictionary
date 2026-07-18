@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/e/ed/edinburgh-district/">Edinburgh District</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-district/"><img src="/variants/s9/w3b25r3ri3r3ri5g10r3k2~x2~r1707008-ri2109032/sett.png" alt="Edinburgh District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-district-2/">Edinburgh District</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-district-2/"><img src="/variants/s9/w3b25r3ri3r3ri5g10r3k2~x2~r4317006-ri5221030/sett.png" alt="Edinburgh District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

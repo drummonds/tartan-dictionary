@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ri/ritch-2/">Ritch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ri/ritch-2/"><img src="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10lr2r14w2r14lr2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2~dg1806142-g2408144/sett.png" alt="Ritch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/ritch-2/"><img src="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10lr2r14w2r14lr2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2~dg4514144-g6019141/sett.png" alt="Ritch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

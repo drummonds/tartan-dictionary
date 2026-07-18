@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/j/jo/johnston-orange-black/">Johnston Orange/Black</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnston-orange-black/"><img src="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/sett.png" alt="Johnston Orange/Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnston-orange-black/"><img src="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo6715063/sett.png" alt="Johnston Orange/Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

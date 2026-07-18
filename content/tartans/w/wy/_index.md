@@ -5,7 +5,7 @@ date: 2023-03-18
 7 tartans beginning with Wy, each with the number of setts it groups. Back to [W](/tartans/w/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/wy/wyckoff/"><img src="/variants/s8/lb70t5lb3ri5lb3w5t3r5~x2~ri2806019-r2109032/sett.png" alt="Wyckoff" width="140"><br><strong>Wyckoff (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wy/wyckoff/"><img src="/variants/s8/lb70t5lb3ri5lb3w5t3r5~x2~ri6914021-r5221030/sett.png" alt="Wyckoff" width="140"><br><strong>Wyckoff (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wy/wyckoff-ann-grainger-phillips/"><img src="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/sett.png" alt="Wyckoff, Ann Grainger Phillips" width="140"><br><strong>Wyckoff, Ann Grainger Phillips (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wy/wyckoff-ann-grainger-phillips-commemorative/"><img src="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/sett.png" alt="Wyckoff, Ann Grainger Phillips Commemorative" width="140"><br><strong>Wyckoff, Ann Grainger Phillips Commemorative (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wy/wyeth/"><img src="/variants/s5/db18r18dp2g12db1~x4/sett.png" alt="Wyeth" width="140"><br><strong>Wyeth (1)</strong></a></li>

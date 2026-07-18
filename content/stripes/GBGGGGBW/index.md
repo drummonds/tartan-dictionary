@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/el/elbrick-hunting/">Elbrick Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/el/elbrick-hunting/"><img src="/variants/s8/g6ti22g6dy20y1g45t1w5~x2~ti2503227-t2405244/sett.png" alt="Elbrick Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elbrick-hunting/"><img src="/variants/s8/g6ti22g6dy20y1g45t1w5~x2~ti6107234-t5912243/sett.png" alt="Elbrick Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/mayo-irish-county/">Mayo Irish County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mayo-irish-county/"><img src="/variants/s7/k4g16db11dr16g25ly2gi3~x2~g1904144-gi2404202/sett.png" alt="Mayo Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mayo-irish-county/"><img src="/variants/s7/k4g16db11dr16g25ly2gi3~x2~g4709141-gi5910204/sett.png" alt="Mayo Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

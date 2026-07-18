@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/se/selkirk-corporate/">Selkirk Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/se/selkirk-corporate/"><img src="/variants/s17/db24g2db12k2w2k3o2k3dbi4k3o2k3w2k2r12g2dbi24~x2~db1204274-dbi1406275/sett.png" alt="Selkirk Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/selkirk-corporate/"><img src="/variants/s17/db24g2db12k2w2k3o2k3dbi4k3o2k3w2k2r12g2dbi24~x2~db2911276-dbi3514276/sett.png" alt="Selkirk Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

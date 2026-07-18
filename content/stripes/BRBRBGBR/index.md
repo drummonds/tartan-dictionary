@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/loretto-school/">Loretto School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loretto-school/"><img src="/variants/s8/db4r14dp6r5db12g8db70m4~r2510029-m2406332/sett.png" alt="Loretto School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loretto-school/"><img src="/variants/s8/db4r14dp6r5db12g8db70m4~r6226030-m6016330/sett.png" alt="Loretto School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

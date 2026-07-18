@@ -67,7 +67,7 @@ weight: 6
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [MacGregor](/tartans/m/ma/macgregor-9/) | 1 | 1 |
+| 0.07 | [MacGregor](/tartans/m/ma/macgregor-10/) | 1 | 1 |
 
 ### BKRGKR
 <a class="pat" href="/stripes/bkrgkr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">BKRGKR</span></a>
@@ -88,7 +88,7 @@ weight: 6
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.03 | [MacGregor](/tartans/m/ma/macgregor-10/) | 1 | 1 |
+| 0.03 | [MacGregor](/tartans/m/ma/macgregor-11/) | 1 | 1 |
 
 ### BKWBBW
 <a class="pat" href="/stripes/bkwbbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKWBBW</span></a>
@@ -739,7 +739,7 @@ weight: 6
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Outlander](/tartans/o/ou/outlander/) | 1 | 1 |
+| 0.13 | [Outlander](/tartans/o/ou/outlander-3/) | 1 | 1 |
 
 ### BYWBYW
 <a class="pat" href="/stripes/bywbyw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BYWBYW</span></a>

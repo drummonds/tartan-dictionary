@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hu/hunter-5/">Hunter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-5/"><img src="/variants/s66/r30ri4y6ly4ri4r16w2ri4w2ly4db18y6lyi3w2ly4w2lyi3y6db18ly4w2ri4r12y2r12ri3w2g10w2g2lyi4g2w2y8w4y8w2g2lyi4g2w2g10w2ri4r12y2r12ri4w2g10ly4w4ly4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2~r2108022-ri2406019-y260-h17d5b042af7a72e9/sett.png?s=r30ri4y6ly4ri4r16w2ri4w2ly4db18y6lyi3w2ly4w2lyi3y6db18ly4w2ri4r12y2r12ri3w2g10w2g2lyi4g2w2y8w4y8w2g2lyi4g2w2g10w2ri4r12y2r12ri4w2g10ly4w4ly4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2~r2108022-ri2406019-y2602166-lyi3307090" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-5/"><img src="/variants/s66/r30ri4y6ly4ri4r16w2ri4w2ly4db18y6lyi3w2ly4w2lyi3y6db18ly4w2ri4r12y2r12ri3w2g10w2g2lyi4g2w2y8w4y8w2g2lyi4g2w2g10w2ri4r12y2r12ri4w2g10ly4w4ly4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2~r5221021-ri6016021-y630-h0e1733fd1d4be6ab/sett.png?s=r30ri4y6ly4ri4r16w2ri4w2ly4db18y6lyi3w2ly4w2lyi3y6db18ly4w2ri4r12y2r12ri3w2g10w2g2lyi4g2w2y8w4y8w2g2lyi4g2w2g10w2ri4r12y2r12ri4w2g10ly4w4ly4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2~r5221021-ri6016021-y6304159-lyi8117093" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macleod-arisaid/">MacLeod, Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-arisaid/"><img src="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/sett.png" alt="MacLeod, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-arisaid/"><img src="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r4217018-ri5623030/sett.png" alt="MacLeod, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

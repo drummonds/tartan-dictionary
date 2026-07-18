@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/rogues-the/"><img src="/variants/s4/r3lb12k50ly3~x2/sett.png" alt="Rogues , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/o/ok/oklahoma-state-university-2/">Oklahoma State University</a> <small class="dt">ΔTartan 4.09</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state-university-2/"><img src="/variants/s4/lo80k52w7o12~o2500000/sett.png" alt="Oklahoma State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state-university-2/"><img src="/variants/s4/lo80k52w7o12~o62/sett.png" alt="Oklahoma State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

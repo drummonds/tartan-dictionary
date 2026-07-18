@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/campbell-simpson-2/">Campbell Simpson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-simpson-2/"><img src="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/sett.png" alt="Campbell Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-simpson-2/"><img src="/variants/s6/g22k3g3dg16g6k4~x2~g5408159-dg4514144/sett.png" alt="Campbell Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ca/campbell-simpson-3/">Campbell-Simpson</a> <small class="dt">ΔTartan 0.30</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-simpson-3/"><img src="/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/sett.png" alt="Campbell-Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-simpson-3/"><img src="/variants/s6/g12k2g2dg9g4k2~x4~dg4112135/sett.png" alt="Campbell-Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

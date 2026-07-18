@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/caledonian-soc/">Caledonian Soc.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-soc/"><img src="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly3307090-y2602166/sett.png" alt="Caledonian Soc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-soc/"><img src="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly8117093-y6304159/sett.png" alt="Caledonian Soc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

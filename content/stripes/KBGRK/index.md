@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/lo/louisville-spaulding/">Louisville Spaulding</a> <small class="dt">ΔTartan 0.16</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/louisville-spaulding/"><img src="/variants/s5/k20db50dg50r3k3~x2/sett.png" alt="Louisville Spaulding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/p/pe/perry-2/">Perry</a> <small class="dt">ΔTartan 5.14</small></td></tr>
+<tr><td><a href="/tartans/p/pe/perry-2/">Perry</a> <small class="dt">ΔTartan 5.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pe/perry-2/"><img src="/variants/s5/k31r12y2n5k2~x4/sett.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

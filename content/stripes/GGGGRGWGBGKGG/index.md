@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/ir/irish-american/">Irish American</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/ir/irish-american/"><img src="/variants/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5dy4~x2~dg1605139/sett.png" alt="Irish American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irish-american/"><img src="/variants/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5dy4~x2~dg4112135/sett.png" alt="Irish American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

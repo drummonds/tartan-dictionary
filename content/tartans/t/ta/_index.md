@@ -2,7 +2,7 @@
 title: "Tartans — Ta"
 date: 2023-03-18
 ---
-53 tartans beginning with Ta, each with the number of setts it groups. Back to [T](/tartans/t/) or the [A–Z](/tartans/).
+54 tartans beginning with Ta, each with the number of setts it groups. Back to [T](/tartans/t/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/t/ta/tacc/"><img src="/variants/s7/n34k7n12k40n3k4lb3~x2/sett.png" alt="TACC" width="140"><br><strong>TACC (1)</strong></a></li>
@@ -17,11 +17,11 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/t/ta/tait/"><img src="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/sett.png" alt="Tait" width="140"><br><strong>Tait (1)</strong></a><div class="clan-territory">Tait</div></li>
 <li><a class="tartan" href="/tartans/t/ta/tait-2/"><img src="/variants/s8/r5k2db19g4k19g28k2y5~x2/sett.png" alt="Tait" width="140"><br><strong>Tait (1)</strong></a><div class="clan-territory">Tait</div></li>
 <li><a class="tartan" href="/tartans/t/ta/taiwan-scottish/"><img src="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/sett.png" alt="Taiwan Scottish" width="140"><br><strong>Taiwan Scottish (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/takashimaya-dm-rose/"><img src="/variants/s8/dp4b2lb11ly9y16n16ly2b4~x2~ly3203095-y2303095/sett.png" alt="Takashimaya Dm Rose" width="140"><br><strong>Takashimaya Dm Rose (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/takashimaya-dm-rose/"><img src="/variants/s8/dp4b2lb11ly9y16n16ly2b4~x2~ly7808090-y5607087/sett.png" alt="Takashimaya Dm Rose" width="140"><br><strong>Takashimaya Dm Rose (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/takla-makan/"><img src="/variants/s4/lb4ly15lb4w2~x2/sett.png" alt="Takla Makan" width="140"><br><strong>Takla Makan (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/takla-makan-2/"><img src="/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db1106275/sett.png" alt="Takla Makan" width="140"><br><strong>Takla Makan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/takla-makan-2/"><img src="/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db2616276/sett.png" alt="Takla Makan" width="140"><br><strong>Takla Makan (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/takla-makan-3/"><img src="/variants/s6/lb4ly15lb4ly15lb4w2~x2/sett.png" alt="Takla Makan" width="140"><br><strong>Takla Makan (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/takla-makan-4/"><img src="/variants/s40/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1~x2~db1406275-dr1305012/sett.png" alt="Takla Makan" width="140"><br><strong>Takla Makan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/takla-makan-4/"><img src="/variants/s40/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1~x2~db3514276-dr3313009/sett.png" alt="Takla Makan" width="140"><br><strong>Takla Makan (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/talisker/"><img src="/variants/s7/db16lb4db1lb2db24w1y4~x2/sett.png" alt="Talisker" width="140"><br><strong>Talisker (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/talisman/"><img src="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/sett.png" alt="Talisman" width="140"><br><strong>Talisman (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/talladale/"><img src="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/sett.png" alt="Talladale" width="140"><br><strong>Talladale (1)</strong></a></li>
@@ -39,17 +39,18 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/t/ta/tartan-army-2/"><img src="/variants/s2/db2k1~x4/sett.png" alt="Tartan Army" width="140"><br><strong>Tartan Army (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/tartan-army-3/"><img src="/variants/s21/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4~x2/sett.png" alt="Tartan Army" width="140"><br><strong>Tartan Army (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/tartan-army-children-s-charity-corp/"><img src="/variants/s7/n34k7n12k39n3k4lg3~x2/sett.png" alt="Tartan Army Children's Charity (Corp" width="140"><br><strong>Tartan Army Children's Charity (Corp (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/tartan-army-corporate-sport/"><img src="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/sett.png" alt="Tartan Army Corporate/Sport" width="140"><br><strong>Tartan Army Corporate/Sport (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/tartan-army-whisky/"><img src="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/sett.png" alt="Tartan Army Whisky" width="140"><br><strong>Tartan Army Whisky (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/tartan-army-corporate-sport/"><img src="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi3514276-db3409246/sett.png" alt="Tartan Army Corporate/Sport" width="140"><br><strong>Tartan Army Corporate/Sport (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/tartan-army-whisky/"><img src="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri5221030-r4418030/sett.png" alt="Tartan Army Whisky" width="140"><br><strong>Tartan Army Whisky (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/tartan-army-whisky-2/"><img src="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo6715063-loi7213069/sett.png" alt="Tartan Army Whisky" width="140"><br><strong>Tartan Army Whisky (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/tartan-day-sa/"><img src="/variants/s8/w2db40g22y3g2r3g2w2~x2/sett.png" alt="Tartan Day SA" width="140"><br><strong>Tartan Day SA (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/tartan-explorer-the/"><img src="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/sett.png" alt="Tartan Explorer, The" width="140"><br><strong>Tartan Explorer, The (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/tartan-explorer-the/"><img src="/variants/s6/k3wi6t20dt2b19w3~x2~wi90-t6518249-dt2402108-b5921264/sett.png" alt="Tartan Explorer, The" width="140"><br><strong>Tartan Explorer, The (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/tartan-lassie/"><img src="/variants/s6/w3db23r44db26g4y2~x2/sett.png" alt="Tartan Lassie" width="140"><br><strong>Tartan Lassie (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/tartan-tv/"><img src="/variants/s6/r19k3r19k32g3k8~x2~r2109032/sett.png" alt="Tartan TV" width="140"><br><strong>Tartan TV (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/tartan-tv/"><img src="/variants/s6/r19k3r19k32g3k8~x2~r5221030/sett.png" alt="Tartan TV" width="140"><br><strong>Tartan TV (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/tartan-tangerine/"><img src="/variants/s7/r1w1dp4w1r4k1w1~x8/sett.png" alt="Tartan Tangerine" width="140"><br><strong>Tartan Tangerine (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/tartan-de-longueuil/"><img src="/variants/s16/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3~x2/sett.png" alt="Tartan de Longueuil" width="140"><br><strong>Tartan de Longueuil (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/tartan-for-london-a/"><img src="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/sett.png" alt="Tartan for London, A" width="140"><br><strong>Tartan for London, A (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ta/tartan-for-london-a/"><img src="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr70-lb8007237/sett.png" alt="Tartan for London, A" width="140"><br><strong>Tartan for London, A (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/tasmania/"><img src="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/sett.png" alt="Tasmania" width="140"><br><strong>Tasmania (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ta/tasmanian/"><img src="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/sett.png" alt="Tasmanian" width="140"><br><strong>Tasmanian (1)</strong></a><div class="clan-territory">Tasmanian</div></li>
+<li><a class="tartan" href="/tartans/t/ta/tasmanian/"><img src="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr7608018-dg4103144/sett.png" alt="Tasmanian" width="140"><br><strong>Tasmanian (1)</strong></a><div class="clan-territory">Tasmanian</div></li>
 <li><a class="tartan" href="/tartans/t/ta/tasmanian-2/"><img src="/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/sett.png" alt="Tasmanian" width="140"><br><strong>Tasmanian (1)</strong></a><div class="clan-territory">Tasmanian</div></li>
 <li><a class="tartan" href="/tartans/t/ta/tau-taurini/"><img src="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/sett.png" alt="Tau-Taurini" width="140"><br><strong>Tau-Taurini (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ta/taylor/"><img src="/variants/s8/g8k2g13r4g12db22g5ly3~x2/sett.png" alt="Taylor" width="140"><br><strong>Taylor (2)</strong></a><div class="clan-territory">Taylor</div></li>

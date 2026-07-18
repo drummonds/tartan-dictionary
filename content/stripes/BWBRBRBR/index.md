@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/tu/turnberry-3/">Turnberry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnberry-3/"><img src="/variants/s8/o24n3o3n3o3n20lb22n4~x2~o2500000-n1900000/sett.png" alt="Turnberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnberry-3/"><img src="/variants/s8/o24n3o3n3o3n20lb22n4~x2~o62-n47/sett.png" alt="Turnberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/tu/turnberry-manx-snaefell-2/">Turnberry, Manx Snaefell</a> <small class="dt">ΔTartan 9.39</small></td></tr>
+<tr><td><a href="/tartans/t/tu/turnberry-manx-snaefell-2/">Turnberry, Manx Snaefell</a> <small class="dt">ΔTartan 9.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/tu/turnberry-manx-snaefell-2/"><img src="/variants/s8/o22do2o2do2o2do15w17do3~x2/sett.png" alt="Turnberry, Manx Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-na-connaught/"><img src="/variants/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/sett.png" alt="Royal Na Connaught sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/o/o/o-conner/">O'Conner</a> <small class="dt">ΔTartan 1.35</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/o/o-conner/"><img src="/variants/s16/g5k24g12k16g26w4g24w4g26k16db4k4db4k4dbi28g3~db1404245-dbi1406275/sett.png" alt="O'Conner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-conner/"><img src="/variants/s16/g5k24g12k16g26w4g24w4g26k16db4k4db4k4dbi28g3~db3409246-dbi3514276/sett.png" alt="O'Conner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

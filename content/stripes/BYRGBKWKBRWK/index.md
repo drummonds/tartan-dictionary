@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/cascade-summers/">Cascade Summers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cascade-summers/"><img src="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/sett.png" alt="Cascade Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cascade-summers/"><img src="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g4917141-lg7221144/sett.png" alt="Cascade Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/du/dublin-county-crest/">Dublin County Crest</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/dublin-county-crest/"><img src="/variants/s11/ly9k8ly30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/sett.png" alt="Dublin County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dublin-county-crest/"><img src="/variants/s11/ly9k8ly30k4lb8k4db24k54dr14k4lr8~lb7609282-lr70/sett.png" alt="Dublin County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

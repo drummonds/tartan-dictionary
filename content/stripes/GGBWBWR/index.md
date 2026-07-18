@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/no/northern-ontario/">Northern Ontario</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/northern-ontario/"><img src="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/sett.png" alt="Northern Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/northern-ontario/"><img src="/variants/s7/r19lb5t2w12t2y4g8~x2~g5408159/sett.png" alt="Northern Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

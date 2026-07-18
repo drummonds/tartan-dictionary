@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/su/submariners/">Submariners</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/su/submariners/"><img src="/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db1404245-dbi1406275/sett.png" alt="Submariners sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/submariners/"><img src="/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db3409246-dbi3514276/sett.png" alt="Submariners sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

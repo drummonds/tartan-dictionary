@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/me/menzies-5/">Menzies</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-5/"><img src="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2209032-r1707016/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-5/"><img src="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri5623030-r4217018/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/me/menzies-dress-cerise/">Menzies Dress, Cerise</a> <small class="dt">ΔTartan 2.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-dress-cerise/"><img src="/variants/s12/w4m1w2m3w24r5m3r1m1r1m20w2~x2/sett.png" alt="Menzies Dress, Cerise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

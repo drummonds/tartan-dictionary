@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bi/birral-burrell-2/">Birral/Burrell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bi/birral-burrell-2/"><img src="/variants/s17/lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8lb4w2~x2~w3600000-r2109032-ri2406019/sett.png" alt="Birral/Burrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/birral-burrell-2/"><img src="/variants/s17/lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8lb4w2~x2~w90-r5221030-ri6016021/sett.png" alt="Birral/Burrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

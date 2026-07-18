@@ -24,14 +24,14 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace/"><img src="k1db7k7ly1-rev.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/wallace-dress-2/">Wallace Dress</a></td><td>~2010</td><td>1</td><td>1</td><td>2.09</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-dress-2/"><img src="/variants/s5/k3r28k10w28lb3~x2/sett.png" alt="Wallace Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/w/wa/wallace-hunting/">Wallace Hunting</a></td><td>1980</td><td>1</td><td>1</td><td>6.14</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-hunting/"><img src="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-hunting/">Wallace Hunting</a></td><td>1980</td><td>1</td><td>1</td><td>6.08</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-hunting/"><img src="/variants/s6/dg8k8ly1k8dg8k1~x4~dg4514144/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/wallace-2/">Wallace</a></td><td>~1985</td><td>1</td><td>1</td><td>11.52</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-2/"><img src="/variants/s5/w2g29lb12db29lb2~x2/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/wallace-blue-dress/">Wallace Blue Dress</a></td><td>1985</td><td>2</td><td>2</td><td>11.95</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-blue-dress/"><img src="/variants/s5/g2w29lb12db29lb2~x2/sett.png" alt="Wallace Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/wallace-4/">Wallace</a></td><td>1966</td><td>1</td><td>1</td><td>12.01</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-4/"><img src="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-4/"><img src="/variants/s8/db29t12g29w2g29t12db29t2~x2~t5912243/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/wallace-green-dress/">Wallace Green Dress</a></td><td>~2004</td><td>1</td><td>1</td><td>12.33</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/wallace-green-dress/"><img src="/variants/s6/w12g12w1g12w12ly1~x4/sett.png" alt="Wallace Green Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/wallace-dress/">Wallace Dress</a></td><td>1842</td><td>1</td><td>1</td><td>—</td></tr>

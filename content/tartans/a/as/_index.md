@@ -6,7 +6,7 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/a/as/asda-wal-mart/"><img src="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/sett.png" alt="ASDA Wal-Mart" width="140"><br><strong>ASDA Wal-Mart (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/as/asf-official/"><img src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/sett.png" alt="ASF Official" width="140"><br><strong>ASF Official (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/a/as/asf-official/"><img src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db3409246-dbi3514276/sett.png" alt="ASF Official" width="140"><br><strong>ASF Official (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/as/asahi/"><img src="/variants/s5/w45t2w4t15w7~x2/sett.png" alt="Asahi" width="140"><br><strong>Asahi (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/as/ascension-island-heritage-society/"><img src="/variants/s7/r8db45w1n4k11g6r4~x2/sett.png" alt="Ascension Island Heritage Society" width="140"><br><strong>Ascension Island Heritage Society (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/as/ascension-island-heritage-trust/"><img src="/variants/s7/r8lb45w1n4k11g6r4~x2/sett.png" alt="Ascension Island Heritage Trust" width="140"><br><strong>Ascension Island Heritage Trust (1)</strong></a></li>
@@ -20,6 +20,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/a/as/asman-dress/"><img src="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/sett.png" alt="Asman Dress" width="140"><br><strong>Asman Dress (1)</strong></a><div class="clan-territory">Asman</div></li>
 <li><a class="tartan" href="/tartans/a/as/asman-hunting/"><img src="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/sett.png" alt="Asman Hunting" width="140"><br><strong>Asman Hunting (1)</strong></a><div class="clan-territory">Asman</div></li>
 <li><a class="tartan" href="/tartans/a/as/asman-hunting-2/"><img src="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/sett.png" alt="Asman Hunting" width="140"><br><strong>Asman Hunting (1)</strong></a><div class="clan-territory">Asman</div></li>
-<li><a class="tartan" href="/tartans/a/as/association-cornemuses-du-monde/"><img src="/variants/s14/r3k5w3y2db10k1yi19n19k28n3k3n3k3r3~yi2400000-n1700000/sett.png" alt="Association Cornemuses du Monde" width="140"><br><strong>Association Cornemuses du Monde (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/a/as/association-cornemuses-du-monde/"><img src="/variants/s14/r3k5w3y2db10k1yi19n19k28n3k3n3k3r3~yi59-n43/sett.png" alt="Association Cornemuses du Monde" width="140"><br><strong>Association Cornemuses du Monde (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/as/astrobiology/"><img src="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/sett.png" alt="Astrobiology" width="140"><br><strong>Astrobiology (1)</strong></a></li>
 </ul>

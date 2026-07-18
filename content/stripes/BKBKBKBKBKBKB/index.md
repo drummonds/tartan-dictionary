@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macdevitt/">MacDevitt</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdevitt/"><img src="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/sett.png" alt="MacDevitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wine-watch/">Wine Watch</a> <small class="dt">ΔTartan 0.41</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wine-watch/"><img src="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x2~db1406275/sett.png" alt="Wine Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wine-watch/"><img src="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x2~db3514276/sett.png" alt="Wine Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/g/gl/glasgow-academy/">Glasgow Academy</a> <small class="dt">ΔTartan 2.29</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-academy/"><img src="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/sett.png" alt="Glasgow Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

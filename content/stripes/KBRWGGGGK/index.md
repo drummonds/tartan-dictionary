@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/n/no/nor-westers-2/">Nor Westers</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/nor-westers-2/"><img src="/variants/s9/k1g15dy1y2dy1w6r1db3k1~x2/sett.png" alt="Nor Westers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/n/no/nor-westers-3/">Nor'Westers</a> <small class="dt">ΔTartan 0.55</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/nor-westers-3/"><img src="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2~g2203152/sett.png" alt="Nor'Westers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nor-westers-3/"><img src="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2~g5408159/sett.png" alt="Nor'Westers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

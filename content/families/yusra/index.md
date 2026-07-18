@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/y/yu/yusra-2/">Yusra</a> ★</td><td>2011</td><td>2</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/y/yu/yusra-2/"><img src="/variants/s7/r12y3w14db10y2db24r2~x2/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/y/yu/yusra/">Yusra</a></td><td>—</td><td>1</td><td>1</td><td>1.60</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/y/yu/yusra/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/y/yu/yusra/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r5221030/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

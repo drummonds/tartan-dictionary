@@ -3,8 +3,22 @@ title: 8 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 8
 ---
-1,431 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,432 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes8/p2/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes8/p4/">4</a> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p4/">next ›</a></nav>
+
+### BGBGBGGR
+<a class="pat" href="/stripes/bgbgbggr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BGBGBGGR</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.15 | [Heather Mead](/tartans/h/he/heather-mead/) | 1 | 1 |
+
+### BGBGBGGW
+<a class="pat" href="/stripes/bgbgbggw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BGBGBGGW</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.12 | [Lamont](/tartans/l/la/lamont-2/) | 1 | 1 |
 
 ### BGBGBGKKKG
 <a class="pat" href="/stripes/bgbgbgkkkg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BGBGBGKKKG</span></a>
@@ -193,7 +207,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Fiddes](/tartans/f/fi/fiddes-6/) | 1 | 1 |
+| 0.09 | [Fiddes](/tartans/f/fi/fiddes-3/) | 1 | 1 |
 
 ### BGBWBGBW
 <a class="pat" href="/stripes/bgbwbgbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BGBWBGBW</span></a>
@@ -445,7 +459,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Brigid Mhairi](/tartans/b/br/brigid-mhairi/) | 1 | 1 |
+| 0.13 | [Brigid Mhairi](/tartans/b/br/brigid-mhairi-2/) | 1 | 1 |
 
 ### BGWBBWKY
 <a class="pat" href="/stripes/bgwbbwky/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BGWBBWKY</span></a>
@@ -655,7 +669,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Speyside](/tartans/s/sp/speyside-2/) | 1 | 1 |
+| 0.13 | [Speyside](/tartans/s/sp/speyside/) | 1 | 1 |
 
 ### BKBKWBBR
 <a class="pat" href="/stripes/bkbkwbbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BKBKWBBR</span></a>
@@ -2091,19 +2105,5 @@ weight: 8
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.08 | [Western Illinois University](/tartans/w/we/western-illinois-university/) | 1 | 1 |
-
-### GBGWGGGR
-<a class="pat" href="/stripes/gbgwgggr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GBGWGGGR</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.09 | [Burnett of Leys Hunting](/tartans/b/bu/burnett-of-leys-hunting/) | 1 | 1 |
-
-### GBGWGRGR
-<a class="pat" href="/stripes/gbgwgrgr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GBGWGRGR</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.08 | [Welsh Assembly](/tartans/w/we/welsh-assembly/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes8/p2/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes8/p4/">4</a> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p4/">next ›</a></nav>

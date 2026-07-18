@@ -36,8 +36,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/ha/hafren/">Hafren</a> <small class="dt">ΔTartan 1.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/hafren/"><img src="/variants/s2/g1t1~x130/sett.png" alt="Hafren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/ou/outlander-4/">Outlander</a> <small class="dt">ΔTartan 2.69</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ou/outlander-4/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ou/outlander-5/">Outlander</a> <small class="dt">ΔTartan 2.69</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ou/outlander-5/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

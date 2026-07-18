@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/gravesend-grammar-school/">Gravesend Grammar School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/gravesend-grammar-school/"><img src="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/sett.png" alt="Gravesend Grammar School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/gravesend-grammar-school/"><img src="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi3514276-db2609279/sett.png" alt="Gravesend Grammar School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

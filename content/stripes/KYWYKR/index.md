@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/canyon-county-idaho-sheriff/">Canyon County Idaho Sheriff</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/canyon-county-idaho-sheriff/"><img src="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/sett.png" alt="Canyon County Idaho Sheriff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canyon-county-idaho-sheriff/"><img src="/variants/s6/k5ly5w1ly5k5r1~x10~ly6307084/sett.png" alt="Canyon County Idaho Sheriff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

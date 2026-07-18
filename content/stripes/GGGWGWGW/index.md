@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/universal-2/">Universal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/universal-2/"><img src="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/sett.png" alt="Universal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/universal-2/"><img src="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg3710150-g6019141/sett.png" alt="Universal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

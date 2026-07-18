@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/mary-washington-2/">Mary Washington</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mary-washington-2/"><img src="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/sett.png" alt="Mary Washington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mary-washington-2/"><img src="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi3514276-db3409246/sett.png" alt="Mary Washington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

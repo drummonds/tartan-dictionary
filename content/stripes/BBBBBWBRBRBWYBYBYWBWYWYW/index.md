@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/or/oriflame/">Oriflame</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/or/oriflame/"><img src="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/sett.png" alt="Oriflame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/oriflame/"><img src="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr70-n47/sett.png" alt="Oriflame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

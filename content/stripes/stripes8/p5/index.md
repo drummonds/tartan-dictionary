@@ -3,8 +3,22 @@ title: 8 stripes tartan setts (page 5)
 date: 2023-03-18
 weight: 8
 ---
-1,431 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,432 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes8/p4/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <strong>5</strong> </nav>
+
+### KRWRWRWR
+<a class="pat" href="/stripes/krwrwrwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRWRWRWR</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.05 | [Cornell](/tartans/c/co/cornell-2/) | 1 | 1 |
+
+### KRYRKRKW
+<a class="pat" href="/stripes/kryrkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KRYRKRKW</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.02 | [Aberdeen F. C.](/tartans/a/ab/aberdeen-f-c/) | 1 | 1 |
 
 ### KRYWGWRY
 <a class="pat" href="/stripes/krywgwry/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KRYWGWRY</span></a>
@@ -25,7 +39,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Brocliande )](/tartans/b/br/brocliande/) | 1 | 1 |
+| 0.10 | [Brocéliande](/tartans/b/br/broc-liande/) | 1 | 1 |
 
 ### KWGGKBRW
 <a class="pat" href="/stripes/kwggkbrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KWGGKBRW</span></a>
@@ -690,7 +704,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Gudbrandsdalen, Rondastakken](/tartans/g/gu/gudbrandsdalen-rondastakken-2/) | 1 | 1 |
+| 0.08 | [Gudbrandsdalen, Rondastakken](/tartans/g/gu/gudbrandsdalen-rondastakken-3/) | 1 | 1 |
 
 ### RGRGYRYR
 <a class="pat" href="/stripes/rgrgyryr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRGYRYR</span></a>
@@ -956,7 +970,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Akins](/tartans/a/ak/akins/) | 1 | 1 |
+| 0.11 | [Akins](/tartans/a/ak/akins-2/) | 1 | 1 |
 
 ### RWBBRBBW
 <a class="pat" href="/stripes/rwbbrbbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWBBRBBW</span></a>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/lawrence-s-seven-pillars-of-khaki-2/">Lawrence's Seven Pillars of Khaki</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/lawrence-s-seven-pillars-of-khaki-2/"><img src="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/sett.png" alt="Lawrence's Seven Pillars of Khaki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawrence-s-seven-pillars-of-khaki-2/"><img src="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg4514144-g6019141-o4912045-oi5017036/sett.png" alt="Lawrence's Seven Pillars of Khaki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

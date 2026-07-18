@@ -3,7 +3,7 @@ title: 9 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 9
 ---
-1,239 setts across 1,156 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,241 setts across 1,157 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes9/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <strong>2</strong> <a href="/stripes/stripes9/p3/">3</a> <a href="/stripes/stripes9/p4/">4</a> <a href="/stripes/stripes9/p5/">5</a> <a href="/stripes/stripes9/p3/">next ›</a></nav>
 
 ### GGGWGWKWK
@@ -69,6 +69,13 @@ weight: 9
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.05 | [O'Meehan](/tartans/o/o/o-meehan/) | 1 | 2 |
+
+### GRBBBBBBW
+<a class="pat" href="/stripes/grbbbbbbw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRBBBBBBW</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.13 | [Rose VS](/tartans/r/ro/rose-vs-2/) | 1 | 2 |
 
 ### GRBBYBKWK
 <a class="pat" href="/stripes/grbbybkwk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">GRBBYBKWK</span></a>
@@ -221,7 +228,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [Edinburgh District](/tartans/e/ed/edinburgh-district/) | 2 | 2 |
+| 0.07 | [Edinburgh District](/tartans/e/ed/edinburgh-district-2/) | 2 | 2 |
 
 ### KRKBGBGBW
 <a class="pat" href="/stripes/krkbgbgbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KRKBGBGBW</span></a>
@@ -1578,19 +1585,5 @@ weight: 9
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.09 | [Nocken](/tartans/n/no/nocken/) | 1 | 1 |
-
-### BKBKBKYKY
-<a class="pat" href="/stripes/bkbkbkyky/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BKBKBKYKY</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.12 | [Scotsburn Croft](/tartans/s/sc/scotsburn-croft-2/) | 1 | 1 |
-
-### BKBKBRYBY
-<a class="pat" href="/stripes/bkbkbryby/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BKBKBRYBY</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.06 | [Unidentified](/tartans/u/un/unidentified-22/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes9/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <strong>2</strong> <a href="/stripes/stripes9/p3/">3</a> <a href="/stripes/stripes9/p4/">4</a> <a href="/stripes/stripes9/p5/">5</a> <a href="/stripes/stripes9/p3/">next ›</a></nav>

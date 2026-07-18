@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/y/ye/yellow-pencil/"><img src="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/sett.png" alt="Yellow Pencil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/se/semper/">Semper</a> <small class="dt">ΔTartan 8.50</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/se/semper/"><img src="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/semper/"><img src="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g5408159-gi6019141/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

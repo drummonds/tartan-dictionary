@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/state-seal-of-louisiana/">State Seal of Louisiana</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-louisiana/"><img src="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb3200000-ti2405244/sett.png" alt="State Seal of Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-louisiana/"><img src="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb80-ti5912243/sett.png" alt="State Seal of Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

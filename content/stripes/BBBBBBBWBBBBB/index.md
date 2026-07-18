@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/poulter-sandwich/">Poulter Sandwich</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-sandwich/"><img src="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/sett.png" alt="Poulter Sandwich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-sandwich/"><img src="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t5211240-db2508270/sett.png" alt="Poulter Sandwich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

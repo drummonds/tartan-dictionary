@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ab/abf-the-soldiers-charity/">ABF The Soldiers' Charity</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ab/abf-the-soldiers-charity/"><img src="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/sett.png" alt="ABF The Soldiers' Charity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abf-the-soldiers-charity/"><img src="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k1410264-b4531264/sett.png" alt="ABF The Soldiers' Charity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

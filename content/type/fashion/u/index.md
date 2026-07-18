@@ -23,7 +23,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><img src="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/sett.png" alt="Unidentified #58" width="140"><br>Unidentified #58</a></li>
 <li><a class="tartan" href="/variants/s7/dr1dg4dr1lr1dr4dg1dr1~x4/"><img src="/variants/s7/dr1dg4dr1lr1dr4dg1dr1~x4/sett.png" alt="Unidentified #59" width="140"><br>Unidentified #59</a></li>
 <li><a class="tartan" href="/variants/s11/r50ly3r4ly4b1ly1b1ly7dg7ly1dg3~x4/"><img src="/variants/s11/r50ly3r4ly4b1ly1b1ly7dg7ly1dg3~x4/sett.png" alt="Unidentified #60" width="140"><br>Unidentified #60</a></li>
-<li><a class="tartan" href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/"><img src="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/sett.png" alt="Unidentified #61" width="140"><br>Unidentified #61</a></li>
+<li><a class="tartan" href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db2316264-dbi2920264/"><img src="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db2316264-dbi2920264/sett.png" alt="Unidentified #61" width="140"><br>Unidentified #61</a></li>
 <li><a class="tartan" href="/variants/s13/b1dy1o8k1b1k1dy8k1dy1k1dy1k8ly1~x4/"><img src="/variants/s13/b1dy1o8k1b1k1dy8k1dy1k1dy1k8ly1~x4/sett.png" alt="Unidentified #63" width="140"><br>Unidentified #63</a></li>
 <li><a class="tartan" href="/variants/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/"><img src="/variants/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/sett.png" alt="Unidentified (1996)" width="140"><br>Unidentified (1996)</a></li>
 <li><a class="tartan" href="/variants/s7/r2w10k15ly36w2k2w2~x2/"><img src="/variants/s7/r2w10k15ly36w2k2w2~x2/sett.png" alt="Unidentified (ex Tony Murray)" width="140"><br>Unidentified (ex Tony Murray)</a></li>
@@ -36,11 +36,11 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><img src="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/sett.png" alt="Unidentified from Winnipeg" width="140"><br>Unidentified from Winnipeg</a></li>
 <li><a class="tartan" href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><img src="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/sett.png" alt="Unidentified No 52" width="140"><br>Unidentified No 52</a></li>
 <li><a class="tartan" href="/variants/s10/dg3ly1b3ly1b3ly1dg3ly1b3ly1~x4/"><img src="/variants/s10/dg3ly1b3ly1b3ly1dg3ly1b3ly1~x4/sett.png" alt="Unidentified Printing #2" width="140"><br>Unidentified Printing #2</a></li>
-<li><a class="tartan" href="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt1103246-db1504259/"><img src="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt1103246-db1504259/sett.png" alt="United Scots American" width="140"><br>United Scots American</a></li>
+<li><a class="tartan" href="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt2807246-db3609264/"><img src="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt2807246-db3609264/sett.png" alt="United Scots American" width="140"><br>United Scots American</a></li>
 <li><a class="tartan" href="/variants/s11/dr4dg3dr4y1db3y1db3y1dg3dr1dg4~x2/"><img src="/variants/s11/dr4dg3dr4y1db3y1db3y1dg3dr1dg4~x2/sett.png" alt="University Plaid" width="140"><br>University Plaid</a></li>
 <li><a class="tartan" href="/variants/s11/n3w1n1w1n2w3n14db2n2db32r2~x2/"><img src="/variants/s11/n3w1n1w1n2w3n14db2n2db32r2~x2/sett.png" alt="Unknown" width="140"><br>Unknown</a></li>
 <li><a class="tartan" href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><img src="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/sett.png" alt="Unnamed (Hip Flask)" width="140"><br>Unnamed (Hip Flask)</a></li>
 <li><a class="tartan" href="/variants/s7/m3dg8m3db8m20w2m2~x4/"><img src="/variants/s7/m3dg8m3db8m20w2m2~x4/sett.png" alt="Unnamed C21st (Lady's Jacket) (Fash)" width="140"><br>Unnamed C21st (Lady's Jacket) (Fash)</a></li>
-<li><a class="tartan" href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp1607327/"><img src="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp1607327/sett.png" alt="Urbino" width="140"><br>Urbino</a></li>
-<li><a class="tartan" href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><img src="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/sett.png" alt="Urquhart (Fashion)" width="140"><br>Urquhart (Fashion)</a></li>
+<li><a class="tartan" href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp4018327/"><img src="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp4018327/sett.png" alt="Urbino" width="140"><br>Urbino</a></li>
+<li><a class="tartan" href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o62-n47/"><img src="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o62-n47/sett.png" alt="Urquhart (Fashion)" width="140"><br>Urquhart (Fashion)</a></li>
 </ul>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/caledonian-labrador-retrievers-2/">Caledonian Labrador Retrievers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-labrador-retrievers-2/"><img src="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/sett.png" alt="Caledonian Labrador Retrievers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-labrador-retrievers-2/"><img src="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg7612141-dg4410159/sett.png" alt="Caledonian Labrador Retrievers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

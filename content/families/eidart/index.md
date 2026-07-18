@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/e/ei/eidart/">Eidart</a> ★</td><td>1980</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/ei/eidart/"><img src="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/sett.png" alt="Eidart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/e/ei/eidart-1990/">Eidart 1990</a></td><td>1990</td><td>1</td><td>1</td><td>8.87</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/ei/eidart-1990/"><img src="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/sett.png" alt="Eidart 1990 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eidart-1990/">Eidart 1990</a></td><td>1990</td><td>1</td><td>1</td><td>8.88</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/ei/eidart-1990/"><img src="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n47-o62/sett.png" alt="Eidart 1990 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

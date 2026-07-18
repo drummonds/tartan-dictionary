@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/ok/oklahoma/">Oklahoma</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma/"><img src="/variants/s5/k8dy2t21w3r2~x4~t2205244/sett.png" alt="Oklahoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma/"><img src="/variants/s5/k8dy2t21w3r2~x4~t5313246/sett.png" alt="Oklahoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/o/ok/oklahoma-state/">Oklahoma State</a> <small class="dt">ΔTartan 0.03</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state/"><img src="/variants/s5/k8y2t21w3r2~x4~t2205244/sett.png" alt="Oklahoma State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state/"><img src="/variants/s5/k8y2t21w3r2~x4~t5313246/sett.png" alt="Oklahoma State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

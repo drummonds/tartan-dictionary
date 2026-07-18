@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/or/orlando-city-of/">Orlando, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/or/orlando-city-of/"><img src="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/sett.png" alt="Orlando, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orlando-city-of/"><img src="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db3514276/sett.png" alt="Orlando, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

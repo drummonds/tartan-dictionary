@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ry/ryder-cup-2006/">Ryder Cup 2006</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryder-cup-2006/"><img src="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/sett.png" alt="Ryder Cup 2006 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryder-cup-2006/"><img src="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dg3007159-dgi4112135/sett.png" alt="Ryder Cup 2006 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

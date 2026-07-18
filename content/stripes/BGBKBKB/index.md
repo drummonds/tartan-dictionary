@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/bennachie-whisky/">Bennachie Whisky</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/bennachie-whisky/"><img src="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/sett.png" alt="Bennachie Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bennachie-whisky/"><img src="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db3409246-dp3717327/sett.png" alt="Bennachie Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

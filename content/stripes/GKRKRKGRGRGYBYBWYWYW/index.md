@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sp/spice-of-life/">Spice of Life</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sp/spice-of-life/"><img src="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/sett.png" alt="Spice of Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spice-of-life/"><img src="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly7906102-w8902078/sett.png" alt="Spice of Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mc/mccrann-julian-david/">McCrann, Julian David</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccrann-julian-david/"><img src="/variants/s13/db8r2db2r4db8g2k10g10k4g2y2g4w1~x2~db1605267-g1903114-k0503265/sett.png" alt="McCrann, Julian David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccrann-julian-david/"><img src="/variants/s13/db8r2db2r4db8g2k10g10k4g2y2g4w1~x2~db3912267-g4808117-k1209264/sett.png" alt="McCrann, Julian David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

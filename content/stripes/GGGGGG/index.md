@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/em/emerald/">Emerald</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/em/emerald/"><img src="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/sett.png" alt="Emerald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/em/emerald/"><img src="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g6019141-dgi4514144/sett.png" alt="Emerald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/ma/macsporran-rejected-design/">MacSporran Rejected design</a> <small class="dt">ΔTartan 2.63</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macsporran-rejected-design/"><img src="/variants/s6/dg30g13dg7g30dg2y4~x2/sett.png" alt="MacSporran Rejected design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -30,8 +30,8 @@ A family of [Clan MacDonald](/clan/macdonald/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-3/"><img src="r37g6r11g32w4g18r27w3r27k16g21r5g5r27g5r5k3g25k3g4r27g5r5g5r5g5r5g5r8-rev.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdonald-of-staffa-6/">MacDonald of Staffa</a></td><td>—</td><td>1</td><td>1</td><td>8.67</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-6/"><img src="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-of-staffa-4/">MacDonald of Staffa 4</a></td><td>—</td><td>1</td><td>1</td><td>8.76</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-4/"><img src="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r1506028-ri2008029/sett.png" alt="MacDonald of Staffa 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-staffa-4/">MacDonald of Staffa 4</a></td><td>—</td><td>1</td><td>1</td><td>8.78</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-4/"><img src="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r3715030-ri5021030/sett.png" alt="MacDonald of Staffa 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdonald-of-staffa-5/">MacDonald of Staffa 5</a></td><td>—</td><td>1</td><td>1</td><td>8.98</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-5/"><img src="/variants/s29/r29g5r9g24w3g24r27w3r27k16g21r5g5r27g5r5k3g25k3g4r27g5r5g5r5g5r5g5r8~x2/sett.png" alt="MacDonald of Staffa 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdonald-of-staffa-5/">MacDonald of Staffa</a></td><td>—</td><td>2</td><td>2</td><td>9.64</td></tr>

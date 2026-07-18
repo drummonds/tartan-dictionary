@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ra/ravetta-phil/">Ravetta, Phil</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/ravetta-phil/"><img src="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/sett.png" alt="Ravetta, Phil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/ravetta-phil/"><img src="/variants/s6/g20dr10y2db100w1lg10~g5519141-lg7612141/sett.png" alt="Ravetta, Phil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

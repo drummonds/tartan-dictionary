@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/0-9/0-9/93rd-regiment/">93rd Regiment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/93rd-regiment/"><img src="/variants/s13/db16k3db3k3db3k16dg15k3dg15k16db15k3db3~x2~db0806265/sett.png" alt="93rd Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/93rd-regiment/"><img src="/variants/s13/db16k3db3k3db3k16dg15k3dg15k16db15k3db3~x2~db2114264/sett.png" alt="93rd Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bl/black-watch-regimental/">Black Watch Regimental</a> <small class="dt">ΔTartan 0.52</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-regimental/"><img src="/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/sett.png" alt="Black Watch Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ca/campbell-4/">Campbell</a> <small class="dt">ΔTartan 0.57</small></td></tr>

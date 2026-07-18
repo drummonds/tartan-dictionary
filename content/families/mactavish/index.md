@@ -24,9 +24,9 @@ A family of [Clan MacTavish](/clan/mactavish/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mactavish-dress/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mactavish-hunting/">MacTavish Hunting</a></td><td>1850</td><td>2</td><td>2</td><td>4.34</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mactavish-hunting/"><img src="/variants/s6/lb4dy28g6lb12k12lb3~x2/sett.png" alt="MacTavish Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mactavish-dress-2/">MacTavish Dress</a></td><td>1850</td><td>1</td><td>1</td><td>4.79</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mactavish-dress-2/"><img src="dr4t28k6lb12k12lo3-rev.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mactavish/">MacTavish</a></td><td>1850</td><td>1</td><td>1</td><td>4.93</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mactavish/"><img src="/variants/s7/r6g1r6db1g3k3g3~x4/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mactavish-dress-2/">MacTavish Dress</a></td><td>1850</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mactavish-dress-2/"><img src="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/sett.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

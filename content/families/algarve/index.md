@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/a/al/algarve/">Algarve</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/al/algarve/"><img src="/variants/s4/dg1r1w1db1~x20/sett.png" alt="Algarve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/a/al/algarve-2/">Algarve</a></td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/al/algarve-2/"><img src="/variants/s4/k1db1w1db1~x20~db1208266/sett.png" alt="Algarve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/al/algarve-2/"><img src="/variants/s4/k1db1w1db1~x20~db2920264/sett.png" alt="Algarve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

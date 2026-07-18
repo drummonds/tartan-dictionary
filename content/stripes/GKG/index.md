@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sc/scotch-tape/">Scotch Tape</a> <small class="dt">ΔTartan 0.63</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-tape/"><img src="/variants/s3/g30k20g3~x2/sett.png" alt="Scotch Tape sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stirling-of-keir-2/">Stirling of Keir</a> <small class="dt">ΔTartan 0.80</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-of-keir-2/"><img src="/variants/s3/dg1k20dg1~x6~dg1804158/sett.png" alt="Stirling of Keir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-of-keir-2/"><img src="/variants/s3/dg1k20dg1~x6~dg4510159/sett.png" alt="Stirling of Keir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

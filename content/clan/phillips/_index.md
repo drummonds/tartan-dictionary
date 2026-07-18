@@ -9,7 +9,7 @@ crumbs:
 
 ## Tartan
 
-<a class="tartan" href="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327/"><img src="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327/sett.png" alt="Phillips" width="240"><br>Phillips</a>
+<a class="tartan" href="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp2712327-dpi4018327/"><img src="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp2712327-dpi4018327/sett.png" alt="Phillips" width="240"><br>Phillips</a>
 
 ## Families
 

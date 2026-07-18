@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/se/sevlon-bruce/">Sevlon Bruce</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/se/sevlon-bruce/"><img src="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/sett.png" alt="Sevlon Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sevlon-bruce/"><img src="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg4514144-r3916030-db2609279/sett.png" alt="Sevlon Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

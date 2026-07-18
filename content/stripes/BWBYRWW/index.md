@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/on/ontex/">Ontex</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/on/ontex/"><img src="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/sett.png" alt="Ontex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/on/ontex/"><img src="/variants/s7/db4w1n12lr12o4lb1w2~x4~n47-lr70/sett.png" alt="Ontex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

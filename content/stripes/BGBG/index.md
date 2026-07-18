@@ -31,10 +31,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/w/wi/wilson-s-no-211/">Wilson's No 211</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-211/"><img src="/variants/s4/g4dp4g1dp1~x4/sett.png" alt="Wilson's No 211 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-211-2/">Wilson's No.211</a> <small class="dt">ΔTartan 0.19</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-211-2/"><img src="/variants/s4/dg4dp4dg1dp1~x4~dp1105325/sett.png" alt="Wilson's No.211 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-211-2/"><img src="/variants/s4/dg4dp4dg1dp1~x4~dp2712327/sett.png" alt="Wilson's No.211 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/w/wa/walters/">Walters</a> <small class="dt">ΔTartan 1.77</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/walters/"><img src="/variants/s4/dg2dp2dg24dpi1~x4~dg1806142-dpi1507327/sett.png" alt="Walters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walters/"><img src="/variants/s4/dg2dp2dg24dpi1~x4~dg4514144-dpi3717327/sett.png" alt="Walters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/b/ba/barwell/">Barwell</a> <small class="dt">ΔTartan 5.68</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/barwell/"><img src="/variants/s4/dr1dg3db3dg1~x4/sett.png" alt="Barwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

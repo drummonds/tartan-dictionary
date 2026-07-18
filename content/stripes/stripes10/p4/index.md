@@ -3,8 +3,22 @@ title: 10 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 10
 ---
-1,123 setts across 1,075 tartans with 10 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,124 setts across 1,075 tartans with 10 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes10/p3/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <a href="/stripes/stripes10/p2/">2</a> <a href="/stripes/stripes10/p3/">3</a> <strong>4</strong> </nav>
+
+### KGKGKWGKGK
+<a class="pat" href="/stripes/kgkgkwgkgk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">KGKGKWGKGK</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.11 | [Sackett](/tartans/s/sa/sackett/) | 1 | 1 |
+
+### KGKGKYRYRY
+<a class="pat" href="/stripes/kgkgkyryry/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KGKGKYRYRY</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.10 | [Intergen](/tartans/i/in/intergen/) | 1 | 1 |
 
 ### KGKRKGKGKR
 <a class="pat" href="/stripes/kgkrkgkgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGKRKGKGKR</span></a>
@@ -767,21 +781,21 @@ weight: 10
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird/) | 1 | 1 |
+| 0.09 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird-2/) | 1 | 1 |
 
 ### RGKWKGKWRW
 <a class="pat" href="/stripes/rgkwkgkwrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGKWKGKWRW</span></a>
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird/) | 1 | 1 |
+| 0.08 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird-3/) | 1 | 1 |
 
 ### RGKWKYKGRW
 <a class="pat" href="/stripes/rgkwkykgrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGKWKYKGRW</span></a>
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird/) | 1 | 1 |
+| 0.08 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird-3/) | 1 | 1 |
 
 ### RGRBRGBWRW
 <a class="pat" href="/stripes/rgrbrgbwrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGRBRGBWRW</span></a>
@@ -1229,7 +1243,7 @@ weight: 10
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Jacobite, Silk sash](/tartans/j/ja/jacobite-silk-sash-2/) | 1 | 1 |
+| 0.10 | [Jacobite Silk sash](/tartans/j/ja/jacobite-silk-sash/) | 1 | 1 |
 
 ### WBWBKYRYRY
 <a class="pat" href="/stripes/wbwbkyryry/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WBWBKYRYRY</span></a>
@@ -1467,7 +1481,7 @@ weight: 10
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.15 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird-2/) | 1 | 1 |
+| 0.15 | [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird/) | 1 | 1 |
 
 ### YBGWGBGRBY
 <a class="pat" href="/stripes/ybgwgbgrby/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YBGWGBGRBY</span></a>

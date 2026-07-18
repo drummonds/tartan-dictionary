@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/an/anne-arundel-county/">Anne Arundel County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/an/anne-arundel-county/"><img src="/variants/s8/r4n10k9dg2k9db33ki7g4~x2~ki0604259/sett.png" alt="Anne Arundel County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/anne-arundel-county/"><img src="/variants/s8/r4n10k9dg2k9db33ki7g4~x2~ki1410264/sett.png" alt="Anne Arundel County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

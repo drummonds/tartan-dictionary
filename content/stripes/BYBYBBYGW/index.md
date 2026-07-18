@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/state-seal-of-ohio/">State Seal of Ohio</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-ohio/"><img src="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of Ohio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-ohio/"><img src="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly6307084-lyi6614084/sett.png" alt="State Seal of Ohio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

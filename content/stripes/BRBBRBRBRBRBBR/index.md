@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/or/orkney-heather/">Orkney Heather</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/or/orkney-heather/"><img src="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/sett.png" alt="Orkney Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orkney-heather/"><img src="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp2712327-dpi4018327-n47-oi62/sett.png" alt="Orkney Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

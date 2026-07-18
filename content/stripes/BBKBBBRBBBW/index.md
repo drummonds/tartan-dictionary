@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-american/">Scottish American</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-american/"><img src="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db1204274-dbi1406275/sett.png" alt="Scottish American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-american/"><img src="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db2911276-dbi3514276/sett.png" alt="Scottish American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

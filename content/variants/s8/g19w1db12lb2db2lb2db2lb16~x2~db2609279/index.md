@@ -1,0 +1,72 @@
+---
+title: "Norwich No.052"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified No 52"
+  url: "/tartans/u/un/unidentified-no-52/"
+- name: "Norwich No.052"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-no-52/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWBWBWBW](/stripes/gwbwbwbw/).
+
+Part of the [Unidentified No 52](/tartans/u/un/unidentified-no-52/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3186](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3186)
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>1870 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3186](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3186)
+- Scottish Tartans Authority (ITI): 5560
+
+## Thread count
+G/38 W2 DB24 LB4 DB4 LB4 DB4 LB/32
+
+One full sett is **154 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>LB</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DB</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>DB</td><td><code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> <small style="color:#888">#1C1C50</small></td><td><small style="color:#888">oklch(26.2% 0.093 277.9)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/38 W2 DB24 LB4 DB4 LB4 DB4 LB/32 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">154</div><div class="nn-name nn-base"><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db2609279/">Norwich No.052</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db2609279/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g19w1db12lb2db2lb2db2lb16~x2&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">0.05</a></div><div class="nn-threads">154</div><div class="nn-name"><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/">Unidentified No 52</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g19w1db12b2db2b2db2b16~x2&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">0.17</a></div><div class="nn-threads">154</div><div class="nn-name"><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/">Unnamed, No 52</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g19w1db12b2db2b2db2b16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db2609279-dbi3514276&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">1.47</a></div><div class="nn-threads">202</div><div class="nn-name"><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db2609279-dbi3514276/">Blue Knights, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db2609279-dbi3514276/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10db2g2db6lb5db1lb2~x2&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">88</div><div class="nn-name nn-far"><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/">Unidentified No 17</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g10db2g2db6lb5db1lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g5db15lbi11lb2lbi1lb1g4~x4~lbi80-lb7609282&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi80-lb7609282/">Highlands Country Club (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi80-lb7609282/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g16w8dg2w1dg2w4dg24w8db16w4~x2&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">2.44</a></div><div class="nn-threads nn-far">300</div><div class="nn-name nn-far"><a href="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/">Spirit of Pakistan, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg3ly2dg14ly1w10n14ly2n3~x2&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">184</div><div class="nn-name nn-far"><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/">Bannockbane Hunting (MacBean and Bishop)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3dg22b11db3b11g4b2~x2&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">214</div><div class="nn-name nn-far"><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/">Queen of the South</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w3dg22b11db3b11g4b2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2g29lb12db29lb2~x2&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">2.97</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s5/w2g29lb12db29lb2~x2/">Wallace Blue (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/w2g29lb12db29lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb12dg2lb2dg2lb2dy8g8dy1~x2~dg3710150-g6019141&amp;base=g19w1db12lb2db2lb2db2lb16~x2~db2609279" title="compare in the TTD">3.07</a></div><div class="nn-threads nn-far2">122</div><div class="nn-name nn-far2"><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg3710150-g6019141/">Universal Ancient</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg3710150-g6019141/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.5" cy="192.6" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.1" cy="201.9" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db2609279-dbi3514276/"><circle cx="263.1" cy="146.3" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.3" cy="251.0" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi80-lb7609282/"><circle cx="229.5" cy="203.6" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/"><circle cx="191.4" cy="177.8" r="4" fill="#3465a4"><title>Spirit of Pakistan, The</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="204.9" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.4" cy="217.1" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="259.8" cy="233.7" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg3710150-g6019141/"><circle cx="237.6" cy="213.6" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><circle cx="248.3" cy="190.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db2609279/

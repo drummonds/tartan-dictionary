@@ -18,7 +18,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/au/auchairne-2/"><img src="/variants/s6/t11db7t3db70lb4db6~x2/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/a/au/auchairne-3/">Auchairne</a></td><td>—</td><td>1</td><td>1</td><td>10.75</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/au/auchairne-3/"><img src="r13n3r4n56b4n4-rev.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/a/au/auchairne/">Auchairne</a></td><td>1998</td><td>1</td><td>1</td><td>11.82</td></tr>
+<tr><td><a href="/tartans/a/au/auchairne/">Auchairne</a></td><td>1998</td><td>1</td><td>1</td><td>11.78</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/au/auchairne/"><img src="r13o3r4o56n4o4-rev.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

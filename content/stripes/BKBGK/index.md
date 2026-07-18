@@ -40,7 +40,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/a/au/austin-wi/"><img src="/variants/s5/dr3k3dr3g6k2/sett.png" alt="Austin WI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/d/da/dallard/">Dallard</a> <small class="dt">ΔTartan 5.95</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/dallard/"><img src="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/sett.png" alt="Dallard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dallard/"><img src="/variants/s5/k37dg37n8ki3dp5~x2~k1309264-ki17/sett.png" alt="Dallard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

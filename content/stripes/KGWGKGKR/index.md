@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/at/ata-h-m-i-c/">Ataç, H.M. &amp; I.C.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/at/ata-h-m-i-c/"><img src="/variants/s8/k9dg5w1dg15ki2dg1ki44r1~x2~k0504259-ki0700000/sett.png" alt="Ataç, H.M. &amp; I.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/ata-h-m-i-c/"><img src="/variants/s8/k9dg5w1dg15ki2dg1ki44r1~x2~k1309264-ki17/sett.png" alt="Ataç, H.M. &amp; I.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

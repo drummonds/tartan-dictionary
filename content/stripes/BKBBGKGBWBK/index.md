@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wa/wacker/">Wacker</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/wacker/"><img src="/variants/s11/dbi6k3dbi3db13g13k1g13db13w1dbi3k3~x2~dbi1406275-db1404245/sett.png" alt="Wacker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wacker/"><img src="/variants/s11/dbi6k3dbi3db13g13k1g13db13w1dbi3k3~x2~dbi3514276-db3409246/sett.png" alt="Wacker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

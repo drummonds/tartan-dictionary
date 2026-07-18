@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macleod-soc-of-scotland/">MacLeod Soc. of Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-soc-of-scotland/"><img src="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/sett.png" alt="MacLeod Soc. of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-soc-of-scotland/"><img src="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg4514144-g6019141/sett.png" alt="MacLeod Soc. of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

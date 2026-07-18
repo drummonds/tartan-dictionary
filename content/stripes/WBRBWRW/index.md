@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-andrews-links-dress/">St Andrews Links Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-links-dress/"><img src="/variants/s7/w30o4w3dp2r2dp24wi2~x2~w3901060-wi4000000/sett.png" alt="St Andrews Links Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-links-dress/"><img src="/variants/s7/w30o4w3dp2r2dp24wi2~x2~w9602084-wi99/sett.png" alt="St Andrews Links Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

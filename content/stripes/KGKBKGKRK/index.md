@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scotland-s-lionheart/">Scotland's Lionheart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-s-lionheart/"><img src="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/sett.png" alt="Scotland's Lionheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-s-lionheart/"><img src="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y51-dt41/sett.png" alt="Scotland's Lionheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

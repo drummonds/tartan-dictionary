@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hm/hms-neptune/">HMS Neptune</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hm/hms-neptune/"><img src="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1605267-db1004274/sett.png" alt="HMS Neptune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hm/hms-neptune/"><img src="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi3912267-db2609279/sett.png" alt="HMS Neptune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

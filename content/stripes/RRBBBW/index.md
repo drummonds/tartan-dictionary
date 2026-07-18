@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/af/afternoon-tea-assam/">Afternoon Tea / Assam</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-assam/"><img src="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/sett.png" alt="Afternoon Tea / Assam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-assam/"><img src="/variants/s6/ri15r98dp72n25dp8w15~ri6914021-r4315012-dp2712327-n5507264/sett.png" alt="Afternoon Tea / Assam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

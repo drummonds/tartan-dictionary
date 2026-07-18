@@ -6,6 +6,6 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/o/op/open-championship/"><img src="/variants/s6/lb2db20n2dt15dr9lb2~x2/sett.png" alt="Open Championship" width="140"><br><strong>Open Championship (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/o/op/open-championship-2/"><img src="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/sett.png" alt="Open Championship" width="140"><br><strong>Open Championship (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/o/op/open-championship-the/"><img src="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/sett.png" alt="Open Championship, The" width="140"><br><strong>Open Championship, The (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/o/op/open-championship-2/"><img src="/variants/s5/y1db10dbi5db2g1~x8~db2911276-dbi3514276/sett.png" alt="Open Championship" width="140"><br><strong>Open Championship (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/o/op/open-championship-the/"><img src="/variants/s5/y1db11dbi5db2g1~x4~db2508270-dbi3912267/sett.png" alt="Open Championship, The" width="140"><br><strong>Open Championship, The (1)</strong></a></li>
 </ul>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/y/yo/young-enterprise-scotland/">Young Enterprise Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-enterprise-scotland/"><img src="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/sett.png" alt="Young Enterprise Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-enterprise-scotland/"><img src="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly6614111-gi6019141-g5610195-dt2705249/sett.png" alt="Young Enterprise Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

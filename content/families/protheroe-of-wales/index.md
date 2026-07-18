@@ -15,6 +15,6 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/p/pr/protheroe-of-wales/">Protheroe of Wales</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pr/protheroe-of-wales/"><img src="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/sett.png" alt="Protheroe of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pr/protheroe-of-wales/"><img src="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dg3007159-dbi3409246-db2911276-dgi4112135/sett.png" alt="Protheroe of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

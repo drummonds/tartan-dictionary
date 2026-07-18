@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/ea/earl-of-st-andrews/">Earl of St. Andrews</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ea/earl-of-st-andrews/"><img src="/variants/s7/g5t14b10w2b1w1g4~x4~t2205244-b2409265/sett.png" alt="Earl of St. Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/earl-of-st-andrews/"><img src="/variants/s7/g5t14b10w2b1w1g4~x4~t5313246-b5822264/sett.png" alt="Earl of St. Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

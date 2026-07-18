@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/lochcarron-dress/">Lochcarron Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochcarron-dress/"><img src="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/sett.png" alt="Lochcarron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochcarron-dress/"><img src="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t4808243-dg3612141/sett.png" alt="Lochcarron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/od/odl/">ODL</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/od/odl/"><img src="/variants/s8/k4r1dbi3db28dbi36k3r2n1~x2~dbi1406275-db1004274/sett.png" alt="ODL sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/od/odl/"><img src="/variants/s8/k4r1dbi3db28dbi36k3r2n1~x2~dbi3514276-db2609279/sett.png" alt="ODL sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

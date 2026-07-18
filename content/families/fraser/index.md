@@ -36,6 +36,8 @@ A family of [Clan Fraser](/clan/fraser/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-hunting-6/"><img src="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/sett.png" alt="Fraser, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fr/fraser-hunting-4/">Fraser Hunting</a></td><td>1842</td><td>1</td><td>1</td><td>5.75</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-hunting-4/"><img src="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/sett.png" alt="Fraser Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-red-dress-2/">Fraser Red Dress</a></td><td>~2003</td><td>2</td><td>2</td><td>5.87</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-red-dress-2/"><img src="/variants/s7/r4db18r4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fr/fraser-hunting-dress-2/">Fraser Hunting Dress</a></td><td>1976</td><td>1</td><td>1</td><td>6.10</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-hunting-dress-2/"><img src="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/sett.png" alt="Fraser Hunting Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fr/fraser-hunting-dress-3/">Fraser hunting, dress</a></td><td>—</td><td>1</td><td>1</td><td>6.15</td></tr>
@@ -52,7 +54,7 @@ A family of [Clan Fraser](/clan/fraser/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-hunting-3/"><img src="/variants/s16/w2dy14g7dy1db7dy1db7dy1g7dy14r2dy14g7dy1db7dy1~x4/sett.png" alt="Fraser Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fr/fraser-6/">Fraser</a></td><td>—</td><td>1</td><td>1</td><td>6.65</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-6/"><img src="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fr/fraser-red-dress/">Fraser Red Dress</a></td><td>~2003</td><td>3</td><td>3</td><td>6.81</td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-red-dress/">Fraser Red Dress</a></td><td>—</td><td>1</td><td>1</td><td>6.81</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-red-dress/"><img src="/variants/s7/r4db18dr4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

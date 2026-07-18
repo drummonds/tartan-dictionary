@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sa/saint-joseph-de-sorel/">Saint Joseph de Sorel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/saint-joseph-de-sorel/"><img src="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000/sett.png" alt="Saint Joseph de Sorel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saint-joseph-de-sorel/"><img src="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t5912243-lb80/sett.png" alt="Saint Joseph de Sorel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

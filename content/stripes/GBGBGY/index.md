@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ke/keepers-of-the-quaich/">Keepers of the Quaich</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/keepers-of-the-quaich/"><img src="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/sett.png" alt="Keepers of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keepers-of-the-quaich/"><img src="/variants/s6/lo3dy33db24dy2db2dy2~x2~db3514276/sett.png" alt="Keepers of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

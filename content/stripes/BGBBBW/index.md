@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/me/meeson-formal/">Meeson Formal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/me/meeson-formal/"><img src="/variants/s6/lb26n10db19dr6dy2t9~x2~db1404245-t2105244/sett.png" alt="Meeson Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meeson-formal/"><img src="/variants/s6/lb26n10db19dr6dy2t9~x2~db3409246-t5211240/sett.png" alt="Meeson Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

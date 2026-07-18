@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/al/allman-jones/">Allman-Jones</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/allman-jones/"><img src="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/sett.png" alt="Allman-Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allman-jones/"><img src="/variants/s7/r3w2o7n25k8o15dg2~x2~o62-n47/sett.png" alt="Allman-Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

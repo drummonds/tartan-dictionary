@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ni/nicolson-of-assynt-coigach/">Nicolson of Assynt &amp; Coigach</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-assynt-coigach/"><img src="/variants/s7/dbi8r11g5db3y3w5k3~x2~dbi1406275-db1004274/sett.png" alt="Nicolson of Assynt &amp; Coigach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-assynt-coigach/"><img src="/variants/s7/dbi8r11g5db3y3w5k3~x2~dbi3514276-db2609279/sett.png" alt="Nicolson of Assynt &amp; Coigach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

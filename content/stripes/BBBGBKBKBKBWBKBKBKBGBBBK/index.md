@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/s/sp/spirit-of-bannockburn/">Spirit of Bannockburn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-bannockburn/"><img src="/variants/s24/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2~x2~dp1403322-dpi1607327/sett.png" alt="Spirit of Bannockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-bannockburn-2/">Spirit of Bannockburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-bannockburn-2/"><img src="/variants/s24/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2~x2~dp3406321-dpi4018327/sett.png" alt="Spirit of Bannockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

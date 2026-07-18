@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/royal-gourock-yacht-club-the/">Royal Gourock Yacht Club, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-gourock-yacht-club-the/"><img src="/variants/s11/db2r5db8y2r3k9r2db18k9dbi4w2~x2~db1108266-dbi1208266/sett.png" alt="Royal Gourock Yacht Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-gourock-yacht-club-the/"><img src="/variants/s11/db2r5db8y2r3k9r2db18k9dbi4w2~x2~db2719264-dbi2920264/sett.png" alt="Royal Gourock Yacht Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

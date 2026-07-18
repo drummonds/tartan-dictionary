@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hans-jaswinder/">Hans, Jaswinder</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hans-jaswinder/"><img src="/variants/s13/g2ri1g30r1g3r1g10lo9g2r5db3w1r1~x2~ri2806019-r2209032/sett.png" alt="Hans, Jaswinder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hans-jaswinder/"><img src="/variants/s13/g2ri1g30r1g3r1g10lo9g2r5db3w1r1~x2~ri6914021-r5623030/sett.png" alt="Hans, Jaswinder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

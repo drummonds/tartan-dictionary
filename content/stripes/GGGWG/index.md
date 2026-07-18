@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/castle-bay/">Castle Bay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/castle-bay/"><img src="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/sett.png" alt="Castle Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/castle-bay/"><img src="/variants/s5/gii40w2g5gi5g15~x2~gii6510162-g4808117-gi5610195/sett.png" alt="Castle Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

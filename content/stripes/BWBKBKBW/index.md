@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scotch-mist/">Scotch Mist</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-mist/"><img src="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/sett.png" alt="Scotch Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-mist/"><img src="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~n50-dt38/sett.png" alt="Scotch Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

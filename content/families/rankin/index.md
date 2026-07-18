@@ -21,7 +21,7 @@ crumbs:
 <tr><td><a href="/tartans/r/ra/rankin/">Rankin</a></td><td>1998</td><td>2</td><td>2</td><td>4.35</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rankin/"><img src="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rankin-5/">Rankin</a></td><td>~2009</td><td>1</td><td>1</td><td>5.01</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rankin-5/"><img src="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n1900000-o2500000/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rankin-5/"><img src="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n47-o62/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rankin-4/">Rankin</a></td><td>—</td><td>1</td><td>1</td><td>6.03</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rankin-4/"><img src="/variants/s16/db36g10r2g10w2g10r2k10db14r2db12r3db2r2db4w2~x2/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rankin-2/">Rankin</a></td><td>1932</td><td>1</td><td>1</td><td>6.53</td></tr>

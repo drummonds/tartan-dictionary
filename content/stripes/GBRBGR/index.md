@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/lauder-primary-school/">Lauder Primary School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/lauder-primary-school/"><img src="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/sett.png" alt="Lauder Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lauder-primary-school/"><img src="/variants/s6/y2b9r2db6y1r1~x4~b4726264-db2719264/sett.png" alt="Lauder Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

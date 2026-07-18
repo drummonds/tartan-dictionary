@@ -38,7 +38,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-black/"><img src="/variants/s6/k2r12k2r12k33r2~x2/sett.png" alt="Cameron Black &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/he/henry-w-a-3/">Henry, W. A.</a> <small class="dt">ΔTartan 1.60</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/henry-w-a-3/"><img src="/variants/s6/k16r16k19r5k6r2~x4~r1807016/sett.png" alt="Henry, W. A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/henry-w-a-3/"><img src="/variants/s6/k16r16k19r5k6r2~x4~r4417015/sett.png" alt="Henry, W. A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

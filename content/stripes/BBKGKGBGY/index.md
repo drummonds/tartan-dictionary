@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-ambulance-service-corporat/">Scottish Ambulance Service (Corporat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-ambulance-service-corporat/"><img src="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/sett.png" alt="Scottish Ambulance Service (Corporat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-ambulance-service-corporat/"><img src="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti6107234-t5912243/sett.png" alt="Scottish Ambulance Service (Corporat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

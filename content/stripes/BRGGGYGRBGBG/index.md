@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/ty/tyrone-irish-county/">Tyrone Irish County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyrone-irish-county/"><img src="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg1001060-dgi1603171/sett.png" alt="Tyrone Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyrone-irish-county/"><img src="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg2403087-dgi4007180/sett.png" alt="Tyrone Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

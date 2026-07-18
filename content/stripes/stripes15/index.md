@@ -3,10 +3,10 @@ title: 15 stripes tartan setts
 date: 2023-03-18
 weight: 15
 ---
-446 setts across 426 tartans with 15 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+447 setts across 426 tartans with 15 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 
 <ul class="band-summary">
-<li><a class="count" href="/stripes/rbrbrwrbrgrgrbr/"><strong>RBRBRWRBRGRGRBR</strong> · 18 setts · 17 tartans</a><div class="samples"><a class="pat" href="/stripes/rbrbrwrbrgrgrbr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRBRWRBRGRGRBR</span></a></div></li>
+<li><a class="count" href="/stripes/rbrbrwrbrgrgrbr/"><strong>RBRBRWRBRGRGRBR</strong> · 19 setts · 17 tartans</a><div class="samples"><a class="pat" href="/stripes/rbrbrwrbrgrgrbr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRBRWRBRGRGRBR</span></a></div></li>
 <li><a class="count" href="/stripes/bkbkbkgkwkgkbkb/"><strong>BKBKBKGKWKGKBKB</strong> · 7 setts · 5 tartans</a><div class="samples"><a class="pat" href="/stripes/bkbkbkgkwkgkbkb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">BKBKBKGKWKGKBKB</span></a></div></li>
 <li><a class="count" href="/stripes/bkbkbkgkwkgkbkr/"><strong>BKBKBKGKWKGKBKR</strong> · 7 setts · 6 tartans</a><div class="samples"><a class="pat" href="/stripes/bkbkbkgkwkgkbkr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">BKBKBKGKWKGKBKR</span></a></div></li>
 <li><a class="count" href="/stripes/wrbrgrbrgrbrgrw/"><strong>WRBRGRBRGRBRGRW</strong> · 7 setts · 6 tartans</a><div class="samples"><a class="pat" href="/stripes/wrbrgrbrgrbrgrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRBRGRBRGRBRGRW</span></a></div></li>
@@ -362,7 +362,7 @@ weight: 15
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.06 | [Grant D](/tartans/g/gr/grant-d/) | 2 | 3 |
-| 0.09 | [Drummond of Megginch](/tartans/d/dr/drummond-of-megginch/) | 7 | 7 |
+| 0.09 | [Drummond of Megginch](/tartans/d/dr/drummond-of-megginch/) | 7 | 8 |
 | 0.11 | [Grant](/tartans/g/gr/grant-3/) | 3 | 3 |
 | 0.11 | [Grant and Drummond](/tartans/g/gr/grant-and-drummond/) | 1 | 1 |
 | 0.11 | [Grant of Ballindalloch](/tartans/g/gr/grant-of-ballindalloch/) | 1 | 1 |
@@ -704,7 +704,7 @@ weight: 15
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Gordon](/tartans/g/go/gordon-4/) | 1 | 2 |
+| 0.08 | [Gordon](/tartans/g/go/gordon-5/) | 1 | 2 |
 
 ### KBKBKWKWKWKWKGK
 <a class="pat" href="/stripes/kbkbkwkwkwkwkgk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">KBKBKWKWKWKWKGK</span></a>
@@ -806,7 +806,7 @@ weight: 15
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [Strathdon](/tartans/s/st/strathdon-2/) | 1 | 1 |
+| 0.14 | [Strathdon](/tartans/s/st/strathdon-3/) | 1 | 1 |
 
 ### BBBBBBGBKBKBYBK
 <a class="pat" href="/stripes/bbbbbbgbkbkbybk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BBBBBBGBKBKBYBK</span></a>
@@ -1794,12 +1794,5 @@ weight: 15
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.07 | [Gayre Dress](/tartans/g/ga/gayre-dress-2/) | 1 | 1 |
-
-### GGKWKGKBGBKGKWG
-<a class="pat" href="/stripes/ggkwkgkbgbkgkwg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGKWKGKBGBKGKWG</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.12 | [Wilson's No.017](/tartans/w/wi/wilson-s-no-017-2/) | 1 | 1 |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes15/p2/">2</a> <a href="/stripes/stripes15/p2/">next ›</a></nav>

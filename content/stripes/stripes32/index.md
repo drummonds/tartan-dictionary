@@ -198,4 +198,4 @@ weight: 32
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Whiskey & Bourbon](/tartans/w/wh/whiskey-bourbon-2/) | 1 | 1 |
+| 0.10 | [Whiskey & Bourbon](/tartans/w/wh/whiskey-bourbon/) | 1 | 1 |

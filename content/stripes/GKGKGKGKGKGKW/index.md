@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/robieson-graham-a/">Robieson, Graham A.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson-graham-a/"><img src="/variants/s13/y1ki1dg8k1dg1ki8dg1k8dg1ki1dg8ki1w1~x6~ki0700000-k0504259/sett.png" alt="Robieson, Graham A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson-graham-a/"><img src="/variants/s13/y1ki1dg8k1dg1ki8dg1k8dg1ki1dg8ki1w1~x6~ki17-k1309264/sett.png" alt="Robieson, Graham A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

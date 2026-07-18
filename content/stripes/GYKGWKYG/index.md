@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bi/birmingham-irish/">Birmingham Irish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bi/birmingham-irish/"><img src="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg1605139/sett.png" alt="Birmingham Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/birmingham-irish/"><img src="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg4112135/sett.png" alt="Birmingham Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

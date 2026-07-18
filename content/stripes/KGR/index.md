@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/w/wi/wilson-s-no-94/">Wilson's, No 94</a> <small class="dt">ΔTartan 0.23</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-94/"><img src="/variants/s3/k5g4r2~x2/sett.png" alt="Wilson's, No 94 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-187/">Wilson's No.187</a> <small class="dt">ΔTartan 0.61</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-187/"><img src="/variants/s3/k1g1r1~x8~r2109032/sett.png" alt="Wilson's No.187 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-187/"><img src="/variants/s3/k1g1r1~x8~r5221030/sett.png" alt="Wilson's No.187 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-204/">Wilson's No.204</a> <small class="dt">ΔTartan 0.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-204/"><img src="/variants/s3/k11g9r10~x2/sett.png" alt="Wilson's No.204 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/k/ki/kincaid/">Kincaid</a> <small class="dt">ΔTartan 0.72</small></td></tr>

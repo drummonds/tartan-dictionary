@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/grelloch/">Grelloch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grelloch/"><img src="/variants/s6/r2lb1dr12ri12k1ri2~x4~r1807008-ri2109032/sett.png" alt="Grelloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grelloch/"><img src="/variants/s6/r2lb1dr12ri12k1ri2~x4~r4518006-ri5221030/sett.png" alt="Grelloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

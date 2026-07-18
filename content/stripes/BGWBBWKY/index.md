@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fr/fremsaeter-jenny/">Fremsaeter, Jenny</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fr/fremsaeter-jenny/"><img src="/variants/s8/t32g5lb8db4dp5w5k5ly8~x2~t2205244-db1208266/sett.png" alt="Fremsaeter, Jenny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fremsaeter-jenny/"><img src="/variants/s8/t32g5lb8db4dp5w5k5ly8~x2~t5313246-db2920264/sett.png" alt="Fremsaeter, Jenny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/invertere-4/">Invertere</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/invertere-4/"><img src="/variants/s8/ly5g14dy4db4dy27g3dy4ly5~x2~ly3307090-dy1603076/sett.png" alt="Invertere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/invertere-4/"><img src="/variants/s8/ly5g14dy4db4dy27g3dy4ly5~x2~ly8117093-dy3908078/sett.png" alt="Invertere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/bell-of-the-borders/">Bell of the Borders</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-of-the-borders/"><img src="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/sett.png" alt="Bell of the Borders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-of-the-borders/"><img src="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g6019141-lg7203228/sett.png" alt="Bell of the Borders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

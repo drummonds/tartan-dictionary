@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/se/seacliff-academy-2/">Seacliff Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/se/seacliff-academy-2/"><img src="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/sett.png" alt="Seacliff Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/seacliff-academy-2/"><img src="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db3409246-t5719258/sett.png" alt="Seacliff Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

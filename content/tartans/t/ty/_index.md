@@ -17,6 +17,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/t/ty/tyrone/"><img src="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/sett.png" alt="Tyrone" width="140"><br><strong>Tyrone (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ty/tyrone-county-crest/"><img src="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/sett.png" alt="Tyrone County Crest" width="140"><br><strong>Tyrone County Crest (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ty/tyrone-county-crest-range/"><img src="/variants/s12/dr4k2g13dy3k22dr2k2w13k7dr3k7w4~x2/sett.png" alt="Tyrone County, Crest Range" width="140"><br><strong>Tyrone County, Crest Range (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/ty/tyrone-irish-county/"><img src="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg1001060-dgi1603171/sett.png" alt="Tyrone Irish County" width="140"><br><strong>Tyrone Irish County (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ty/tyrone-irish-county/"><img src="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg2403087-dgi4007180/sett.png" alt="Tyrone Irish County" width="140"><br><strong>Tyrone Irish County (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ty/tyrone-county/"><img src="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png" alt="Tyrone, County" width="140"><br><strong>Tyrone, County (1)</strong></a></li>
 </ul>

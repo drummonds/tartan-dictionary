@@ -1,0 +1,80 @@
+---
+title: "MacShane (Clan)"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacShane"
+  url: "/tartans/m/ma/macshane/"
+- name: "MacShane (Clan)"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macshane/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGKYYWR](/stripes/gwgkyywr/).
+
+Part of the [MacShane](/tartans/m/ma/macshane/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3571/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3571/*)
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — MacShane (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3571/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Irish family tartan designed by Captain Johnson, Head of the Clan MacShane Society. Woven by D C Dalgliesh. Great similarity to the Burberry/Thomson stable of tartans.</em></li>
+<li>undated — MacShane (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5123">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Irish family tartan designed by Captain Johnson, Head of the Clan MacShane Society. Woven by D C Dalgliesh. It bears a great similarity to the Burberry/Thomson stable of tartans.</em></li>
+</ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>pre 2002 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5123](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5123)
+- Scottish Tartans Authority (ITI): 3571
+
+## Thread count
+DG/36 W8 DG36 K8 LY56 LYi16 W8 R/8
+
+One full sett is **308 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>LY</td><td><code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> <small style="color:#888">#BC8C00</small></td><td><small style="color:#888">oklch(66.8% 0.137 84.1)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LY</td><td><code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> <small style="color:#888">#A08858</small></td><td><small style="color:#888">oklch(63.7% 0.071 84.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/36 W8 DG36 K8 LY56 LYi16 W8 R/8 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">308</div><div class="nn-name nn-base"><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084/">MacShane (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16db4g8k2y1k6w8r10~x2&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">1.58</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/">Red Deer, City of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g16db4g8k2y1k6w8r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr3dg2n2dg3k6b2ly10b2~x2&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">1.81</a></div><div class="nn-threads">110</div><div class="nn-name"><a href="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/">Burnfoot Check</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g5lg5y26k4y6r5k15w4~x2&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/">Cornish Christophers (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g5lg5y26k4y6r5k15w4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9lb2g9k2dy14ly4lb2r2~x4~dy3908078-ly8117093&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">308</div><div class="nn-name nn-far"><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy3908078-ly8117093/">McShane (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy3908078-ly8117093/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g6k2g2k1y1g2db3w1~x4&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/">Bisset Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r9g18k6g6k3ly3g6db8w3~x2&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/">Bisset</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4dy27ly8k4ly8k4ly8o11y3~x2&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.33</a></div><div class="nn-threads nn-far">294</div><div class="nn-name nn-far"><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/">Brittany National Walking</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g8r11k3y2dp8g15r5w2~x2&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.49</a></div><div class="nn-threads nn-far">196</div><div class="nn-name nn-far"><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/">Wilson's, No 109</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g8r11k3y2dp8g15r5w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n4k1w1k1w1k1n4db2g6r1~x6&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.49</a></div><div class="nn-threads nn-far">234</div><div class="nn-name nn-far"><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/">Mitsukoshi Sendai</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lg2r20g2dt15k2lg19lb2~x2&amp;base=dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/">Wallace Memorial Centenary</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="118.9" cy="152.8" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/"><circle cx="38.9" cy="190.6" r="4" fill="#3465a4"><title>Burnfoot Check</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="121.9" cy="163.6" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy3908078-ly8117093/"><circle cx="149.3" cy="190.5" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.3" cy="189.4" r="4" fill="#3465a4"><title>Bisset Clan Tartan</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.8" cy="187.6" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="160.4" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.8" cy="185.4" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="82.8" cy="178.4" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><circle cx="121.3" cy="159.0" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><circle cx="127.5" cy="179.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly6307084-lyi6614084/

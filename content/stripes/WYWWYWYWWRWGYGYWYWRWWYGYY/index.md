@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/morddyn/">Morddyn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/morddyn/"><img src="/variants/s25/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2~x2~lb3400000-w3600000-lgi2704158-g2405151/sett.png" alt="Morddyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morddyn/"><img src="/variants/s25/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2~x2~lb8301228-w90-lgi6710159-g6012147/sett.png" alt="Morddyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

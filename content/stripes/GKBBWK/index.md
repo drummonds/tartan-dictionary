@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/so/solberg-bell/">Solberg-Bell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/so/solberg-bell/"><img src="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/sett.png" alt="Solberg-Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/solberg-bell/"><img src="/variants/s6/y8k2db20t4w1k2~x4~db3409246-t6107234/sett.png" alt="Solberg-Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

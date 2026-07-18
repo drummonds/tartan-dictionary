@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/di/diana-pink/">Diana Pink</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/di/diana-pink/"><img src="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/sett.png" alt="Diana Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/diana-pink/"><img src="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb8505018-r5221030/sett.png" alt="Diana Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

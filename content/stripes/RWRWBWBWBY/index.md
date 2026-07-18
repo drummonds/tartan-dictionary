@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/international-police-association/">International Police Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/international-police-association/"><img src="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb3203246-db1404245-ly3307090/sett.png" alt="International Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-police-association/"><img src="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb8007237-db3409246-ly8117093/sett.png" alt="International Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

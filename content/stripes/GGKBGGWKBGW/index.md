@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maclean-kenneth-baron-of-denboig/">MacLean, Kenneth, baron of Denboig</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-kenneth-baron-of-denboig/"><img src="/variants/s11/dg19dgi5k2n3dg5dgi3lb5k2db3dgi5w2~x2~dgi1605139/sett.png" alt="MacLean, Kenneth, baron of Denboig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-kenneth-baron-of-denboig/"><img src="/variants/s11/dg19dgi5k2n3dg5dgi3lb5k2db3dgi5w2~x2~dg3007159-dgi4112135/sett.png" alt="MacLean, Kenneth, baron of Denboig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

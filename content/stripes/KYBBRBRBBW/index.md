@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/er/ertico/">Ertico</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/er/ertico/"><img src="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/sett.png" alt="Ertico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/ertico/"><img src="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi3912267-db2508270/sett.png" alt="Ertico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

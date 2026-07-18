@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ne/new-mexico-3/">New Mexico</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-mexico-3/"><img src="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-mexico-3/"><img src="/variants/s7/g10dp42r5dg42g42ly5g6~g6019141-dg4514144/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/t/ta/tartan-army/">Tartan Army</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-army/"><img src="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/t/ta/tartan-army-corporate-sport/">Tartan Army Corporate/Sport</a> <small class="dt">ΔTartan 0.19</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-army-corporate-sport/"><img src="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/sett.png" alt="Tartan Army Corporate/Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-army-corporate-sport/"><img src="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi3514276-db3409246/sett.png" alt="Tartan Army Corporate/Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

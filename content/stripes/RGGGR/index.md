@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/belladrum-estate/">Belladrum Estate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/belladrum-estate/"><img src="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/sett.png" alt="Belladrum Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/belladrum-estate/"><img src="/variants/s5/r4dg1g6y3r2~x8~g4808117-y5706117/sett.png" alt="Belladrum Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

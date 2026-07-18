@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/styrian-2/">Styrian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/styrian-2/"><img src="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/sett.png" alt="Styrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/styrian-2/"><img src="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o62-dg3007159-n47-dgi4514144-r3916030/sett.png" alt="Styrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,7 +18,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/cairngorm-4/"><img src="/variants/s7/db5lb4db22k15g22r4g4~x2/sett.png" alt="Cairngorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ca/cairngorm-3/">Cairngorm</a></td><td>—</td><td>1</td><td>1</td><td>3.45</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/cairngorm-3/"><img src="/variants/s6/b2w2y7dg14b2w2~x2/sett.png" alt="Cairngorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/ca/cairngorm/">Cairngorm</a></td><td>1963</td><td>1</td><td>1</td><td>9.31</td></tr>
+<tr><td><a href="/tartans/c/ca/cairngorm/">Cairngorm</a></td><td>1963</td><td>1</td><td>1</td><td>9.30</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/cairngorm/"><img src="n2w2y7o14n2w2-rev.png" alt="Cairngorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ca/cairngorm-2/">Cairngorm</a></td><td>1985</td><td>1</td><td>1</td><td>10.23</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/cairngorm-2/"><img src="n2w2y7lb14n2w2-rev.png" alt="Cairngorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

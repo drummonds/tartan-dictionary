@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/ox/oxford-university/">Oxford University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ox/oxford-university/"><img src="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ox/oxford-university/"><img src="/variants/s6/g16db59ly4db59g16dbi9~x2~db2616276-dbi3514276/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

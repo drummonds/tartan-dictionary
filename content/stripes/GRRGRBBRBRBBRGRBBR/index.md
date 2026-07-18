@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ra/ramada/">Ramada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/ramada/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/sett.png" alt="Ramada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/ramada/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r4919030-o6611021/sett.png" alt="Ramada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/u/un/unidentified-61/">Unidentified</a> <small class="dt">ΔTartan 2.64</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-61/"><img src="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-61/"><img src="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri5623030-dbi3912267-db2011270-r5419027/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

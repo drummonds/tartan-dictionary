@@ -138,14 +138,14 @@ weight: 19
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [MacBain](/tartans/m/ma/macbain/) | 1 | 2 |
+| 0.10 | [MacBain](/tartans/m/ma/macbain-2/) | 1 | 2 |
 
 ### GWRRGRRWKGKWBWWWBWR
 <a class="pat" href="/stripes/gwrrgrrwkgkwbwwwbwr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">GWRRGRRWKGKWBWWWBWR</span></a>
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [MacBean](/tartans/m/ma/macbean-4/) | 1 | 2 |
+| 0.08 | [MacBean](/tartans/m/ma/macbean-3/) | 1 | 2 |
 
 ### GWRRGRRWKGKWWKWKWWR
 <a class="pat" href="/stripes/gwrrgrrwkgkwwkwkwwr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">GWRRGRRWKGKWWKWKWWR</span></a>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pl/plummer/">Plummer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pl/plummer/"><img src="/variants/s6/r30k8g30t4r3t2~x2/sett.png" alt="Plummer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/plummer/"><img src="/variants/s6/r100k15g48db5r7db16~x2/sett.png" alt="Plummer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

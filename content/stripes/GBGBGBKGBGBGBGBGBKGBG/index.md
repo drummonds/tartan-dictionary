@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/matheson-3/">Matheson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/matheson-3/"><img src="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/sett.png" alt="Matheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/matheson-hunting-3/">Matheson Hunting</a> <small class="dt">ΔTartan 2.20</small></td></tr>
+<tr><td><a href="/tartans/m/ma/matheson-hunting-3/">Matheson Hunting</a> <small class="dt">ΔTartan 2.21</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/matheson-hunting-3/"><img src="/variants/s21/g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2/sett.png" alt="Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

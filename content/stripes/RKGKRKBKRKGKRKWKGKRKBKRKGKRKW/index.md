@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wo/women-s-wear-daily-hunting/">Women's Wear Daily Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wo/women-s-wear-daily-hunting/"><img src="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/sett.png" alt="Women's Wear Daily Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/women-s-wear-daily-hunting/"><img src="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki17-k1309264/sett.png" alt="Women's Wear Daily Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

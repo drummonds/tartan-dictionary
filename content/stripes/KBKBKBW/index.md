@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/marchmont/"><img src="/variants/s7/k1db12k12b1k12db12w1~x4/sett.png" alt="Marchmont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/pa/patriot-weavers/">Patriot Weavers</a> <small class="dt">ΔTartan 1.95</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pa/patriot-weavers/"><img src="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/sett.png" alt="Patriot Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/patriot-weavers/"><img src="/variants/s7/k10db4k34dt2k2dt30w3~x2~db2616276-dt3402231/sett.png" alt="Patriot Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/mo/mountain-rescue-association-honor-guard/">Mountain Rescue Association Honor Guard</a> <small class="dt">ΔTartan 2.41</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/mountain-rescue-association-honor-guard/"><img src="/variants/s7/k32t2k6t2k13n30w2~x2/sett.png" alt="Mountain Rescue Association Honor Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

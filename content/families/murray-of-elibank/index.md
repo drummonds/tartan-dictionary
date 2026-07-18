@@ -18,7 +18,7 @@ A family of [Clan Murray](/clan/murray/).
 <tbody>
 <tr><td><a href="/tartans/m/mu/murray-of-elibank/">Murray of Elibank</a> ★</td><td>1930</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-of-elibank/"><img src="/variants/s7/t64k3g14k4t4k12lo4~x2/sett.png" alt="Murray of Elibank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mu/murray-of-elibank-2/">Murray of Elibank</a></td><td>1930</td><td>1</td><td>1</td><td>6.57</td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-elibank-2/">Murray of Elibank</a></td><td>1930</td><td>1</td><td>1</td><td>6.58</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-of-elibank-2/"><img src="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/sett.png" alt="Murray of Elibank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

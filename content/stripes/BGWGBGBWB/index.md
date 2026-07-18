@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/lord-arran/">Lord Arran</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/lord-arran/"><img src="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/sett.png" alt="Lord Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lord-arran/"><img src="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy3908078-db3514276/sett.png" alt="Lord Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

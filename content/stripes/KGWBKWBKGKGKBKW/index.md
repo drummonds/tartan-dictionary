@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ho/house-of-holland/">House of Holland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-holland/"><img src="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/sett.png" alt="House of Holland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-holland/"><img src="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb8007237-lbi8306018/sett.png" alt="House of Holland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

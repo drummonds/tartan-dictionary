@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/se/sekai-fushigi-hakken/">Sekai Fushigi Hakken</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/se/sekai-fushigi-hakken/"><img src="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/sett.png" alt="Sekai Fushigi Hakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sekai-fushigi-hakken/"><img src="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri6914021-r5221021/sett.png" alt="Sekai Fushigi Hakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

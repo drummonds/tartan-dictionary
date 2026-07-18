@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-claymores/">Scottish Claymores</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-claymores/"><img src="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/sett.png" alt="Scottish Claymores sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-claymores/"><img src="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db3409246-dbi3514276/sett.png" alt="Scottish Claymores sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

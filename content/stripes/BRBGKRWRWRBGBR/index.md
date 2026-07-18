@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/og/ogilvie-4/">Ogilvie 4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-4/"><img src="/variants/s14/dbi13r5dbi12y4k5r20w4r10w4r20db5y4dbi13r4~x2~dbi1605267-db0804274/sett.png" alt="Ogilvie 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-4/"><img src="/variants/s14/dbi13r5dbi12y4k5r20w4r10w4r20db5y4dbi13r4~x2~dbi3912267-db2011270/sett.png" alt="Ogilvie 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

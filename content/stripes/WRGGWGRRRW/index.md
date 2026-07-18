@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/unidentified-silk-scarf/">Unidentified Silk scarf</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-silk-scarf/"><img src="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/sett.png" alt="Unidentified Silk scarf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-silk-scarf/"><img src="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri5623030-r5419027/sett.png" alt="Unidentified Silk scarf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

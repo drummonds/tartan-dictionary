@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macneil-of-colonsay/">MacNeil of Colonsay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-of-colonsay/"><img src="/variants/s7/db4g6w1g6k6db6k2~x2/sett.png" alt="MacNeil of Colonsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-of-colonsay/"><img src="/variants/s7/db16g14w2g14k13db12k4~x2/sett.png" alt="MacNeil of Colonsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

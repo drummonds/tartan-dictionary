@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/long-way-down-the/">Long Way Down, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/long-way-down-the/"><img src="/variants/s11/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3~x2~o2500000-g1904115-yi2303114-y2200000/sett.png" alt="Long Way Down, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/long-way-down-the/"><img src="/variants/s11/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3~x2~o62-g4710111-yi5708123-y54/sett.png" alt="Long Way Down, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

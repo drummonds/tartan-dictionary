@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/rogue-attitude/">Rogue Attitude</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/rogue-attitude/"><img src="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/sett.png" alt="Rogue Attitude sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rogue-attitude/"><img src="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr70-n43/sett.png" alt="Rogue Attitude sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

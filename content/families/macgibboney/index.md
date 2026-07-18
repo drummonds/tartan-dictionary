@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/m/ma/macgibboney/">MacGibboney</a> ★</td><td>2000</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macgibboney/"><img src="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2db19w2db4k2~x2/sett.png" alt="MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macgibboney-2/">MacGibboney</a></td><td>2000</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macgibboney-2/"><img src="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/sett.png" alt="MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgibboney-2/">MacGibboney</a></td><td>2000</td><td>1</td><td>1</td><td>12.10</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macgibboney-2/"><img src="y1lb1t1lb5g5w1-rev.png" alt="MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

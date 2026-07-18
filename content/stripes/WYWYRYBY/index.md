@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/we/weaving-for-life/">Weaving for Life</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/we/weaving-for-life/"><img src="/variants/s8/lr24n2lr6m3lr6w6lr6w6~x2~lr3104014-m2006009/sett.png" alt="Weaving for Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/weaving-for-life/"><img src="/variants/s8/lr24n2lr6m3lr6w6lr6w6~x2~lr7610021-m4915006/sett.png" alt="Weaving for Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

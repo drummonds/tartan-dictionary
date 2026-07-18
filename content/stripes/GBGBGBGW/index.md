@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/morris-of-wales/"><img src="/variants/s8/y4db48y4db3y2db3y3w4/sett.png" alt="Morris of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ha/hastings-stephenson/">Hastings-Stephenson</a> <small class="dt">ΔTartan 7.54</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hastings-stephenson/"><img src="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/sett.png" alt="Hastings-Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hastings-stephenson/"><img src="/variants/s8/g44db11g5t3g4db8g4w1~x2~db1812264-t5912243/sett.png" alt="Hastings-Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

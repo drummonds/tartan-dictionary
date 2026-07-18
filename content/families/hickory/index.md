@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/h/hi/hickory/">Hickory</a> ★</td><td>2015</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hi/hickory/"><img src="/variants/s10/db4dy30do2dy2do14y2do2y1do6g3~x2/sett.png" alt="Hickory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/hi/hickory-2/">Hickory</a></td><td>2015</td><td>1</td><td>1</td><td>19.33</td></tr>
+<tr><td><a href="/tartans/h/hi/hickory-2/">Hickory</a></td><td>2015</td><td>1</td><td>1</td><td>19.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hi/hickory-2/"><img src="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/sett.png" alt="Hickory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

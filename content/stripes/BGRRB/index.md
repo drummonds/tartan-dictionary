@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/blairgowrie-berries-and-cherries/">Blairgowrie Berries and Cherries</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/blairgowrie-berries-and-cherries/"><img src="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blairgowrie-berries-and-cherries/"><img src="/variants/s5/dr1ri3r1g1dp1~x4~dr2611030-ri3815015/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

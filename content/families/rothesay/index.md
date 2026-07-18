@@ -22,7 +22,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rothesay-hunting/"><img src="g4r16g4r2g3r2g32w2g2w3-rev.png" alt="Rothesay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/rothesay-dress/">Rothesay, Dress</a></td><td>1829</td><td>1</td><td>1</td><td>11.82</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rothesay-dress/"><img src="/variants/s10/r2w28db4w2k6w2r4k1r2w1~x2/sett.png" alt="Rothesay, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/rothesay-hunting-2/">Rothesay Hunting</a></td><td>~1906</td><td>2</td><td>2</td><td>12.44</td></tr>
+<tr><td><a href="/tartans/r/ro/rothesay-hunting-2/">Rothesay Hunting</a></td><td>~1906</td><td>2</td><td>2</td><td>12.45</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rothesay-hunting-2/"><img src="/variants/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/sett.png" alt="Rothesay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/rothesay-2/">Rothesay</a></td><td>1906</td><td>1</td><td>1</td><td>12.58</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rothesay-2/"><img src="g4r16g4r2g3r2g32w1g1w2-rev.png" alt="Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

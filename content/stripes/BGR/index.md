@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/w/wi/wilson-s-no-84-ferguson/">Wilson's No 84, Ferguson</a> <small class="dt">ΔTartan 0.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-84-ferguson/"><img src="/variants/s3/db5g6r1~x4/sett.png" alt="Wilson's No 84, Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/n/no/norwich-no-030/">Norwich No.030</a> <small class="dt">ΔTartan 0.80</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-030/"><img src="/variants/s3/db33g3r1~x2~db1406275-r2109032/sett.png" alt="Norwich No.030 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-030/"><img src="/variants/s3/db33g3r1~x2~db3514276-r5221030/sett.png" alt="Norwich No.030 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/n/nu/nutwood/">Nutwood</a> <small class="dt">ΔTartan 1.72</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/nu/nutwood/"><img src="/variants/s3/r1y60t1~x2/sett.png" alt="Nutwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

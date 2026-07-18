@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ci/city-of-lethbridge/">City of Lethbridge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-lethbridge/"><img src="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/sett.png" alt="City of Lethbridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-lethbridge/"><img src="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri6914021-r5221021/sett.png" alt="City of Lethbridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

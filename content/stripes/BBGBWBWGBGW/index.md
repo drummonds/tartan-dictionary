@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/brighton-hove/">Brighton &amp; Hove</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/brighton-hove/"><img src="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/sett.png" alt="Brighton &amp; Hove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brighton-hove/"><img src="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db2508270-n5507264/sett.png" alt="Brighton &amp; Hove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

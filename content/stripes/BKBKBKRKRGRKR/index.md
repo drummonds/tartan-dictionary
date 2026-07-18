@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bo/bonnar/">Bonnar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonnar/"><img src="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/sett.png" alt="Bonnar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonnar/"><img src="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db3514276/sett.png" alt="Bonnar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bo/bonner-2/">Bonner</a> <small class="dt">ΔTartan 0.59</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bo/bonner-2/"><img src="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

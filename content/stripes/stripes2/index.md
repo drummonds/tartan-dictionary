@@ -89,7 +89,7 @@ weight: 2
 | 0.14 | [Wilson's No.116](/tartans/w/wi/wilson-s-no-116/) | 1 | 1 |
 | 0.14 | [Wilson's, No 116](/tartans/w/wi/wilson-s-no-116-2/) | 1 | 1 |
 | 0.17 | [Hafren](/tartans/h/ha/hafren/) | 1 | 1 |
-| 0.17 | [Outlander](/tartans/o/ou/outlander-4/) | 1 | 1 |
+| 0.17 | [Outlander](/tartans/o/ou/outlander-5/) | 1 | 1 |
 
 ### BK
 <a class="pat" href="/stripes/bk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BK</span></a>

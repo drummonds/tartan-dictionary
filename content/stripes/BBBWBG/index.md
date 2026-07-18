@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/rh/rhode-island-the-state-of/">Rhode Island, The State of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/rh/rhode-island-the-state-of/"><img src="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/sett.png" alt="Rhode Island, The State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/rh/rhode-island-the-state-of/"><img src="/variants/s6/g15b2w2b11n28b4~x2~g5007153-n5005285/sett.png" alt="Rhode Island, The State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

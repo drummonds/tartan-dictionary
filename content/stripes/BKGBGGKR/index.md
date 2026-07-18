@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/batten-of-argyll/">Batten of Argyll</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/batten-of-argyll/"><img src="/variants/s8/dpi5k1g5dp15dg15dgi28k2r4~x2~dpi1607327-g1903114-dp1105325-dgi1806142/sett.png" alt="Batten of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/batten-of-argyll/"><img src="/variants/s8/dpi5k1g5dp15dg15dgi28k2r4~x2~dpi4018327-g4808117-dp2712327-dg3007159-dgi4514144/sett.png" alt="Batten of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,8 +15,8 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/c/cr/crantock/">Crantock</a> ★</td><td>2002</td><td>1</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cr/crantock/"><img src="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/c/cr/crantock-2/">Crantock</a></td><td>—</td><td>1</td><td>1</td><td>4.75</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cr/crantock/"><img src="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g5413123-dg3207162/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crantock-2/">Crantock</a></td><td>—</td><td>1</td><td>1</td><td>4.74</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cr/crantock-2/"><img src="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

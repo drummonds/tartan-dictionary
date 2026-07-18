@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macmedic/"><img src="/variants/s2/r1w1~x5/sett.png" alt="MacMedic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/v/vi/vindolanda-check/">Vindolanda Check</a> <small class="dt">ΔTartan 1.40</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/v/vi/vindolanda-check/"><img src="/variants/s2/w3o1~x8~w3801060-o1604029/sett.png" alt="Vindolanda Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/vindolanda-check/"><img src="/variants/s2/w3o1~x8~w9402087-o4111024/sett.png" alt="Vindolanda Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-138/">Wilson's No.138</a> <small class="dt">ΔTartan 1.96</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-138/"><img src="/variants/s2/r3lb1~x14/sett.png" alt="Wilson's No.138 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

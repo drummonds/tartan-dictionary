@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ry/ryukoku-university-heian-jhs/">Ryukoku University Heian JHS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryukoku-university-heian-jhs/"><img src="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/sett.png" alt="Ryukoku University Heian JHS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryukoku-university-heian-jhs/"><img src="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi62-n47/sett.png" alt="Ryukoku University Heian JHS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

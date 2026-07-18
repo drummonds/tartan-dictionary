@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fo/fox-eves-wedding-2/">Fox-Eves Wedding</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/fox-eves-wedding-2/"><img src="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/sett.png" alt="Fox-Eves Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fox-eves-wedding-2/"><img src="/variants/s6/r9db6dbi13db21y18w4~x2~dbi2508270-y59/sett.png" alt="Fox-Eves Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/de/de-baseggio-2/">de Baseggio</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/de/de-baseggio-2/"><img src="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n2203265-db1105267/sett.png" alt="de Baseggio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-baseggio-2/"><img src="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n5507264-db2713264/sett.png" alt="de Baseggio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

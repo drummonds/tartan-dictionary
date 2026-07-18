@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pr/pride-of-scotland-silver-2/">Pride of Scotland, Silver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-silver-2/"><img src="/variants/s11/k9o2k2ri2o18ri2k2r1k20ri33r2~x2~o2500000-ri2109032/sett.png" alt="Pride of Scotland, Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-silver-2/"><img src="/variants/s11/k9o2k2ri2o18ri2k2r1k20ri33r2~x2~o62-ri5221030/sett.png" alt="Pride of Scotland, Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

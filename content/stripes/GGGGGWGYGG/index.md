@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ra/rams-timeless/">Rams Timeless</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/rams-timeless/"><img src="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/sett.png" alt="Rams Timeless sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rams-timeless/"><img src="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g6019141-dg4514144/sett.png" alt="Rams Timeless sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

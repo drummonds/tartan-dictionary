@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/cala-homes/">CALA Homes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cala-homes/"><img src="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/sett.png" alt="CALA Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cala-homes/"><img src="/variants/s6/y5db24k8dbi18y6o3~db1913264-dbi3911270/sett.png" alt="CALA Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -33,8 +33,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/u/un/unidentified-kirtle/">Unidentified Kirtle</a> <small class="dt">ΔTartan 0.92</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-kirtle/"><img src="/variants/s5/k55r18k4r18k38/sett.png" alt="Unidentified Kirtle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ro/romsdal-tresfjord/">Romsdal Tresfjord</a> <small class="dt">ΔTartan 1.79</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/romsdal-tresfjord/"><img src="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/sett.png" alt="Romsdal Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/romsdal-tresfjord-2/">Romsdal, Tresfjord</a> <small class="dt">ΔTartan 1.79</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/romsdal-tresfjord-2/"><img src="/variants/s5/k2r4k7ri1k1~x2~r3715030-ri5021030/sett.png" alt="Romsdal, Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

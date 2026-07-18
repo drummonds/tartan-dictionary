@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hy/hydesville-tower-2/">Hydesville Tower</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hy/hydesville-tower-2/"><img src="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/sett.png" alt="Hydesville Tower sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hydesville-tower-2/"><img src="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db2911276-dg4112135/sett.png" alt="Hydesville Tower sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

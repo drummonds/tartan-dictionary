@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fa/falconer-of-labhdal/">Falconer of Labhdal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fa/falconer-of-labhdal/"><img src="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/sett.png" alt="Falconer of Labhdal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/falconer-of-labhdal/"><img src="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g5813165/sett.png" alt="Falconer of Labhdal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bu/burns-heritage-check/">Burns Heritage Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns-heritage-check/"><img src="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g2203152/sett.png" alt="Burns Heritage Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns-heritage-check/"><img src="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g5408159/sett.png" alt="Burns Heritage Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

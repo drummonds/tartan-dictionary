@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-north-american-business-council/">Scottish North American Business Council</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-north-american-business-council/"><img src="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/sett.png" alt="Scottish North American Business Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-north-american-business-council/"><img src="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db2616276-dbi3409246/sett.png" alt="Scottish North American Business Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

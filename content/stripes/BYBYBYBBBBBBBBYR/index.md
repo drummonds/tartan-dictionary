@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pe/perry-golf/">Perry Golf</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pe/perry-golf/"><img src="/variants/s16/dt4lr4db7lr4dt3lr22dbi8dt8dbi8dt8dbi8dt8dbi8dt8lr34r4~x2~db1404245-dbi1406275/sett.png" alt="Perry Golf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perry-golf/"><img src="/variants/s16/dt4lr4db7lr4dt3lr22dbi8dt8dbi8dt8dbi8dt8dbi8dt8lr34r4~x2~db3409246-dbi3514276/sett.png" alt="Perry Golf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

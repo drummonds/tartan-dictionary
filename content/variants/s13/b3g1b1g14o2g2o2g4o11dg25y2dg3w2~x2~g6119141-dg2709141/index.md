@@ -1,0 +1,69 @@
+---
+title: "Buglass"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buglass"
+  url: "/clan/buglass/"
+- name: "Buglass"
+  url: "/families/buglass/"
+- name: "Buglass"
+  url: "/tartans/b/bu/buglass-2/"
+- name: "Buglass"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buglass-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGRGRGRGGGW](/stripes/bgbgrgrgrgggw/).
+
+Part of the [Buglass](/tartans/b/bu/buglass-2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Thread count
+B/6 G2 B2 G28 O4 G4 O4 G8 O22 DG50 Y4 DG6 W/4
+
+One full sett is **278 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG</td><td><code style="background-color:#003000;"><span style="color:#003000;filter:grayscale(1) invert(1) contrast(100);">#003000</span></code> <small style="color:#888">#003000</small></td><td><small style="color:#888">oklch(26.8% 0.091 142.5)</small></td></tr><tr><td>G</td><td><code style="background-color:#30A010;"><span style="color:#30A010;filter:grayscale(1) invert(1) contrast(100);">#30A010</span></code> <small style="color:#888">#30A010</small></td><td><small style="color:#888">oklch(61.9% 0.195 140.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>O</td><td><code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> <small style="color:#888">#A65C11</small></td><td><small style="color:#888">oklch(55.0% 0.125 58.3)</small></td></tr><tr><td>B</td><td><code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> <small style="color:#888">#466CC8</small></td><td><small style="color:#888">oklch(55.1% 0.149 265.0)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/6 G2 B2 G28 O4 G4 O4 G8 O22 DG50 Y4 DG6 W/4 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s13/b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141/">Buglass</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6w1ly24g6dt3g1dt3g1dt12r1~x2~db3409246-dt4207201&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">2.62</a></div><div class="nn-threads nn-far">218</div><div class="nn-name nn-far"><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db3409246-dt4207201/">Chisholm Colonial</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db3409246-dt4207201/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp4g4dg2w3g27dg30y1r3~x2&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.10</a></div><div class="nn-threads nn-far2">282</div><div class="nn-name nn-far2"><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/">Hannigan of Dirleton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg2ly6g24r2dy2dg1dy6dg10g2~x2&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.20</a></div><div class="nn-threads nn-far2">212</div><div class="nn-name nn-far2"><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/">Fitzgibbon (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r4db10g2db2g24o2g2o16g2w1~x2&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.23</a></div><div class="nn-threads nn-far2">250</div><div class="nn-name nn-far2"><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/">Kinfauns Castle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w2g27y1dy7db5y5r17y6db1~x2&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.29</a></div><div class="nn-threads nn-far2">278</div><div class="nn-name nn-far2"><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/">Elystan Glodrydd (Welsh Tribe)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db16w3db1y4g24r1g3r4g3r1lb8~x2&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.33</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/">Currie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g2r2g2dy14y2r3y1r1dg20r3y1w2~x2&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.48</a></div><div class="nn-threads nn-far2">204</div><div class="nn-name nn-far2"><a href="/variants/s12/g2r2g2dy14y2r3y1r1dg20r3y1w2~x2/">Flodden</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/g2r2g2dy14y2r3y1r1dg20r3y1w2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.51</a></div><div class="nn-threads nn-far2">232</div><div class="nn-name nn-far2"><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/">Mighty Men (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy4dg26lb1dg2lb2dy4lg26dy4g3y3~x2~dg4514144-lb8103156-g6019141&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.52</a></div><div class="nn-threads nn-far2">286</div><div class="nn-name nn-far2"><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg4514144-lt8103156-g6019141/">Carter (Savannah) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg4514144-lt8103156-g6019141/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g4n2dg24dy10ly12r1ly12dg2~x2~g6019141-dg4514144&amp;base=b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141" title="compare in the TTD">3.62</a></div><div class="nn-threads nn-far2">256</div><div class="nn-name nn-far2"><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g6019141-dg4514144/">Jolley (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g6019141-dg4514144/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db3409246-dt4207201/"><circle cx="226.0" cy="120.1" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/"><circle cx="282.5" cy="124.6" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/"><circle cx="286.4" cy="148.8" r="4" fill="#3465a4"><title>Fitzgibbon (Name)</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.6" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.7" cy="131.6" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.6" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s12/g2r2g2dy14y2r3y1r1dg20r3y1w2~x2/"><circle cx="224.4" cy="115.8" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.5" cy="85.6" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg4514144-lt8103156-g6019141/"><circle cx="239.6" cy="134.3" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g6019141-dg4514144/"><circle cx="219.5" cy="157.2" r="4" fill="#3465a4"><title>Jolley (Personal)</title></circle></a><circle cx="214.6" cy="107.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s13/b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g6119141-dg2709141/

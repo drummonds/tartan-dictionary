@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/og/ogg-of-tarragann-hunting/">Ogg of Tarragann Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/og/ogg-of-tarragann-hunting/"><img src="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogg-of-tarragann-hunting/"><img src="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg3607156-ly6712081/sett.png" alt="Ogg of Tarragann Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

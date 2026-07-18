@@ -102,7 +102,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe/) | 1 | 1 |
+| 0.10 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-2/) | 1 | 1 |
 
 ### BBBGBGBGGBGB
 <a class="pat" href="/stripes/bbbgbgbggbgb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">BBBGBGBGGBGB</span></a>
@@ -130,7 +130,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-2/) | 1 | 1 |
+| 0.10 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-3/) | 1 | 1 |
 
 ### BBBGGGBGGGBB
 <a class="pat" href="/stripes/bbbgggbgggbb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BBBGGGBGGGBB</span></a>
@@ -1012,7 +1012,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Gordon](/tartans/g/go/gordon-2/) | 1 | 1 |
+| 0.10 | [Gordon](/tartans/g/go/gordon-3/) | 1 | 1 |
 
 ### BKBKBKWGRGWK
 <a class="pat" href="/stripes/bkbkbkwgrgwk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBKBKWGRGWK</span></a>

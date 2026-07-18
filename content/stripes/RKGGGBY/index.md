@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/j/ja/james-2/">James</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/j/ja/james-2/"><img src="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/sett.png" alt="James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/james-2/"><img src="/variants/s7/r2k6y1dg12y1db6lr2~x4~db3113276-lr7801228/sett.png" alt="James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

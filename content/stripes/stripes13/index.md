@@ -688,7 +688,7 @@ weight: 13
 |---|---|---|---|
 | 0.10 | [Breadalbane Fencibles](/tartans/b/br/breadalbane-fencibles/) | 2 | 3 |
 | 0.10 | [Campbell of Breadalbane](/tartans/c/ca/campbell-of-breadalbane/) | 1 | 1 |
-| 0.10 | [Gordon](/tartans/g/go/gordon-3/) | 2 | 3 |
+| 0.10 | [Gordon](/tartans/g/go/gordon-4/) | 2 | 3 |
 | 0.10 | [Gordon 4](/tartans/g/go/gordon-4/) | 1 | 1 |
 | 0.10 | [Lamberton](/tartans/l/la/lamberton/) | 1 | 1 |
 | 0.13 | [Loudoun's Highlanders](/tartans/l/lo/loudoun-s-highlanders/) | 1 | 1 |
@@ -1314,7 +1314,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-3/) | 1 | 2 |
+| 0.11 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe/) | 1 | 2 |
 
 ### GWBWBWWWBWKGW
 <a class="pat" href="/stripes/gwbwbwwwbwkgw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GWBWBWWWBWKGW</span></a>
@@ -1502,7 +1502,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Crieff](/tartans/c/cr/crieff/) | 2 | 2 |
+| 0.09 | [Crieff](/tartans/c/cr/crieff-2/) | 2 | 2 |
 
 ### WBWBKWGKWKBKW
 <a class="pat" href="/stripes/wbwbkwgkwkbkw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBWBKWGKWKBKW</span></a>

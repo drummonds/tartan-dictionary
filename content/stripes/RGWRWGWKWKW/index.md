@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/kn/knox-david-paul/">Knox, David Paul</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/kn/knox-david-paul/"><img src="/variants/s11/w2k2w2k10lb1dg40w1r4w1dg5ri1~x2~r2209032-ri2806019/sett.png" alt="Knox, David Paul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kn/knox-david-paul/"><img src="/variants/s11/w2k2w2k10lb1dg40w1r4w1dg5ri1~x2~r5623030-ri6914021/sett.png" alt="Knox, David Paul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

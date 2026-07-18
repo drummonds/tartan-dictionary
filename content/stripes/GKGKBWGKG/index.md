@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/black-gold/">Black Gold</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-gold/"><img src="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/sett.png" alt="Black Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-gold/"><img src="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n4206261-g5515153/sett.png" alt="Black Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

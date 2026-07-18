@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/es/essex-county-ontario/">Essex, County Ontario</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/es/essex-county-ontario/"><img src="/variants/s10/y30k1r4k1g3dgi5dg4lb6r2w2~x2~g2408144-dgi1806142/sett.png" alt="Essex, County Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/es/essex-county-ontario/"><img src="/variants/s10/y30k1r4k1g3dgi5dg4lb6r2w2~x2~g6019141-dgi4514144/sett.png" alt="Essex, County Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

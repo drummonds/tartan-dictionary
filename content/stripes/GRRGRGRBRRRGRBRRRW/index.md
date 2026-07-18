@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/s/so/sommerville/">Sommerville</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/so/sommerville/"><img src="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri2406019-r2109032/sett.png" alt="Sommerville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/sommerville-2/">Sommerville</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/sommerville-2/"><img src="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri6016021-r5221030/sett.png" alt="Sommerville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

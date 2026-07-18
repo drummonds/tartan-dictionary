@@ -3,22 +3,8 @@ title: 4 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 4
 ---
-395 setts across 372 tartans with 4 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+393 setts across 371 tartans with 4 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes4/">‹ prev</a> <a href="/stripes/stripes4/">1</a> <strong>2</strong> </nav>
-
-### BGYG
-<a class="pat" href="/stripes/bgyg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BGYG</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.16 | [Special, Saffron](/tartans/s/sp/special-saffron-3/) | 1 | 1 |
-
-### BGYKK
-<a class="pat" href="/stripes/bgykk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">BGYKK</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.12 | [Eternity](/tartans/e/et/eternity/) | 1 | 1 |
 
 ### BGYR
 <a class="pat" href="/stripes/bgyr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">BGYR</span></a>

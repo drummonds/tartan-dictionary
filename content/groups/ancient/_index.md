@@ -13,7 +13,7 @@ The oldest checked and tartan-like cloths, from long before the Scottish clan sy
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/variants/s3/g16dy3g2~x10/"><img src="/variants/s3/g16dy3g2~x10/sett.png" alt="Hallstatt" width="140"><br>Hallstatt</a></li>
-<li><a class="tartan" href="/variants/s2/w3o1~x8~w3801060-o1604029/"><img src="/variants/s2/w3o1~x8~w3801060-o1604029/sett.png" alt="Vindolanda Check" width="140"><br>Vindolanda Check</a></li>
+<li><a class="tartan" href="/variants/s2/w3o1~x8~w9402087-o4111024/"><img src="/variants/s2/w3o1~x8~w9402087-o4111024/sett.png" alt="Vindolanda Check" width="140"><br>Vindolanda Check</a></li>
 </ul>
 
 ## Groups

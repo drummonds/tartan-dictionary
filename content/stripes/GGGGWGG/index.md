@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/braemar-house/">Braemar House</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/braemar-house/"><img src="/variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg1806142-gi2408144-g1903114/sett.png" alt="Braemar House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braemar-house/"><img src="/variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg4514144-gi6019141-g4808117/sett.png" alt="Braemar House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

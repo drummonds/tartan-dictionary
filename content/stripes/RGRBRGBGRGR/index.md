@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pe/peacock-grahame/">Peacock, Grahame</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pe/peacock-grahame/"><img src="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/sett.png" alt="Peacock, Grahame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peacock-grahame/"><img src="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi3514276-db2609279/sett.png" alt="Peacock, Grahame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

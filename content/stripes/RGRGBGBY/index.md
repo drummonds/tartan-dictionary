@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hy/hyland-day/">Hyland Day</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hy/hyland-day/"><img src="/variants/s8/o3dy2o26dy4do6dy29do2lo3~x2~dy1603076/sett.png" alt="Hyland Day sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hyland-day/"><img src="/variants/s8/o3dy2o26dy4do6dy29do2lo3~x2~dy3908078/sett.png" alt="Hyland Day sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

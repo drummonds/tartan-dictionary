@@ -1,0 +1,40 @@
+---
+title: "Romsdal, Tresfjord"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Romsdal"
+  url: "/clan/romsdal/"
+aliases:
+- "/setts/k2r4k7ri1k1/"
+---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkrk/">KRKRK</a></nav>
+
+A tartan of [Clan Romsdal](/clan/romsdal/).
+
+Its design is pattern [KRKRK](/stripes/krkrk/) — the page of every tartan sharing this colour sequence.
+
+
+The **Romsdal, Tresfjord** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/variants/s5/k2r4k7ri1k1~x2~r3715030-ri5021030/">Romsdal, Tresfjord</a></td><td></td><td><code>K/4 R8 K14 Ri2 K/2</code></td><td>54</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k2r4k7ri1k1~x2~r3715030-ri5021030/"><img src="/variants/s5/k2r4k7ri1k1~x2~r3715030-ri5021030/sett.png" alt="Romsdal, Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Nearest tartans
+
+The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">54</div><div class="nn-name nn-base"><a href="/variants/s5/k2r4k7ri1k1~x2~r3715030-ri5021030/">Romsdal, Tresfjord</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k2r4k7ri1k1~x2~r3715030-ri5021030/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2dr4k7dr1k2~x2&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.16</a></div><div class="nn-threads">56</div><div class="nn-name"><a href="/variants/s5/k2dr4k7dr1k2~x2/">Romsdal Tresfjord</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2dr4k7dr1k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k8y1k1r1k4db1~x12&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.36</a></div><div class="nn-threads">276</div><div class="nn-name"><a href="/variants/s6/k8y1k1r1k4db1~x12/">Justus</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k8y1k1r1k4db1~x12/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k17dr6k2lb6k17ly2~x2&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.39</a></div><div class="nn-threads">162</div><div class="nn-name"><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/">Black</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k17dr6k2lb6k17ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k55r18k4r18k38&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.63</a></div><div class="nn-threads">173</div><div class="nn-name"><a href="/variants/s5/k55r18k4r18k38/">Unidentified Kirtle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k55r18k4r18k38/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k16t2k8r3lr3r3k8~x2&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.64</a></div><div class="nn-threads">124</div><div class="nn-name"><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/">Benson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k16t2k8r3lr3r3k8~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r19k8r18k50w14k6&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.74</a></div><div class="nn-threads">205</div><div class="nn-name"><a href="/variants/s6/r19k8r18k50w14k6/">Knights Breton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r19k8r18k50w14k6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k13r2k13r19k2~x2&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.79</a></div><div class="nn-threads">166</div><div class="nn-name"><a href="/variants/s5/k13r2k13r19k2~x2/">MacLeod of Raasay</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k13r2k13r19k2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k67r32k6&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.87</a></div><div class="nn-threads">137</div><div class="nn-name"><a href="/variants/s3/k67r32k6/">Lendrum or MacFarlane</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k67r32k6/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k31r12y2n5k2~x4&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.90</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s5/k31r12y2n5k2~x4/">Perry</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k31r12y2n5k2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lr3k3lr3k10dr1~x6&amp;base=k2r4k7ri1k1~x2~r3715030-ri5021030" title="compare in the TTD">1.90</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s5/lr3k3lr3k10dr1~x6/">Burberry</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lr3k3lr3k10dr1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 10816 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k2dr4k7dr1k2~x2/"><circle cx="454.8" cy="255.1" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="461.4" cy="164.2" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="348.3" cy="178.4" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="419.5" cy="189.7" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="354.2" cy="164.8" r="4" fill="#3465a4"><title>Benson</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="256.9" cy="185.0" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="322.1" cy="203.7" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/variants/s3/k67r32k6/"><circle cx="406.9" cy="212.4" r="4" fill="#3465a4"><title>Lendrum or MacFarlane</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="334.7" cy="136.5" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s5/lr3k3lr3k10dr1~x6/"><circle cx="334.8" cy="189.0" r="4" fill="#3465a4"><title>Burberry</title></circle></a><circle cx="367.2" cy="209.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

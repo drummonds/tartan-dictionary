@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ni/nimah-carissa-bassem/">Nimah, Carissa &amp; Bassem</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ni/nimah-carissa-bassem/"><img src="/variants/s7/w50gi15db10r2db10g8y3~x2~gi2304202-db1204274/sett.png" alt="Nimah, Carissa &amp; Bassem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nimah-carissa-bassem/"><img src="/variants/s7/w50gi15db10r2db10g8y3~x2~gi5610195-db2911276/sett.png" alt="Nimah, Carissa &amp; Bassem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/me/mead-modern-dress/">Mead Modern Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/me/mead-modern-dress/"><img src="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/sett.png" alt="Mead Modern Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mead-modern-dress/"><img src="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi3216276-db2713264/sett.png" alt="Mead Modern Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

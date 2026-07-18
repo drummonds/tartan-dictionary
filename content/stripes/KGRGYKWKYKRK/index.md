@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/o/o-keefe-2/">O'Keefe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/o/o-keefe-2/"><img src="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi3307090-y2203076/sett.png" alt="O'Keefe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-keefe-2/"><img src="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi8117093-y5508084/sett.png" alt="O'Keefe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

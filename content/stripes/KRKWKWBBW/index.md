@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/re/real-mary-king-s-close-the/">Real Mary King's Close, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/re/real-mary-king-s-close-the/"><img src="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/sett.png" alt="Real Mary King's Close, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/real-mary-king-s-close-the/"><img src="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n43-dt3101018/sett.png" alt="Real Mary King's Close, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/cal-fire-local-2881/">CAL FIRE Local 2881</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cal-fire-local-2881/"><img src="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/sett.png" alt="CAL FIRE Local 2881 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cal-fire-local-2881/"><img src="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db2508270-dbi2920264/sett.png" alt="CAL FIRE Local 2881 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

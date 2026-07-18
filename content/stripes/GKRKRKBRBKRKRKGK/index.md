@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gu/guthrie/">Guthrie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gu/guthrie/"><img src="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/sett.png" alt="Guthrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guthrie/"><img src="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g5408159/sett.png" alt="Guthrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fl/flowers-of-the-forest-the/">Flowers of the Forest, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fl/flowers-of-the-forest-the/"><img src="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/sett.png" alt="Flowers of the Forest, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/flowers-of-the-forest-the/"><img src="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r4715039-ri5221030/sett.png" alt="Flowers of the Forest, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

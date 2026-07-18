@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/moray-of-abercairney-3/">Moray of Abercairney</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/moray-of-abercairney-3/"><img src="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/sett.png" alt="Moray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moray-of-abercairney-3/"><img src="/variants/s5/ri8r1g4r1db4~x2~ri5623030-r5419027/sett.png" alt="Moray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

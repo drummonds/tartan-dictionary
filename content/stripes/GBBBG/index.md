@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/op/open-championship-2/">Open Championship</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/op/open-championship-2/"><img src="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/sett.png" alt="Open Championship sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/op/open-championship-2/"><img src="/variants/s5/y1db10dbi5db2g1~x8~db2911276-dbi3514276/sett.png" alt="Open Championship sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/o/op/open-championship-the/">Open Championship, The</a> <small class="dt">ΔTartan 0.19</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/op/open-championship-the/"><img src="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/sett.png" alt="Open Championship, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/op/open-championship-the/"><img src="/variants/s5/y1db11dbi5db2g1~x4~db2508270-dbi3912267/sett.png" alt="Open Championship, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/pe/pearson-3/">Pearson</a> <small class="dt">ΔTartan 2.13</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pe/pearson-3/"><img src="/variants/s5/dy6db28do2db28y1~x2/sett.png" alt="Pearson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

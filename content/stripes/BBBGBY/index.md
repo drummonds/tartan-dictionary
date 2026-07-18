@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/belfrage/">Belfrage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/belfrage/"><img src="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/sett.png" alt="Belfrage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/belfrage/"><img src="/variants/s6/db22n5dp9g14db10lo2~x2~dp2309009/sett.png" alt="Belfrage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/c/ca/cairn-o-mount/">Cairn O'Mount</a> <small class="dt">ΔTartan 5.54</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/cairn-o-mount/"><img src="/variants/s6/dr58db12dr5g28dr7ly5~x2/sett.png" alt="Cairn O'Mount sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/y/ya/yair-dance/">Yair Dance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/y/ya/yair-dance/"><img src="/variants/s9/w3y4w26m18w2m4r2m4w2~x2~m2610337-r2209032/sett.png" alt="Yair Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ya/yair-dance/"><img src="/variants/s9/w3y4w26m18w2m4r2m4w2~x2~m6525339-r5623030/sett.png" alt="Yair Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

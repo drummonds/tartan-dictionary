@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bo/bombeiros-voluntarios-de-galicia/">Bombeiros Voluntarios De Galicia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bo/bombeiros-voluntarios-de-galicia/"><img src="/variants/s7/r3n2r25o12k25w2lb2~x2~n1900000-o2500000/sett.png" alt="Bombeiros Voluntarios De Galicia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bombeiros-voluntarios-de-galicia/"><img src="/variants/s7/r3n2r25o12k25w2lb2~x2~n47-o62/sett.png" alt="Bombeiros Voluntarios De Galicia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

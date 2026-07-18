@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ne/new-glasgow/">New Glasgow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-glasgow/"><img src="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/sett.png" alt="New Glasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-glasgow/"><img src="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/sett.png" alt="New Glasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

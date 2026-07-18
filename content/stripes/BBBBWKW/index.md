@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/l/le/lennox-dress-3/">Lennox Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress-3/"><img src="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-dress-2/">Lennox Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress-2/"><img src="/variants/s7/t6n2t25n4w25k2w6~x2~t5912243-n4404258/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/le/lennox-purple-dress/">Lennox Purple Dress</a> <small class="dt">ΔTartan 2.82</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-purple-dress/"><img src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett.png" alt="Lennox Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

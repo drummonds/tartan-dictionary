@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/pompili-antonio-and-alessandro/">Pompili, Antonio and Alessandro</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/pompili-antonio-and-alessandro/"><img src="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/sett.png" alt="Pompili, Antonio and Alessandro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pompili-antonio-and-alessandro/"><img src="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri6914021-r6226030/sett.png" alt="Pompili, Antonio and Alessandro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

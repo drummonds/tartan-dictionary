@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/britten-norman/">Britten-Norman</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/britten-norman/"><img src="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/sett.png" alt="Britten-Norman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/britten-norman/"><img src="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb8007237-lr70/sett.png" alt="Britten-Norman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,6 +15,6 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/c/co/cordiner/">Cordiner</a> ★</td><td>2012</td><td>2</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/cordiner/"><img src="/variants/s18/db42n13r3n2y3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2~r2309032-m2906000/sett.png" alt="Cordiner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/cordiner/"><img src="/variants/s18/db42n13r3n2y3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2~r5622030-m7216003/sett.png" alt="Cordiner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

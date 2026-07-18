@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ce/celtic-2005-sports/">Celtic 2005 Sports</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ce/celtic-2005-sports/"><img src="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/sett.png" alt="Celtic 2005 Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/celtic-2005-sports/"><img src="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dg3007159-dgi4112135-lyi7811105-ly6614084/sett.png" alt="Celtic 2005 Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

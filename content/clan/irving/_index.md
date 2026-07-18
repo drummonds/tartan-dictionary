@@ -9,7 +9,7 @@ crumbs:
 
 ## Tartan
 
-<a class="tartan" href="/variants/s5/dg27g14db2g2y2~x4~dg1806142-g2304202/"><img src="/variants/s5/dg27g14db2g2y2~x4~dg1806142-g2304202/sett.png" alt="Irving of Bonshaw" width="240"><br>Irving of Bonshaw</a>
+<a class="tartan" href="/variants/s5/dg27g14db2g2y2~x4~dg4514144-g5610195/"><img src="/variants/s5/dg27g14db2g2y2~x4~dg4514144-g5610195/sett.png" alt="Irving of Bonshaw" width="240"><br>Irving of Bonshaw</a>
 
 ## Families
 

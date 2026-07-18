@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fo/fong/">Fong</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/fong/"><img src="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/sett.png" alt="Fong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fong/"><img src="/variants/s4/r21db43dbi86w10~db2616276-dbi3409246/sett.png" alt="Fong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/f/fo/fong-wedding/">Fong Wedding</a> <small class="dt">ΔTartan 1.49</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/fong-wedding/"><img src="/variants/s4/r21b43dt86w10~b1511266-dt1203284/sett.png" alt="Fong Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fong-wedding/"><img src="/variants/s4/r21b43dt86w10~b3826264-dt2907282/sett.png" alt="Fong Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

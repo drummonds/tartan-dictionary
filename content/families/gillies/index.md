@@ -24,7 +24,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gi/gillies-dress-2/"><img src="lo12k3g24r12g24k32w44g4w8g4-rev.png" alt="Gillies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gi/gillies-dress-5/">Gillies Dress</a></td><td>1975</td><td>2</td><td>2</td><td>7.14</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gi/gillies-dress-5/"><img src="y6k2g12r4g8k10w24t2w3t2-rev.png" alt="Gillies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gi/gillies-dress-6/">Gillies, dress</a></td><td>—</td><td>1</td><td>1</td><td>7.19</td></tr>
+<tr><td><a href="/tartans/g/gi/gillies-dress-6/">Gillies, dress</a></td><td>—</td><td>1</td><td>1</td><td>7.20</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gi/gillies-dress-6/"><img src="y6k2lb15r5lb9k13w25db2w3db2-rev.png" alt="Gillies, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gi/gillies-blue-dress/">Gillies Blue Dress</a></td><td>~2003</td><td>1</td><td>1</td><td>7.38</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gi/gillies-blue-dress/"><img src="r7k2lb16y5lb10k13w28g2w4g2-rev.png" alt="Gillies Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/me/meirhaeghe-van/">Meirhaeghe, Van</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/me/meirhaeghe-van/"><img src="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/sett.png" alt="Meirhaeghe, Van sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meirhaeghe-van/"><img src="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi3514276-db2911276/sett.png" alt="Meirhaeghe, Van sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

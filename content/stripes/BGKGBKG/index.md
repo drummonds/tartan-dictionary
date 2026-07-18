@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-parliament/">Scottish Parliament</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-parliament/"><img src="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/sett.png" alt="Scottish Parliament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-parliament/"><img src="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki1410264/sett.png" alt="Scottish Parliament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/round-table-2/">Round Table</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/round-table-2/"><img src="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/sett.png" alt="Round Table sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/round-table-2/"><img src="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db2011270-dbi3912267/sett.png" alt="Round Table sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

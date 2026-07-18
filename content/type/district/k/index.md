@@ -5,9 +5,9 @@ date: 2023-03-18
 17 District tartans beginning with K. [Back to all District tartans](/type/district/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/"><img src="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/sett.png" alt="Kansai2" width="140"><br>Kansai2</a></li>
+<li><a class="tartan" href="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r5221030-ri6914021/"><img src="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r5221030-ri6914021/sett.png" alt="Kansai2" width="140"><br>Kansai2</a></li>
 <li><a class="tartan" href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><img src="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/sett.png" alt="Keith" width="140"><br>Keith</a></li>
-<li><a class="tartan" href="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/"><img src="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/sett.png" alt="Kentucky, State of" width="140"><br>Kentucky, State of</a></li>
+<li><a class="tartan" href="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg4514144-db3514276-r5221030/"><img src="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg4514144-db3514276-r5221030/sett.png" alt="Kentucky, State of" width="140"><br>Kentucky, State of</a></li>
 <li><a class="tartan" href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><img src="/variants/s7/ly3r3lb4w2db11g13k2~x2/sett.png" alt="Kentucky, State of (District)" width="140"><br>Kentucky, State of (District)</a></li>
 <li><a class="tartan" href="/variants/s14/w4k1db12k1g8w2r8w2k8r16k4r8w2r1~x2/"><img src="/variants/s14/w4k1db12k1g8w2r8w2k8r16k4r8w2r1~x2/sett.png" alt="Kenya" width="140"><br>Kenya</a></li>
 <li><a class="tartan" href="/variants/s7/k5g2k5g2db8g25w4~x2/"><img src="/variants/s7/k5g2k5g2db8g25w4~x2/sett.png" alt="Keppoch" width="140"><br>Keppoch</a></li>

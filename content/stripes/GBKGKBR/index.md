@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/q/qu/quinn/">Quinn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/q/qu/quinn/"><img src="/variants/s7/r1b8k4g6k4b8y1~x6~g2003152/sett.png" alt="Quinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/quinn/"><img src="/variants/s7/r1b8k4g6k4b8y1~x6~g5007153/sett.png" alt="Quinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

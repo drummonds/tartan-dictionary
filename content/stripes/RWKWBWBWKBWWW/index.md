@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/di/diana-princess-of-wales-commemorative/">Diana Princess of Wales Commemorative</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/di/diana-princess-of-wales-commemorative/"><img src="/variants/s13/lb2w1lb12t6k3w1ti1w1ti4w2k1w1r1~x4~lb3402249-t2003265-ti2404216/sett.png" alt="Diana Princess of Wales Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/diana-princess-of-wales-commemorative/"><img src="/variants/s13/lb2w1lb12t6k3w1ti1w1ti4w2k1w1r1~x4~lb8405237-t4907258-ti5911222/sett.png" alt="Diana Princess of Wales Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

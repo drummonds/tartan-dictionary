@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/at/atikokan/">Atikokan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/at/atikokan/"><img src="/variants/s7/y6bi16lb3r3o3b3w2~x4~bi2505279-lb3200000-r2008029-o2104058/sett.png" alt="Atikokan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/atikokan/"><img src="/variants/s7/y6bi16lb3r3o3b3w2~x4~bi6312282-lb80-r5021030-o5309063/sett.png" alt="Atikokan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

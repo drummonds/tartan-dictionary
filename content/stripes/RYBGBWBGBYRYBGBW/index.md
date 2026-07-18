@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hi/hirter-karo-2/">Hirter Karo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/hirter-karo-2/"><img src="/variants/s16/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3~x2~ly3307090-dy1603076/sett.png" alt="Hirter Karo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hirter-karo-2/"><img src="/variants/s16/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3~x2~ly8117093-dy3908078/sett.png" alt="Hirter Karo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

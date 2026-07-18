@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/chalk-robert/">Chalk, Robert</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/chalk-robert/"><img src="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/sett.png" alt="Chalk, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chalk-robert/"><img src="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp3705297-do3202000/sett.png" alt="Chalk, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

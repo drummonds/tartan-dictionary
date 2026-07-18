@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccoll-2/">MacColl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccoll-2/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccoll-2/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri5221030-r4518006/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maccoll-hunting/">MacColl, hunting</a> <small class="dt">ΔTartan 0.13</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccoll-hunting/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7dg22ri7dg2ri2r2~x2~ri2008029-r1707016/sett.png" alt="MacColl, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccoll-hunting/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7dg22ri7dg2ri2r2~x2~ri5021030-r4116015/sett.png" alt="MacColl, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

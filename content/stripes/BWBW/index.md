@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/le/lewis-navy/">Lewis Navy</a> <small class="dt">ΔTartan 0.46</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/le/lewis-navy/"><img src="/variants/s4/db4w35db31w4~x2/sett.png" alt="Lewis Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mu/murray-taylor/">Murray Taylor</a> <small class="dt">ΔTartan 2.67</small></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-taylor/">Murray Taylor</a> <small class="dt">ΔTartan 2.68</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-taylor/"><img src="/variants/s6/db3lb3db16lb16db16w3~x2/sett.png" alt="Murray Taylor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

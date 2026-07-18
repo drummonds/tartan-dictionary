@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/balmoral-hotel/">Balmoral Hotel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/balmoral-hotel/"><img src="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/sett.png" alt="Balmoral Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balmoral-hotel/"><img src="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o5616042-db3514276-ki17/sett.png" alt="Balmoral Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

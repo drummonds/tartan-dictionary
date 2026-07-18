@@ -24,8 +24,8 @@ The Masai Shuka artefact setts: thread counts estimated by the Scottish Tartans 
 <li><a class="tartan" href="/variants/s6/g53w1r20k1w2r7~x2/"><img src="/variants/s6/g53w1r20k1w2r7~x2/sett.png" alt="Masai Shuka 10" width="140"><br>Masai Shuka 10</a></li>
 <li><a class="tartan" href="/variants/s10/b30k5r2k1r10w1r1w1k3w2~x4/"><img src="/variants/s10/b30k5r2k1r10w1r1w1k3w2~x4/sett.png" alt="Masai Shuka 11" width="140"><br>Masai Shuka 11</a></li>
 <li><a class="tartan" href="/variants/s3/r25k5r1~x4/"><img src="/variants/s3/r25k5r1~x4/sett.png" alt="Masai Shuka 12" width="140"><br>Masai Shuka 12</a></li>
-<li><a class="tartan" href="/variants/s6/lb25w5r1w1r1w20~x4~w3701000-r2109032/"><img src="/variants/s6/lb25w5r1w1r1w20~x4~w3701000-r2109032/sett.png" alt="Masai Shuka 13" width="140"><br>Masai Shuka 13</a></li>
-<li><a class="tartan" href="/variants/s8/r40w40k5w2k6w2k5w6~x2~r2109032-w3602028/"><img src="/variants/s8/r40w40k5w2k6w2k5w6~x2~r2109032-w3602028/sett.png" alt="Masai Shuka 14" width="140"><br>Masai Shuka 14</a></li>
+<li><a class="tartan" href="/variants/s6/lb25w5r1w1r1w20~x4~w9302018-r5221030/"><img src="/variants/s6/lb25w5r1w1r1w20~x4~w9302018-r5221030/sett.png" alt="Masai Shuka 13" width="140"><br>Masai Shuka 13</a></li>
+<li><a class="tartan" href="/variants/s8/r40w40k5w2k6w2k5w6~x2~r5221030-w8804018/"><img src="/variants/s8/r40w40k5w2k6w2k5w6~x2~r5221030-w8804018/sett.png" alt="Masai Shuka 14" width="140"><br>Masai Shuka 14</a></li>
 <li><a class="tartan" href="/variants/s5/r20k2r2k15w1~x2/"><img src="/variants/s5/r20k2r2k15w1~x2/sett.png" alt="Masai Shuka 15" width="140"><br>Masai Shuka 15</a></li>
 <li><a class="tartan" href="/variants/s6/y8k3y4k2r30y6~x2/"><img src="/variants/s6/y8k3y4k2r30y6~x2/sett.png" alt="Masai Shuka 16" width="140"><br>Masai Shuka 16</a></li>
 <li><a class="tartan" href="/variants/s6/k4db32r30db2w5k2~x2/"><img src="/variants/s6/k4db32r30db2w5k2~x2/sett.png" alt="Masai Shuka 17" width="140"><br>Masai Shuka 17</a></li>

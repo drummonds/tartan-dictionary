@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pa/papalia-special-dress/">Papalia, Special Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pa/papalia-special-dress/"><img src="/variants/s6/r4w2ri2dr34w37k2~x2~r2607041-ri2806019/sett.png" alt="Papalia, Special Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/papalia-special-dress/"><img src="/variants/s6/r4w2ri2dr34w37k2~x2~r6519045-ri6914021/sett.png" alt="Papalia, Special Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

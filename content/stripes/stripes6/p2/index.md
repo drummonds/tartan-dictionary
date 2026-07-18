@@ -513,7 +513,7 @@ weight: 6
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.10 | [Unidentified Sample](/tartans/u/un/unidentified-sample/) | 1 | 1 |
-| 0.11 | [MacGregor](/tartans/m/ma/macgregor-7/) | 1 | 1 |
+| 0.11 | [MacGregor](/tartans/m/ma/macgregor-8/) | 1 | 1 |
 
 ### BGBKBW
 <a class="pat" href="/stripes/bgbkbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BGBKBW</span></a>

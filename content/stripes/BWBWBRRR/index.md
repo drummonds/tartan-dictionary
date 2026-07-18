@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gi/gigha-cherry/">Gigha Cherry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gi/gigha-cherry/"><img src="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032/sett.png" alt="Gigha Cherry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gigha-cherry/"><img src="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r4518030-ri5221030/sett.png" alt="Gigha Cherry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

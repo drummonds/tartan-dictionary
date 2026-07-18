@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/ti/tilley-sir-samuel-leonard/">Tilley, Sir Samuel Leonard</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/ti/tilley-sir-samuel-leonard/"><img src="/variants/s13/dr4dg20k16lo2k3lb3k2t18dr6k2dr4k1lb2~x4~dg1405139-t1903246/sett.png" alt="Tilley, Sir Samuel Leonard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tilley-sir-samuel-leonard/"><img src="/variants/s13/dr4dg20k16lo2k3lb3k2t18dr6k2dr4k1lb2~x4~dg3612141-t4808243/sett.png" alt="Tilley, Sir Samuel Leonard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

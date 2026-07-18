@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/an/anglicare/">Anglicare</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/an/anglicare/"><img src="/variants/s12/b12w4b4k12db12k4db8b12lb12w11r4w8~b1511266-db1108266/sett.png" alt="Anglicare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/anglicare/"><img src="/variants/s12/b12w4b4k12db12k4db8b12lb12w11r4w8~b3826264-db2719264/sett.png" alt="Anglicare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lu/lusk/">Lusk</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lu/lusk/"><img src="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/sett.png" alt="Lusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lusk/"><img src="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi3514276-db2609279/sett.png" alt="Lusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

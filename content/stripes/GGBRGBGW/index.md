@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/de/devon-rural-skills-trust/">Devon Rural Skills Trust</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/de/devon-rural-skills-trust/"><img src="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g2104115-dg1304144/sett.png" alt="Devon Rural Skills Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/devon-rural-skills-trust/"><img src="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g5109120-dg3210147/sett.png" alt="Devon Rural Skills Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

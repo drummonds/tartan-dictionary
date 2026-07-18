@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/ui/uitwaaien-papi/">Uitwaaien Papi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/ui/uitwaaien-papi/"><img src="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/sett.png" alt="Uitwaaien Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ui/uitwaaien-papi/"><img src="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dg3007159-dgi4007180/sett.png" alt="Uitwaaien Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

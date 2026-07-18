@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/royal-air-force-lossiemouth/">Royal Air Force Lossiemouth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-air-force-lossiemouth/"><img src="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg1704158-db0805267/sett.png" alt="Royal Air Force Lossiemouth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-air-force-lossiemouth/"><img src="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg4211153-db1913264/sett.png" alt="Royal Air Force Lossiemouth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

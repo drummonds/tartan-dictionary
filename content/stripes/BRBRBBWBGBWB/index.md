@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ho/house-of-edgar-shotts-dykehead/">House of Edgar Shotts &amp; Dykehead</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-edgar-shotts-dykehead/"><img src="/variants/s12/dbi10w2db3y2db2w2db2n14r22dbi2r6db2~x2~dbi1406275-db1204274/sett.png" alt="House of Edgar Shotts &amp; Dykehead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-edgar-shotts-dykehead/"><img src="/variants/s12/dbi10w2db3y2db2w2db2n14r22dbi2r6db2~x2~dbi3514276-db2911276/sett.png" alt="House of Edgar Shotts &amp; Dykehead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -23,7 +23,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><img src="/variants/s8/db16w1db1w1db8g16r1db2~x2/sett.png" alt="Roxburgh" width="140"><br>Roxburgh</a></li>
 <li><a class="tartan" href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><img src="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/sett.png" alt="Roxburgh Red" width="140"><br>Roxburgh Red</a></li>
 <li><a class="tartan" href="/variants/s8/db23w1db1w1db8g22r1db3~x4/"><img src="/variants/s8/db23w1db1w1db8g22r1db3~x4/sett.png" alt="Roxburgh, Green (District)" width="140"><br>Roxburgh, Green (District)</a></li>
-<li><a class="tartan" href="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/"><img src="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/sett.png" alt="Royal Deeside" width="140"><br>Royal Deeside</a></li>
+<li><a class="tartan" href="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri6914021-r5221030/"><img src="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri6914021-r5221030/sett.png" alt="Royal Deeside" width="140"><br>Royal Deeside</a></li>
 <li><a class="tartan" href="/variants/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><img src="/variants/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/sett.png" alt="Royal Na Connaught" width="140"><br>Royal Na Connaught</a></li>
 <li><a class="tartan" href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><img src="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/sett.png" alt="Russian Scottish" width="140"><br>Russian Scottish</a></li>
 <li><a class="tartan" href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><img src="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/sett.png" alt="Russian Scottish (District)" width="140"><br>Russian Scottish (District)</a></li>

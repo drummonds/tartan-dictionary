@@ -2,11 +2,11 @@
 title: "Tartans — T"
 date: 2023-03-18
 ---
-287 tartans beginning with T, grouped by their first two letters. [Back to the A–Z](/tartans/).
+288 tartans beginning with T, grouped by their first two letters. [Back to the A–Z](/tartans/).
 
 <ul class="family-summary">
 <li><a class="letter" href="/tartans/t/t/"><img class="letter-swatch" src="/variants/s6/ly9g18t9r1w1db1~x4/sett.png" alt="" width="120"><br><strong>T</strong> · 1 entry</a><div class="names"><a href="/tartans/t/t/t-h-e-c-o-g-usa/">T.H.E. C.O.G. USA (1)</a></div></li>
-<li><a class="letter" href="/tartans/t/ta/"><img class="letter-swatch" src="/variants/s7/n34k7n12k40n3k4lb3~x2/sett.png" alt="" width="120"><br><strong>Ta</strong> · 53 entries</a><div class="names"><a href="/tartans/t/ta/tacc/">TACC (1)</a> · <a href="/tartans/t/ta/tache-sir-etienne-paschal/">Tache, Sir Etienne Paschal (1)</a> · <a href="/tartans/t/ta/tache-sir-etienne-paschal-2/">Tache, Sir Etienne Paschal (1)</a> · <a href="/tartans/t/ta/">…</a></div></li>
+<li><a class="letter" href="/tartans/t/ta/"><img class="letter-swatch" src="/variants/s7/n34k7n12k40n3k4lb3~x2/sett.png" alt="" width="120"><br><strong>Ta</strong> · 54 entries</a><div class="names"><a href="/tartans/t/ta/tacc/">TACC (1)</a> · <a href="/tartans/t/ta/tache-sir-etienne-paschal/">Tache, Sir Etienne Paschal (1)</a> · <a href="/tartans/t/ta/tache-sir-etienne-paschal-2/">Tache, Sir Etienne Paschal (1)</a> · <a href="/tartans/t/ta/">…</a></div></li>
 <li><a class="letter" href="/tartans/t/te/"><img class="letter-swatch" src="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/sett.png" alt="" width="120"><br><strong>Te</strong> · 37 entries</a><div class="names"><a href="/tartans/t/te/teall-of-teallach/">Teall of Teallach (1)</a> · <a href="/tartans/t/te/teallach/">Teallach (2)</a> · <a href="/tartans/t/te/teallach-2/">Teallach (1)</a> · <a href="/tartans/t/te/">…</a></div></li>
 <li><a class="letter" href="/tartans/t/th/"><img class="letter-swatch" src="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/sett.png" alt="" width="120"><br><strong>Th</strong> · 64 entries</a><div class="names"><a href="/tartans/t/th/thain-dress/">Thain Dress (1)</a> · <a href="/tartans/t/th/thayer-usa/">Thayer USA (2)</a> · <a href="/tartans/t/th/the-broons/">The Broons (1)</a> · <a href="/tartans/t/th/">…</a></div></li>
 <li><a class="letter" href="/tartans/t/ti/"><img class="letter-swatch" src="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/sett.png" alt="" width="120"><br><strong>Ti</strong> · 25 entries</a><div class="names"><a href="/tartans/t/ti/tilted/">TIlted (2)</a> · <a href="/tartans/t/ti/tiger/">Tiger (1)</a> · <a href="/tartans/t/ti/tiger-of-sweden/">Tiger of Sweden (1)</a> · <a href="/tartans/t/ti/">…</a></div></li>

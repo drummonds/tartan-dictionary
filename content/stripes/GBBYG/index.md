@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/c/cu/cub-scouts-of-america/"><img src="/variants/s5/g10db2dr8lo2g5~x4/sett.png" alt="Cub Scouts of America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/i/is/isle-of-raasay/">Isle of Raasay</a> <small class="dt">ΔTartan 7.48</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-raasay/"><img src="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/sett.png" alt="Isle of Raasay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-raasay/"><img src="/variants/s5/dg60ly16dp8db2dy3~x2~dg3710150-ly7811105/sett.png" alt="Isle of Raasay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

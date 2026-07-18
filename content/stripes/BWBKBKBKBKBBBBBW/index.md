@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wo/world-corporate-golf-challenge-corp/">World Corporate Golf Challenge (Corp</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wo/world-corporate-golf-challenge-corp/"><img src="/variants/s16/db2lb2db22k6db3k4db3k4db3k6dbi12t4dbi2t6dbi7w2~x2~db1204274-dbi1406275/sett.png" alt="World Corporate Golf Challenge (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/world-corporate-golf-challenge-corp/"><img src="/variants/s16/db2lb2db22k6db3k4db3k4db3k6dbi12t4dbi2t6dbi7w2~x2~db2911276-dbi3514276/sett.png" alt="World Corporate Golf Challenge (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

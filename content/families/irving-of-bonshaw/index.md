@@ -17,10 +17,10 @@ A family of [Clan Irving](/clan/irving/).
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/i/ir/irving-of-bonshaw-3/">Irving of Bonshaw</a> ★</td><td>1992</td><td>2</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/ir/irving-of-bonshaw-3/"><img src="/variants/s5/dg27g14db2g2y2~x4~dg1806142-g2304202/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/i/ir/irving-of-bonshaw-2/">Irving of Bonshaw</a></td><td>~1992</td><td>1</td><td>1</td><td>0.13</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/ir/irving-of-bonshaw-3/"><img src="/variants/s5/dg27g14db2g2y2~x4~dg4514144-g5610195/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irving-of-bonshaw-2/">Irving of Bonshaw</a></td><td>~1992</td><td>1</td><td>1</td><td>2.35</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/ir/irving-of-bonshaw-2/"><img src="/variants/s5/g27t14db2t2y2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/i/ir/irving-of-bonshaw/">Irving of Bonshaw</a></td><td>—</td><td>1</td><td>1</td><td>4.83</td></tr>
+<tr><td><a href="/tartans/i/ir/irving-of-bonshaw/">Irving of Bonshaw</a></td><td>—</td><td>1</td><td>1</td><td>5.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/ir/irving-of-bonshaw/"><img src="/variants/s5/g27db14k2db2y2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

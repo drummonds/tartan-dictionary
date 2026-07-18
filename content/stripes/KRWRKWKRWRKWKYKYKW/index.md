@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bu/buchanan-variant/">Buchanan Variant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan-variant/"><img src="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/sett.png" alt="Buchanan Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan-variant/"><img src="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly8818099-o6312063/sett.png" alt="Buchanan Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

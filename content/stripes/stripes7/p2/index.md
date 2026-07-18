@@ -3,7 +3,7 @@ title: 7 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 7
 ---
-1,360 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,362 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes7/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <strong>2</strong> <a href="/stripes/stripes7/p3/">3</a> <a href="/stripes/stripes7/p4/">4</a> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p3/">next ›</a></nav>
 
 ### BGGGRGB
@@ -189,6 +189,13 @@ weight: 7
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.07 | [Scotch House 2000 Dress](/tartans/s/sc/scotch-house-2000-dress/) | 2 | 2 |
+
+### BWBBGBG
+<a class="pat" href="/stripes/bwbbgbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BWBBGBG</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.07 | [United Colours of Scotland (Corporat](/tartans/u/un/united-colours-of-scotland-corporat/) | 1 | 2 |
 
 ### BWBGKGK
 <a class="pat" href="/stripes/bwbgkgk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">BWBGKGK</span></a>
@@ -768,7 +775,7 @@ weight: 7
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.06 | [Fraser Red Dress](/tartans/f/fr/fraser-red-dress/) | 2 | 2 |
+| 0.06 | [Fraser Red Dress](/tartans/f/fr/fraser-red-dress-2/) | 2 | 2 |
 
 ### RBWBRBW
 <a class="pat" href="/stripes/rbwbrbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBWBRBW</span></a>
@@ -1227,19 +1234,5 @@ weight: 7
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.09 | [Devon Companion](/tartans/d/de/devon-companion-2/) | 1 | 1 |
-
-### BBGBKWB
-<a class="pat" href="/stripes/bbgbkwb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">BBGBKWB</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.13 | [Milne-Murtagh](/tartans/m/mi/milne-murtagh/) | 1 | 1 |
-
-### BBGBKWR
-<a class="pat" href="/stripes/bbgbkwr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">BBGBKWR</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.11 | [Milne-Murtaugh](/tartans/m/mi/milne-murtaugh/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes7/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <strong>2</strong> <a href="/stripes/stripes7/p3/">3</a> <a href="/stripes/stripes7/p4/">4</a> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p3/">next ›</a></nav>

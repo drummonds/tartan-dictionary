@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/al/alexander-of-menstry-hunting/">Alexander of Menstry Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/alexander-of-menstry-hunting/"><img src="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/sett.png" alt="Alexander of Menstry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alexander-of-menstry-hunting/"><img src="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g5408159-lr70-lb8007237/sett.png" alt="Alexander of Menstry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -3,8 +3,15 @@ title: 10 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 10
 ---
-1,123 setts across 1,075 tartans with 10 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,124 setts across 1,075 tartans with 10 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes10/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <strong>2</strong> <a href="/stripes/stripes10/p3/">3</a> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p3/">next ›</a></nav>
+
+### RYRYRBRYYY
+<a class="pat" href="/stripes/ryryrbryyy/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RYRYRBRYYY</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.13 | [Golden Heather, The](/tartans/g/go/golden-heather-the/) | 1 | 2 |
 
 ### WBBBGWBYBW
 <a class="pat" href="/stripes/wbbbgwbybw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBBBGWBYBW</span></a>
@@ -1860,7 +1867,7 @@ weight: 10
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Hello Kitty](/tartans/h/he/hello-kitty-2/) | 1 | 1 |
+| 0.13 | [Hello Kitty](/tartans/h/he/hello-kitty-3/) | 1 | 1 |
 
 ### BRWBWBWBWB
 <a class="pat" href="/stripes/brwbwbwbwb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">BRWBWBWBWB</span></a>
@@ -2056,7 +2063,7 @@ weight: 10
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [Jones](/tartans/j/jo/jones-2/) | 1 | 1 |
+| 0.12 | [Jones](/tartans/j/jo/jones-3/) | 1 | 1 |
 
 ### BWBWGBGWBR
 <a class="pat" href="/stripes/bwbwgbgwbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BWBWGBGWBR</span></a>
@@ -2064,19 +2071,5 @@ weight: 10
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.09 | [Stratford , City of](/tartans/s/st/stratford-city-of/) | 1 | 1 |
-
-### BWBWGBKGKY
-<a class="pat" href="/stripes/bwbwgbkgky/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BWBWGBKGKY</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.13 | [RAF Lossiemouth](/tartans/r/ra/raf-lossiemouth/) | 1 | 1 |
-
-### BWBWKBGBGG
-<a class="pat" href="/stripes/bwbwkbgbgg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BWBWKBGBGG</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.11 | [Jones Hunting](/tartans/j/jo/jones-hunting-2/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes10/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <strong>2</strong> <a href="/stripes/stripes10/p3/">3</a> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p3/">next ›</a></nav>

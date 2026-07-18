@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/u/u-s-army-2/">U.S. Army</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-army-2/"><img src="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-army-2/"><img src="/variants/s6/db6k17y4dg51dy3g4~x2~dg4514144-g5408159/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

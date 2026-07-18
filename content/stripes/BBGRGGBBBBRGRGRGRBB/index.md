@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/united-distillers-3/">United Distillers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/united-distillers-3/"><img src="/variants/s19/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2~x2~dg1104144-dr1305000/sett.png" alt="United Distillers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-distillers-3/"><img src="/variants/s19/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2~x2~dg2709141-dr3113000/sett.png" alt="United Distillers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

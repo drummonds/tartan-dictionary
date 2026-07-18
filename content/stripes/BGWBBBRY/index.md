@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/b/br/brigid-mhairi/">Brigid Mhairi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/brigid-mhairi/"><img src="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/sett.png" alt="Brigid Mhairi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brigid-mhairi-2/">Brigid Mhairi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brigid-mhairi-2/"><img src="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/sett.png" alt="Brigid Mhairi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

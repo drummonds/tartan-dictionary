@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/as/association-cornemuses-du-monde/">Association Cornemuses du Monde</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/as/association-cornemuses-du-monde/"><img src="/variants/s14/r3k5w3y2db10k1yi19n19k28n3k3n3k3r3~yi2400000-n1700000/sett.png" alt="Association Cornemuses du Monde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/association-cornemuses-du-monde/"><img src="/variants/s14/r3k5w3y2db10k1yi19n19k28n3k3n3k3r3~yi59-n43/sett.png" alt="Association Cornemuses du Monde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

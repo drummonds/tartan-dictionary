@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macneil-of-barra/">MacNeil of Barra</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-of-barra/"><img src="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/sett.png" alt="MacNeil of Barra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-of-barra/"><img src="/variants/s6/lr3t14k12dg12k2ly3~x4~t5313246-k17/sett.png" alt="MacNeil of Barra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

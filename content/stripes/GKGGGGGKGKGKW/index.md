@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/unnamed-c20th-4/">Unnamed C20th</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-c20th-4/"><img src="/variants/s13/y2ki2dg2y2dg3y1dg10ki16dg4k2dg4k10w2~x2~ki0700000-k0504259/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-c20th-4/"><img src="/variants/s13/y2ki2dg2y2dg3y1dg10ki16dg4k2dg4k10w2~x2~ki17-k1309264/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

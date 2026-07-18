@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/u/u-s-air-force-reserve-p-b-corpor/">U.S. Air Force Reserve P. B. (Corpor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-air-force-reserve-p-b-corpor/"><img src="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/sett.png" alt="U.S. Air Force Reserve P. B. (Corpor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-air-force-reserve-p-b-corpor/"><img src="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k17-ly6614084/sett.png" alt="U.S. Air Force Reserve P. B. (Corpor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -356,7 +356,7 @@ weight: 17
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Dalzell](/tartans/d/da/dalzell/) | 1 | 1 |
+| 0.11 | [Dalzell](/tartans/d/da/dalzell-2/) | 1 | 1 |
 | 0.11 | [Dalziel](/tartans/d/da/dalziel/) | 1 | 1 |
 
 ### GKGKGKBKWKBKGKGKR
@@ -968,7 +968,7 @@ weight: 17
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [Prickly Thistle](/tartans/p/pr/prickly-thistle-2/) | 1 | 1 |
+| 0.14 | [Prickly Thistle](/tartans/p/pr/prickly-thistle/) | 1 | 1 |
 
 ### GKBGBGBGBKYKYKGKG
 <a class="pat" href="/stripes/gkbgbgbgbkykykgkg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GKBGBGBGBKYKYKGKG</span></a>

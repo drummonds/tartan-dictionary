@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/baluch-regiment-2/">Baluch Regiment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/baluch-regiment-2/"><img src="/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/sett.png" alt="Baluch Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baluch-regiment-2/"><img src="/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w98/sett.png" alt="Baluch Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/ba/baluchistan-fitzgerald-regimental/">Baluchistan Fitzgerald Regimental</a> <small class="dt">ΔTartan 0.24</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/ba/baluchistan-fitzgerald-regimental/"><img src="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/sett.png" alt="Baluchistan Fitzgerald Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

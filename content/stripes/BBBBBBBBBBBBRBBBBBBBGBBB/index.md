@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/colliers-international/">Colliers International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/colliers-international/"><img src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244/sett.png" alt="Colliers International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colliers-international/"><img src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t5912243/sett.png" alt="Colliers International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

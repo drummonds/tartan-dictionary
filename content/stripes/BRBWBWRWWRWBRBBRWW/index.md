@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/we/welly/">Welly</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/we/welly/"><img src="/variants/s18/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1~x10~dt1602194/sett.png" alt="Welly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/welly/"><img src="/variants/s18/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1~x10~n51-dt4004195/sett.png" alt="Welly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

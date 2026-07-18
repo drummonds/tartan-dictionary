@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/an/anderson-moffat/">Anderson-Moffat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/an/anderson-moffat/"><img src="/variants/s13/k5lb10n10k4n4k4n4k30db21t4db4t24r4~db1404245-t2308259/sett.png" alt="Anderson-Moffat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/anderson-moffat/"><img src="/variants/s13/k5lb10n10k4n4k4n4k30db21t4db4t24r4~db3409246-t5719258/sett.png" alt="Anderson-Moffat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

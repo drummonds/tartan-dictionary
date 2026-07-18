@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/af/afternoon-tea-earl/">Afternoon Tea / Earl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-earl/"><img src="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/sett.png" alt="Afternoon Tea / Earl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-earl/"><img src="/variants/s6/r15t98db72y25db8w15~t5710237-db3409246/sett.png" alt="Afternoon Tea / Earl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/la/lanark-2/">Lanark</a> <small class="dt">ΔTartan 4.94</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/lanark-2/"><img src="/variants/s6/r1db3dr1g3dr5lb1~x4/sett.png" alt="Lanark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

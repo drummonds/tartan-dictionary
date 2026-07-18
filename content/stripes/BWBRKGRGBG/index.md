@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scotland-the-brave-2/">Scotland the Brave</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-the-brave-2/"><img src="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2~db1204274-dg1605139/sett.png" alt="Scotland the Brave sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-the-brave-2/"><img src="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2~db2911276-dg4112135/sett.png" alt="Scotland the Brave sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

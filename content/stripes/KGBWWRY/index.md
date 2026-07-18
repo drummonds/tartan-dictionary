@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ke/kentucky-state/">Kentucky State</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/kentucky-state/"><img src="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/sett.png" alt="Kentucky State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kentucky-state/"><img src="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r5221030-db3514276-dg4514144/sett.png" alt="Kentucky State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/k/ke/kentucky-state-of-2/">Kentucky, State of</a> <small class="dt">ΔTartan 0.11</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/k/ke/kentucky-state-of-2/"><img src="/variants/s7/ly3r3lb4w2db11g13k2~x2/sett.png" alt="Kentucky, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

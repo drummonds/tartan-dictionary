@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/to/toorak-chapler-2/">Toorak Chapler</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/to/toorak-chapler-2/"><img src="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/sett.png" alt="Toorak Chapler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/toorak-chapler-2/"><img src="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly6307084-lyi7811105/sett.png" alt="Toorak Chapler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

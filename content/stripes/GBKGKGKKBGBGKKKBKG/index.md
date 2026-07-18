@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/ls/ls-curling-2/">LS Curling</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/ls/ls-curling-2/"><img src="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/sett.png" alt="LS Curling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ls/ls-curling-2/"><img src="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db3514276-ki17/sett.png" alt="LS Curling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

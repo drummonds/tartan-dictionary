@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/y/yo/young-presidents-organisation/">Young Presidents Organisation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-presidents-organisation/"><img src="/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2~r2109032-db1406275/sett.png" alt="Young Presidents Organisation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-presidents-organisation/"><img src="/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2~r5221030-db3514276/sett.png" alt="Young Presidents Organisation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scrimgeour-of-glassary/"><img src="/variants/s7/r32k3lo6g10r6k3lo32~x2/sett.png" alt="Scrimgeour of Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/sc/scrymgeour/">Scrymgeour</a> <small class="dt">ΔTartan 2.52</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scrymgeour/"><img src="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scrymgeour/"><img src="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo7115081/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

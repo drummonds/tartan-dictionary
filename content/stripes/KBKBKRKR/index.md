@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/laird-abdullah/">Laird Abdullah</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/laird-abdullah/"><img src="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/sett.png" alt="Laird Abdullah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laird-abdullah/"><img src="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r5221030-ri6914021/sett.png" alt="Laird Abdullah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

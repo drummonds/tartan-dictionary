@@ -1166,7 +1166,7 @@ weight: 6
 | 0.08 | [Kinfauns Castle](/tartans/k/ki/kinfauns-castle/) | 2 | 2 |
 | 0.09 | [Connacht](/tartans/c/co/connacht-2/) | 1 | 1 |
 | 0.11 | [Connaught](/tartans/c/co/connaught-2/) | 1 | 1 |
-| 0.12 | [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-2/) | 1 | 1 |
+| 0.12 | [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-3/) | 1 | 1 |
 | 0.15 | [Deeside, Royal](/tartans/d/de/deeside-royal/) | 1 | 1 |
 
 ### RBRGRW

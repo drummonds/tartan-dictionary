@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/e/el/elliot/"><img src="/variants/s4/db44dy12db9dr3~x2/sett.png" alt="Elliot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/g/go/gold-country/">Gold Country</a> <small class="dt">ΔTartan 12.42</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/go/gold-country/"><img src="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/sett.png" alt="Gold Country sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gold-country/"><img src="/variants/s4/db18ni18y28n13~x2~db2719264-ni5507264/sett.png" alt="Gold Country sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

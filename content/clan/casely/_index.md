@@ -9,7 +9,7 @@ Designed by Harry Lindley for Gordon Casely's family, accredited 1993; chiefly s
 
 ## Tartan
 
-<a class="tartan" href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><img src="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/sett.png" alt="Casely" width="240"><br>Casely</a>
+<a class="tartan" href="/variants/s6/r4dg11k11dg2db11g3~x4~dg4607162-g4609132/"><img src="/variants/s6/r4dg11k11dg2db11g3~x4~dg4607162-g4609132/sett.png" alt="Casely" width="240"><br>Casely</a>
 
 ## Families
 

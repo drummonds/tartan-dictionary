@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gl/gleneagles-group/">Gleneagles Group</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-group/"><img src="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-group/"><img src="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g4614147-ly6411111/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

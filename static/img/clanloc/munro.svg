@@ -60,7 +60,7 @@
   </g>
   <g class="overlay">
     <defs>
-      <pattern id="ct0" width="24" height="24" patternUnits="userSpaceOnUse"><image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAIAAADajyQQAAABMUlEQVR4nOyWsW3DMBBFT0JaFR6KC7jgBgFnMryBCi/AoVxogQC6AKEhhWECgf5G3iuMD4kFP3jP1NtsYviGYm1JCpOZXfJSyWOv/f6G6D/n3ZctrVKY9Iod0Ur1xGb/ue2+bGl1ycuAYx3BMRxTAMdwTAccwzEFcAzHdMAxHFMAx3BMBxzDMQVwDMd0wDEcUwDHcEwHHMMxBXAMx3TAMRxTAMdwTIcjHSsn+7m55Js16bru/n2p5PH5TbbZYzz/uVW6ToOt0+znHmVySfn8FLKZ3XP4MY8iTR7yfNtt5bml1T0H7rGecI/953tMBxyr5+HUPLU9c/nfXT5vZxRp8pDXr4dtK8+txSSaHN3q88SEWuWvrz6fxu2aRnDs1aYRx3AMx3AMx0pw7NWm8SMAAP//8sJAgNhd4x4AAAAASUVORK5CYII=" x="0" y="0" width="24" height="24" preserveAspectRatio="xMidYMid slice"/></pattern>
+      <pattern id="ct0" width="24" height="24" patternUnits="userSpaceOnUse"><image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAIAAADajyQQAAABVUlEQVR4nOyWMWrDQBBFR3I6V8FtLpIDqHFtQW4QE58nYN8gYNdpBG5zjkBao8qlIZAJYUCKvASx/sHvVR95C39mnlY3W9PitLszs8niY+DMspqa2bo5DuQy439OxVvVVvf+mtJqWU3lio3SSnRivo1b67ckpdW6ORY4lg8cwzEFcAzHdMAxHFMAx3BMBxzDMQVwDMd0wDEcUwDHcEwHHMMxBXAMx3TAMRxTAMdwTAccwzEFcAzHdBjTsbjZl82R386sNq2ZPT/eDuTy4k262XlY3P+51WrTFva1zT73WiZH4vNZ9Wpmh2Z+NpciTWJ+2b31tvKc0urQzLnHMsI9ds33mA44dmZuxSx5a3Pm+O6Oz9MpRZrE7F8P3VaeU4spNBm91ffEdFp59q8+38bumUQme4EmMT+1p59W++odxzrFFJrgGI7h2D9rhWM4prONnwEAAP//UQ/ACavsh1cAAAAASUVORK5CYII=" x="0" y="0" width="24" height="24" preserveAspectRatio="xMidYMid slice"/></pattern>
     </defs>
     <circle cx="424.0" cy="347.4" r="24.5" fill="url(#ct0)" stroke="#2a2a2a" stroke-width="2.5"/>
   </g>

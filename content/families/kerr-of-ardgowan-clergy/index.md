@@ -17,6 +17,6 @@ A family of [Clan Kerr](/clan/kerr/).
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/k/ke/kerr-of-ardgowan-clergy/">Kerr of Ardgowan Clergy</a> ★</td><td>2000</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ke/kerr-of-ardgowan-clergy/"><img src="/variants/s12/ly2db1dpi42lb2dpi6db1lo1db1dp4b4g1dpi1~x2~dpi1607327-dp1406332/sett.png" alt="Kerr of Ardgowan Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ke/kerr-of-ardgowan-clergy/"><img src="/variants/s12/ly2db1dpi42lb2dpi6db1lo1db1dp4b4g1dpi1~x2~dpi4018327-dp3516327/sett.png" alt="Kerr of Ardgowan Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

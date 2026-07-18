@@ -32,10 +32,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/13-irish-regiment/"><img src="/variants/s4/y100o26dg3b2/sett.png" alt="13, Irish Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-192/">Wilson's No.192</a> <small class="dt">ΔTartan 3.56</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-192/"><img src="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/sett.png" alt="Wilson's No.192 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-192/"><img src="/variants/s4/dp4g10r1y1~x2~dp2712327-r5221030/sett.png" alt="Wilson's No.192 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/hi/highland-spring-2/">Highland Spring</a> <small class="dt">ΔTartan 17.50</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spring-2/"><img src="/variants/s4/dp7g23r3g7~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-spring-2/">Highland Spring</a> <small class="dt">ΔTartan 16.89</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spring-2/"><img src="/variants/s4/dr7g23r3g7~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/manderson-4/">Manderson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/manderson-4/"><img src="/variants/s10/k8n30dg16k24dr8dg32lb32dr7lb12lbi4~lb3103284-lbi3200000/sett.png" alt="Manderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manderson-4/"><img src="/variants/s10/k8n30dg16k24dr8dg32lb32dr7lb12lbi4~lb7609282-lbi80/sett.png" alt="Manderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

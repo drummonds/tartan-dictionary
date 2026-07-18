@@ -2,15 +2,15 @@
 title: "Tartans — Fr"
 date: 2023-03-18
 ---
-73 tartans beginning with Fr, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
+75 tartans beginning with Fr, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/f/fr/frame/"><img src="/variants/s7/k16g15k4lb12k22w2k6~x2/sett.png" alt="Frame" width="140"><br><strong>Frame (1)</strong></a><div class="clan-territory">Frame</div></li>
 <li><a class="tartan" href="/tartans/f/fr/frame-2/"><img src="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4/sett.png" alt="Frame" width="140"><br><strong>Frame (2)</strong></a><div class="clan-territory">Frame</div></li>
 <li><a class="tartan" href="/tartans/f/fr/frame-3/"><img src="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/sett.png" alt="Frame" width="140"><br><strong>Frame (2)</strong></a><div class="clan-territory">Frame</div></li>
-<li><a class="tartan" href="/tartans/f/fr/franconian/"><img src="/variants/s32/k23dbi5k5g5k5g25db5g5k5g5k23r5k5y5k23g5k5g5k5g25k5g5k5dbi5k23g7r5g5w5g5r5g7~x2~dbi1604274-db0805267/sett.png" alt="Franconian" width="140"><br><strong>Franconian (1)</strong></a><div class="clan-territory">Franconian</div></li>
+<li><a class="tartan" href="/tartans/f/fr/franconian/"><img src="/variants/s32/k23dbi5k5g5k5g25db5g5k5g5k23r5k5y5k23g5k5g5k5g25k5g5k5dbi5k23g7r5g5w5g5r5g7~x2~dbi3911270-db1913264/sett.png" alt="Franconian" width="140"><br><strong>Franconian (1)</strong></a><div class="clan-territory">Franconian</div></li>
 <li><a class="tartan" href="/tartans/f/fr/franconian-2/"><img src="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/sett.png" alt="Franconian" width="140"><br><strong>Franconian (1)</strong></a><div class="clan-territory">Franconian</div></li>
-<li><a class="tartan" href="/tartans/f/fr/frangord/"><img src="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi1406275-db1204274/sett.png" alt="Frangord" width="140"><br><strong>Frangord (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fr/frangord/"><img src="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi3514276-db2911276/sett.png" alt="Frangord" width="140"><br><strong>Frangord (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/franklin/"><img src="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/sett.png" alt="Franklin" width="140"><br><strong>Franklin (1)</strong></a><div class="clan-territory">Franklin</div></li>
 <li><a class="tartan" href="/tartans/f/fr/franklin-2/"><img src="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/sett.png" alt="Franklin" width="140"><br><strong>Franklin (1)</strong></a><div class="clan-territory">Franklin</div></li>
 <li><a class="tartan" href="/tartans/f/fr/franklin-museum-unidentified-2/"><img src="/variants/s8/r5g20r25db1r25db20r5db1~x4/sett.png" alt="Franklin Museum Unidentified 2" width="140"><br><strong>Franklin Museum Unidentified 2 (1)</strong></a><div class="clan-territory">Clan Franklin</div></li>
@@ -38,7 +38,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-4/"><img src="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/sett.png" alt="Fraser Hunting" width="140"><br><strong>Fraser Hunting (1)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-dress/"><img src="/variants/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/sett.png" alt="Fraser Hunting Dress" width="140"><br><strong>Fraser Hunting Dress (1)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-dress-2/"><img src="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/sett.png" alt="Fraser Hunting Dress" width="140"><br><strong>Fraser Hunting Dress (1)</strong></a><div class="clan-territory">Fraser</div></li>
-<li><a class="tartan" href="/tartans/f/fr/fraser-red-dress/"><img src="/variants/s7/r4db18dr4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress" width="140"><br><strong>Fraser Red Dress (3)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-red-dress/"><img src="/variants/s7/r4db18dr4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress" width="140"><br><strong>Fraser Red Dress (1)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-red-dress-2/"><img src="/variants/s7/r4db18r4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress" width="140"><br><strong>Fraser Red Dress (2)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-stewart-of-athol/"><img src="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/sett.png" alt="Fraser Stewart of Athol" width="140"><br><strong>Fraser Stewart of Athol (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-vs/"><img src="/variants/s6/r1db6r1g6r12w1/sett.png" alt="Fraser VS" width="140"><br><strong>Fraser VS (1)</strong></a><div class="clan-territory">Clan Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-5/"><img src="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/sett.png" alt="Fraser hunting" width="140"><br><strong>Fraser hunting (1)</strong></a><div class="clan-territory">Fraser</div></li>
@@ -54,12 +55,13 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fr/fraser-wedding-dress/"><img src="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/sett.png" alt="Fraser, Wedding dress" width="140"><br><strong>Fraser, Wedding dress (1)</strong></a><div class="clan-territory">Clan Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-6/"><img src="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/sett.png" alt="Fraser, hunting" width="140"><br><strong>Fraser, hunting (1)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/frasers-highlanders/"><img src="/variants/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/sett.png" alt="Frasers Highlanders" width="140"><br><strong>Frasers Highlanders (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fr/frater/"><img src="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/sett.png" alt="Frater" width="140"><br><strong>Frater (2)</strong></a><div class="clan-territory">Frater</div></li>
+<li><a class="tartan" href="/tartans/f/fr/frater/"><img src="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/sett.png" alt="Frater" width="140"><br><strong>Frater (1)</strong></a><div class="clan-territory">Frater</div></li>
+<li><a class="tartan" href="/tartans/f/fr/frater-2/"><img src="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r3815015-ri6914021/sett.png" alt="Frater" width="140"><br><strong>Frater (1)</strong></a><div class="clan-territory">Frater</div></li>
 <li><a class="tartan" href="/tartans/f/fr/frazer-major/"><img src="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/sett.png" alt="Frazer Major" width="140"><br><strong>Frazer Major (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/fred-perry/"><img src="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/sett.png" alt="Fred Perry" width="140"><br><strong>Fred Perry (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/frederiction-police-force/"><img src="/variants/s8/r6k55db8g6db10g6db6g4~x2/sett.png" alt="Frederiction Police Force" width="140"><br><strong>Frederiction Police Force (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/fredericton/"><img src="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x6/sett.png" alt="Fredericton" width="140"><br><strong>Fredericton (4)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fr/free/"><img src="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b1712264-db1108266/sett.png" alt="Free" width="140"><br><strong>Free (2)</strong></a><div class="clan-territory">Free</div></li>
+<li><a class="tartan" href="/tartans/f/fr/free/"><img src="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b4229264-db2719264/sett.png" alt="Free" width="140"><br><strong>Free (2)</strong></a><div class="clan-territory">Free</div></li>
 <li><a class="tartan" href="/tartans/f/fr/freedom/"><img src="/variants/s6/db6g27db3k19dp27w3~x2/sett.png" alt="Freedom" width="140"><br><strong>Freedom (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/freedom-of-derry/"><img src="/variants/s7/g14y7g14dg50g64w6g7/sett.png" alt="Freedom of Derry" width="140"><br><strong>Freedom of Derry (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/freedom-of-scotland/"><img src="/variants/s6/k15n7k6n11k50n4~x2/sett.png" alt="Freedom of Scotland" width="140"><br><strong>Freedom of Scotland (1)</strong></a></li>
@@ -68,14 +70,14 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fr/freger-2/"><img src="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/sett.png" alt="Freger" width="140"><br><strong>Freger (1)</strong></a><div class="clan-territory">Freger</div></li>
 <li><a class="tartan" href="/tartans/f/fr/freiburg/"><img src="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/sett.png" alt="Freiburg" width="140"><br><strong>Freiburg (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/fremont-presbyterian-church/"><img src="/variants/s8/k6r2k6r12w2db36y1g3~x2/sett.png" alt="Fremont Presbyterian Church" width="140"><br><strong>Fremont Presbyterian Church (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fr/fremsaeter-jenny/"><img src="/variants/s8/t32g5lb8db4dp5w5k5ly8~x2~t2205244-db1208266/sett.png" alt="Fremsaeter, Jenny" width="140"><br><strong>Fremsaeter, Jenny (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fr/fremsaeter-jenny/"><img src="/variants/s8/t32g5lb8db4dp5w5k5ly8~x2~t5313246-db2920264/sett.png" alt="Fremsaeter, Jenny" width="140"><br><strong>Fremsaeter, Jenny (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/french-freemasons-pride/"><img src="/variants/s6/db128dr8lb41dt4lb4dt4/sett.png" alt="French Freemasons' Pride" width="140"><br><strong>French Freemasons' Pride (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/friebe/"><img src="/variants/s5/g15dg18dp23w4r8~x2/sett.png" alt="Friebe" width="140"><br><strong>Friebe (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/friends-of-nordegg/"><img src="/variants/s6/k50g6db6r6n6w3~x2/sett.png" alt="Friends of Nordegg" width="140"><br><strong>Friends of Nordegg (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/friends-of-scotland-caucus/"><img src="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/sett.png" alt="Friends of Scotland Caucus" width="140"><br><strong>Friends of Scotland Caucus (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/froben-christian/"><img src="/variants/s8/k2w2k8y8db24g13k3dr1~x2/sett.png" alt="Froben, Christian" width="140"><br><strong>Froben, Christian (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/frobo-nairn/"><img src="/variants/s5/dr2db9k5g6db1~x4/sett.png" alt="Frobo Nairn" width="140"><br><strong>Frobo Nairn (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fr/frogaletto/"><img src="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/sett.png" alt="Frogaletto" width="140"><br><strong>Frogaletto (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fr/frogaletto/"><img src="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n5004237-db3409246/sett.png" alt="Frogaletto" width="140"><br><strong>Frogaletto (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/fruin-colquhoun/"><img src="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/sett.png" alt="Fruin Colquhoun" width="140"><br><strong>Fruin Colquhoun (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/fruin-colquhoun-2/"><img src="/variants/s7/r5dg19w3k19db19k3db2~x2/sett.png" alt="Fruin Colquhoun" width="140"><br><strong>Fruin Colquhoun (1)</strong></a></li>
 </ul>

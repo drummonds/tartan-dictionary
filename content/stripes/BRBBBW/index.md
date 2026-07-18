@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hu/hutchesons-grammar/">Hutchesons' Grammar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hu/hutchesons-grammar/"><img src="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/sett.png" alt="Hutchesons' Grammar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hutchesons-grammar/"><img src="/variants/s6/lb8n4db30dt30r3dt4~x2~db3514276/sett.png" alt="Hutchesons' Grammar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

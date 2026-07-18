@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kilmarnock-football-club/">Kilmarnock Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilmarnock-football-club/"><img src="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/sett.png" alt="Kilmarnock Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilmarnock-football-club/"><img src="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db2616276-dbi3514276/sett.png" alt="Kilmarnock Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

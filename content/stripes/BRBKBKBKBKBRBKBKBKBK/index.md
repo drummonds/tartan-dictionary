@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ra/rangers-f-c-2/">Rangers F. C.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c-2/"><img src="/variants/s20/db14r3db14k12dbi40k12db2k2db2k2db7r3db7k2db2k2db2k12dbi40k12~x2~db1106275-dbi1406275/sett.png" alt="Rangers F. C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c-2/"><img src="/variants/s20/db14r3db14k12dbi40k12db2k2db2k2db7r3db7k2db2k2db2k12dbi40k12~x2~db2616276-dbi3514276/sett.png" alt="Rangers F. C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

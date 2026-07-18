@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wa/walker-gauvin/">Walker, Gauvin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/walker-gauvin/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/sett.png" alt="Walker, Gauvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walker-gauvin/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y5102165-dt22/sett.png" alt="Walker, Gauvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

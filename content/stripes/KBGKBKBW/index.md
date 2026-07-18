@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/do/dollar-academy/">Dollar Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/do/dollar-academy/"><img src="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/sett.png" alt="Dollar Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dollar-academy/"><img src="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi3409246-db2616276/sett.png" alt="Dollar Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

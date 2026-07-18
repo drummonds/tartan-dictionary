@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-women-s-rural-institutes-the/">Scottish Women's Rural Institutes, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-women-s-rural-institutes-the/"><img src="/variants/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2~db1204274-t2503227/sett.png" alt="Scottish Women's Rural Institutes, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-women-s-rural-institutes-the/"><img src="/variants/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2~db2911276-t6107234/sett.png" alt="Scottish Women's Rural Institutes, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

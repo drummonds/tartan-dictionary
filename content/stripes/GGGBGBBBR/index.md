@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/copar-a-beannichte/">Copar a'Beannichte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/copar-a-beannichte/"><img src="/variants/s9/dgi20g6dg15db5dg2db15n4db10r2~x2~dgi1806142-g2504202/sett.png" alt="Copar a'Beannichte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/copar-a-beannichte/"><img src="/variants/s9/dgi20g6dg15db5dg2db15n4db10r2~x2~dgi4514144-g6110201/sett.png" alt="Copar a'Beannichte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

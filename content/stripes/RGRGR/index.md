@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macnab-7/">MacNab</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-7/"><img src="/variants/s5/r86g3ri3g6ri85~x2~r2208029-ri2209032/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-7/"><img src="/variants/s5/r86g3ri3g6ri85~x2~r5419027-ri5623030/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/pe/pearson-2/">Pearson</a> <small class="dt">ΔTartan 19.98</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pe/pearson-2/"><img src="/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/sett.png" alt="Pearson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/pearson-2/"><img src="/variants/s5/oi3g14o1g14oi3~x4~oi5309063-o5105048/sett.png" alt="Pearson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

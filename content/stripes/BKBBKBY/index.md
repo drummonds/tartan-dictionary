@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/v/vo/vonarb-alfred/">Vonarb, Alfred</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/v/vo/vonarb-alfred/"><img src="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/sett.png" alt="Vonarb, Alfred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vo/vonarb-alfred/"><img src="/variants/s7/t6k3n10db2k2dt45lr2~x2~t6107234-db2609279-dt2705249-lr70/sett.png" alt="Vonarb, Alfred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

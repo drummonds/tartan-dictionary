@@ -27,7 +27,7 @@ A family of [Clan Ferguson](/clan/ferguson/).
 <tr><td><a href="/tartans/f/fe/ferguson-5/">Ferguson</a></td><td>1831</td><td>1</td><td>1</td><td>5.27</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fe/ferguson-5/"><img src="k4g25k24r3db24g4-rev.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fe/ferguson-dress-2/">Ferguson Dress</a></td><td>1980</td><td>2</td><td>2</td><td>9.33</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fe/ferguson-dress-2/"><img src="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/sett.png" alt="Ferguson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fe/ferguson-dress-2/"><img src="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg4514144/sett.png" alt="Ferguson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fe/ferguson/">Ferguson</a></td><td>1830</td><td>2</td><td>2</td><td>9.60</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fe/ferguson/"><img src="/variants/s3/db6g5r1~x4/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

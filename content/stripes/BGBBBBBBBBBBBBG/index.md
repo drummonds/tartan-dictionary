@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hi/highland-cathedral/">Highland Cathedral</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-cathedral/"><img src="/variants/s15/dr4g1dbi22db2dp2dr1dp2dr4db1dp10dr2db20dp1db2y2~x2~dbi1406275-db1404274/sett.png" alt="Highland Cathedral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-cathedral/"><img src="/variants/s15/dr4g1dbi22db2dp2dr1dp2dr4db1dp10dr2db20dp1db2y2~x2~dbi3514276-db3411279/sett.png" alt="Highland Cathedral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

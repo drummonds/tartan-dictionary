@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/on/oneness/">Oneness</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/on/oneness/"><img src="/variants/s16/db12k2ly28k2n2k2lo2k2ly28k2db12r12k3lo2k3r12~x2~ly2503076-lo3006076/sett.png" alt="Oneness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/on/oneness/"><img src="/variants/s16/db12k2ly28k2n2k2lo2k2ly28k2db12r12k3lo2k3r12~x2~ly6307084-lo7414078/sett.png" alt="Oneness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

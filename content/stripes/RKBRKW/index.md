@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/j/je/jewell-of-kernow-2/">Jewell of Kernow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/j/je/jewell-of-kernow-2/"><img src="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/sett.png" alt="Jewell of Kernow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/je/jewell-of-kernow-2/"><img src="/variants/s6/w6k29o29dp7k3r3~x2~o62/sett.png" alt="Jewell of Kernow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pi/pike/">Pike</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pi/pike/"><img src="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/sett.png" alt="Pike sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pike/"><img src="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg4514144-g6019141/sett.png" alt="Pike sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pi/pike-personal-weavers/">Pike Personal Weavers</a> <small class="dt">ΔTartan 1.05</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pi/pike-personal-weavers/"><img src="/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/sett.png" alt="Pike Personal Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/royal-warrant-holders/">Royal Warrant Holders</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-warrant-holders/"><img src="/variants/s8/b61y3db2w2b20w2b4y4~x2~b1813263-db1204274/sett.png" alt="Royal Warrant Holders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-warrant-holders/"><img src="/variants/s8/b61y3db2w2b20w2b4y4~x2~b4531264-db2911276/sett.png" alt="Royal Warrant Holders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -3,8 +3,22 @@ title: 9 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 9
 ---
-1,239 setts across 1,156 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,241 setts across 1,157 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes9/p2/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <a href="/stripes/stripes9/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes9/p4/">4</a> <a href="/stripes/stripes9/p5/">5</a> <a href="/stripes/stripes9/p4/">next ›</a></nav>
+
+### BKBKBKYKY
+<a class="pat" href="/stripes/bkbkbkyky/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BKBKBKYKY</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.12 | [Scotsburn Croft](/tartans/s/sc/scotsburn-croft-2/) | 1 | 1 |
+
+### BKBKBRYBY
+<a class="pat" href="/stripes/bkbkbryby/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BKBKBRYBY</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.06 | [Unidentified](/tartans/u/un/unidentified-22/) | 1 | 1 |
 
 ### BKBKGRGGW
 <a class="pat" href="/stripes/bkbkgrggw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKBKGRGGW</span></a>
@@ -942,7 +956,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney/) | 1 | 1 |
+| 0.09 | [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-2/) | 1 | 1 |
 
 ### BWKRWRWRY
 <a class="pat" href="/stripes/bwkrwrwry/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BWKRWRWRY</span></a>
@@ -2091,19 +2105,5 @@ weight: 9
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.07 | [MacRae Hunting](/tartans/m/ma/macrae-hunting-3/) | 1 | 1 |
-
-### GKGRGRGKW
-<a class="pat" href="/stripes/gkgrgrgkw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GKGRGRGKW</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.07 | [Ellis](/tartans/e/el/ellis-3/) | 1 | 1 |
-
-### GKGRKRGKY
-<a class="pat" href="/stripes/gkgrkrgky/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GKGRKRGKY</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.09 | [Cozumel](/tartans/c/co/cozumel/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes9/p2/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <a href="/stripes/stripes9/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes9/p4/">4</a> <a href="/stripes/stripes9/p5/">5</a> <a href="/stripes/stripes9/p4/">next ›</a></nav>

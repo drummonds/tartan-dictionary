@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/g/go/gordonstoun/">Gordonstoun</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/go/gordonstoun/"><img src="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gordonstoun-2/">Gordonstoun</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordonstoun-2/"><img src="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

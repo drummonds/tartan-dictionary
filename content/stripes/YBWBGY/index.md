@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/so/south-aiken-presby-church-corporate/">South Aiken Presby Church (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/so/south-aiken-presby-church-corporate/"><img src="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/sett.png" alt="South Aiken Presby Church (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/south-aiken-presby-church-corporate/"><img src="/variants/s6/ly30g3t2lb2t30lo4~x2~t5912243-lb8007237/sett.png" alt="South Aiken Presby Church (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -365,7 +365,7 @@ weight: 16
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Gordon](/tartans/g/go/gordon/) | 2 | 2 |
+| 0.08 | [Gordon](/tartans/g/go/gordon-2/) | 2 | 2 |
 
 ### GGKBKGKGKBKGKGKG
 <a class="pat" href="/stripes/ggkbkgkgkbkgkgkg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGKBKGKGKBKGKGKG</span></a>
@@ -1692,7 +1692,7 @@ weight: 16
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Gordon](/tartans/g/go/gordon-6/) | 1 | 1 |
+| 0.10 | [Gordon](/tartans/g/go/gordon-7/) | 1 | 1 |
 
 ### KRWBWBGBRBGBWBWR
 <a class="pat" href="/stripes/krwbwbgbrbgbwbwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRWBWBGBRBGBWBWR</span></a>
@@ -1881,7 +1881,7 @@ weight: 16
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [North West Mounted Police](/tartans/n/no/north-west-mounted-police-2/) | 1 | 1 |
+| 0.11 | [North West Mounted Police](/tartans/n/no/north-west-mounted-police/) | 1 | 1 |
 
 ### RRWRWRRRWRWBGKBW
 <a class="pat" href="/stripes/rrwrwrrrwrwbgkbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRWRWRRRWRWBGKBW</span></a>

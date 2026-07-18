@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/an/antrim-county-crest-range/">Antrim County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/an/antrim-county-crest-range/"><img src="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/sett.png" alt="Antrim County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antrim-county-crest-range/"><img src="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db2820264/sett.png" alt="Antrim County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

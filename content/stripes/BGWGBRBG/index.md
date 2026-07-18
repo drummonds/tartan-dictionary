@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/united-services-planning-assoc/">United Services Planning Assoc</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/united-services-planning-assoc/"><img src="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/sett.png" alt="United Services Planning Assoc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-services-planning-assoc/"><img src="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi3911270-db1913264/sett.png" alt="United Services Planning Assoc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

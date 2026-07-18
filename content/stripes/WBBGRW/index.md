@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/ee/eeraerts-laurent/">Eeraerts, Laurent</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ee/eeraerts-laurent/"><img src="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/sett.png" alt="Eeraerts, Laurent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ee/eeraerts-laurent/"><img src="/variants/s6/w3b12db1g15o3w1~x4~b5921264-db3514276/sett.png" alt="Eeraerts, Laurent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pa/pagus-wasia/">Pagus Wasia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pa/pagus-wasia/"><img src="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/sett.png" alt="Pagus Wasia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/pagus-wasia/"><img src="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db2516267-n4208279-dt2707273/sett.png" alt="Pagus Wasia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

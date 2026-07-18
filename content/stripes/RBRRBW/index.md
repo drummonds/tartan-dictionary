@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fe/fernie/">Fernie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fe/fernie/"><img src="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/sett.png" alt="Fernie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fernie/"><img src="/variants/s6/r25dt5ri2r12n1w1~x2~r3815015-ri6519045/sett.png" alt="Fernie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

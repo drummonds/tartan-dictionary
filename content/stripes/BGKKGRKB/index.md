@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/barton-watson-de-bavidge/">Barton-Watson de Bavidge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/barton-watson-de-bavidge/"><img src="/variants/s8/dp3k16r3dg17ki16k26dy1dp3~x2~k0504259-ki0700000/sett.png" alt="Barton-Watson de Bavidge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barton-watson-de-bavidge/"><img src="/variants/s8/dp3k16r3dg17ki16k26dy1dp3~x2~k1309264-ki17/sett.png" alt="Barton-Watson de Bavidge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/ba/barton-watson-de/">Barton-Watson, de</a> <small class="dt">ΔTartan 0.08</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/barton-watson-de/"><img src="/variants/s8/dp3ki16r3dg17k16ki26y1dp3~x2~ki0604259/sett.png" alt="Barton-Watson, de sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barton-watson-de/"><img src="/variants/s8/dp3ki16r3dg17k16ki26y1dp3~x2~ki1410264/sett.png" alt="Barton-Watson, de sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

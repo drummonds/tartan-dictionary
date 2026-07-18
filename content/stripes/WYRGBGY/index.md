@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ab/aberdeenshire-home-colours/">Aberdeenshire Home Colours</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeenshire-home-colours/"><img src="/variants/s7/lb19lo12r4y8n4g6lg16~x2~g2203152-lg3105139/sett.png" alt="Aberdeenshire Home Colours sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeenshire-home-colours/"><img src="/variants/s7/lb19lo12r4y8n4g6lg16~x2~g5408159-lg7612141/sett.png" alt="Aberdeenshire Home Colours sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

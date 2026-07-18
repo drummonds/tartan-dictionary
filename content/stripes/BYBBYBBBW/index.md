@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/heirloom-blue-alba/">Heirloom Blue Alba</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/heirloom-blue-alba/"><img src="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/sett.png" alt="Heirloom Blue Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heirloom-blue-alba/"><img src="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t6107234-lr70/sett.png" alt="Heirloom Blue Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

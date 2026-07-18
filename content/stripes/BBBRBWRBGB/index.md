@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bu/bukowski-jackson/">Bukowski-Jackson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bu/bukowski-jackson/"><img src="/variants/s10/dt30t5dt5o5dt10w4r4dt10g5dt10~x2~dt1102249-t2503227/sett.png" alt="Bukowski-Jackson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bukowski-jackson/"><img src="/variants/s10/dt30t5dt5o5dt10w4r4dt10g5dt10~x2~dt2705249-t6107234/sett.png" alt="Bukowski-Jackson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

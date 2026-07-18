@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/loch-garth-2/">Loch Garth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-garth-2/"><img src="/variants/s4/o12oi6o2y1~x4~o2102055-oi2104058/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-garth-2/"><img src="/variants/s4/o12oi6o2y1~x4~o5105048-oi5309063/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

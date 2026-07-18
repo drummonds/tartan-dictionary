@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kierson/">Kierson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kierson/"><img src="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/sett.png" alt="Kierson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kierson/"><img src="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg4514144/sett.png" alt="Kierson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

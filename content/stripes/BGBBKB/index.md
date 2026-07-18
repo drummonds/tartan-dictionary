@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch/"><img src="/variants/s6/t3k2t8db8g8db2~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/me/meeson-dress/">Meeson Dress</a> <small class="dt">ΔTartan 5.77</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/me/meeson-dress/"><img src="/variants/s6/t26k10db19dr6dy2dbi9~x2~db1404245-dbi1704245/sett.png" alt="Meeson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meeson-dress/"><img src="/variants/s6/t26k10db19dr6dy2dbi9~x2~db3409246-dbi4211249/sett.png" alt="Meeson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

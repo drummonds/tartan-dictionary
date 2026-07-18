@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/ew/ewell-castle-school/">Ewell Castle School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ew/ewell-castle-school/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ew/ewell-castle-school/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt2604240-db3409246/sett.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/st/steffen-markus/">Steffen, Markus</a> <small class="dt">ΔTartan 11.39</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/steffen-markus/"><img src="/variants/s6/db35w4db10dr3r3dr3~x4/sett.png" alt="Steffen, Markus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

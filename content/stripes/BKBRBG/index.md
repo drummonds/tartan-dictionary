@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ni/nicolson-of-tiree-coll/">Nicolson of Tiree &amp; Coll</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-tiree-coll/"><img src="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/sett.png" alt="Nicolson of Tiree &amp; Coll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-tiree-coll/"><img src="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi3514276-db3409246/sett.png" alt="Nicolson of Tiree &amp; Coll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/or/original-tartan-ltd/">Original Tartan Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/or/original-tartan-ltd/"><img src="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/sett.png" alt="Original Tartan Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/original-tartan-ltd/"><img src="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg4514144-lt8113186-g6110192/sett.png" alt="Original Tartan Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

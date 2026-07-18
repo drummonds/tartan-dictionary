@@ -42,7 +42,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/s/sa/samye-sangha/">Samye Sangha</a> <small class="dt">ΔTartan 7.31</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sa/samye-sangha/"><img src="/variants/s6/dr32r3dr3r2dr3r23~x2/sett.png" alt="Samye Sangha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/ha/harmony-12-2/">Harmony, 12</a> <small class="dt">ΔTartan 19.12</small></td></tr>
+<tr><td><a href="/tartans/h/ha/harmony-12-2/">Harmony, 12</a> <small class="dt">ΔTartan 19.11</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-12-2/"><img src="/variants/s6/n6o2n29o29n2o6~x2/sett.png" alt="Harmony, 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cu/culloden-gold/">Culloden, Gold</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cu/culloden-gold/"><img src="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/sett.png" alt="Culloden, Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/culloden-gold/"><img src="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y5912102-ly8217090/sett.png" alt="Culloden, Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

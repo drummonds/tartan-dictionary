@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/hebridean-5/">Hebridean 5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-5/"><img src="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db1204274-dbi1406275/sett.png" alt="Hebridean 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-5/"><img src="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db2911276-dbi3514276/sett.png" alt="Hebridean 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

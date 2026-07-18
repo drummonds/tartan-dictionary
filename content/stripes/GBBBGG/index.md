@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-ballet/">Scottish Ballet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-ballet/"><img src="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/sett.png" alt="Scottish Ballet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-ballet/"><img src="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp2712327-dpi4018327/sett.png" alt="Scottish Ballet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

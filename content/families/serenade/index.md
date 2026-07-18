@@ -15,8 +15,8 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/s/se/serenade/">Serenade</a> ★</td><td>1972</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/serenade/"><img src="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/se/serenade-2/">Serenade</a></td><td>~1972</td><td>1</td><td>1</td><td>3.18</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/serenade/"><img src="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp4018327-lg7513195-db3514276-lb82/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/serenade-2/">Serenade</a></td><td>~1972</td><td>1</td><td>1</td><td>3.22</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/serenade-2/"><img src="db6dp12lg3dp12t6db2t26dp16lb2dp6-rev.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

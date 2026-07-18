@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gl/glenorchy-2/">Glenorchy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenorchy-2/"><img src="/variants/s15/g3r2w1db18r2g8r4lb1db8r2g18r2w1db3lb1~x2~r2209032-w3502055/sett.png" alt="Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenorchy-2/"><img src="/variants/s15/g3r2w1db18r2g8r4lb1db8r2g18r2w1db3lb1~x2~r5623030-w8504057/sett.png" alt="Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

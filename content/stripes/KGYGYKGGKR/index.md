@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/du/dutch-friendship/">Dutch Friendship</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/dutch-friendship/"><img src="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/sett.png" alt="Dutch Friendship sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dutch-friendship/"><img src="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y5405114-g4808117/sett.png" alt="Dutch Friendship sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

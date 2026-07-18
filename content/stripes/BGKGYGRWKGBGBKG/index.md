@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/eu/euler-hermes/">Euler Hermes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/eu/euler-hermes/"><img src="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/sett.png" alt="Euler Hermes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eu/euler-hermes/"><img src="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t5912243-lb7609282/sett.png" alt="Euler Hermes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

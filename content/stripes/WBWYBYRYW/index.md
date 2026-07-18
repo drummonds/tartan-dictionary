@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wo/wombles-6/">Wombles 6</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wo/wombles-6/"><img src="/variants/s9/w4db8w1lo1dbi6lo3r6lo1w4~x2~db0804274-dbi1605267/sett.png" alt="Wombles 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wombles-6/"><img src="/variants/s9/w4db8w1lo1dbi6lo3r6lo1w4~x2~db2011270-dbi3912267/sett.png" alt="Wombles 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

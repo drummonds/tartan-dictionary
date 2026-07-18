@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/du/duke-of-perth-8/">Duke of Perth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-perth-8/"><img src="/variants/s18/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1~x2~dg1605139/sett.png" alt="Duke of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-perth-8/"><img src="/variants/s18/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1~x2~dg4112135/sett.png" alt="Duke of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

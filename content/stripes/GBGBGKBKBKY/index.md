@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/0-9/0-9/79th-regiment/">79th Regiment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/79th-regiment/"><img src="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/sett.png" alt="79th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/79th-regiment/"><img src="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki17-k1309264/sett.png" alt="79th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -38,9 +38,9 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/t/tw/twisted-kilt-society/"><img src="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/sett.png" alt="Twisted Kilt Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/pi/pinney-s-of-scotland-2/">Pinney's of Scotland</a> <small class="dt">ΔTartan 14.49</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pi/pinney-s-of-scotland-2/"><img src="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/sett.png" alt="Pinney's of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pinney-s-of-scotland-2/"><img src="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db2911276-dbi3514276/sett.png" alt="Pinney's of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/hi/hickory/">Hickory</a> <small class="dt">ΔTartan 20.03</small></td></tr>
+<tr><td><a href="/tartans/h/hi/hickory/">Hickory</a> <small class="dt">ΔTartan 20.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hi/hickory/"><img src="/variants/s10/db4dy30do2dy2do14y2do2y1do6g3~x2/sett.png" alt="Hickory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

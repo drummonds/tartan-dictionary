@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/de/derry/">Derry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/de/derry/"><img src="/variants/s9/w6lb36ly12g19dg6r6dg6r28dg4~g2408144-dg1806142/sett.png" alt="Derry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/derry/"><img src="/variants/s9/w6lb36ly12g19dg6r6dg6r28dg4~g6019141-dg4514144/sett.png" alt="Derry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

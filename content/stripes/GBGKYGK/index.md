@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/j/jo/joe-strummer-commemorative/">Joe Strummer Commemorative</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/j/jo/joe-strummer-commemorative/"><img src="/variants/s7/k3dy3ly6k12dyi1n2dy2~x4~dy1303057-dyi1803076/sett.png" alt="Joe Strummer Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/joe-strummer-commemorative/"><img src="/variants/s7/k3dy3ly6k12dyi1n2dy2~x4~dy3308054-dyi4507084/sett.png" alt="Joe Strummer Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

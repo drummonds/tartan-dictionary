@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/ross-hunting-2/">Ross Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-hunting-2/"><img src="/variants/s25/dg4g2dg3g3dg4k5dg3k5dg28r2dg4r2dg4r2dg28k5dg3k5dg4g2dg2g2dg3g4dg3~x2~dg1504144-g2408144/sett.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-hunting-2/"><img src="/variants/s25/dg4g2dg3g3dg4k5dg3k5dg28r2dg4r2dg4r2dg28k5dg3k5dg4g2dg2g2dg3g4dg3~x2~dg3710150-g6019141/sett.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

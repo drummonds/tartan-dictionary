@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-heather/">Scottish Heather</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-heather/"><img src="/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2~db1406275-dp1105325/sett.png" alt="Scottish Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-heather/"><img src="/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2~db3514276-dp2712327/sett.png" alt="Scottish Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/su/suzugamine/">Suzugamine</a> <small class="dt">ΔTartan 5.73</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/su/suzugamine/"><img src="/variants/s9/db4do5g19dp5do5k5do5db36w3~x2/sett.png" alt="Suzugamine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hy/hyland-evening/">Hyland Evening</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hy/hyland-evening/"><img src="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/sett.png" alt="Hyland Evening sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hyland-evening/"><img src="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp2712327-dpi4018327/sett.png" alt="Hyland Evening sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

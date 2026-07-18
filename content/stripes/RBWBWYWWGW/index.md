@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fo/forfar/">Forfar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/forfar/"><img src="/variants/s10/lb3dy1lb23w20ly1w4db22lb4db4r1~x2/sett.png" alt="Forfar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forfar/"><img src="/variants/s10/lb3dy1lb23w20ly1w4t22lb4t4r1~x2/sett.png" alt="Forfar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

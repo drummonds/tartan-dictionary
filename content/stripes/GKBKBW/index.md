@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clunie/"><img src="/variants/s6/w12db48k13n22k3y6/sett.png" alt="Clunie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/pr/pride-of-yorkland/">Pride of Yorkland</a> <small class="dt">ΔTartan 3.63</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-yorkland/"><img src="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/sett.png" alt="Pride of Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-yorkland/"><img src="/variants/s6/g35k3dbi26k4db4w3~x2~dbi3514276-db2616276/sett.png" alt="Pride of Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

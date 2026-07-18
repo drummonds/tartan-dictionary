@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kildare-irish-county/">Kildare Irish County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildare-irish-county/"><img src="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/sett.png" alt="Kildare Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildare-irish-county/"><img src="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg8206138/sett.png" alt="Kildare Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

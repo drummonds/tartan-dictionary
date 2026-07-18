@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ar/armagh-county-crest/">Armagh County Crest</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ar/armagh-county-crest/"><img src="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/sett.png" alt="Armagh County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/armagh-county-crest/"><img src="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db2609279-dbi3514276/sett.png" alt="Armagh County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

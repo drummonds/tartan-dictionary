@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-sir-walter-scott/"><img src="/variants/s6/k2g8db2k9dp7k2~x2/sett.png" alt="Campbell, Sir Walter Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/g/gr/granger-2/">Granger</a> <small class="dt">ΔTartan 3.90</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/granger-2/"><img src="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/sett.png" alt="Granger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/granger-2/"><img src="/variants/s6/k40dt4k12dt21dg17k4~x2~dg4410159/sett.png" alt="Granger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/sc/scottish-football-association/">Scottish Football Association</a> <small class="dt">ΔTartan 4.74</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-football-association/"><img src="/variants/s6/k120b4k12dt36dg3k6/sett.png" alt="Scottish Football Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

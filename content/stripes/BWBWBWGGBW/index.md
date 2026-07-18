@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/greenshields/">Greenshields</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/greenshields/"><img src="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greenshields/"><img src="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~dg3007159/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

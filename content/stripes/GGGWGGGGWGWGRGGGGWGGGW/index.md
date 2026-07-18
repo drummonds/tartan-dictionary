@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/to/toshach/">Toshach</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/to/toshach/"><img src="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g2408144/sett.png" alt="Toshach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/toshach/"><img src="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g6019141/sett.png" alt="Toshach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

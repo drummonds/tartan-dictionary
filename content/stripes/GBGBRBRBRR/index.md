@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/y/ya/yarns-to-yearn-for/">Yarns to Yearn For</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/y/ya/yarns-to-yearn-for/"><img src="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/sett.png" alt="Yarns to Yearn For sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ya/yarns-to-yearn-for/"><img src="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri6914021-r4518006/sett.png" alt="Yarns to Yearn For sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

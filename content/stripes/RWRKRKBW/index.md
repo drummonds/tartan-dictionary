@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/hebridean-granite-2/">Hebridean Granite</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-granite-2/"><img src="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/sett.png" alt="Hebridean Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-granite-2/"><img src="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o62-n47/sett.png" alt="Hebridean Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -506,7 +506,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [MacKinnon](/tartans/m/ma/mackinnon-3/) | 2 | 3 |
+| 0.08 | [MacKinnon](/tartans/m/ma/mackinnon-5/) | 2 | 3 |
 | 0.08 | [MacKinnon 10](/tartans/m/ma/mackinnon-10/) | 1 | 1 |
 | 0.10 | [MacDonald of Staffa](/tartans/m/ma/macdonald-of-staffa-6/) | 1 | 1 |
 
@@ -1048,7 +1048,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Hyndman](/tartans/h/hy/hyndman/) | 1 | 1 |
+| 0.10 | [Hyndman](/tartans/h/hy/hyndman-2/) | 1 | 1 |
 
 ### BBBBBKGKGKWKGK
 <a class="pat" href="/stripes/bbbbbkgkgkwkgk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">BBBBBKGKGKWKGK</span></a>
@@ -1412,7 +1412,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Hyndman](/tartans/h/hy/hyndman-3/) | 1 | 1 |
+| 0.09 | [Hyndman](/tartans/h/hy/hyndman-4/) | 1 | 1 |
 
 ### BGRGBGRGBGBGRG
 <a class="pat" href="/stripes/bgrgbgrgbgbgrg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BGRGBGRGBGBGRG</span></a>
@@ -1790,7 +1790,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Hyndman](/tartans/h/hy/hyndman-4/) | 1 | 1 |
+| 0.10 | [Hyndman](/tartans/h/hy/hyndman-5/) | 1 | 1 |
 
 ### BRBRBGRGKBRBRB
 <a class="pat" href="/stripes/brbrbgrgkbrbrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BRBRBGRGKBRBRB</span></a>
@@ -1804,7 +1804,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [Hyndman](/tartans/h/hy/hyndman-4/) | 1 | 1 |
+| 0.07 | [Hyndman](/tartans/h/hy/hyndman-5/) | 1 | 1 |
 
 ### BRBRBRBKRGBGBG
 <a class="pat" href="/stripes/brbrbrbkrgbgbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBRBRBKRGBGBG</span></a>
@@ -1839,7 +1839,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Perth](/tartans/p/pe/perth-2/) | 1 | 1 |
+| 0.09 | [Duke of Perth (Register C18th)](/tartans/d/du/duke-of-perth-register-c18th/) | 1 | 1 |
 
 ### BRBWBWBWBYBRWB
 <a class="pat" href="/stripes/brbwbwbwbybrwb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">BRBWBWBWBYBRWB</span></a>

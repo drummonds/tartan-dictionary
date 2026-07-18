@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wa/wagland-2/">Wagland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/wagland-2/"><img src="/variants/s12/db6y2db15g12dg39w3dg39g12db15y2db6r3~x2~dg1605139/sett.png" alt="Wagland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wagland-2/"><img src="/variants/s12/db6y2db15g12dg39w3dg39g12db15y2db6r3~x2~dg4112135/sett.png" alt="Wagland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

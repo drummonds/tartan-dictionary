@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/we/westin-kierland/">Westin Kierland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/we/westin-kierland/"><img src="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/sett.png" alt="Westin Kierland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westin-kierland/"><img src="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi8517093-ly6614084/sett.png" alt="Westin Kierland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

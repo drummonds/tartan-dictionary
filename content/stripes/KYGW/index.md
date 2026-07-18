@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hamworthy-association/">Hamworthy Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamworthy-association/"><img src="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/sett.png" alt="Hamworthy Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamworthy-association/"><img src="/variants/s4/k41lg16dg14w2~x2~lg6709222-w90/sett.png" alt="Hamworthy Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-140/">Wilson's No.140</a> <small class="dt">ΔTartan 1.10</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-140/"><img src="/variants/s4/k2ly1g7lb1~x2~ly3307090/sett.png" alt="Wilson's No.140 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-140/"><img src="/variants/s4/k2ly1g7lb1~x2~ly8117093/sett.png" alt="Wilson's No.140 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

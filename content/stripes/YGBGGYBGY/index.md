@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/monaghan-irish-county/">Monaghan Irish County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/monaghan-irish-county/"><img src="/variants/s9/lo3dg2dr14dgi17dg14lo8dr14dg2lo3~x2~dg1001060-dgi1403171/sett.png" alt="Monaghan Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monaghan-irish-county/"><img src="/variants/s9/lo3dg2dr14dgi17dg14lo8dr14dg2lo3~x2~dg2403087-dgi3508162/sett.png" alt="Monaghan Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mu/munster/">Munster</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mu/munster/"><img src="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi1806142/sett.png" alt="Munster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/munster/"><img src="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi4514144/sett.png" alt="Munster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

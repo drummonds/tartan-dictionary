@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pr/pride-of-scotland-general/">Pride of Scotland General</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-general/"><img src="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/sett.png" alt="Pride of Scotland General sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-general/"><img src="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi4018327-dp3708327/sett.png" alt="Pride of Scotland General sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scottish-pride-2/">Scottish Pride</a> <small class="dt">ΔTartan 0.52</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-pride-2/"><img src="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/sett.png" alt="Scottish Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-pride-2/"><img src="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi4018327-dp2712327/sett.png" alt="Scottish Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

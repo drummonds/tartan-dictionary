@@ -9,7 +9,7 @@ crumbs:
 
 ## Tartan
 
-<a class="tartan" href="/variants/s10/lo4k28lo2db7w3k9y2w4y2k2~x2~lo3006076-y2505139/"><img src="/variants/s10/lo4k28lo2db7w3k9y2w4y2k2~x2~lo3006076-y2505139/sett.png" alt="Bird Family (Wales) (Personal)" width="240"><br>Bird Family (Wales) (Personal)</a>
+<a class="tartan" href="/variants/s10/lo4k28lo2db7w3k9y2w4y2k2~x2~lo7414078-y6212135/"><img src="/variants/s10/lo4k28lo2db7w3k9y2w4y2k2~x2~lo7414078-y6212135/sett.png" alt="Bird Family (Wales) (Personal)" width="240"><br>Bird Family (Wales) (Personal)</a>
 
 ## Families
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/concours-of-elegance/">Concours of Elegance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/concours-of-elegance/"><img src="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/sett.png" alt="Concours of Elegance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/concours-of-elegance/"><img src="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db2508270-b4819270/sett.png" alt="Concours of Elegance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

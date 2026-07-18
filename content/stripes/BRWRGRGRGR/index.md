@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/h/ha/harkness-2/">Harkness</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harkness-2/"><img src="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/sett.png" alt="Harkness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harkness-dress/">Harkness Dress</a> <small class="dt">ΔTartan 0.11</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/harkness-dress/"><img src="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4~w4000000/sett.png" alt="Harkness Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harkness-dress/"><img src="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4~w98/sett.png" alt="Harkness Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

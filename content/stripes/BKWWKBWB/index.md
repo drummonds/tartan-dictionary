@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cr/croy-jake/">Croy, Jake</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cr/croy-jake/"><img src="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt3304230-t2105244/sett.png" alt="Croy, Jake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/croy-jake/"><img src="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt8110237-t5211240/sett.png" alt="Croy, Jake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

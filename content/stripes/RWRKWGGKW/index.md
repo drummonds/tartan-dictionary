@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/dr/drummond-of-perth-dress-4/">Drummond of Perth Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-dress-4/"><img src="/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-dress-4/"><img src="/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg4514144-g5408159/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/u/un/unidentified-arisaid/">Unidentified Arisaid</a> <small class="dt">ΔTartan 0.62</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-arisaid/"><img src="/variants/s9/w216k8dg24g24w4k4r45w8r12/sett.png" alt="Unidentified Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

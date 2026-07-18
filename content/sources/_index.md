@@ -11,18 +11,18 @@ When the same cloth is recorded by more than one source, the records **collapse*
 
 | Source | Holds | Records | Status |
 |---|---|---|---|
-| [Editorial curation](/sources/curation/) | editorial curation overlay | 1673 | active |
+| [Editorial curation](/sources/curation/) | editorial curation overlay | 5039 | active |
 | [DC Dalgleish shade card](/sources/dc-dalgleish-colours/) | colour / shade definitions | 2 | active |
 | [House of Tartan](/sources/house-of-tartan/) | tartan setts | 2152 | active |
 | [Logan, The Scottish Gaël (1831)](/sources/logan-1831/) | tartan setts | 55 | active |
 | [Peter, The Baronage of Angus and Mearns (1856)](/sources/peter-1856/) | tartan setts | 38 | active |
 | [Scottish Register of Tartans](/sources/register-of-tartans/) | tartan setts | 7427 | active |
-| [Our own research](/sources/research/) | tartan setts | 14 | active |
+| [Our own research](/sources/research/) | tartan setts | 112 | active |
 | [Tartan Register colour definitions](/sources/str-colours/) | colour / shade definitions | 145 | active |
 | [Scottish Tartans Authority](/sources/tartans-authority/) | tartan setts | 5999 | active |
 | [Weddslist](/sources/weddslist/) | tartan setts | 3397 | active |
 | [Ingles Buchan](/sources/inglesbuchan/) | cloth photographs | 519 | pending |
-| [Paintings](/sources/paintings/) | cloth photographs | 1 | pending |
+| [Paintings](/sources/paintings/) | cloth photographs | 57 | pending |
 | [Scottish Register of Tartans (site mirror)](/sources/registry/) | cloth photographs | 9505 | pending |
 | [Lochcarron shade card](/sources/lochcarron-colours/) | colour / shade definitions | 20 | scaffold |
 | [Wikipedia](/sources/wikipedia/) | descriptive text | 1 | scaffold |

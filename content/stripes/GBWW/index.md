@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/mackerral/">MacKerral</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackerral/"><img src="/variants/s4/w4lb34db60y3~x2/sett.png" alt="MacKerral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-hunting/">McKerrell of Hillhouse Hunting</a> <small class="dt">ΔTartan 0.27</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-hunting/"><img src="/variants/s4/w4lb28db49y3~x2~db1204274/sett.png" alt="McKerrell of Hillhouse Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-hunting/"><img src="/variants/s4/w4lb28db49y3~x2~db2911276/sett.png" alt="McKerrell of Hillhouse Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

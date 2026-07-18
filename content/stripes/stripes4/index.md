@@ -3,7 +3,7 @@ title: 4 stripes tartan setts
 date: 2023-03-18
 weight: 4
 ---
-395 setts across 372 tartans with 4 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+393 setts across 371 tartans with 4 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 
 <ul class="band-summary">
 <li><a class="count" href="/stripes/grgr/"><strong>GRGR</strong> · 11 setts · 9 tartans</a><div class="samples"><a class="pat" href="/stripes/grgr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRGR</span></a></div></li>
@@ -76,7 +76,6 @@ weight: 4
 <li><a class="count" href="/stripes/gkbk/"><strong>GKBK</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gkbk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">GKBK</span></a></div></li>
 <li><a class="count" href="/stripes/gkbr/"><strong>GKBR</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gkbr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">GKBR</span></a></div></li>
 <li><a class="count" href="/stripes/gkbw/"><strong>GKBW</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gkbw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GKBW</span></a></div></li>
-<li><a class="count" href="/stripes/grbbbbbbw/"><strong>GRBBBBBBW</strong> · 2 setts · 1 tartans</a><div class="samples"><a class="pat" href="/stripes/grbbbbbbw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRBBBBBBW</span></a></div></li>
 <li><a class="count" href="/stripes/grkr/"><strong>GRKR</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/grkr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRKR</span></a></div></li>
 <li><a class="count" href="/stripes/gwbk/"><strong>GWBK</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gwbk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">GWBK</span></a></div></li>
 <li><a class="count" href="/stripes/gwgw/"><strong>GWGW</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gwgw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GWGW</span></a></div></li>
@@ -309,7 +308,7 @@ weight: 4
 | 0.09 | [Lucard, Stéphane](/tartans/l/lu/lucard-st-phane/) | 1 | 1 |
 | 0.11 | [Blue Meadow](/tartans/b/bl/blue-meadow/) | 1 | 1 |
 | 0.12 | [Norwich University Regimental](/tartans/n/no/norwich-university-regimental/) | 1 | 1 |
-| 0.17 | [Outlander](/tartans/o/ou/outlander-3/) | 1 | 1 |
+| 0.17 | [Outlander](/tartans/o/ou/outlander-4/) | 1 | 1 |
 
 ### BGRG
 <a class="pat" href="/stripes/bgrg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BGRG</span></a>
@@ -381,7 +380,7 @@ weight: 4
 |---|---|---|---|
 | 0.09 | [Oxford University](/tartans/o/ox/oxford-university-2/) | 2 | 2 |
 | 0.14 | [Hirstwood](/tartans/h/hi/hirstwood/) | 1 | 1 |
-| 0.15 | [Loch Garth](/tartans/l/lo/loch-garth-2/) | 1 | 1 |
+| 0.15 | [Loch Garth](/tartans/l/lo/loch-garth-3/) | 1 | 1 |
 
 ### BGRW
 <a class="pat" href="/stripes/bgrw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BGRW</span></a>
@@ -833,13 +832,6 @@ weight: 4
 | 0.10 | [Riddick Furya](/tartans/r/ri/riddick-furya/) | 1 | 1 |
 | 0.13 | [Wilson's No.228](/tartans/w/wi/wilson-s-no-228/) | 1 | 1 |
 
-### GRBBBBBBW
-<a class="pat" href="/stripes/grbbbbbbw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRBBBBBBW</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.13 | [Rose VS](/tartans/r/ro/rose-vs-2/) | 1 | 2 |
-
 ### GRKR
 <a class="pat" href="/stripes/grkr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRKR</span></a>
 
@@ -1123,5 +1115,19 @@ weight: 4
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.12 | [Louisburg](/tartans/l/lo/louisburg/) | 1 | 1 |
+
+### BGYG
+<a class="pat" href="/stripes/bgyg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BGYG</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.16 | [Special, Saffron](/tartans/s/sp/special-saffron-3/) | 1 | 1 |
+
+### BGYKK
+<a class="pat" href="/stripes/bgykk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">BGYKK</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.12 | [Eternity](/tartans/e/et/eternity/) | 1 | 1 |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes4/p2/">2</a> <a href="/stripes/stripes4/p2/">next ›</a></nav>

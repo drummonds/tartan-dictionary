@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/royal-scottish-corporation/">Royal Scottish Corporation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-scottish-corporation/"><img src="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/sett.png" alt="Royal Scottish Corporation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-scottish-corporation/"><img src="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi3514276-db2609279/sett.png" alt="Royal Scottish Corporation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

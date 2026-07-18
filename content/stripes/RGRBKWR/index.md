@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/so/solberg-wormald/">Solberg-Wormald</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/so/solberg-wormald/"><img src="/variants/s7/r155lb16k34db48r18y6r9~lb3203246-db1106275/sett.png" alt="Solberg-Wormald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/solberg-wormald/"><img src="/variants/s7/r155lb16k34db48r18y6r9~lb8007237-db2616276/sett.png" alt="Solberg-Wormald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

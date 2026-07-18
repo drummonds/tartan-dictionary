@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/strathisla/">Strathisla</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/strathisla/"><img src="/variants/s10/db3dg8dt12dr3dp20dg3dt20db3dt20lb2~x2~db1406275-dt1202249-dr1105035-dp0904317/sett.png" alt="Strathisla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathisla/"><img src="/variants/s10/db3dg8dt12dr3dp20dg3dt20db3dt20lb2~x2~db3514276-dt3005246-dr2811030-dp2111312/sett.png" alt="Strathisla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

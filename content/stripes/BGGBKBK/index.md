@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-odyssey-commemorative/">Scottish Odyssey Commemorative</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-odyssey-commemorative/"><img src="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/sett.png" alt="Scottish Odyssey Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-odyssey-commemorative/"><img src="/variants/s7/k7db11k3db11dy11g22db3~x2~db3912267/sett.png" alt="Scottish Odyssey Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

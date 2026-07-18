@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ni/nicolson-of-taransay/">Nicolson of Taransay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-taransay/"><img src="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/sett.png" alt="Nicolson of Taransay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-taransay/"><img src="/variants/s6/k9g2db16r22dg10w6~x2~g6019141-db3514276-dg4514144/sett.png" alt="Nicolson of Taransay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

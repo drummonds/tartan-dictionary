@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/al/alliance-of-border-scots/">Alliance of Border Scots</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/alliance-of-border-scots/"><img src="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/sett.png" alt="Alliance of Border Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alliance-of-border-scots/"><img src="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w90/sett.png" alt="Alliance of Border Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

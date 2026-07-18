@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gl/glenfarclas-distillery/">Glenfarclas Distillery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenfarclas-distillery/"><img src="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/sett.png" alt="Glenfarclas Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenfarclas-distillery/"><img src="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o3113030-dg4314141/sett.png" alt="Glenfarclas Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

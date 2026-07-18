@@ -9,7 +9,7 @@ crumbs:
 
 ## Tartan
 
-<a class="tartan" href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><img src="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/sett.png" alt="Baillie (William Wilson)" width="240"><br>Baillie (William Wilson)</a>
+<a class="tartan" href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db3514276/"><img src="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db3514276/sett.png" alt="Baillie (William Wilson)" width="240"><br>Baillie (William Wilson)</a>
 
 ## Families
 

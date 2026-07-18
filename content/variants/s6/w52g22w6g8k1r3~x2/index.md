@@ -10,15 +10,15 @@ crumbs:
 - name: "MacGregor"
   url: "/families/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-5/"
+  url: "/tartans/m/ma/macgregor-6/"
 - name: "MacGregor Dress Green (Dance)"
   url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGWGW](/stripes/rkgwgw/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -77,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13657 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w47g20w6g8k1r3~x2/"><circle cx="374.2" cy="118.8" r="4" fill="#3465a4"><title>MacGregor Dress Green Clan Tartan</title></circle></a><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.8" cy="151.4" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s7/y2g1k1g20w20g1w2~x4/"><circle cx="280.9" cy="142.0" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan</title></circle></a><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="488.0" cy="62.9" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.1" cy="137.9" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s6/g36r18g4r6k1w2~x2/"><circle cx="385.2" cy="132.9" r="4" fill="#3465a4"><title>Princess Margaret Rose Tartan</title></circle></a><a href="/variants/s6/g32r12g6r6k2w3~x2/"><circle cx="346.4" cy="166.6" r="4" fill="#3465a4"><title>Princess Margaret Rose (Royal)</title></circle></a><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="423.9" cy="110.1" r="4" fill="#3465a4"><title>Masai Shuka 10 (Artefact)</title></circle></a><a href="/variants/s7/g30k2w3k1w4lb6w2~x4/"><circle cx="347.9" cy="117.7" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="354.1" cy="133.6" r="4" fill="#3465a4"><title>Westfalia Dress (Corporate)</title></circle></a><circle cx="382.9" cy="114.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w47g20w6g8k1r3~x2/"><circle cx="374.2" cy="118.7" r="4" fill="#3465a4"><title>MacGregor Dress Green Clan Tartan</title></circle></a><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.8" cy="151.4" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s7/y2g1k1g20w20g1w2~x4/"><circle cx="280.9" cy="141.9" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan</title></circle></a><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="488.0" cy="62.8" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.1" cy="137.9" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s6/g36r18g4r6k1w2~x2/"><circle cx="385.2" cy="132.8" r="4" fill="#3465a4"><title>Princess Margaret Rose Tartan</title></circle></a><a href="/variants/s6/g32r12g6r6k2w3~x2/"><circle cx="346.4" cy="166.5" r="4" fill="#3465a4"><title>Princess Margaret Rose (Royal)</title></circle></a><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="423.9" cy="110.0" r="4" fill="#3465a4"><title>Masai Shuka 10 (Artefact)</title></circle></a><a href="/variants/s7/g30k2w3k1w4lb6w2~x4/"><circle cx="347.9" cy="117.7" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="354.1" cy="133.6" r="4" fill="#3465a4"><title>Westfalia Dress (Corporate)</title></circle></a><circle cx="382.9" cy="114.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w52g22w6g8k1r3~x2/

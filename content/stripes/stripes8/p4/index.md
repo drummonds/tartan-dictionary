@@ -3,8 +3,22 @@ title: 8 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 8
 ---
-1,431 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,432 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes8/p3/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p5/">next ›</a></nav>
+
+### GBGWGGGR
+<a class="pat" href="/stripes/gbgwgggr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GBGWGGGR</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.09 | [Burnett of Leys Hunting](/tartans/b/bu/burnett-of-leys-hunting/) | 1 | 1 |
+
+### GBGWGRGR
+<a class="pat" href="/stripes/gbgwgrgr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GBGWGRGR</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.08 | [Welsh Assembly](/tartans/w/we/welsh-assembly/) | 1 | 1 |
 
 ### GBGYBYGG
 <a class="pat" href="/stripes/gbgybygg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GBGYBYGG</span></a>
@@ -1285,7 +1299,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Dunedin](/tartans/d/du/dunedin-4/) | 1 | 1 |
+| 0.10 | [Dunedin](/tartans/d/du/dunedin-3/) | 1 | 1 |
 
 ### GWGKWGKW
 <a class="pat" href="/stripes/gwgkwgkw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GWGKWGKW</span></a>
@@ -1467,7 +1481,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [Tartan Army Whisky](/tartans/t/ta/tartan-army-whisky/) | 1 | 1 |
+| 0.14 | [Tartan Army Whisky](/tartans/t/ta/tartan-army-whisky-2/) | 1 | 1 |
 
 ### GYYBRGGR
 <a class="pat" href="/stripes/gyybrggr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GYYBRGGR</span></a>
@@ -1880,7 +1894,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [Mission](/tartans/m/mi/mission-3/) | 1 | 1 |
+| 0.12 | [Mission](/tartans/m/mi/mission-2/) | 1 | 1 |
 
 ### KGWGKBKW
 <a class="pat" href="/stripes/kgwgkbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KGWGKBKW</span></a>
@@ -2091,19 +2105,5 @@ weight: 8
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.01 | [Bundy, Dress](/tartans/b/bu/bundy-dress-2/) | 1 | 1 |
-
-### KRWRWRWR
-<a class="pat" href="/stripes/krwrwrwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRWRWRWR</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.05 | [Cornell](/tartans/c/co/cornell-2/) | 1 | 1 |
-
-### KRYRKRKW
-<a class="pat" href="/stripes/kryrkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KRYRKRKW</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.02 | [Aberdeen F. C.](/tartans/a/ab/aberdeen-f-c/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes8/p3/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p5/">next ›</a></nav>

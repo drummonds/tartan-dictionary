@@ -19,5 +19,5 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/e/er/erskine-red/"><img src="/variants/s6/r2w1r9w9r1w2~x6/sett.png" alt="Erskine Red &amp;" width="140"><br><strong>Erskine Red & (1)</strong></a><div class="clan-territory">Clan Erskine</div></li>
 <li><a class="tartan" href="/tartans/e/er/erskine-veterans/"><img src="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/sett.png" alt="Erskine Veterans" width="140"><br><strong>Erskine Veterans (1)</strong></a><div class="clan-territory">Clan Erskine</div></li>
 <li><a class="tartan" href="/tartans/e/er/erskine-lt/"><img src="/variants/s6/w6lb2w29lb29w2lb6~x2/sett.png" alt="Erskine, Lt" width="140"><br><strong>Erskine, Lt (1)</strong></a><div class="clan-territory">Clan Erskine</div></li>
-<li><a class="tartan" href="/tartans/e/er/ertico/"><img src="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/sett.png" alt="Ertico" width="140"><br><strong>Ertico (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/er/ertico/"><img src="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi3912267-db2508270/sett.png" alt="Ertico" width="140"><br><strong>Ertico (1)</strong></a></li>
 </ul>

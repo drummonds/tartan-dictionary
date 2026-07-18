@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/k/ki/kilsyth/"><img src="/variants/s6/g4y3db35r13dp8w3~x2/sett.png" alt="Kilsyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/a/at/atlantic/">Atlantic</a> <small class="dt">ΔTartan 5.76</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/at/atlantic/"><img src="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/sett.png" alt="Atlantic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/atlantic/"><img src="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi3911270-db1913264/sett.png" alt="Atlantic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/t/ta/tartan-lassie/">Tartan Lassie</a> <small class="dt">ΔTartan 6.75</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-lassie/"><img src="/variants/s6/w3db23r44db26g4y2~x2/sett.png" alt="Tartan Lassie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

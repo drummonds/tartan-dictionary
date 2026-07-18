@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hi/hibernian-football-club/">Hibernian Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/hibernian-football-club/"><img src="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/sett.png" alt="Hibernian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hibernian-football-club/"><img src="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg4112135/sett.png" alt="Hibernian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

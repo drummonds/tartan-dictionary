@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ho/hope-vere/">Hope Vere</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/hope-vere/"><img src="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/sett.png" alt="Hope Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hope-vere/"><img src="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g6019141-dg4514144/sett.png" alt="Hope Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ho/hope-vere-weir-3/">Hope-Vere/Weir</a> <small class="dt">ΔTartan 3.45</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ho/hope-vere-weir-3/"><img src="/variants/s16/dg19k1g3k1dg3k9db20k1y1k7y1k1db21k12dg2g1~x2/sett.png" alt="Hope-Vere/Weir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

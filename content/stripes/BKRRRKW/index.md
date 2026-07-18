@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fe/ferguson-s-promise/">Ferguson's Promise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-s-promise/"><img src="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/sett.png" alt="Ferguson's Promise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-s-promise/"><img src="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri7116012-r5018024/sett.png" alt="Ferguson's Promise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

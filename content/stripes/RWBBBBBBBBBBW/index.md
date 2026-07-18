@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/ic/icelandic/">Icelandic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/ic/icelandic/"><img src="/variants/s13/r8w4dbi24db2dbi4db2dbi1db2dbi4db2dbi1db20w6~x2~dbi1605267-db0804274/sett.png" alt="Icelandic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ic/icelandic/"><img src="/variants/s13/r8w4dbi24db2dbi4db2dbi1db2dbi4db2dbi1db20w6~x2~dbi3912267-db2011270/sett.png" alt="Icelandic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

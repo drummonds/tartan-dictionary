@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/u/u-s-2001-air-force/">U.S. 2001 Air Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-2001-air-force/"><img src="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/sett.png" alt="U.S. 2001 Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-2001-air-force/"><img src="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi3514276-db2616276/sett.png" alt="U.S. 2001 Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

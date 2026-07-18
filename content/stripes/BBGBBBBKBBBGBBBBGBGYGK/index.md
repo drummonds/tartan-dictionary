@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/monarch-of-the-glen-2/">Monarch of the Glen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/monarch-of-the-glen-2/"><img src="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/sett.png" alt="Monarch of the Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monarch-of-the-glen-2/"><img src="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp2712327-db2911276-g4808117-dpi4018327/sett.png" alt="Monarch of the Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

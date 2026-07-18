@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/loughheed/">Loughheed</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loughheed/"><img src="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/sett.png" alt="Loughheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loughheed/"><img src="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr2611030-lo7213069/sett.png" alt="Loughheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

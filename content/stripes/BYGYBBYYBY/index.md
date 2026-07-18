@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sa/satisfashion-argyll/">Satisfashion Argyll</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/satisfashion-argyll/"><img src="/variants/s10/do5lyi1g27ly9dr6do5lyi1ly23do3ly5~x2~lyi2705081-ly2503076/sett.png" alt="Satisfashion Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/satisfashion-argyll/"><img src="/variants/s10/do5lyi1g27ly9dr6do5lyi1ly23do3ly5~x2~lyi6614084-ly6307084/sett.png" alt="Satisfashion Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

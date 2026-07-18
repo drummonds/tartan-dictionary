@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/ps/psn-test/">PSN Test</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/ps/psn-test/"><img src="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/sett.png" alt="PSN Test sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ps/psn-test/"><img src="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db3916276-ti6010246/sett.png" alt="PSN Test sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

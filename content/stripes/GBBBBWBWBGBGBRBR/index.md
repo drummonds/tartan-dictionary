@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-margaret-s-school-for-girls-aberdeen/">St Margaret's School for Girls, Aberdeen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-margaret-s-school-for-girls-aberdeen/"><img src="/variants/s16/r6db3r3db54g6db3g6db4lb24dbi4lb4dbi50db6dbi4db12dy4~db1204274-dbi1605267/sett.png" alt="St Margaret's School for Girls, Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-margaret-s-school-for-girls-aberdeen/"><img src="/variants/s16/r6db3r3db54g6db3g6db4lb24dbi4lb4dbi50db6dbi4db12dy4~db2911276-dbi3912267/sett.png" alt="St Margaret's School for Girls, Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

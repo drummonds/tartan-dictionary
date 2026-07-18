@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/int-college-of-dentists-2/">Int. College of Dentists</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/int-college-of-dentists-2/"><img src="/variants/s22/g6lyi6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2w15g1k2~x2~lyi2705081-ly2503076/sett.png" alt="Int. College of Dentists sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/int-college-of-dentists-2/"><img src="/variants/s22/g6lyi6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2w15g1k2~x2~lyi6614084-ly6307084/sett.png" alt="Int. College of Dentists sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

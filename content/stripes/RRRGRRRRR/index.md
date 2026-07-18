@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/v/va/valdres-kvam-vang-2/">Valdres, Kvam &amp; Vang</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/v/va/valdres-kvam-vang-2/"><img src="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/sett.png" alt="Valdres, Kvam &amp; Vang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valdres-kvam-vang-2/"><img src="/variants/s9/r4ri2r1dg16ri2r11ri1r1ri2~x2~r5221030-ri5321009/sett.png" alt="Valdres, Kvam &amp; Vang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

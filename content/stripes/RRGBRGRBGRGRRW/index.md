@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonald-of-staffa-4/">MacDonald of Staffa 4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-4/"><img src="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r1506028-ri2008029/sett.png" alt="MacDonald of Staffa 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-4/"><img src="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r3715030-ri5021030/sett.png" alt="MacDonald of Staffa 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

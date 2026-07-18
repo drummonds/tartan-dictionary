@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gl/glen-shee-6/">Glen Shee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-shee-6/"><img src="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o2605035-lr2903322/sett.png" alt="Glen Shee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-shee-6/"><img src="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o6312036-lr7107324/sett.png" alt="Glen Shee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

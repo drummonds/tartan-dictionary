@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/v/va/valley-of-the-2/">Valley of the</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/v/va/valley-of-the-2/"><img src="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/sett.png" alt="Valley of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valley-of-the-2/"><img src="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg4514144-g5408159-gi6019141/sett.png" alt="Valley of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

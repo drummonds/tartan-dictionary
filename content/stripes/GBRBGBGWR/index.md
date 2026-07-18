@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/bracken/">Bracken</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/bracken/"><img src="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/sett.png" alt="Bracken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bracken/"><img src="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db2911276/sett.png" alt="Bracken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

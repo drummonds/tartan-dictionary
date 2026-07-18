@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-andrews-university-2/">St. Andrews University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-university-2/"><img src="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/sett.png" alt="St. Andrews University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-university-2/"><img src="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db2911276-dbi3514276/sett.png" alt="St. Andrews University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

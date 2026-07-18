@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hay-leith-2/">Hay &amp; Leith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-leith-2/"><img src="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/sett.png" alt="Hay &amp; Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-leith-2/"><img src="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db3409246/sett.png" alt="Hay &amp; Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

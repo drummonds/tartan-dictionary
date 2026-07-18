@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/braddock/">Braddock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/braddock/"><img src="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/sett.png" alt="Braddock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braddock/"><img src="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly8117093-y6212135/sett.png" alt="Braddock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

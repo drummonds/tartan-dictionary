@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ka/kansai-st-andrews-society/">Kansai St Andrews Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ka/kansai-st-andrews-society/"><img src="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/sett.png" alt="Kansai St Andrews Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kansai-st-andrews-society/"><img src="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi3912267-db2316264/sett.png" alt="Kansai St Andrews Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

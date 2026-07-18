@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/au/auchairne-3/">Auchairne</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/au/auchairne-3/"><img src="/variants/s6/r13n3r4n56b4n4~x2/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/ly/lynch/">Lynch</a> <small class="dt">ΔTartan 9.22</small></td></tr>
+<tr><td><a href="/tartans/l/ly/lynch/">Lynch</a> <small class="dt">ΔTartan 9.21</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/ly/lynch/"><img src="/variants/s6/r19db6r7db101b6db7~x2/sett.png" alt="Lynch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

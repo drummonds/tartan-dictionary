@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/bailey-atlanta-national/">Bailey Atlanta National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/bailey-atlanta-national/"><img src="/variants/s15/db13k2db2k2db2dbi13g13k2g3k2g13k13g13k2db3~x2~db1204274-dbi1406275/sett.png" alt="Bailey Atlanta National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bailey-atlanta-national/"><img src="/variants/s15/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3~x2~db1913264-dbi3911270/sett.png" alt="Bailey Atlanta National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

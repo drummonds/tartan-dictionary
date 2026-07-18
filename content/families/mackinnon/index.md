@@ -16,32 +16,36 @@ A family of [Clan MacKinnon](/clan/mackinnon/).
 <table class="sett-table">
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
-<tr><td><a href="/tartans/m/ma/mackinnon-3/">MacKinnon</a> ★</td><td>1816</td><td>4</td><td>5</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-3/"><img src="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-5/">MacKinnon</a> ★</td><td>1816</td><td>2</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-5/"><img src="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-10/">MacKinnon 10</a></td><td>—</td><td>1</td><td>1</td><td>0.33</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-10/"><img src="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/sett.png" alt="MacKinnon 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-6/">MacKinnon 6</a></td><td>—</td><td>1</td><td>1</td><td>0.60</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-6/"><img src="w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2-rev.png" alt="MacKinnon 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-12/">MacKinnon 12</a></td><td>—</td><td>1</td><td>1</td><td>0.99</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-12/"><img src="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/sett.png" alt="MacKinnon 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackinnon-2/">MacKinnon</a></td><td>—</td><td>1</td><td>1</td><td>1.00</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-2/"><img src="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-3/">MacKinnon</a></td><td>—</td><td>1</td><td>1</td><td>1.00</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-3/"><img src="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-9/">MacKinnon 9</a></td><td>—</td><td>1</td><td>1</td><td>1.31</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-9/"><img src="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/sett.png" alt="MacKinnon 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-3/">MacKinnon 3</a></td><td>—</td><td>1</td><td>1</td><td>1.53</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-3/"><img src="/variants/s14/w3r5g3dp3r14g36r3dp8g3r36g14b3r5w3~x2/sett.png" alt="MacKinnon 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-2/">MacKinnon 2</a></td><td>—</td><td>1</td><td>1</td><td>1.84</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-2/"><img src="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/sett.png" alt="MacKinnon 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-2/">MacKinnon</a></td><td>—</td><td>1</td><td>1</td><td>2.18</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-2/"><img src="w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3-rev.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-7/">MacKinnon 7</a></td><td>—</td><td>1</td><td>1</td><td>2.80</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-7/"><img src="w2r4g8r16lb2r3g16r4lb2r4w2-rev.png" alt="MacKinnon 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackinnon-4/">MacKinnon</a></td><td>—</td><td>1</td><td>1</td><td>3.03</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-4/"><img src="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-6/">MacKinnon</a></td><td>—</td><td>1</td><td>1</td><td>2.98</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-6/"><img src="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r5419027-ri5623030/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-1/">MacKinnon 1</a></td><td>—</td><td>1</td><td>1</td><td>3.11</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-1/"><img src="/variants/s12/b3r4g3dp3r11g30r3dp7g3b2r4w2~x2/sett.png" alt="MacKinnon 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-4/">MacKinnon</a></td><td>—</td><td>1</td><td>1</td><td>3.64</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-4/"><img src="/variants/s14/r1ri2g1k1ri5g11ri1k2g1ri11g4r1ri2w1~x2~r5419027-ri5623030/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-of-mackinnon/">Mackinnon of Mackinnon</a></td><td>1856</td><td>1</td><td>1</td><td>4.49</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-of-mackinnon/"><img src="w2r3dg2db2r6dg16r2db4dg2r16dg8w2r4w2r4w2dg8r16dg2db4r2dg16r6db2dg2r3w1-rev.png" alt="Mackinnon of Mackinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackinnon-5/">MacKinnon</a></td><td>1831</td><td>1</td><td>1</td><td>5.61</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-5/"><img src="w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1-rev.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-7/">MacKinnon</a></td><td>1831</td><td>1</td><td>1</td><td>5.61</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-7/"><img src="w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1-rev.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting-2/">MacKinnon Hunting</a></td><td>1959</td><td>1</td><td>1</td><td>6.38</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-2/"><img src="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting-4/">MacKinnon Hunting</a></td><td>~1959</td><td>1</td><td>2</td><td>6.42</td></tr>
@@ -58,7 +62,7 @@ A family of [Clan MacKinnon](/clan/mackinnon/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-dress/"><img src="/variants/s4/g9dr7w7r1~x4/sett.png" alt="MacKinnon Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting-3/">MacKinnon Hunting</a></td><td>—</td><td>1</td><td>2</td><td>7.82</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-3/"><img src="/variants/s7/g1b8g8r1g8b8w1~x2/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackinnon-dress-3/">MacKinnon, dress</a></td><td>—</td><td>1</td><td>1</td><td>7.82</td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-dress-3/">MacKinnon, dress</a></td><td>—</td><td>1</td><td>1</td><td>7.83</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-dress-3/"><img src="/variants/s4/g9o7w7r1~x4/sett.png" alt="MacKinnon, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting-6/">MacKinnon, hunting</a></td><td>—</td><td>1</td><td>1</td><td>7.89</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-6/"><img src="/variants/s4/r1g8o8w1~x2/sett.png" alt="MacKinnon, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

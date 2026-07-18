@@ -37,7 +37,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-scotsman-train/"><img src="/variants/s7/db5k2db14k14db2k2r2~x2/sett.png" alt="Royal Scotsman Train sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/ma/maccorquodale/">MacCorquodale</a> <small class="dt">ΔTartan 8.91</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccorquodale/"><img src="/variants/s7/r7k4t28k24ti24k4t4~x2~t2405244-ti2503227/sett.png" alt="MacCorquodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccorquodale/"><img src="/variants/s7/r7k4t28k24ti24k4t4~x2~t5912243-ti6107234/sett.png" alt="MacCorquodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

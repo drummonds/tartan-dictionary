@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kinloch-anderson-granite/">Kinloch Anderson Granite</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-granite/"><img src="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/sett.png" alt="Kinloch Anderson Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-granite/"><img src="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o62-dti2705249-dt22-n47/sett.png" alt="Kinloch Anderson Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

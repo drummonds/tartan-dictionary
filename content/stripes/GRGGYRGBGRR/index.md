@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/unidentified-chair-covering/">Unidentified Chair Covering</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-chair-covering/"><img src="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/sett.png" alt="Unidentified Chair Covering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-chair-covering/"><img src="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy3708063-ly6914084/sett.png" alt="Unidentified Chair Covering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

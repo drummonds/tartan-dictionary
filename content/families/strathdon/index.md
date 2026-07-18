@@ -14,8 +14,10 @@ crumbs:
 <table class="sett-table">
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
-<tr><td><a href="/tartans/s/st/strathdon-2/">Strathdon</a> ★</td><td>2009</td><td>2</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathdon-2/"><img src="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathdon-3/">Strathdon</a> ★</td><td>2009</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathdon-3/"><img src="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathdon-2/">Strathdon</a></td><td>2009</td><td>1</td><td>1</td><td>0.21</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathdon-2/"><img src="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r4315012-ri5221030/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/strathdon/">Strathdon</a></td><td>2009</td><td>1</td><td>1</td><td>6.91</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathdon/"><img src="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

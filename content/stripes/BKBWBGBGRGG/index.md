@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/o/o-sullivan/">O'Sullivan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/o/o-sullivan/"><img src="/variants/s11/t6k4t10w2db10g4db6g9r2g4dy2~x4~db1106275-g2203152/sett.png" alt="O'Sullivan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-sullivan/"><img src="/variants/s11/t6k4t10w2db10g4db6g9r2g4dy2~x4~db2616276-g5408159/sett.png" alt="O'Sullivan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

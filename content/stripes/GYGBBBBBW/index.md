@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/blue-blas-alba/">Blue Blas Alba</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-blas-alba/"><img src="/variants/s9/y4ly2y39dt10n4dt4dr4dt25w3~x2~y2602166-ly3307090/sett.png" alt="Blue Blas Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-blas-alba/"><img src="/variants/s9/y4ly2y39dt10n4dt4dr4dt25w3~x2~y6304159-ly8117093/sett.png" alt="Blue Blas Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/th/thorburn-2/">Thorburn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/th/thorburn-2/"><img src="/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2~lb3203246-t2405244/sett.png" alt="Thorburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thorburn-2/"><img src="/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2~lb8007237-t5912243/sett.png" alt="Thorburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

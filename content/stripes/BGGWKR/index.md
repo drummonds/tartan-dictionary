@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/si/sirens-swords/">Sirens &amp; Swords</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/si/sirens-swords/"><img src="/variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/sett.png" alt="Sirens &amp; Swords sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sirens-swords/"><img src="/variants/s6/db36y20dg6w12k6r3~x2~y6304159-dg3109150/sett.png" alt="Sirens &amp; Swords sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

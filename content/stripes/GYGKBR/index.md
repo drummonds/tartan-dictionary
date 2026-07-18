@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hu/huntly-3/">Huntly</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntly-3/"><img src="/variants/s6/dy2lr1dy5k4do5o1~x4~do1402055/sett.png" alt="Huntly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntly-3/"><img src="/variants/s6/dy2lr1dy5k4do5o1~x4~do3504048/sett.png" alt="Huntly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

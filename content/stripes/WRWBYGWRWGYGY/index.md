@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/ok/okanagan/">Okanagan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ok/okanagan/"><img src="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/sett.png" alt="Okanagan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/okanagan/"><img src="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly8117093-g4808117-dg4514144-y5508084/sett.png" alt="Okanagan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

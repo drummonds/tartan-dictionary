@@ -641,7 +641,7 @@ weight: 11
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [Scotland](/tartans/s/sc/scotland/) | 1 | 1 |
+| 0.14 | [Scotland](/tartans/s/sc/scotland-2/) | 1 | 1 |
 
 ### GGBGBGBGBGR
 <a class="pat" href="/stripes/ggbgbgbgbgr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GGBGBGBGBGR</span></a>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/mackay-of-strathnaver-2/">MacKay of Strathnaver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-of-strathnaver-2/"><img src="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/sett.png" alt="MacKay of Strathnaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-of-strathnaver-2/"><img src="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n47-o62-ly6307084-lyi7811105/sett.png" alt="MacKay of Strathnaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

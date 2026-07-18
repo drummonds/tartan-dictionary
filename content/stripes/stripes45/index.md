@@ -30,4 +30,4 @@ weight: 45
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.06 | [Duke of Perth](/tartans/d/du/duke-of-perth-7/) | 1 | 1 |
+| 0.06 | [Duke of Perth](/tartans/d/du/duke-of-perth-6/) | 1 | 1 |

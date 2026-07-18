@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/we/weisfeld/">Weisfeld</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/we/weisfeld/"><img src="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1406275-db1204274/sett.png" alt="Weisfeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/weisfeld/"><img src="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi3514276-db2911276/sett.png" alt="Weisfeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

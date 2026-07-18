@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sh/shawn-jones-afghan-memorial-the-2/">Shawn Jones Afghan Memorial, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sh/shawn-jones-afghan-memorial-the-2/"><img src="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/sett.png" alt="Shawn Jones Afghan Memorial, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shawn-jones-afghan-memorial-the-2/"><img src="/variants/s6/ri12g4k8dr3ly62r8~x2~ri5221030-r4418030/sett.png" alt="Shawn Jones Afghan Memorial, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

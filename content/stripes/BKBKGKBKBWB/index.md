@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/haus-of-rvr/">Haus of RvR</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/haus-of-rvr/"><img src="/variants/s11/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2~x2~dbi1605267-db1003265/sett.png" alt="Haus of RvR sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haus-of-rvr/"><img src="/variants/s11/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2~x2~dbi3912267-db2508270/sett.png" alt="Haus of RvR sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -5,16 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
 - name: "Duke of Perth"
-  url: "/tartans/d/du/duke-of-perth-5/"
+  url: "/families/drummond-of-duke-of-perth/"
+- name: "Duke of Perth"
+  url: "/tartans/d/du/duke-of-perth-7/"
 - name: "Unnamed C18th - Blanket Pattern"
   url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKWGBKW](/stripes/rwrkwgbkw/).
 
-Part of the [Duke of Perth](/tartans/d/du/duke-of-perth-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duke of Perth](/tartans/d/du/duke-of-perth-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -64,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13657 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="364.1" cy="46.9" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="363.1" cy="47.5" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="387.2" cy="133.3" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="337.4" cy="36.5" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="342.0" cy="39.6" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.8" cy="80.7" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="337.3" cy="84.3" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w83k6w3k9r2k5w2y2~x2/"><circle cx="462.7" cy="57.8" r="4" fill="#3465a4"><title>Crane of Cluny Dress (Personal)</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="441.9" cy="88.4" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="488.0" cy="62.9" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><circle cx="541.0" cy="30.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="364.1" cy="46.8" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="363.1" cy="47.4" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="387.2" cy="133.2" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="337.4" cy="36.4" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="342.0" cy="39.5" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.8" cy="80.6" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="337.3" cy="84.2" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w83k6w3k9r2k5w2y2~x2/"><circle cx="462.7" cy="57.7" r="4" fill="#3465a4"><title>Crane of Cluny Dress (Personal)</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="441.9" cy="88.3" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="488.0" cy="62.8" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><circle cx="541.0" cy="30.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w120k2db4g3w2k2r8w2r3~x2/

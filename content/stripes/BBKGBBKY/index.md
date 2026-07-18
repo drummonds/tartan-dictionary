@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/law-enforcement-officers-memorial/">Law Enforcement Officers' Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/law-enforcement-officers-memorial/"><img src="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/sett.png" alt="Law Enforcement Officers' Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/law-enforcement-officers-memorial/"><img src="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db2616276-dbi3514276/sett.png" alt="Law Enforcement Officers' Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ci/city-of-rome-italian/">City of Rome Italian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-rome-italian/"><img src="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db1406275/sett.png" alt="City of Rome Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-rome-italian/"><img src="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db3514276/sett.png" alt="City of Rome Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

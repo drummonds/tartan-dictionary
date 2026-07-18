@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mclion-2/"><img src="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/sett.png" alt="McLion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/w/wi/wicklow-county-crest-range/">Wicklow County, Crest Range</a> <small class="dt">ΔTartan 4.03</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wicklow-county-crest-range/"><img src="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wicklow-county-crest-range/"><img src="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi3514276-db2609279/sett.png" alt="Wicklow County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/t/ta/tamer-of-wolves/">Tamer of Wolves</a> <small class="dt">ΔTartan 5.61</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/ta/tamer-of-wolves/"><img src="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/sett.png" alt="Tamer of Wolves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

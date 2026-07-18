@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mc/mcguigan-julia-st-monans-fife/">McGuigan, Julia (St Monans, Fife</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcguigan-julia-st-monans-fife/"><img src="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/sett.png" alt="McGuigan, Julia (St Monans, Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcguigan-julia-st-monans-fife/"><img src="/variants/s4/y9g52dg15ly4~x2~y5305108-ly7313099/sett.png" alt="McGuigan, Julia (St Monans, Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/sp/spring-morning-2/">Spring Morning</a> <small class="dt">ΔTartan 3.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sp/spring-morning-2/"><img src="/variants/s4/g1y9g9lo1~x4/sett.png" alt="Spring Morning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

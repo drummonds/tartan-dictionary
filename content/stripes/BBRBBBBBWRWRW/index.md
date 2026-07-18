@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/unidentified-gordon-variant/">Unidentified Gordon variant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-gordon-variant/"><img src="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/sett.png" alt="Unidentified Gordon variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-gordon-variant/"><img src="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi3911270-o5105048-db1913264-oi5309063/sett.png" alt="Unidentified Gordon variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

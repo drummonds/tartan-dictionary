@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/au/australian-defence-force-academy-the/">Australian Defence Force Academy, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/au/australian-defence-force-academy-the/"><img src="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/sett.png" alt="Australian Defence Force Academy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/australian-defence-force-academy-the/"><img src="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db2508270-dbi2920264/sett.png" alt="Australian Defence Force Academy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

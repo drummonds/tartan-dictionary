@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/du/dublin/">Dublin</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/dublin/"><img src="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/sett.png" alt="Dublin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/du/dublin-county/">Dublin, County</a> <small class="dt">ΔTartan 0.20</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/dublin-county/"><img src="/variants/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2~dr1004029-r1606028/sett.png" alt="Dublin, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dublin-county/"><img src="/variants/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2~dr2609033-r3916030/sett.png" alt="Dublin, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

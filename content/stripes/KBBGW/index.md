@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/pople/">Pople</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/pople/"><img src="/variants/s5/k10dr9n8y8w1~n1900000-y2400000/sett.png" alt="Pople sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pople/"><img src="/variants/s5/k10dr9n8y8w1~n47-y59/sett.png" alt="Pople sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

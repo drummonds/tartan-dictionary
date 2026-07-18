@@ -25,10 +25,10 @@ The **Teallach** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r2008029-dy1603076-g2104115-ni1700000/">Teallach</a> ★</td><td></td><td><code>Y/8 R48 DY38 W6 G46 N26 DY6 DT26 DY/6</code></td><td>406</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r2008029-dy1603076-g2104115-ni1700000/"><img src="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r2008029-dy1603076-g2104115-ni1700000/sett.png" alt="Teallach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/">Family Tartan</a></td><td>6.85</td><td><code>Y/8 R48 DY38 W6 G46 O26 DY6 N26 DY/6</code></td><td>406</td><td>~2003</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/"><img src="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r5021030-dy3908078-g5109120-ni43/">Teallach</a> ★</td><td></td><td><code>Y/8 R48 DY38 W6 G46 N26 DY6 Ni26 DY/6</code></td><td>406</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r5021030-dy3908078-g5109120-ni43/"><img src="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r5021030-dy3908078-g5109120-ni43/sett.png" alt="Teallach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o62-n47/">Family Tartan</a></td><td>6.37</td><td><code>Y/8 R48 DY38 W6 G46 O26 DY6 N26 DY/6</code></td><td>406</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o62-n47/"><img src="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o62-n47/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

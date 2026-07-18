@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/h/he/hello-kitty-2/">Hello Kitty</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/hello-kitty-2/"><img src="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri2906009-r2609025/sett.png" alt="Hello Kitty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hello-kitty-3/">Hello Kitty</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hello-kitty-3/"><img src="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri7116012-r6322027/sett.png" alt="Hello Kitty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

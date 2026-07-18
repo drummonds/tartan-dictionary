@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/caledonian-mist-2/">Caledonian Mist</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-mist-2/"><img src="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/sett.png" alt="Caledonian Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-mist-2/"><img src="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt22-n47/sett.png" alt="Caledonian Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

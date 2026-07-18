@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gr/grady-highlands/">Grady Highlands</a> <small class="dt">ΔTartan 0.32</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grady-highlands/"><img src="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/sett.png" alt="Grady Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grady/">Grady</a> <small class="dt">ΔTartan 0.33</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grady/"><img src="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db1406275/sett.png" alt="Grady sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grady/"><img src="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db3514276/sett.png" alt="Grady sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

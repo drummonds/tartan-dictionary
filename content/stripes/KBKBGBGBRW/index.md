@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/du/dugan/">Dugan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/dugan/"><img src="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/sett.png" alt="Dugan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dugan/"><img src="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n5004237-db2609279/sett.png" alt="Dugan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

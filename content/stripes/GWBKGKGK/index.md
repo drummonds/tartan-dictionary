@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/blackrock-2/">BlackRock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackrock-2/"><img src="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/sett.png" alt="BlackRock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackrock-2/"><img src="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k1309264-ki17/sett.png" alt="BlackRock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

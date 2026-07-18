@@ -3,8 +3,23 @@ title: 8 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 8
 ---
-1,431 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,432 setts across 1,363 tartans with 8 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes8/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <strong>2</strong> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p3/">next ›</a></nav>
+
+### BRBRKRKR
+<a class="pat" href="/stripes/brbrkrkr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRBRKRKR</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.08 | [Kilbranan Sound](/tartans/k/ki/kilbranan-sound/) | 2 | 2 |
+
+### BRBWGGGG
+<a class="pat" href="/stripes/brbwgggg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBWGGGG</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.10 | [Ayrshire](/tartans/a/ay/ayrshire/) | 1 | 1 |
+| 0.12 | [Yorkland](/tartans/y/yo/yorkland-2/) | 1 | 1 |
 
 ### BRBWRGGG
 <a class="pat" href="/stripes/brbwrggg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBWRGGG</span></a>
@@ -760,13 +775,6 @@ weight: 8
 |---|---|---|---|
 | 0.10 | [Hebridean Granite](/tartans/h/he/hebridean-granite-2/) | 2 | 2 |
 
-### WBBBBGBW
-<a class="pat" href="/stripes/wbbbbgbw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBBBBGBW</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.11 | [Utah](/tartans/u/ut/utah/) | 1 | 2 |
-
 ### WBRBGBGW
 <a class="pat" href="/stripes/wbrbgbgw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBRBGBGW</span></a>
 
@@ -1382,7 +1390,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.16 | [Heather Mead](/tartans/h/he/heather-mead/) | 1 | 1 |
+| 0.16 | [Heather Mead](/tartans/h/he/heather-mead-2/) | 1 | 1 |
 
 ### BGBGBGGG
 <a class="pat" href="/stripes/bgbgbggg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BGBGBGGG</span></a>
@@ -1390,19 +1398,5 @@ weight: 8
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.14 | [Gammell](/tartans/g/ga/gammell-3/) | 1 | 1 |
-
-### BGBGBGGR
-<a class="pat" href="/stripes/bgbgbggr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BGBGBGGR</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.15 | [Heather Mead](/tartans/h/he/heather-mead/) | 1 | 1 |
-
-### BGBGBGGW
-<a class="pat" href="/stripes/bgbgbggw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BGBGBGGW</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.12 | [Lamont](/tartans/l/la/lamont-2/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes8/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <strong>2</strong> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p3/">next ›</a></nav>

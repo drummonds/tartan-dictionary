@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/my/myres-castle-2/">Myres Castle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/my/myres-castle-2/"><img src="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g2203152-dpi1607327-gi2405139-dp1105325/sett.png" alt="Myres Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/my/myres-castle-2/"><img src="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g5408159-dpi4018327-gi6012144-dp2712327/sett.png" alt="Myres Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

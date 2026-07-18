@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/calgary/">Calgary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/calgary/"><img src="/variants/s13/db2b1db4b4g4lo2g4b4w3b3w6b2w2~x2~db1106275-b2008266/sett.png" alt="Calgary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/calgary/"><img src="/variants/s13/db2b1db4b4g4lo2g4b4w3b3w6b2w2~x2~db2616276-b4819270/sett.png" alt="Calgary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

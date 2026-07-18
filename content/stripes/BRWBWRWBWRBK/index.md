@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/u/u-s-postal-service/">U.S. Postal Service</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-postal-service/"><img src="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/sett.png" alt="U.S. Postal Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-postal-service/"><img src="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t5912243/sett.png" alt="U.S. Postal Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

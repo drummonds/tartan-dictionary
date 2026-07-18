@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/insead/">INSEAD</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/insead/"><img src="/variants/s12/dy3dgi15dr2dgi2dr6dgi2dg6dgi2dg2dgi23g2dgi2~x2~dgi1804158-g2208144/sett.png" alt="INSEAD sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/insead/"><img src="/variants/s12/dy3dgi15dr2dgi2dr6dgi2dg6dgi2dg2dgi23g2dgi2~x2~dgi4410159-g5519141/sett.png" alt="INSEAD sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

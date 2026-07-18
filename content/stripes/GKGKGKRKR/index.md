@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-atholl/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/a/al/alma-college/">Alma College</a> <small class="dt">ΔTartan 3.33</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/alma-college/"><img src="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/sett.png" alt="Alma College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alma-college/"><img src="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g6110201/sett.png" alt="Alma College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

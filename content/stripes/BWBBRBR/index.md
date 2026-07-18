@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/great-scot/">Great Scot</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/great-scot/"><img src="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/sett.png" alt="Great Scot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/great-scot/"><img src="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi3514276-db3409246/sett.png" alt="Great Scot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

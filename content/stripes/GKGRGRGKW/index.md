@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/el/ellis-3/">Ellis</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/el/ellis-3/"><img src="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/sett.png" alt="Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/ellis-3/"><img src="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg4514144-g6110192/sett.png" alt="Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

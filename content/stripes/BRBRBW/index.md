@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hami/">Hami</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hami/"><img src="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/sett.png" alt="Hami sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hami/"><img src="/variants/s6/b1o4b1o4b2w1~x4~b5210252-o5115030-w8904087/sett.png" alt="Hami sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/matthews/">Matthews</a> <small class="dt">ΔTartan 1.24</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/matthews/"><img src="/variants/s6/db3r24db3r3db25w3~x2/sett.png" alt="Matthews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

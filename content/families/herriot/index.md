@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/h/he/herriot/">Herriot</a> ★</td><td>2012</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/herriot/"><img src="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/sett.png" alt="Herriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/he/herriot-2/">Herriot</a></td><td>2010</td><td>1</td><td>1</td><td>9.43</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/herriot-2/"><img src="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/sett.png" alt="Herriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herriot-2/">Herriot</a></td><td>2010</td><td>1</td><td>1</td><td>9.37</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/herriot-2/"><img src="/variants/s6/w15y2db5lr3n40db10~lr70-n5805249/sett.png" alt="Herriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

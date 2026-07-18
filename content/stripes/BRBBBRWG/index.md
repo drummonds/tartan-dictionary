@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bo/boxing-scotland/">Boxing Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bo/boxing-scotland/"><img src="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/sett.png" alt="Boxing Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boxing-scotland/"><img src="/variants/s8/db26r2t16db23t16r2w2y1~x2~db2508270-t5810240/sett.png" alt="Boxing Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

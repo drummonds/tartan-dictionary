@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/bell-rock-lighthouse-200th-anniv-commemorative/">Bell Rock Lighthouse 200th Anniv Commemorative</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-rock-lighthouse-200th-anniv-commemorative/"><img src="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/sett.png" alt="Bell Rock Lighthouse 200th Anniv Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-rock-lighthouse-200th-anniv-commemorative/"><img src="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n4905273-dt3007270/sett.png" alt="Bell Rock Lighthouse 200th Anniv Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

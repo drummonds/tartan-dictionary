@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/cornish-pascoe-the/">Cornish Pascoe, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-pascoe-the/"><img src="/variants/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6y3k2y1k3y2k2w1~x2~lr3000000-dt1100000/sett.png" alt="Cornish Pascoe, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-pascoe-the/"><img src="/variants/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6y3k2y1k3y2k2w1~x2~lr75-dt28/sett.png" alt="Cornish Pascoe, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

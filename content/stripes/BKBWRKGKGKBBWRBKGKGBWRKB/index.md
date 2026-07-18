@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-american-military/">Scottish American Military</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-american-military/"><img src="/variants/s24/db11k2dbi2w2r2k16g16k2g16k16db16dbi2w2r2db16k16g16k2g16dbi2w2r2k2db11~x2~db1404245-dbi1406275/sett.png" alt="Scottish American Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-american-military/"><img src="/variants/s24/db11k2dbi2w2r2k16g16k2g16k16db16dbi2w2r2db16k16g16k2g16dbi2w2r2k2db11~x2~db3409246-dbi3514276/sett.png" alt="Scottish American Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

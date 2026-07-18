@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/hewett/">Hewett</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/hewett/"><img src="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/sett.png" alt="Hewett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hewett/"><img src="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t5912243-ly8117093-lb8007237/sett.png" alt="Hewett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

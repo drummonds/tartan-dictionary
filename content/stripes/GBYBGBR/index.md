@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/loch-ness-in-scotland/">Loch Ness in Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-ness-in-scotland/"><img src="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/sett.png" alt="Loch Ness in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-ness-in-scotland/"><img src="/variants/s7/g2db14lg6n1g1n6r1~x4~db2316264-lg6709222/sett.png" alt="Loch Ness in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

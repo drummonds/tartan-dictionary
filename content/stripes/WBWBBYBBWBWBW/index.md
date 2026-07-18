@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ad/adair/">Adair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ad/adair/"><img src="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/sett.png" alt="Adair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ad/adair/"><img src="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db2911276-dbi3514276/sett.png" alt="Adair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/po/poulter-tron/">Poulter Tron</a> <small class="dt">ΔTartan 2.98</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-tron/"><img src="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/sett.png" alt="Poulter Tron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

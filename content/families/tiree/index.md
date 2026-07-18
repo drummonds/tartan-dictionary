@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/t/ti/tiree-2/">Tiree</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/ti/tiree-2/"><img src="/variants/s6/lb3k3lb3k3n15dr1~x4/sett.png" alt="Tiree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/ti/tiree/">Tiree</a></td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/ti/tiree/"><img src="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/sett.png" alt="Tiree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tiree/">Tiree</a></td><td>2002</td><td>1</td><td>1</td><td>5.99</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/ti/tiree/"><img src="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly6307084-lyi7811105/sett.png" alt="Tiree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

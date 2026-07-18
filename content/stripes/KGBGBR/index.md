@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/da/davidson/">Davidson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/da/davidson/"><img src="/variants/s6/k3g22db3g3db19r3~x2/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/hu/hutton/">Hutton</a> <small class="dt">ΔTartan 0.74</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hu/hutton/"><img src="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-dg1504158-db0805267/sett.png" alt="Hutton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hutton/"><img src="/variants/s6/k2dg7db2dg7db16r1~x6~k17-dg3809159-db1913264/sett.png" alt="Hutton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

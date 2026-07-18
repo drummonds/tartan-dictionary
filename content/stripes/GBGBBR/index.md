@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/de/dege-of-saville-row/">Dege of Saville Row</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/de/dege-of-saville-row/"><img src="/variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/sett.png" alt="Dege of Saville Row sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dege-of-saville-row/"><img src="/variants/s6/dy11db1dy3dbi1db9r1~x4~db2911276-dbi3514276/sett.png" alt="Dege of Saville Row sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

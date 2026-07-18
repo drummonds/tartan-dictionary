@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/do/down-irish-county/">Down Irish County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/do/down-irish-county/"><img src="/variants/s9/k65dg9o11k5t2lo2ly5k2lo13~x2~dg1001060/sett.png" alt="Down Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/down-irish-county/"><img src="/variants/s9/k65dg9o11k5t2lo2ly5k2lo13~x2~dg2403087/sett.png" alt="Down Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

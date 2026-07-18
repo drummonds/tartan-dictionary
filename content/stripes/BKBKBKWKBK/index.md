@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ci/city-building-llp/">City Building LLP</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-building-llp/"><img src="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/sett.png" alt="City Building LLP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-building-llp/"><img src="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n47/sett.png" alt="City Building LLP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

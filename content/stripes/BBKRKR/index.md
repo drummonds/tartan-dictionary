@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hakkarain-personal-finnish/">Hakkarain Personal Finnish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hakkarain-personal-finnish/"><img src="/variants/s6/db37n18k37r2k2r2~x2~db1204274/sett.png" alt="Hakkarain Personal Finnish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hakkarain-personal-finnish/"><img src="/variants/s6/db37n18k37r2k2r2~x2~db2911276/sett.png" alt="Hakkarain Personal Finnish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

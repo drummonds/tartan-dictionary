@@ -7,7 +7,7 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/s/si/simba/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br><strong>SiMBA (1)</strong></a><div class="clan-territory">SiMBA</div></li>
 <li><a class="tartan" href="/tartans/s/si/simba-2/"><img src="/variants/s6/dp2g3o21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br><strong>SiMBA (1)</strong></a><div class="clan-territory">SiMBA</div></li>
-<li><a class="tartan" href="/tartans/s/si/sibbald/"><img src="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/sett.png" alt="Sibbald" width="140"><br><strong>Sibbald (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/si/sibbald/"><img src="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db2508270-dbi3409246/sett.png" alt="Sibbald" width="140"><br><strong>Sibbald (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/siddle/"><img src="/variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/sett.png" alt="Siddle" width="140"><br><strong>Siddle (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/siddle-new/"><img src="/variants/s5/r30db20w15lb3ly3/sett.png" alt="Siddle, New" width="140"><br><strong>Siddle, New (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/sidey/"><img src="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/sett.png" alt="Sidey" width="140"><br><strong>Sidey (2)</strong></a><div class="clan-territory">Sidey</div></li>
@@ -22,10 +22,10 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/si/silver/"><img src="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/sett.png" alt="Silver" width="140"><br><strong>Silver (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/silver-mist/"><img src="/variants/s5/n2k13n31k1n1~x4/sett.png" alt="Silver Mist" width="140"><br><strong>Silver Mist (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/silver-mist-2/"><img src="/variants/s6/k13n2k13n31k1n1~x4/sett.png" alt="Silver Mist" width="140"><br><strong>Silver Mist (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/si/silver-thistle/"><img src="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/sett.png" alt="Silver Thistle" width="140"><br><strong>Silver Thistle (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/si/silver-wedding/"><img src="/variants/s8/dp8n44k32lp2o53lb8n8lb4~n1900000-o2500000/sett.png" alt="Silver Wedding" width="140"><br><strong>Silver Wedding (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/si/silversea/"><img src="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/sett.png" alt="Silversea" width="140"><br><strong>Silversea (1)</strong></a><div class="clan-territory">Silversea</div></li>
-<li><a class="tartan" href="/tartans/s/si/silversea-2/"><img src="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/sett.png" alt="Silversea" width="140"><br><strong>Silversea (1)</strong></a><div class="clan-territory">Silversea</div></li>
+<li><a class="tartan" href="/tartans/s/si/silver-thistle/"><img src="/variants/s7/k4n2k46db20k6dbi3g4~x2~db3411279-dbi3514276/sett.png" alt="Silver Thistle" width="140"><br><strong>Silver Thistle (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/si/silver-wedding/"><img src="/variants/s8/dp8n44k32lp2o53lb8n8lb4~n47-o62/sett.png" alt="Silver Wedding" width="140"><br><strong>Silver Wedding (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/si/silversea/"><img src="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr7402111-lri7402246/sett.png" alt="Silversea" width="140"><br><strong>Silversea (1)</strong></a><div class="clan-territory">Silversea</div></li>
+<li><a class="tartan" href="/tartans/s/si/silversea-2/"><img src="/variants/s7/r3db20t20g2lr4lb17w3~x2~t5912243-lr70-lb8502228/sett.png" alt="Silversea" width="140"><br><strong>Silversea (1)</strong></a><div class="clan-territory">Silversea</div></li>
 <li><a class="tartan" href="/tartans/s/si/silverton/"><img src="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/sett.png" alt="Silverton" width="140"><br><strong>Silverton (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/silvicola/"><img src="/variants/s4/y20k15y20w3~x2/sett.png" alt="Silvicola" width="140"><br><strong>Silvicola (1)</strong></a><div class="clan-territory">Silvicola</div></li>
 <li><a class="tartan" href="/tartans/s/si/silvicola-2/"><img src="/variants/s3/k15y20w3~x2/sett.png" alt="Silvicola" width="140"><br><strong>Silvicola (1)</strong></a><div class="clan-territory">Silvicola</div></li>
@@ -52,7 +52,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/si/sir-billi/"><img src="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/sett.png" alt="Sir Billi" width="140"><br><strong>Sir Billi (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/sir-billi-2/"><img src="/variants/s6/r8dg12lr5k11dg42k3~x2/sett.png" alt="Sir Billi" width="140"><br><strong>Sir Billi (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/sir-george-etienne-cartier-canada/"><img src="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/sett.png" alt="Sir George Etienne-Cartier Canada" width="140"><br><strong>Sir George Etienne-Cartier Canada (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/si/sirens-swords/"><img src="/variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/sett.png" alt="Sirens &amp; Swords" width="140"><br><strong>Sirens & Swords (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/si/sirrell/"><img src="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/sett.png" alt="Sirrell" width="140"><br><strong>Sirrell (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/si/sirens-swords/"><img src="/variants/s6/db36y20dg6w12k6r3~x2~y6304159-dg3109150/sett.png" alt="Sirens &amp; Swords" width="140"><br><strong>Sirens & Swords (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/si/sirrell/"><img src="/variants/s6/n19w20dp18r2k7lb15~x2~n5507264-dp3705297/sett.png" alt="Sirrell" width="140"><br><strong>Sirrell (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/six-frigates/"><img src="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/sett.png" alt="Six Frigates" width="140"><br><strong>Six Frigates (1)</strong></a></li>
 </ul>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/da/dalbraith-eastern-western-motor-group/">Dalbraith-Eastern Western Motor Group</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/dalbraith-eastern-western-motor-group/"><img src="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/sett.png" alt="Dalbraith-Eastern Western Motor Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalbraith-eastern-western-motor-group/"><img src="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o5105048-oi5309063/sett.png" alt="Dalbraith-Eastern Western Motor Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

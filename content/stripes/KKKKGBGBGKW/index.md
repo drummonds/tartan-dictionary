@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-rugby-union-3/">Scottish Rugby Union</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-rugby-union-3/"><img src="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/sett.png" alt="Scottish Rugby Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-rugby-union-3/"><img src="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki1410264/sett.png" alt="Scottish Rugby Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

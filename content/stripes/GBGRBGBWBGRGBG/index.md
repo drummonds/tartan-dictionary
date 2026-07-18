@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/benteau-na-mara/">Benteau na mara</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/benteau-na-mara/"><img src="/variants/s14/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1~x2~dbi1404245-lb3203246-db1106275/sett.png" alt="Benteau na mara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/benteau-na-mara/"><img src="/variants/s14/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1~x2~dbi3409246-lb8007237-db2616276/sett.png" alt="Benteau na mara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

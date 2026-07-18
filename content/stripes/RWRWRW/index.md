@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/e/er/erskine-red/">Erskine Red &amp;</a> <small class="dt">ΔTartan 0.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-red/"><img src="/variants/s6/r2w1r9w9r1w2~x6/sett.png" alt="Erskine Red &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/f/fa/fallow-deer-the/">Fallow Deer, The</a> <small class="dt">ΔTartan 3.81</small></td></tr>
+<tr><td><a href="/tartans/f/fa/fallow-deer-the/">Fallow Deer, The</a> <small class="dt">ΔTartan 3.82</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fa/fallow-deer-the/"><img src="/variants/s6/o3w17o11w2o11w2~x4/sett.png" alt="Fallow Deer, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

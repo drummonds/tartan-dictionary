@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/up/ups-no-1/">UPS No. 1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/up/ups-no-1/"><img src="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/sett.png" alt="UPS No. 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/up/ups-no-1/"><img src="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi8711084-lo7214075/sett.png" alt="UPS No. 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

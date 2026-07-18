@@ -1,0 +1,76 @@
+---
+title: "Strathisla"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strathisla"
+  url: "/clan/strathisla/"
+- name: "Strathisla"
+  url: "/families/strathisla/"
+- name: "Strathisla"
+  url: "/tartans/s/st/strathisla-2/"
+- name: "Strathisla"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathisla-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRBGBBBWBBBGBRBG](/stripes/bgbrbgbbbwbbbgbrbg/).
+
+Part of the [Strathisla](/tartans/s/st/strathisla-2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3986](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3986)
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3986](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3986)
+- Scottish Tartans Authority (ITI): 4101
+
+## Thread count
+G/16 DB24 R6 DP40 G6 DB40 DBi6 DB40 LB4 DB40 DBi6 DB40 G6 DP40 R6 DB24 G16 DBi/16
+
+One full sett is **720 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#00008C;"><span style="color:#00008C;filter:grayscale(1) invert(1) contrast(100);">#00008C</span></code> <small style="color:#888">#00008C</small></td><td><small style="color:#888">oklch(28.9% 0.200 264.1)</small></td></tr><tr><td>DB</td><td><code style="background-color:#002C70;"><span style="color:#002C70;filter:grayscale(1) invert(1) contrast(100);">#002C70</span></code> <small style="color:#888">#002C70</small></td><td><small style="color:#888">oklch(31.5% 0.126 259.7)</small></td></tr><tr><td>DB</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>DP</td><td><code style="background-color:#28003C;"><span style="color:#28003C;filter:grayscale(1) invert(1) contrast(100);">#28003C</span></code> <small style="color:#888">#28003C</small></td><td><small style="color:#888">oklch(21.3% 0.107 310.6)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LB</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DP</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/16 DB24 R6 DP40 G6 DB40 DBi6 DB40 LB4 DB40 DBi6 DB40 G6 DP40 R6 DB24 G16 DBi/16 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">720</div><div class="nn-name nn-base"><a href="/variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327/">Strathisla</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r4116018-dg3707177&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">440</div><div class="nn-name nn-far"><a href="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r4116018-dg3707177/">Jorgensen of Taasinge Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r4116018-dg3707177/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi3514276-db3113261&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.14</a></div><div class="nn-threads nn-far2">376</div><div class="nn-name nn-far2"><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi3514276-db3113261/">Strathisla (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi3514276-db3113261/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db2911276-dbi3514276&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.29</a></div><div class="nn-threads nn-far2">268</div><div class="nn-name nn-far2"><a href="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db2911276-dbi3514276/">Knox #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db2911276-dbi3514276/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi59-n43&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.47</a></div><div class="nn-threads nn-far2">262</div><div class="nn-name nn-far2"><a href="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi59-n43/">MatchPoint Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi59-n43/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db2616276-dbi3514276-t5606234-lr70&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.54</a></div><div class="nn-threads nn-far2">246</div><div class="nn-name nn-far2"><a href="/variants/s17/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db2616276-dbi3514276-t5606234-lr70/">Fulbright, Senator (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db2616276-dbi3514276-t5606234-lr70/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2~db3514276&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.71</a></div><div class="nn-threads nn-far2">426</div><div class="nn-name nn-far2"><a href="/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2~db3514276/">Scozia</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2~db3514276/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi3514276-db3409246&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.85</a></div><div class="nn-threads nn-far2">420</div><div class="nn-name nn-far2"><a href="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi3514276-db3409246/">Tartan Army Corporate/Sport Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi3514276-db3409246/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db6dy2o24db4o8db6o6db6o3db10n14db4r3db34lb4~o62-n47&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.94</a></div><div class="nn-threads nn-far2">258</div><div class="nn-name nn-far2"><a href="/variants/s15/db6dy2o24db4o8db6o6db6o3db10n14db4r3db34lb4~o62-n47/">Matchpoint Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db6dy2o24db4o8db6o6db6o3db10n14db4r3db34lb4~o62-n47/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db4n32db4n4db32m6db32dg4db3dg32w4&amp;base=dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327" title="compare in the TTD">3.97</a></div><div class="nn-threads nn-far2">306</div><div class="nn-name nn-far2"><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/">American Society of Travel Agents, The (2001)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/sett-rev.png" alt="sett" loading="lazy" style="width:544px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r4116018-dg3707177/"><circle cx="277.2" cy="188.1" r="4" fill="#3465a4"><title>Jorgensen of Taasinge Family Tartan</title></circle></a><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi3514276-db3113261/"><circle cx="307.4" cy="209.6" r="4" fill="#3465a4"><title>Strathisla (District)</title></circle></a><a href="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db2911276-dbi3514276/"><circle cx="242.4" cy="133.9" r="4" fill="#3465a4"><title>Knox #2</title></circle></a><a href="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi59-n43/"><circle cx="298.7" cy="139.5" r="4" fill="#3465a4"><title>MatchPoint Dress</title></circle></a><a href="/variants/s17/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db2616276-dbi3514276-t5606234-lr70/"><circle cx="233.2" cy="188.5" r="4" fill="#3465a4"><title>Fulbright, Senator (Personal)</title></circle></a><a href="/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2~db3514276/"><circle cx="292.1" cy="186.1" r="4" fill="#3465a4"><title>Scozia</title></circle></a><a href="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi3514276-db3409246/"><circle cx="257.1" cy="155.2" r="4" fill="#3465a4"><title>Tartan Army Corporate/Sport Tartan</title></circle></a><a href="/variants/s15/db6dy2o24db4o8db6o6db6o3db10n14db4r3db34lb4~o62-n47/"><circle cx="283.5" cy="133.0" r="4" fill="#3465a4"><title>Matchpoint Dress</title></circle></a><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/"><circle cx="288.7" cy="189.2" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><circle cx="294.1" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi3514276-db3113261-dp4018327/

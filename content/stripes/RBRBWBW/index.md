@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/blue/">Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue/"><img src="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1604274-db0805267/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue/"><img src="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi3911270-db1913264/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/le/lennox-dress-2/">Lennox Dress</a> <small class="dt">ΔTartan 8.07</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress-2/"><img src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-dress/">Lennox Dress</a> <small class="dt">ΔTartan 8.07</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress/"><img src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

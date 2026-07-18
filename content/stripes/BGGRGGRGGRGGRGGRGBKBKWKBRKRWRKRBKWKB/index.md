@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/unidentified-cotton-sample-2/">Unidentified, Cotton sample</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-cotton-sample-2/"><img src="/variants/s36/db4g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6db4k8b1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1b1~x2~g2508144-dg1104144/sett.png" alt="Unidentified, Cotton sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-cotton-sample-2/"><img src="/variants/s36/db4g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6db4k8b1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1b1~x2~g6119141-dg2709141/sett.png" alt="Unidentified, Cotton sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

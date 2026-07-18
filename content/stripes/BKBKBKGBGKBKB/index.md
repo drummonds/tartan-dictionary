@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/bl/blanton/">Blanton</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/bl/blanton/"><img src="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/sett.png" alt="Blanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/me/metropolitan-atlanta-police/">Metropolitan Atlanta Police</a> <small class="dt">ΔTartan 13.19</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/me/metropolitan-atlanta-police/"><img src="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/metropolitan-atlanta-police/">Metropolitan Atlanta Police</a> <small class="dt">ΔTartan 13.18</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/metropolitan-atlanta-police/"><img src="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k17-db1913264/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

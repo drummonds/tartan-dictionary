@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/us/uscbp/">USCBP</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/us/uscbp/"><img src="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/sett.png" alt="USCBP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/us/uscbp/"><img src="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db2508270-b4531264/sett.png" alt="USCBP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

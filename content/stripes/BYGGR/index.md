@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cl/clare/">Clare</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cl/clare/"><img src="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/sett.png" alt="Clare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clare/"><img src="/variants/s5/db5lo5dy13y41r3~x2~lo7414078-y6212135/sett.png" alt="Clare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clare-richard/">Clare, Richard</a> <small class="dt">ΔTartan 0.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clare-richard/"><img src="/variants/s5/db5ly5dy13g41r3~x2/sett.png" alt="Clare, Richard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

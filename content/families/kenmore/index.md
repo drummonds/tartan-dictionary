@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/k/ke/kenmore/">Kenmore</a> ★</td><td>~2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ke/kenmore/"><img src="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/sett.png" alt="Kenmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/k/ke/kenmore-hunting/">Kenmore Hunting</a></td><td>1995</td><td>2</td><td>2</td><td>15.55</td></tr>
+<tr><td><a href="/tartans/k/ke/kenmore-hunting/">Kenmore Hunting</a></td><td>1995</td><td>2</td><td>2</td><td>15.56</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ke/kenmore-hunting/"><img src="/variants/s3/dr1g22lo1~x4/sett.png" alt="Kenmore Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

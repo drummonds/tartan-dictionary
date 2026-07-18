@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/carbon-2/">Carbon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/carbon-2/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/sett.png" alt="Carbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carbon-2/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do3201018-dt38/sett.png" alt="Carbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

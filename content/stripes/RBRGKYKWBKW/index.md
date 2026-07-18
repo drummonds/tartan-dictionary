@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fi/field-marshall-montgomery-pb/">Field Marshall Montgomery PB</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fi/field-marshall-montgomery-pb/"><img src="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/sett.png" alt="Field Marshall Montgomery PB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/field-marshall-montgomery-pb/"><img src="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k17/sett.png" alt="Field Marshall Montgomery PB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

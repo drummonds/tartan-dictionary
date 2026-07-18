@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/ph/phinn/">Phinn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/ph/phinn/"><img src="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/sett.png" alt="Phinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ph/phinn/"><img src="/variants/s5/dg11dgi3dr4y2w2~x10~dg3007159-dgi4406183/sett.png" alt="Phinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

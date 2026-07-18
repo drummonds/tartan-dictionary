@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ar/arran-3/">Arran</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ar/arran-3/"><img src="/variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arran-3/"><img src="/variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg4514144-dpi4018327/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/i/is/isle-of-arran/">Isle of Arran</a> <small class="dt">ΔTartan 2.32</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-arran/"><img src="/variants/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4~x2/sett.png" alt="Isle of Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

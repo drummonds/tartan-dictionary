@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/an/antigua-barbuda/">Antigua &amp; Barbuda</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/an/antigua-barbuda/"><img src="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2~g2408144/sett.png" alt="Antigua &amp; Barbuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antigua-barbuda/"><img src="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2~g6019141/sett.png" alt="Antigua &amp; Barbuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

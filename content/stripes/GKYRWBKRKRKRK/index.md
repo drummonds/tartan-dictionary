@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/no/norwich-no-158/">Norwich No.158</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-158/"><img src="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/sett.png" alt="Norwich No.158 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-158/"><img src="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db3514276/sett.png" alt="Norwich No.158 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -36,7 +36,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macfadyan/"><img src="/variants/s7/db3r25db17r5g22r9db3~x2/sett.png" alt="MacFadyan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/lo/logan-light/">Logan Light</a> <small class="dt">ΔTartan 3.21</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-light/"><img src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/sett.png" alt="Logan Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-light/"><img src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r5419027-ri5623030/sett.png" alt="Logan Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

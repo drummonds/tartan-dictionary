@@ -15,6 +15,6 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/w/wa/waters-of-georgian-bay/">Waters of Georgian Bay</a> ★</td><td>2011</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/waters-of-georgian-bay/"><img src="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/sett.png" alt="Waters of Georgian Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/waters-of-georgian-bay/"><img src="/variants/s6/db38w3db8dbi36dg9r3~x2~db2616276-dbi3514276/sett.png" alt="Waters of Georgian Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

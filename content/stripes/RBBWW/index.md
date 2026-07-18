@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wo/world-federation-of-building-contractors/">World Federation of Building Contractors</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wo/world-federation-of-building-contractors/"><img src="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/sett.png" alt="World Federation of Building Contractors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/world-federation-of-building-contractors/"><img src="/variants/s5/w4lb44dbi19db44r2~x2~dbi3510255-db2508270/sett.png" alt="World Federation of Building Contractors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -179,7 +179,7 @@ weight: 11
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [New York Caledonian Club Dress](/tartans/n/ne/new-york-caledonian-club-dress/) | 1 | 1 |
+| 0.08 | [New York Caledonian Club Dress](/tartans/n/ne/new-york-caledonian-club-dress-2/) | 1 | 1 |
 
 ### RBRBRWRKWGR
 <a class="pat" href="/stripes/rbrbrwrkwgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRBRWRKWGR</span></a>
@@ -256,7 +256,7 @@ weight: 11
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [Duke of Perth](/tartans/d/du/duke-of-perth-4/) | 1 | 1 |
+| 0.07 | [Duke of Perth](/tartans/d/du/duke-of-perth-3/) | 1 | 1 |
 
 ### RGKGKBKRKRW
 <a class="pat" href="/stripes/rgkgkbkrkrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGKGKBKRKRW</span></a>
@@ -585,7 +585,7 @@ weight: 11
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [Bouguet, Adrian Dress](/tartans/b/bo/bouguet-adrian-dress-2/) | 1 | 1 |
+| 0.12 | [Bouguet, Adrian Dress](/tartans/b/bo/bouguet-adrian-dress/) | 1 | 1 |
 
 ### RYBGBW
 <a class="pat" href="/stripes/rybgbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RYBGBW</span></a>
@@ -1096,7 +1096,7 @@ weight: 11
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Canna](/tartans/c/ca/canna-2/) | 1 | 1 |
+| 0.13 | [Canna](/tartans/c/ca/canna/) | 1 | 1 |
 
 ### WWBBRGRBRWW
 <a class="pat" href="/stripes/wwbbrgrbrww/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WWBBRGRBRWW</span></a>

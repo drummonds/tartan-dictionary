@@ -17,8 +17,8 @@ The **Unidentified** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14~x2~ki0803152/">Unidentified</a></td><td></td><td><code>K/160 Ki2 K10 Ki4 K8 Ki8 K4 Ki10 K2 Ki92 K6 Ki8 G2 K2 Ki8 G2 K2 Ki8 K12 DR4 K/28</code></td><td>576</td><td>1890</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14~x2~ki0803152/"><img src="/variants/s21/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14~x2~ki0803152/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14~x2~ki1907141/">Unidentified</a></td><td></td><td><code>K/160 Ki2 K10 Ki4 K8 Ki8 K4 Ki10 K2 Ki92 K6 Ki8 G2 K2 Ki8 G2 K2 Ki8 K12 DR4 K/28</code></td><td>576</td><td>1890</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14~x2~ki1907141/"><img src="/variants/s21/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14~x2~ki1907141/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

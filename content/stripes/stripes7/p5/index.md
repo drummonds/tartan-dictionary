@@ -3,8 +3,15 @@ title: 7 stripes tartan setts (page 5)
 date: 2023-03-18
 weight: 7
 ---
-1,360 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,362 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes7/p4/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <a href="/stripes/stripes7/p3/">3</a> <a href="/stripes/stripes7/p4/">4</a> <strong>5</strong> </nav>
+
+### RBKBKGW
+<a class="pat" href="/stripes/rbkbkgw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBKBKGW</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.07 | [Bennett, J P.](/tartans/b/be/bennett-j-p/) | 1 | 1 |
 
 ### RBKBRWR
 <a class="pat" href="/stripes/rbkbrwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBKBRWR</span></a>
@@ -564,7 +571,7 @@ weight: 7
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Lennox Dress](/tartans/l/le/lennox-dress-2/) | 1 | 1 |
+| 0.08 | [Lennox Dress](/tartans/l/le/lennox-dress/) | 1 | 1 |
 
 ### RRWBRYR
 <a class="pat" href="/stripes/rrwbryr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">RRWBRYR</span></a>
@@ -732,7 +739,7 @@ weight: 7
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Jones](/tartans/j/jo/jones/) | 1 | 1 |
+| 0.10 | [Jones](/tartans/j/jo/jones-2/) | 1 | 1 |
 
 ### RYKYKYR
 <a class="pat" href="/stripes/rykykyr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">RYKYKYR</span></a>

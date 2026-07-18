@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/su/sunart-saphire/">Sunart Saphire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/su/sunart-saphire/"><img src="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r2108022-ri2806019/sett.png" alt="Sunart Saphire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sunart-saphire/"><img src="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r5221021-ri6914021/sett.png" alt="Sunart Saphire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

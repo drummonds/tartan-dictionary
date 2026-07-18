@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-andrew-society/">St. Andrew Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrew-society/"><img src="/variants/s7/dbi16k16db16w3db16k2lb3~x2~dbi1406275-db1106275/sett.png" alt="St. Andrew Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrew-society/"><img src="/variants/s7/dbi16k16db16w3db16k2lb3~x2~dbi3514276-db2616276/sett.png" alt="St. Andrew Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

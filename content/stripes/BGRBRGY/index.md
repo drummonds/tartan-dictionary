@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/tu/tulloch-homes/">Tulloch Homes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/tu/tulloch-homes/"><img src="/variants/s7/b6dg14r9db7r9dg54ly6~dg1304144-db1003265-ly3608101/sett.png" alt="Tulloch Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/tulloch-homes/"><img src="/variants/s7/b6dg14r9db7r9dg54ly6~dg3210147-db2506264-ly9019099/sett.png" alt="Tulloch Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

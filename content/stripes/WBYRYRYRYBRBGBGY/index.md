@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cr/cribb/">Cribb</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cr/cribb/"><img src="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/sett.png" alt="Cribb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/cribb/"><img src="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n47-lr75-o5911321-dp2712327/sett.png" alt="Cribb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

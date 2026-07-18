@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wi/wiregrass/">Wiregrass</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wiregrass/"><img src="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/sett.png" alt="Wiregrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wiregrass/"><img src="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg4514144-g6019141/sett.png" alt="Wiregrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/s/se/selkirk-2/">Selkirk</a> ★</td><td>1995</td><td>2</td><td>3</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/selkirk-2/"><img src="/variants/s5/dp11y2k10g10lo2~x2/sett.png" alt="Selkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/se/selkirk/">Selkirk</a></td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/selkirk/"><img src="/variants/s17/db24b2db12k2w2k3dg2k3dbi4k3dg2k3w2k2r12b2dbi24~x2~db0805267-dbi1604274/sett.png" alt="Selkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/selkirk/">Selkirk</a></td><td>—</td><td>1</td><td>1</td><td>9.07</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/selkirk/"><img src="/variants/s17/db24b2db12k2w2k3dg2k3dbi4k3dg2k3w2k2r12b2dbi24~x2~db1913264-dbi3911270/sett.png" alt="Selkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

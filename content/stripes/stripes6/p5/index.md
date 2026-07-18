@@ -683,7 +683,7 @@ weight: 6
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [MacArthur-Fox Dress](/tartans/m/ma/macarthur-fox-dress/) | 1 | 1 |
+| 0.12 | [MacArthur-Fox, dress](/tartans/m/ma/macarthur-fox-dress-3/) | 1 | 1 |
 
 ### RBRGRR
 <a class="pat" href="/stripes/rbrgrr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGRR</span></a>
@@ -984,7 +984,7 @@ weight: 6
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [MacGregor](/tartans/m/ma/macgregor-10/) | 1 | 1 |
+| 0.09 | [MacGregor](/tartans/m/ma/macgregor-4/) | 1 | 1 |
 
 ### RKRWWW
 <a class="pat" href="/stripes/rkrwww/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKRWWW</span></a>

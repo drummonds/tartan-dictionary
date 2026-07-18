@@ -15,6 +15,6 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/c/co/coats/">Coats</a> ★</td><td>2013</td><td>2</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/coats/"><img src="/variants/s9/k9ly6db9n2o3n2dg17db17lb5~x2~ly2806085-o2404072/sett.png" alt="Coats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/coats/"><img src="/variants/s9/k9ly6db9n2o3n2dg17db17lb5~x2~ly7014087-o6011066/sett.png" alt="Coats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

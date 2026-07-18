@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/cairns-david/">Cairns, David</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairns-david/"><img src="/variants/s5/n11o1n4o8dr1~x8~n1900000-o2500000/sett.png" alt="Cairns, David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairns-david/"><img src="/variants/s5/n11o1n4o8dr1~x8~n47-o62/sett.png" alt="Cairns, David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

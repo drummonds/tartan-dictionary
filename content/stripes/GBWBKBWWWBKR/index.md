@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/un/union-club-of-british-columbia/">Union Club of British Columbia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/union-club-of-british-columbia/"><img src="/variants/s12/o2k1n4lb4w1lb4db4k1db4lb2db4y1~x4~o2500000-n1700000/sett.png" alt="Union Club of British Columbia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/union-club-of-british-columbia/"><img src="/variants/s12/o2k1n4lb4w1lb4db4k1db4lb2db4y1~x4~o62-n43/sett.png" alt="Union Club of British Columbia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

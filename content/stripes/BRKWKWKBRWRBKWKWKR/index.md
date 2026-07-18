@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-knights-templar-militi-templi-scotia/">Scottish Knights Templar Militi Templi Scotia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-knights-templar-militi-templi-scotia/"><img src="/variants/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2~db1406275/sett.png" alt="Scottish Knights Templar Militi Templi Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-knights-templar-militi-templi-scotia/"><img src="/variants/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2~db3514276/sett.png" alt="Scottish Knights Templar Militi Templi Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

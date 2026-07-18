@@ -10,15 +10,15 @@ crumbs:
 - name: "MacGregor"
   url: "/families/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-6/"
+  url: "/tartans/m/ma/macgregor-7/"
 - name: "MacGregor"
   url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKWKGRGRGR](/stripes/rgrgkwkgrgrgr/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from peter-1856.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -80,8 +80,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13657 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.9" cy="66.2" r="4" fill="#3465a4"><title>Moffat District District Tartan</title></circle></a><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/"><circle cx="446.8" cy="78.5" r="4" fill="#3465a4"><title>Maconachie of Meadowbank</title></circle></a><a href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="457.2" cy="85.3" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s17/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48~x2/"><circle cx="421.3" cy="28.7" r="4" fill="#3465a4"><title>Macaulay of Ardincaple</title></circle></a><a href="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/"><circle cx="435.9" cy="77.6" r="4" fill="#3465a4"><title>Highland Queen (Corporate)</title></circle></a><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><circle cx="404.6" cy="67.1" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.6" cy="57.2" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><circle cx="432.0" cy="92.7" r="4" fill="#3465a4"><title>Uddingston Rugby Club Centenary (Cor</title></circle></a><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="437.1" cy="78.3" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="441.0" cy="102.4" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><circle cx="432.5" cy="72.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.9" cy="66.1" r="4" fill="#3465a4"><title>Moffat District District Tartan</title></circle></a><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/"><circle cx="446.8" cy="78.4" r="4" fill="#3465a4"><title>Maconachie of Meadowbank</title></circle></a><a href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="457.2" cy="85.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s17/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48~x2/"><circle cx="421.3" cy="28.6" r="4" fill="#3465a4"><title>Macaulay of Ardincaple</title></circle></a><a href="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/"><circle cx="435.9" cy="77.5" r="4" fill="#3465a4"><title>Highland Queen (Corporate)</title></circle></a><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><circle cx="404.6" cy="67.0" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.6" cy="57.1" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><circle cx="432.0" cy="92.6" r="4" fill="#3465a4"><title>Uddingston Rugby Club Centenary (Cor</title></circle></a><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="437.0" cy="78.2" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="441.0" cy="102.3" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><circle cx="432.5" cy="72.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/

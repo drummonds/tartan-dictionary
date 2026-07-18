@@ -33,9 +33,9 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/u/un/unnamed-no-54/">Unnamed, No 54</a> <small class="dt">ΔTartan 0.60</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-no-54/"><img src="/variants/s6/db2g6db6b5db1b2~x2/sett.png" alt="Unnamed, No 54 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/su/sugiyama-jogakuen-university/">Sugiyama Jogakuen University</a> <small class="dt">ΔTartan 0.88</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/su/sugiyama-jogakuen-university/"><img src="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1605267-db1004274/sett.png" alt="Sugiyama Jogakuen University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sugiyama-jogakuen-university/"><img src="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi3912267-db2609279/sett.png" alt="Sugiyama Jogakuen University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/su/sugiyama/">Sugiyama</a> <small class="dt">ΔTartan 0.88</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/su/sugiyama/"><img src="/variants/s6/b7db2b25db10g21db2~x2~b1511266-db1108266/sett.png" alt="Sugiyama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sugiyama/"><img src="/variants/s6/b7db2b25db10g21db2~x2~b3826264-db2719264/sett.png" alt="Sugiyama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/u/un/unidentified-no-54/">Unidentified no. 54</a> <small class="dt">ΔTartan 3.41</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-54/"><img src="/variants/s6/db2g6db6dp5db1dp2~x2/sett.png" alt="Unidentified no. 54 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

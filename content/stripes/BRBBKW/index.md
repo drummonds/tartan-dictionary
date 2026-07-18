@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/benreay-medical-centre/">Benreay Medical Centre</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/benreay-medical-centre/"><img src="/variants/s6/dp4r1t5dp4k6lb1~x4~dp1607327/sett.png" alt="Benreay Medical Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/benreay-medical-centre/"><img src="/variants/s6/dp4r1t5dp4k6lb1~x4~dp4018327/sett.png" alt="Benreay Medical Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/i/in/inverness-augustus/">Inverness Augustus</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-augustus/"><img src="/variants/s7/dr18g1k5g1k1g1dr9~x2/sett.png" alt="Inverness Augustus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sa/salvation-army-hunting-2/">Salvation Army Hunting</a> <small class="dt">ΔTartan 6.53</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/salvation-army-hunting-2/"><img src="/variants/s7/db40g8k1y2k1g8db5~x4/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salvation-army-hunting-2/">Salvation Army Hunting</a> <small class="dt">ΔTartan 7.32</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salvation-army-hunting-2/"><img src="/variants/s7/db5dg8k1y2k1dg8db4~x4/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

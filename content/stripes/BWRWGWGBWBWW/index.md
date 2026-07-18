@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/su/summerwood/">Summerwood</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/su/summerwood/"><img src="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/sett.png" alt="Summerwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/summerwood/"><img src="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/sett.png" alt="Summerwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

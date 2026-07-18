@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/ballindalloch/">Ballindalloch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballindalloch/"><img src="/variants/s2/dg1ly1~x8~dg1405139/sett.png" alt="Ballindalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballindalloch/"><img src="/variants/s2/dg1ly1~x8~dg3612141/sett.png" alt="Ballindalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

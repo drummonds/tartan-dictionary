@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/k/kn/knights-templar-st-andrews-2/"><img src="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/sett.png" alt="Knights Templar St Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/sc/scottish-knights-templar-st-a-corp/">Scottish Knights Templar St. A (Corp</a> <small class="dt">ΔTartan 3.04</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-knights-templar-st-a-corp/"><img src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/sett.png" alt="Scottish Knights Templar St. A (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-knights-templar-st-a-corp/"><img src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db3514276/sett.png" alt="Scottish Knights Templar St. A (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

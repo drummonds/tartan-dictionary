@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/li/lindenwood-university/">Lindenwood University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/li/lindenwood-university/"><img src="/variants/s24/w8k2w6ly8k34w4k2w4r6k12ly18k12w4g6k65w4db6k12ly8w8k2w6ly8dbi6~db1106275-dbi1406275/sett.png" alt="Lindenwood University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lindenwood-university/"><img src="/variants/s24/w8k2w6ly8k34w4k2w4r6k12ly18k12w4g6k65w4db6k12ly8w8k2w6ly8dbi6~db2616276-dbi3514276/sett.png" alt="Lindenwood University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

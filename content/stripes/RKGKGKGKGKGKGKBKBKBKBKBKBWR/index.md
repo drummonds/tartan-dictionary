@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-andrews-soc-of-new-york/">St. Andrews Soc. of New York</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-soc-of-new-york/"><img src="/variants/s27/r8w2db34k1db5k2db4k3db3k4db2k5db1k36g1k5g2k4g3k3g4k2g5k1g34k4ri8~r2109032-ri2806019/sett.png" alt="St. Andrews Soc. of New York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-soc-of-new-york/"><img src="/variants/s27/r8w2db34k1db5k2db4k3db3k4db2k5db1k36g1k5g2k4g3k3g4k2g5k1g34k4ri8~r5221030-ri6914021/sett.png" alt="St. Andrews Soc. of New York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

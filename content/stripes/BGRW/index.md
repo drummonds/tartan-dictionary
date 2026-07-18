@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thorntons-law/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-189/">Wilson's No.189</a> <small class="dt">ΔTartan 1.85</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-189/"><img src="/variants/s4/dp4g10r1w1~x2~r2109032/sett.png" alt="Wilson's No.189 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-189/"><img src="/variants/s4/dp4g10r1w1~x2~r5221030/sett.png" alt="Wilson's No.189 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/n/no/norwich-university/">Norwich University</a> <small class="dt">ΔTartan 1.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-university/"><img src="/variants/s4/db39y8r3w1~x4/sett.png" alt="Norwich University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

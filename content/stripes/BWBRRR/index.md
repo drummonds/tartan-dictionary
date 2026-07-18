@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/steffen-morris/">Steffen, Morris</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/steffen-morris/"><img src="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/sett.png" alt="Steffen, Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/steffen-morris/"><img src="/variants/s6/db35w4db10r3ri3r3~x4~r4315012-ri5221030/sett.png" alt="Steffen, Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

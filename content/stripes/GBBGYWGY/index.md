@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/ph/philpotts-brian/">Philpotts, Brian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/ph/philpotts-brian/"><img src="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t2405244-lb3200000/sett.png" alt="Philpotts, Brian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ph/philpotts-brian/"><img src="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/sett.png" alt="Philpotts, Brian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

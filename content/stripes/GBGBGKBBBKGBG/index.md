@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/le/lemania/">Lemania</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/lemania/"><img src="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/sett.png" alt="Lemania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lemania/"><img src="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db2911276-dbi3409246/sett.png" alt="Lemania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

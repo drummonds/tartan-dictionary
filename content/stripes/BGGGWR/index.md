@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/college-of-new-caledonia/">College of New Caledonia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/college-of-new-caledonia/"><img src="/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/sett.png" alt="College of New Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/college-of-new-caledonia/"><img src="/variants/s6/t52y23g6dg5w1r1~x2~g6019141-dg4514144/sett.png" alt="College of New Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

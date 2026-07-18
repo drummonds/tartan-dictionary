@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wa/waggrall-3/">Waggrall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/waggrall-3/"><img src="/variants/s81/r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w-he7d7900006fe9af8/sett.png?s=r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w1ri4~x2~r2109032-ri2307033" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waggrall-3/"><img src="/variants/s81/r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w-he5ea0b16df2f69d5/sett.png?s=r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w1ri4~x2~r5221030-ri5717030" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

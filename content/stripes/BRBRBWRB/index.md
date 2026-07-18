@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/e/em/embrace/"><img src="/variants/s8/b10r24b4r3b24w2r6b6~x2/sett.png" alt="Embrace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/o/or/orkney-slate/">Orkney Slate</a> <small class="dt">ΔTartan 12.13</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/or/orkney-slate/"><img src="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/sett.png" alt="Orkney Slate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orkney-slate/"><img src="/variants/s8/n8o74lb8n42o11dp2o16n4~n47-o62/sett.png" alt="Orkney Slate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

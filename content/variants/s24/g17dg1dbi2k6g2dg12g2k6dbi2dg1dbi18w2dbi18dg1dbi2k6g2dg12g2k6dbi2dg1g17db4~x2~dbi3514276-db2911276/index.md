@@ -1,0 +1,73 @@
+---
+title: "Clack Personal Tartan"
+date: 2023-03-18
+type: variants
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clack"
+  url: "/clan/clack/"
+- name: "Clack"
+  url: "/families/clack/"
+- name: "Clack"
+  url: "/tartans/c/cl/clack/"
+- name: "Clack Personal Tartan"
+  url: ""
+---
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clack/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGBKGGGKBGBWBGBKGGGKBGG](/stripes/bggbkgggkbgbwbgbkgggkbgg/).
+
+Part of the [Clack](/tartans/c/cl/clack/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3928](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3928)
+
+## Provenance
+
+Earliest known date: Unknown J M Davidson of Letchworth, England.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
+
+## Thread count
+G/34 DG2 DBi4 K12 G4 DG24 G4 K12 DBi4 DG2 DBi36 W4 DBi36 DG2 DBi4 K12 G4 DG24 G4 K12 DBi4 DG2 G34 DB/8
+
+One full sett is **534 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>DB</td><td><code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> <small style="color:#888">#202060</small></td><td><small style="color:#888">oklch(28.9% 0.111 276.9)</small></td></tr><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/34 DG2 DBi4 K12 G4 DG24 G4 K12 DBi4 DG2 DBi36 W4 DBi36 DG2 DBi4 K12 G4 DG24 G4 K12 DBi4 DG2 G34 DB/8 tartan" width="880" height="480">
+
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">534</div><div class="nn-name nn-base"><a href="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276/">Clack Personal Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-db2911276-g5408159&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">1.51</a></div><div class="nn-threads">678</div><div class="nn-name"><a href="/variants/s26/dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-db2911276-g5408159/">Leinster Irish District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s26/dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-db2911276-g5408159/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">586</div><div class="nn-name nn-far"><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/">Hawick</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">496</div><div class="nn-name nn-far"><a href="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/">Wood (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4k1g19lo1k19db13dr2db4dr2~x4&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">496</div><div class="nn-name nn-far"><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/">Whitson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">522</div><div class="nn-name nn-far"><a href="/variants/s21/db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2/">Rankin (Dalgleish)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.67</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/">Nicolson Green Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-g5408159&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">360</div><div class="nn-name nn-far"><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-g5408159/">Leinster</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-g5408159/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg3612141&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">684</div><div class="nn-name nn-far"><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg3612141/">Stewart</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg3612141/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db2911276-dg3612141&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">422</div><div class="nn-name nn-far"><a href="/variants/s11/db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db2911276-dg3612141/">Scottish Hockey Union</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db2911276-dg3612141/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db2911276-dbi3514276&amp;base=g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db2911276-dbi3514276/">Clack (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db2911276-dbi3514276/sett-rev.png" alt="sett" loading="lazy" style="width:736px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13662 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s26/dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-db2911276-g5408159/"><circle cx="82.9" cy="102.7" r="4" fill="#3465a4"><title>Leinster Irish District Tartan</title></circle></a><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/"><circle cx="46.7" cy="81.8" r="4" fill="#3465a4"><title>Hawick</title></circle></a><a href="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/"><circle cx="139.9" cy="63.8" r="4" fill="#3465a4"><title>Wood (Clan)</title></circle></a><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/"><circle cx="109.4" cy="100.5" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/variants/s21/db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2/"><circle cx="123.4" cy="102.7" r="4" fill="#3465a4"><title>Rankin (Dalgleish)</title></circle></a><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/"><circle cx="124.0" cy="83.0" r="4" fill="#3465a4"><title>Nicolson Green Hunting</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg4514144-g5408159/"><circle cx="89.6" cy="124.4" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg3612141/"><circle cx="119.9" cy="87.1" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s11/db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db2911276-dg3612141/"><circle cx="113.5" cy="118.0" r="4" fill="#3465a4"><title>Scottish Hockey Union</title></circle></a><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db2911276-dbi3514276/"><circle cx="109.0" cy="115.8" r="4" fill="#3465a4"><title>Clack (Personal)</title></circle></a><circle cx="106.8" cy="94.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi3514276-db2911276/

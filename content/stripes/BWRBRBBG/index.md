@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/harding-2/">Harding</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/harding-2/"><img src="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n1900000/sett.png" alt="Harding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harding-2/"><img src="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n47/sett.png" alt="Harding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

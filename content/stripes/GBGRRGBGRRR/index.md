@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/kr/kreutz-arthur/">Kreutz, Arthur</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/kr/kreutz-arthur/"><img src="/variants/s11/rii8ri8r8y3db1g1rii8r8y3db1g1~x2~rii2307033-ri1807033-r1807008/sett.png" alt="Kreutz, Arthur sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kr/kreutz-arthur/"><img src="/variants/s11/rii8r8ri8y3db1g1rii8ri8y3db1g1~x2~rii5717030-r4418030-ri4518006/sett.png" alt="Kreutz, Arthur sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

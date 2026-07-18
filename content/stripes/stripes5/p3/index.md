@@ -487,7 +487,7 @@ weight: 5
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Love](/tartans/l/lo/love/) | 1 | 1 |
+| 0.11 | [Love](/tartans/l/lo/love-2/) | 1 | 1 |
 
 ### RBRYW
 <a class="pat" href="/stripes/rbryw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBRYW</span></a>

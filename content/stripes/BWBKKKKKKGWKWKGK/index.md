@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gl/glendinning/">Glendinning</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gl/glendinning/"><img src="/variants/s16/db5w1db10ki5k1ki1k2ki2k10dg5lb2ki2lb1ki2dg3k1~x2~ki0700000-lb3203246/sett.png" alt="Glendinning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glendinning/"><img src="/variants/s16/db5w1db10ki5k1ki1k2ki2k10dg5lb2ki2lb1ki2dg3k1~x2~ki17-lb8007237/sett.png" alt="Glendinning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

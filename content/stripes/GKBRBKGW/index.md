@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/as/asher/">Asher</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/as/asher/"><img src="/variants/s8/dg40k2db3r4db3k2dg40w3~x2/sett.png" alt="Asher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fo/forbo-nairn-2/">Forbo Nairn</a> <small class="dt">ΔTartan 1.10</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbo-nairn-2/"><img src="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/sett.png" alt="Forbo Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbo-nairn-2/"><img src="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db3514276/sett.png" alt="Forbo Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

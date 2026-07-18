@@ -28,7 +28,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/th/thompson/"><img src="lb1w6b1lb3k3lb1-rev.png" alt="Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/t/th/thompson-6/">Thompson</a></td><td>1998</td><td>1</td><td>1</td><td>7.22</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/th/thompson-6/"><img src="/variants/s6/k4lb28r6w12r12w3~x2/sett.png" alt="Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/t/th/thompson-4/">Thompson</a></td><td>2002</td><td>1</td><td>1</td><td>7.48</td></tr>
+<tr><td><a href="/tartans/t/th/thompson-4/">Thompson</a></td><td>2002</td><td>1</td><td>1</td><td>7.49</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/th/thompson-4/"><img src="t15w13dy6t2dy2r2dy2t2dy6w13t15r3-rev.png" alt="Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

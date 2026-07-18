@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/im/impulse/">Impulse</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/im/impulse/"><img src="/variants/s11/dr2b10k9bi13k7db3k2db3k2db3dr2~x2~bi1611266-db0906265/sett.png" alt="Impulse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/im/impulse/"><img src="/variants/s11/dr2b10k9bi13k7db3k2db3k2db3dr2~x2~bi4028264-db2316264/sett.png" alt="Impulse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

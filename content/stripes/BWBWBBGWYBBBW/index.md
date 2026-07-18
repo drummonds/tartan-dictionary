@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sp/spirit-of-india-2/">Spirit of India</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-india-2/"><img src="/variants/s13/dbi32w2db1w2dbi4db1g8w8ly8db1dbi16db1w4~x2~dbi1406275-db1204274/sett.png" alt="Spirit of India sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-india-2/"><img src="/variants/s13/dbi32w2db1w2dbi4db1g8w8ly8db1dbi16db1w4~x2~dbi3514276-db2911276/sett.png" alt="Spirit of India sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

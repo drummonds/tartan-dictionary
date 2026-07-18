@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/d/da/dallas-2/">Dallas</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dallas-2/"><img src="/variants/s17/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2~x2/sett.png" alt="Dallas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/da/dallas/">Dallas</a></td><td>1980</td><td>3</td><td>3</td><td>3.53</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dallas/"><img src="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/sett.png" alt="Dallas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dallas/"><img src="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~dg3007159-g4909174/sett.png" alt="Dallas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

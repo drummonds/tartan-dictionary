@@ -1391,7 +1391,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Gordonstoun](/tartans/g/go/gordonstoun-4/) | 2 | 2 |
+| 0.10 | [Gordonstoun](/tartans/g/go/gordonstoun-5/) | 2 | 2 |
 
 ### GGRGGGRGRGRG
 <a class="pat" href="/stripes/ggrgggrgrgrg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGRGGGRGRGRG</span></a>
@@ -1504,7 +1504,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [Houston](/tartans/h/ho/houston-3/) | 1 | 2 |
+| 0.14 | [Houston](/tartans/h/ho/houston-2/) | 1 | 2 |
 
 ### KBKBKBKGBKBW
 <a class="pat" href="/stripes/kbkbkbkgbkbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KBKBKBKGBKBW</span></a>

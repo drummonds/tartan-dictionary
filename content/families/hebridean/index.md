@@ -28,11 +28,11 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebridean-6/"><img src="/variants/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/sett.png" alt="Hebridean 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/hebridean-3/">Hebridean 3</a></td><td>—</td><td>1</td><td>1</td><td>9.54</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebridean-3/"><img src="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/sett.png" alt="Hebridean 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-5/">Hebridean 5</a></td><td>2002</td><td>1</td><td>2</td><td>9.76</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebridean-5/"><img src="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db2911276-dbi3514276/sett.png" alt="Hebridean 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/hebridean-8/">Hebridean 8</a></td><td>2002</td><td>1</td><td>1</td><td>12.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebridean-8/"><img src="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/sett.png" alt="Hebridean 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/hebridean-2/">Hebridean</a></td><td>1814</td><td>1</td><td>1</td><td>14.64</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebridean-2/"><img src="db5r3w2db1w2r3g9y2w1y2g9r1g1r27db1r1db1r27db1r1db9w1db1w4-rev.png" alt="Hebridean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/he/hebridean-5/">Hebridean 5</a></td><td>2002</td><td>1</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/hebridean-5/"><img src="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db1204274-dbi1406275/sett.png" alt="Hebridean 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

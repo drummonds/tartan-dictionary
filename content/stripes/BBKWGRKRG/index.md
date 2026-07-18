@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/royal-canadian-mounted-police-3/">Royal Canadian Mounted Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-canadian-mounted-police-3/"><img src="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/sett.png" alt="Royal Canadian Mounted Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-canadian-mounted-police-3/"><img src="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri5021030-r5020024/sett.png" alt="Royal Canadian Mounted Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

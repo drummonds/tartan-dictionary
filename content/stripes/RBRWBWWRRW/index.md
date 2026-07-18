@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ri/rikaco-eve/">Rikaco Eve</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ri/rikaco-eve/"><img src="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/sett.png" alt="Rikaco Eve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/rikaco-eve/"><img src="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w9804108-m5117003/sett.png" alt="Rikaco Eve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -2,10 +2,10 @@
 title: "Tartans — Ne"
 date: 2023-03-18
 ---
-72 tartans beginning with Ne, each with the number of setts it groups. Back to [N](/tartans/n/) or the [A–Z](/tartans/).
+73 tartans beginning with Ne, each with the number of setts it groups. Back to [N](/tartans/n/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/n/ne/newyorker/"><img src="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b1511266-ki0604259/sett.png" alt="NEWYORKER" width="140"><br><strong>NEWYORKER (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/newyorker/"><img src="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b3826264-ki1410264/sett.png" alt="NEWYORKER" width="140"><br><strong>NEWYORKER (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/nebar/"><img src="/variants/s4/n24r11k6db4~x4/sett.png" alt="Nebar" width="140"><br><strong>Nebar (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/nelson-mandela/"><img src="/variants/s7/db27g5y8k20y3g15r3~x2/sett.png" alt="Nelson Mandela" width="140"><br><strong>Nelson Mandela (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/nery/"><img src="/variants/s7/y6g28r4k20r3db45k5~x2/sett.png" alt="Nery" width="140"><br><strong>Nery (1)</strong></a></li>
@@ -19,9 +19,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/ne/new-breckon/"><img src="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/sett.png" alt="New Breckon" width="140"><br><strong>New Breckon (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-brunswick/"><img src="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/sett.png" alt="New Brunswick" width="140"><br><strong>New Brunswick (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-brunswick-2/"><img src="/variants/s36/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/sett.png" alt="New Brunswick" width="140"><br><strong>New Brunswick (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-brunswick-3/"><img src="/variants/s44/lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1ly1lb1dg28r24ly1n2ly3lb4r10dy16r4ly2r15dy5r9dg28lb1ly1lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1~x2~ly3307090-dg1806142-g2408144-dy1603076/sett.png" alt="New Brunswick" width="140"><br><strong>New Brunswick (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-brunswick-3/"><img src="/variants/s44/lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1ly1lb1dg28r24ly1n2ly3lb4r10dy16r4ly2r15dy5r9dg28lb1ly1lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1~x2~ly8117093-dg4514144-g6019141-dy3908078/sett.png" alt="New Brunswick" width="140"><br><strong>New Brunswick (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-brunswick-or-beaverbrook/"><img src="/variants/s44/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8dr9r3y2r9dr5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick or Beaverbrook" width="140"><br><strong>New Brunswick or Beaverbrook (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-brunswick-variation/"><img src="/variants/s38/y2lb2dg1g2dg2g2dg2g2dg2lb2y2lb2dg28r24y1n2y3lb4r10dy16r4y2r14dy5r10dg28lb2y2lb2dg1g2dg2g2dg2g2dg1lb2y2~dg1806142-g2408144/sett.png" alt="New Brunswick variation" width="140"><br><strong>New Brunswick variation (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-brunswick-variation/"><img src="/variants/s38/y2lb2dg1g2dg2g2dg2g2dg2lb2y2lb2dg28r24y1n2y3lb4r10dy16r4y2r14dy5r10dg28lb2y2lb2dg1g2dg2g2dg2g2dg1lb2y2~dg4514144-g6019141/sett.png" alt="New Brunswick variation" width="140"><br><strong>New Brunswick variation (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-brunswick-or-beaverbrook-2/"><img src="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick, or Beaverbrook" width="140"><br><strong>New Brunswick, or Beaverbrook (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-brunswick-variation-2/"><img src="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/sett.png" alt="New Brunswick, variation" width="140"><br><strong>New Brunswick, variation (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-club-centenary/"><img src="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/sett.png" alt="New Club Centenary" width="140"><br><strong>New Club Centenary (1)</strong></a></li>
@@ -34,15 +34,15 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/ne/new-hampshire-2/"><img src="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/sett.png" alt="New Hampshire" width="140"><br><strong>New Hampshire (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-house-highland/"><img src="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/sett.png" alt="New House Highland" width="140"><br><strong>New House Highland (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-jersey/"><img src="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/sett.png" alt="New Jersey" width="140"><br><strong>New Jersey (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-loudoun/"><img src="/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/sett.png" alt="New Loudoun" width="140"><br><strong>New Loudoun (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-loudoun/"><img src="/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db1812264/sett.png" alt="New Loudoun" width="140"><br><strong>New Loudoun (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-mexico/"><img src="/variants/s7/g10db42r5dg42g42y5g10/sett.png" alt="New Mexico" width="140"><br><strong>New Mexico (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-mexico-2/"><img src="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/sett.png" alt="New Mexico" width="140"><br><strong>New Mexico (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-mexico-3/"><img src="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/sett.png" alt="New Mexico" width="140"><br><strong>New Mexico (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-mexico-2/"><img src="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g6019141/sett.png" alt="New Mexico" width="140"><br><strong>New Mexico (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-mexico-3/"><img src="/variants/s7/g10dp42r5dg42g42ly5g6~g6019141-dg4514144/sett.png" alt="New Mexico" width="140"><br><strong>New Mexico (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-mexico-state-of/"><img src="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/sett.png" alt="New Mexico, State of" width="140"><br><strong>New Mexico, State of (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-millennium/"><img src="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/sett.png" alt="New Millennium" width="140"><br><strong>New Millennium (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-providence-presbyterian-church/"><img src="/variants/s21/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2~x2/sett.png" alt="New Providence Presbyterian Church" width="140"><br><strong>New Providence Presbyterian Church (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-south-wales/"><img src="/variants/s14/g3y1g3r1g14k2g3k1g3b1g2b1g2b3~x4/sett.png" alt="New South Wales" width="140"><br><strong>New South Wales (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-south-wales-2/"><img src="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/sett.png" alt="New South Wales" width="140"><br><strong>New South Wales (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-south-wales-2/"><img src="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi4514144-g5408159/sett.png" alt="New South Wales" width="140"><br><strong>New South Wales (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-south-wales-waratah/"><img src="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/sett.png" alt="New South Wales Waratah" width="140"><br><strong>New South Wales Waratah (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-star/"><img src="/variants/s21/dr3ly1k4dr1k4dr1k41dr1k4dr1k4o15ly1o3ly2o3ly3o1ly6k1w2~x2/sett.png" alt="New Star" width="140"><br><strong>New Star (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-star-2/"><img src="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/sett.png" alt="New Star" width="140"><br><strong>New Star (1)</strong></a></li>
@@ -50,8 +50,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/ne/new-world-irish/"><img src="/variants/s11/w9dg2g2w3g18w2k2w1k19dg33lo2~x2/sett.png" alt="New World Irish" width="140"><br><strong>New World Irish (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-world-irish-2/"><img src="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/sett.png" alt="New World Irish" width="140"><br><strong>New World Irish (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-york-caledonian-club-day/"><img src="/variants/s11/g9lo1g2r3g28k16lb1g8lb1db8r1~x2/sett.png" alt="New York Caledonian Club Day" width="140"><br><strong>New York Caledonian Club Day (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-york-caledonian-club-dress/"><img src="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/sett.png" alt="New York Caledonian Club Dress" width="140"><br><strong>New York Caledonian Club Dress (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/new-york-city/"><img src="/variants/s12/db3k1db3n3g4r1g4n3db3k1db3dbi2~x8~db1204274-dbi1406275/sett.png" alt="New York City" width="140"><br><strong>New York City (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-york-caledonian-club-dress/"><img src="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/sett.png" alt="New York Caledonian Club Dress" width="140"><br><strong>New York Caledonian Club Dress (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-york-caledonian-club-dress-2/"><img src="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r4418030-ri5221030/sett.png" alt="New York Caledonian Club Dress" width="140"><br><strong>New York Caledonian Club Dress (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/new-york-city/"><img src="/variants/s12/db3k1db3n3g4r1g4n3db3k1db3dbi2~x8~db2911276-dbi3514276/sett.png" alt="New York City" width="140"><br><strong>New York City (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-york-city-2/"><img src="/variants/s7/t2db3k1db3n3g4r1~x8/sett.png" alt="New York City" width="140"><br><strong>New York City (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-york-fire-department-pipe-band/"><img src="/variants/s6/k4w1g13k11db11lb3~x4/sett.png" alt="New York Fire Department Pipe Band" width="140"><br><strong>New York Fire Department Pipe Band (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-york-firemen-s-pipe-band/"><img src="/variants/s6/k14w3g42k36db40lb10/sett.png" alt="New York Firemen's Pipe Band" width="140"><br><strong>New York Firemen's Pipe Band (1)</strong></a></li>
@@ -63,7 +64,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/ne/new-zealand/"><img src="/variants/s6/k21lb2k5lb9k13g2~x4/sett.png" alt="New Zealand" width="140"><br><strong>New Zealand (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/new-zealand-2/"><img src="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/sett.png" alt="New Zealand" width="140"><br><strong>New Zealand (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/newgeneration-alchemy-inc/"><img src="/variants/s6/k31r2k10db1k1w1~x4/sett.png" alt="NewGeneration Alchemy Inc" width="140"><br><strong>NewGeneration Alchemy Inc (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/newall/"><img src="/variants/s7/n30dp15w4g12w9n8w3~x2~n2203265-dp1502305/sett.png" alt="Newall" width="140"><br><strong>Newall (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/newall/"><img src="/variants/s7/n30dp15w4g12w9n8w3~x2~n5507264-dp3705297/sett.png" alt="Newall" width="140"><br><strong>Newall (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/newcastle/"><img src="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/sett.png" alt="Newcastle" width="140"><br><strong>Newcastle (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/newfoundland/"><img src="/variants/s7/r4g3o8w3o4g18y3~x2/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a><div class="clan-territory">Newfoundland</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newfoundland-2/"><img src="/variants/s7/r6g4dy14w4dy7g30y4~x2/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a><div class="clan-territory">Newfoundland</div></li>
@@ -74,7 +75,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/ne/newman/"><img src="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/sett.png" alt="Newman" width="140"><br><strong>Newman (2)</strong></a><div class="clan-territory">Newman</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newmill/"><img src="/variants/s7/dr5b20k13db42k13b20y5~x2/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a><div class="clan-territory">Newmill</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newmill-2/"><img src="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a><div class="clan-territory">Newmill</div></li>
-<li><a class="tartan" href="/tartans/n/ne/newmill-3/"><img src="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a><div class="clan-territory">Newmill</div></li>
+<li><a class="tartan" href="/tartans/n/ne/newmill-3/"><img src="/variants/s7/r5o20db13dbi42db13o20lo5~db3409246-dbi3514276/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a><div class="clan-territory">Newmill</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newton-primary/"><img src="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/sett.png" alt="Newton Primary" width="140"><br><strong>Newton Primary (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/newton-primary-school-dunblane/"><img src="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/sett.png" alt="Newton Primary School, Dunblane" width="140"><br><strong>Newton Primary School, Dunblane (1)</strong></a></li>
 </ul>

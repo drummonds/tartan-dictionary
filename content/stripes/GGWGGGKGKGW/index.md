@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/mack-of-stoneywood-hunting/">Mack of Stoneywood Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mack-of-stoneywood-hunting/"><img src="/variants/s11/dg18dgi4lb1dgi5dg6dgi3k1dy6k1dgi25lb1~x2~dg1103152-dgi1404130/sett.png" alt="Mack of Stoneywood Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mack-of-stoneywood-hunting/"><img src="/variants/s11/dg18dgi4lb1dgi5dg6dgi3k1dy6k1dgi25lb1~x2~dg2806159-dgi3611138/sett.png" alt="Mack of Stoneywood Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

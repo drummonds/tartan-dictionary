@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pe/pendleton-hunting-2/">Pendleton hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pe/pendleton-hunting-2/"><img src="/variants/s20/db16dg14r3dg14k3dg14ly3dg14db16dbi2db16dg14ly3dg14k3dg14r3dg14db16dbi2~x2~db1204274-dbi1406275/sett.png" alt="Pendleton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/pendleton-hunting-2/"><img src="/variants/s20/db16dg14r3dg14k3dg14ly3dg14db16dbi2db16dg14ly3dg14k3dg14r3dg14db16dbi2~x2~db2911276-dbi3514276/sett.png" alt="Pendleton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

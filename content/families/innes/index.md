@@ -36,7 +36,7 @@ A family of [Clan Innes,](/clan/innes/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-2/"><img src="/variants/s6/g7k1g7lb1k6lb1~x4/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes-hunting/">Innes Hunting</a></td><td>1969</td><td>2</td><td>2</td><td>10.57</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-hunting/"><img src="k30lb7g36k5-rev.png" alt="Innes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/i/in/innes-4/">Innes</a></td><td>1850</td><td>1</td><td>1</td><td>10.68</td></tr>
+<tr><td><a href="/tartans/i/in/innes-4/">Innes</a></td><td>1850</td><td>1</td><td>1</td><td>10.69</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-4/"><img src="k6lb1g7k1-rev.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

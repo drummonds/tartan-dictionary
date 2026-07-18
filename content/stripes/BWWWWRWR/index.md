@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/malmo-skyblue/">Malmo Skyblue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/malmo-skyblue/"><img src="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/sett.png" alt="Malmo Skyblue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malmo-skyblue/"><img src="/variants/s8/db28w36lb28w36lb85r3lb3r3~db3409246/sett.png" alt="Malmo Skyblue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

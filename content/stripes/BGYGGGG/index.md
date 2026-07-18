@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/de/devon/">Devon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/de/devon/"><img src="/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/sett.png" alt="Devon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/devon/"><img src="/variants/s7/n5g4lr1g4dy4dg4y1~x4~g4808117-dg3612141/sett.png" alt="Devon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

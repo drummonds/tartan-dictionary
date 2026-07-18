@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hu/hudson-bay-company-2/">Hudson Bay Company</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hu/hudson-bay-company-2/"><img src="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/sett.png" alt="Hudson Bay Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hudson-bay-company-2/"><img src="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k1309264/sett.png" alt="Hudson Bay Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

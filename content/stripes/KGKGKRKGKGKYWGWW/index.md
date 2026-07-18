@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ku/kungsholmen-snooker/">Kungsholmen Snooker</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ku/kungsholmen-snooker/"><img src="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/sett.png" alt="Kungsholmen Snooker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kungsholmen-snooker/"><img src="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r5221030-lr7709018/sett.png" alt="Kungsholmen Snooker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

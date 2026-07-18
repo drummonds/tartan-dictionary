@@ -438,7 +438,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Gordonstoun](/tartans/g/go/gordonstoun-2/) | 1 | 1 |
+| 0.13 | [Gordonstoun](/tartans/g/go/gordonstoun-3/) | 1 | 1 |
 
 ### GGBGBGBBRKRW
 <a class="pat" href="/stripes/ggbgbgbbrkrw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GGBGBGBBRKRW</span></a>
@@ -641,7 +641,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Gordonstoun](/tartans/g/go/gordonstoun-2/) | 1 | 1 |
+| 0.13 | [Gordonstoun](/tartans/g/go/gordonstoun/) | 1 | 1 |
 
 ### GGRGGGRGGGRG
 <a class="pat" href="/stripes/ggrgggrgggrg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGRGGGRGGGRG</span></a>
@@ -1376,7 +1376,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.16 | [Houston](/tartans/h/ho/houston-3/) | 1 | 1 |
+| 0.16 | [Houston](/tartans/h/ho/houston-2/) | 1 | 1 |
 
 ### GYYYGYYYGYYY
 <a class="pat" href="/stripes/gyyygyyygyyy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GYYYGYYYGYYY</span></a>

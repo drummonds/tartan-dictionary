@@ -419,7 +419,7 @@ weight: 11
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [DunBroch](/tartans/d/du/dunbroch/) | 1 | 1 |
+| 0.14 | [DunBroch](/tartans/d/du/dunbroch-2/) | 1 | 1 |
 
 ### BBKGGGKBBRB
 <a class="pat" href="/stripes/bbkgggkbbrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BBKGGGKBBRB</span></a>
@@ -1945,7 +1945,7 @@ weight: 11
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Frater](/tartans/f/fr/frater/) | 1 | 1 |
+| 0.10 | [Frater](/tartans/f/fr/frater-2/) | 1 | 1 |
 
 ### BRRKGKGKBGR
 <a class="pat" href="/stripes/brrkgkgkbgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRRKGKGKBGR</span></a>

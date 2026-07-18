@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-andrews-new-golf-club/">St. Andrews New Golf Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-new-golf-club/"><img src="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/sett.png" alt="St. Andrews New Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-new-golf-club/"><img src="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp4018327-r3916030/sett.png" alt="St. Andrews New Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

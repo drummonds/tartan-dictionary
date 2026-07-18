@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/cavan-irish-county/">Cavan Irish County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/cavan-irish-county/"><img src="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/sett.png" alt="Cavan Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cavan-irish-county/"><img src="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o5906030/sett.png" alt="Cavan Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

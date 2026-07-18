@@ -72,7 +72,7 @@ weight: 27
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.06 | [MacKinnon](/tartans/m/ma/mackinnon-5/) | 1 | 1 |
+| 0.06 | [MacKinnon](/tartans/m/ma/mackinnon-7/) | 1 | 1 |
 | 0.07 | [Mackinnon of Mackinnon](/tartans/m/ma/mackinnon-of-mackinnon/) | 1 | 1 |
 
 ### BKBKBKBKGKBKBKKKBKBKGKBKBKBKB

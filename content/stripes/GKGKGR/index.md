@@ -43,7 +43,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harbor-club/"><img src="/variants/s6/r47dg14k5y2k3dg7~x2/sett.png" alt="Harbor Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/u/un/unidentified-furnishing/">Unidentified Furnishing</a> <small class="dt">ΔTartan 3.56</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-furnishing/"><img src="/variants/s6/o4g40k21y2k21g2~x2~k0604259/sett.png" alt="Unidentified Furnishing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-furnishing/"><img src="/variants/s6/o4g40k21y2k21g2~x2~k1510264/sett.png" alt="Unidentified Furnishing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/la/lauder-2/">Lauder</a> <small class="dt">ΔTartan 4.56</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/lauder-2/"><img src="/variants/s6/y2k4y2k2y5r1~x2/sett.png" alt="Lauder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

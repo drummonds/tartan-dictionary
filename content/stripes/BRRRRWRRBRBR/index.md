@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gl/glen-clova-2/">Glen Clova</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-clova-2/"><img src="/variants/s12/b39oi4o6oii2o2w2o2oi12b6o2b6oii2~x2~oi2102055-o1604043-oii2104058/sett.png" alt="Glen Clova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-clova-2/"><img src="/variants/s12/b39oi4o6oii2o2w2o2oi12b6o2b6oii2~x2~oi5105048-o3910048-oii5309063/sett.png" alt="Glen Clova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

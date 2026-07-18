@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/caisteal-le-dhais/">Caisteal Leòdhais</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/caisteal-le-dhais/"><img src="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/sett.png" alt="Caisteal Leòdhais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caisteal-le-dhais/"><img src="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y5508084-ly6614084/sett.png" alt="Caisteal Leòdhais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

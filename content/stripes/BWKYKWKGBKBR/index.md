@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/o/o-shaughnessy-memorial/">O'Shaughnessy Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/o/o-shaughnessy-memorial/"><img src="/variants/s12/db57lb3k9ly2k2w3k2g10db6k2db2r3~x2~lb3501240-ly3307090/sett.png" alt="O'Shaughnessy Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-shaughnessy-memorial/"><img src="/variants/s12/db57lb3k9ly2k2w3k2g10db6k2db2r3~x2~lb8602213-ly8117093/sett.png" alt="O'Shaughnessy Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

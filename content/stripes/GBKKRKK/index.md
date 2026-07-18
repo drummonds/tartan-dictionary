@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/montrose-of-alabama/">Montrose of Alabama</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/montrose-of-alabama/"><img src="/variants/s7/k3ki3r1ki3k3b3y1~x8~ki0604259/sett.png" alt="Montrose of Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montrose-of-alabama/"><img src="/variants/s7/k3ki3r1ki3k3b3y1~x8~ki1410264/sett.png" alt="Montrose of Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -9,7 +9,7 @@ Designed by Peter MacDonald in 1997 for Mrs Ros Jones of Mull, for all of the na
 
 ## Tartan
 
-<a class="tartan" href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><img src="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/sett.png" alt="Jones" width="240"><br>Jones</a>
+<a class="tartan" href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g4808117-dg4514144-db3514276/"><img src="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g4808117-dg4514144-db3514276/sett.png" alt="Jones" width="240"><br>Jones</a>
 
 ## Families
 

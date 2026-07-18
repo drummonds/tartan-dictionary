@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/le/leach-hunting-2/">Leach Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/leach-hunting-2/"><img src="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/sett.png" alt="Leach Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leach-hunting-2/"><img src="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g4808117-gi6019141/sett.png" alt="Leach Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

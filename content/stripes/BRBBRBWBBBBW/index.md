@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pl/plymouth-armada-400-armada/">Plymouth/Armada 400, Armada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pl/plymouth-armada-400-armada/"><img src="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/sett.png" alt="Plymouth/Armada 400, Armada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/plymouth-armada-400-armada/"><img src="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi3911270-db1913264/sett.png" alt="Plymouth/Armada 400, Armada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

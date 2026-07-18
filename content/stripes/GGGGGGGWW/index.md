@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/stirling-millennium/">Stirling Millennium</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-millennium/"><img src="/variants/s9/lp2w1y1g1dgi1dg1y1g1dg1~x20~g2408144-dgi1806142/sett.png" alt="Stirling Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-millennium/"><img src="/variants/s9/lp2w1y1g1dgi1dg1y1g1dg1~x20~g6019141-dgi4514144/sett.png" alt="Stirling Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

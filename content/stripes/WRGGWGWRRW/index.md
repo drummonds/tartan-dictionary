@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/j/ja/jacobite-silk-sash/">Jacobite Silk sash</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-silk-sash/"><img src="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri2209032-r2208029/sett.png" alt="Jacobite Silk sash sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-silk-sash/"><img src="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri5623030-r5419027/sett.png" alt="Jacobite Silk sash sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

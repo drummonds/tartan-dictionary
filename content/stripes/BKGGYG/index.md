@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/u/us/us-army-regimental/">US Army Regimental</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/us/us-army-regimental/"><img src="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/sett.png" alt="US Army Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/us/us-army-regimental/"><img src="/variants/s6/db12k17y4dg51ly3g4~x2~y5508084-ly8117093/sett.png" alt="US Army Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/so/sound-of-iona/">Sound of Iona</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/so/sound-of-iona/"><img src="/variants/s9/w30lb4db6dp4db6g6db12g13lt4~x2~lb3203246-db1404245-g2203152-lt3606199/sett.png" alt="Sound of Iona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/sound-of-iona/"><img src="/variants/s9/w30lb4db6dp4db6g6db12g13lt4~x2~lb8007237-db3409246-g5408159-lt8915195/sett.png" alt="Sound of Iona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pl/plymouth-armada/">Plymouth Armada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pl/plymouth-armada/"><img src="/variants/s12/dbi40r2dbi7do5dr2db3w2db10n6dbi2n4w2~x2~dbi1406275-db1204274/sett.png" alt="Plymouth Armada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/plymouth-armada/"><img src="/variants/s12/dbi40r2dbi7do5dr2db3w2db10n6dbi2n4w2~x2~dbi3514276-db2911276/sett.png" alt="Plymouth Armada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pl/plymouth-armada-special-event/">Plymouth Armada Special event</a> <small class="dt">ΔTartan 1.16</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pl/plymouth-armada-special-event/"><img src="/variants/s12/dbi40r2dbi7db5dr2db3w2db10n6dbi2n4w2~x2~dbi1406275-db1204274/sett.png" alt="Plymouth Armada Special event sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/plymouth-armada-special-event/"><img src="/variants/s12/dbi40r2dbi7db5dr2db3w2db10n6dbi2n4w2~x2~dbi3514276-db2911276/sett.png" alt="Plymouth Armada Special event sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

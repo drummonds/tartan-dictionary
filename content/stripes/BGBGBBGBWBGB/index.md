@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ri/richard-of-wales/">Richard of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ri/richard-of-wales/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/sett.png" alt="Richard of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/richard-of-wales/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db2911276-dg3007159-dbi3409246/sett.png" alt="Richard of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

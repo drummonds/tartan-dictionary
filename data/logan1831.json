@@ -16,7 +16,7 @@
   "campbell": {
     "name": "Campbell",
     "url": "/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/",
-    "match": "/variants/s28/k1t8k8g8k1w2k1g8k8t1k1t1k1t8k1t1k1t1k8g8k1y2k1g8k8t8k1t1~x2~w4000000/"
+    "match": "/variants/s28/k1t8k8g8k1w2k1g8k8t1k1t1k1t8k1t1k1t1k8g8k1y2k1g8k8t8k1t1~x2~w98/"
   },
   "campbell-of-breadalbane": {
     "name": "Campbell of Breadalbane",
@@ -45,13 +45,13 @@
   },
   "dalzell": {
     "name": "Dalzell",
-    "url": "/variants/s17/ri24w1db2ri8g52ri8db2w1ri8db12ri8w1db2ri52g4r6g6~x2~ri2109032-r1707016/",
-    "match": "/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r2109032-ri2307033/"
+    "url": "/variants/s17/ri24w1db2ri8g52ri8db2w1ri8db12ri8w1db2ri52g4r6g6~x2~ri5221030-r4116015/",
+    "match": "/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r5221030-ri5717030/"
   },
   "douglas": {
     "name": "Douglas",
     "url": "/variants/s9/w2db16g16t4k4t4g16db16w1~x2/",
-    "match": "/variants/s5/k3db3g23db21w2~x2~db1406275/"
+    "match": "/variants/s5/k3db3g23db21w2~x2~db3514276/"
   },
   "drummond": {
     "name": "Drummond",
@@ -90,7 +90,7 @@
   "graham": {
     "name": "Graham",
     "url": "/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/",
-    "match": "/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"
+    "match": "/variants/s6/g19lb2g4k13dp12k3~x2~dp4018327/"
   },
   "grant": {
     "name": "Grant",
@@ -133,8 +133,8 @@
   },
   "macdougall": {
     "name": "MacDougall",
-    "url": "/variants/s22/ri6g12ri2db1ri36r4ri36db1ri2g12ri12g12r6ri2r6db12ri4g2ri4g36ri2r2~x4~ri2109032-r1707016/",
-    "match": "/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2209032/"
+    "url": "/variants/s22/ri6g12ri2db1ri36r4ri36db1ri2g12ri12g12r6ri2r6db12ri4g2ri4g36ri2r2~x4~ri5221030-r4116015/",
+    "match": "/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r4217018-ri5623030/"
   },
   "macduff": {
     "name": "MacDuff",
@@ -192,8 +192,8 @@
   },
   "macnab": {
     "name": "MacNab",
-    "url": "/variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r1707016-ri2109032/",
-    "match": "/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/"
+    "url": "/variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r4116015-ri5221030/",
+    "match": "/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r4518006-ri5221030/"
   },
   "macnaughton": {
     "name": "MacNaughton",

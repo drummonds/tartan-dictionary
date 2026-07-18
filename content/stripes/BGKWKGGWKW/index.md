@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/montgomery-stuart/">Montgomery, Stuart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomery-stuart/"><img src="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/sett.png" alt="Montgomery, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomery-stuart/"><img src="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg4514144-g6019141/sett.png" alt="Montgomery, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

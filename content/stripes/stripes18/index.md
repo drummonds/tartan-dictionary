@@ -241,7 +241,7 @@ weight: 18
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Sommerville](/tartans/s/so/sommerville/) | 2 | 3 |
+| 0.08 | [Sommerville](/tartans/s/so/sommerville-2/) | 2 | 3 |
 
 ### RRBRGRGRRRBRGRGRRR
 <a class="pat" href="/stripes/rrbrgrgrrrbrgrgrrr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">RRBRGRGRRRBRGRGRRR</span></a>
@@ -1456,7 +1456,7 @@ weight: 18
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Duke of Perth](/tartans/d/du/duke-of-perth-9/) | 1 | 1 |
+| 0.11 | [Duke of Perth](/tartans/d/du/duke-of-perth-4/) | 1 | 1 |
 
 ### RBRBKBGRBRKBGBGBRR
 <a class="pat" href="/stripes/rbrbkbgrbrkbgbgbrr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRBKBGRBRKBGBGBRR</span></a>

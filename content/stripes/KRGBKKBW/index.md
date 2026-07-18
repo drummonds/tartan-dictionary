@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/am/american-national/">American National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/am/american-national/"><img src="/variants/s8/ki3r3g4db7ki3k39db15w3~x2~ki0700000-k0503265/sett.png" alt="American National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/american-national/"><img src="/variants/s8/ki3r3g4db7ki3k39db15w3~x2~ki17-k1209264/sett.png" alt="American National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

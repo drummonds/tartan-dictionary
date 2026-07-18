@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ho/hohenzollern/">Hohenzollern</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/hohenzollern/"><img src="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2~db1404245/sett.png" alt="Hohenzollern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hohenzollern/"><img src="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2~db3409246/sett.png" alt="Hohenzollern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

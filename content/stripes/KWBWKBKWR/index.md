@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sa/savannah-harley-davidson/">Savannah Harley Davidson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/savannah-harley-davidson/"><img src="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n1700000/sett.png" alt="Savannah Harley Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/savannah-harley-davidson/"><img src="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n43/sett.png" alt="Savannah Harley Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

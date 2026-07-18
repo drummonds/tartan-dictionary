@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ho/hong-kong-university-of/">Hong Kong, University of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ho/hong-kong-university-of/"><img src="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/sett.png" alt="Hong Kong, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hong-kong-university-of/"><img src="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg3913141-lg7512156/sett.png" alt="Hong Kong, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

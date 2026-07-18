@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/no/north-tyneside/">North Tyneside</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/north-tyneside/"><img src="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/sett.png" alt="North Tyneside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-tyneside/"><img src="/variants/s7/t62db22w3db2w2db3r1~x2~db2911276-w90/sett.png" alt="North Tyneside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

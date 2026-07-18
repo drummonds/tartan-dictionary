@@ -21,7 +21,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/ferguson-of-woodhill/"><img src="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/sett.png" alt="Ferguson of Woodhill" width="140"><br><strong>Ferguson of Woodhill</strong></a></li>
 <li><a class="tartan" href="/families/fermanagh/"><img src="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/sett.png" alt="Fermanagh" width="140"><br><strong>Fermanagh</strong></a></li>
 <li><a class="tartan" href="/families/ferrari/"><img src="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/sett.png" alt="Ferrari" width="140"><br><strong>Ferrari</strong></a></li>
-<li><a class="tartan" href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><strong>Ferster, James Carney</strong></a></li>
+<li><a class="tartan" href="/variants/s5/k16w3lr4dp35b12~x2~lr7701219-dp3705297/"><strong>Ferster, James Carney</strong></a></li>
 <li><a class="tartan" href="/families/fettes/"><img src="/variants/s5/k50db3p2r3w1~x4/sett.png" alt="Fettes" width="140"><br><strong>Fettes</strong></a></li>
 <li><a class="tartan" href="/families/fiddes/"><img src="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/sett.png" alt="Fiddes" width="140"><br><strong>Fiddes</strong></a></li>
 <li><a class="tartan" href="/families/fife/"><img src="/variants/s6/g32k6g4k8r1k2~x2/sett.png" alt="Fife" width="140"><br><strong>Fife</strong></a></li>
@@ -38,10 +38,10 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/fleming-of-castle-carrick/"><img src="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/sett.png" alt="Fleming of Castle Carrick" width="140"><br><strong>Fleming of Castle Carrick</strong></a></li>
 <li><a class="tartan" href="/families/fletcher/"><img src="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png" alt="Fletcher" width="140"><br><strong>Fletcher</strong></a></li>
 <li><a class="tartan" href="/families/fletcher-of-dunans/"><img src="/variants/s7/t10k3t10k14r2g14r5~x2/sett.png" alt="Fletcher of Dunans" width="140"><br><strong>Fletcher of Dunans</strong></a></li>
-<li><a class="tartan" href="/families/flodden/"><img src="/variants/s12/w2y1r3g20r1y1r3y2dy14ly2r2ly2~x2~g1903114-ly2706114/sett.png" alt="Flodden" width="140"><br><strong>Flodden</strong></a></li>
+<li><a class="tartan" href="/families/flodden/"><img src="/variants/s12/w2y1r3g20r1y1r3y2dy14ly2r2ly2~x2~g4808117-ly6614111/sett.png" alt="Flodden" width="140"><br><strong>Flodden</strong></a></li>
 <li><a class="tartan" href="/clan/flowers/"><img src="/variants/s10/lb8db4dy5r1dy5r1dy5r1dy16lb1~x4/sett.png" alt="Flowers" width="140"><br><strong>Flowers</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/flowers-of-the-forest-the/"><img src="/variants/s10/lb8db4dy5r1dy5r1dy5r1dy16lb1~x4/sett.png" alt="Flowers of the Forest, The" width="140"><br><strong>Flowers of the Forest, The</strong></a></li>
-<li><a class="tartan" href="/families/fogarty/"><img src="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/sett.png" alt="Fogarty" width="140"><br><strong>Fogarty</strong></a></li>
+<li><a class="tartan" href="/families/fogarty/"><img src="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly7916084-dy4409069/sett.png" alt="Fogarty" width="140"><br><strong>Fogarty</strong></a></li>
 <li><a class="tartan" href="/families/forbes/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/sett.png" alt="Forbes" width="140"><br><strong>Forbes</strong></a></li>
 <li><a class="tartan" href="/families/forbes-of-druinnor/"><img src="/variants/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/sett.png" alt="Forbes of Druinnor" width="140"><br><strong>Forbes of Druinnor</strong></a></li>
 <li><a class="tartan" href="/families/forbes-of-druminnor/"><img src="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/sett.png" alt="Forbes of Druminnor" width="140"><br><strong>Forbes of Druminnor</strong></a></li>
@@ -61,7 +61,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/fraser-of-lovat/"><img src="/variants/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/sett.png" alt="Fraser of Lovat" width="140"><br><strong>Fraser of Lovat</strong></a></li>
 <li><a class="tartan" href="/families/fraser-of-stratherrick/"><img src="/variants/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/sett.png" alt="Fraser of Stratherrick" width="140"><br><strong>Fraser of Stratherrick</strong></a></li>
 <li><a class="tartan" href="/families/frater/"><img src="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/sett.png" alt="Frater" width="140"><br><strong>Frater</strong></a></li>
-<li><a class="tartan" href="/families/free/"><img src="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b1712264-db1108266/sett.png" alt="Free" width="140"><br><strong>Free</strong></a></li>
+<li><a class="tartan" href="/families/free/"><img src="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b4229264-db2719264/sett.png" alt="Free" width="140"><br><strong>Free</strong></a></li>
 <li><a class="tartan" href="/families/freger/"><img src="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/sett.png" alt="Freger" width="140"><br><strong>Freger</strong></a></li>
 <li><a class="tartan" href="/variants/s5/g15dg18dp23w4r8~x2/"><strong>Friebe</strong></a></li>
 <li><a class="tartan" href="/families/fueglistal/"><img src="/variants/s9/k3y6n13r2n2r32n1r2n2~x2/sett.png" alt="Fueglistal" width="140"><br><strong>Fueglistal</strong></a></li>

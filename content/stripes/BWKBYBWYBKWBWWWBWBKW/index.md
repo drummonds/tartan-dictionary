@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/li/lions-international/">Lions International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/li/lions-international/"><img src="/variants/s20/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8~lb3103284-lbi3200000/sett.png" alt="Lions International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lions-international/"><img src="/variants/s20/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8~lb7609282-lbi80/sett.png" alt="Lions International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

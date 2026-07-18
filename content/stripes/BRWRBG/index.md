@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-ballet-2/">Scottish Ballet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-ballet-2/"><img src="/variants/s6/y5n22o15lp11o5n2~x2~o2404317-lp3004317/sett.png" alt="Scottish Ballet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-ballet-2/"><img src="/variants/s6/y5n22o15lp11o5n2~x2~o5911321-lp7409315/sett.png" alt="Scottish Ballet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/u/un/unidentified-lindley-6/">Unidentified Lindley</a> <small class="dt">ΔTartan 8.95</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-lindley-6/"><img src="/variants/s6/t6r6w1r6t6y1~x8~r2607041/sett.png" alt="Unidentified Lindley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-lindley-6/"><img src="/variants/s6/t6r6w1r6t6y1~x8~r6519045/sett.png" alt="Unidentified Lindley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

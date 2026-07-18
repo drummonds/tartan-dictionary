@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-caledonian-thistle-f-c-corporate-weavers/"><img src="/variants/s8/k21db3k12dr2db12k2db12w2~x2/sett.png" alt="Inverness Caledonian Thistle F.C Corporate Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/g/gr/granite-city-2/">Granite City</a> <small class="dt">ΔTartan 4.41</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/granite-city-2/"><img src="/variants/s8/k3ni3k3ni21n21k3n3lb1~x2~ni1900000-n1700000/sett.png" alt="Granite City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/granite-city-2/"><img src="/variants/s8/k3ni3k3ni21n21k3n3lb1~x2~ni47-n43/sett.png" alt="Granite City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

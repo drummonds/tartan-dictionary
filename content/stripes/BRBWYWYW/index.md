@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/da/dama-classic-2/">Dama Classic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/dama-classic-2/"><img src="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/sett.png" alt="Dama Classic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dama-classic-2/"><img src="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n47-o62/sett.png" alt="Dama Classic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/r/ro/robieson-2/">Robieson</a> ★</td><td>2005</td><td>2</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/robieson-2/"><img src="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/sett.png" alt="Robieson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/robieson/">Robieson</a></td><td>2005</td><td>1</td><td>1</td><td>6.07</td></tr>
+<tr><td><a href="/tartans/r/ro/robieson/">Robieson</a></td><td>2005</td><td>1</td><td>1</td><td>6.08</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/robieson/"><img src="w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1-rev.png" alt="Robieson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

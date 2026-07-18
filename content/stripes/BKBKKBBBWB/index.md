@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-thistle/">Scottish Thistle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-thistle/"><img src="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db1404245-ki0503284/sett.png" alt="Scottish Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-thistle/"><img src="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db3409246-ki1207288/sett.png" alt="Scottish Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

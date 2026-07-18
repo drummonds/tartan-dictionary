@@ -3,8 +3,15 @@ title: 7 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 7
 ---
-1,360 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,362 setts across 1,285 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes7/p3/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <a href="/stripes/stripes7/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p5/">next ›</a></nav>
+
+### GBKKRKK
+<a class="pat" href="/stripes/gbkkrkk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">GBKKRKK</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.10 | [Montrose of Alabama](/tartans/m/mo/montrose-of-alabama/) | 1 | 1 |
 
 ### GBKRBKW
 <a class="pat" href="/stripes/gbkrbkw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GBKRBKW</span></a>
@@ -487,7 +494,7 @@ weight: 7
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [Braemar House](/tartans/b/br/braemar-house-3/) | 1 | 1 |
+| 0.12 | [Braemar House](/tartans/b/br/braemar-house/) | 1 | 1 |
 
 ### GGWGRWK
 <a class="pat" href="/stripes/ggwgrwk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">GGWGRWK</span></a>
@@ -1166,7 +1173,7 @@ weight: 7
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Jones](/tartans/j/jo/jones-3/) | 1 | 1 |
+| 0.10 | [Jones](/tartans/j/jo/jones-4/) | 1 | 1 |
 
 ### GWWRWWW
 <a class="pat" href="/stripes/gwwrwww/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GWWRWWW</span></a>
@@ -2098,12 +2105,5 @@ weight: 7
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.10 | [Stewart](/tartans/s/st/stewart-4/) | 1 | 1 |
-
-### RBKBKGW
-<a class="pat" href="/stripes/rbkbkgw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBKBKGW</span></a>
-
-| ΔT | Tartan | Setts | Variants |
-|---|---|---|---|
-| 0.07 | [Bennett, J P.](/tartans/b/be/bennett-j-p/) | 1 | 1 |
 
 <nav class="pager"><a href="/stripes/stripes7/p3/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <a href="/stripes/stripes7/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p5/">next ›</a></nav>

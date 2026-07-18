@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kingennie-sunrise/">Kingennie Sunrise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kingennie-sunrise/"><img src="/variants/s11/dp24lbi4lr3t3b3dp3o3k24g2dp2lb2~x2~lbi3300000-lr3100000-t2403246-b1813263/sett.png" alt="Kingennie Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kingennie-sunrise/"><img src="/variants/s11/dp24lbi4lr3t3b3dp3o3k24g2dp2lb2~x2~lbi82-lr77-t5907249-b4531264/sett.png" alt="Kingennie Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -9,7 +9,7 @@ crumbs:
 
 ## Tartan
 
-<a class="tartan" href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><img src="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/sett.png" alt="Owen (Welsh Name)" width="240"><br>Owen (Welsh Name)</a>
+<a class="tartan" href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi2508255-r5221030/"><img src="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi2508255-r5221030/sett.png" alt="Owen (Welsh Name)" width="240"><br>Owen (Welsh Name)</a>
 
 ## Families
 

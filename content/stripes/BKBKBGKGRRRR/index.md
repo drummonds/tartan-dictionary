@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/longford-irish-county/">Longford Irish County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/longford-irish-county/"><img src="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/sett.png" alt="Longford Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longford-irish-county/"><img src="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o6309057/sett.png" alt="Longford Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

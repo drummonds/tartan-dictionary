@@ -79,7 +79,7 @@ weight: 3
 | 0.14 | [Elphinstone](/tartans/e/el/elphinstone/) | 2 | 2 |
 | 0.14 | [Elphinstone Check](/tartans/e/el/elphinstone-check/) | 1 | 2 |
 | 0.16 | [Ledford](/tartans/l/le/ledford/) | 1 | 2 |
-| 0.17 | [Outlander](/tartans/o/ou/outlander-4/) | 1 | 1 |
+| 0.17 | [Outlander](/tartans/o/ou/outlander-5/) | 1 | 1 |
 
 ### KGR
 <a class="pat" href="/stripes/kgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGR</span></a>
@@ -415,7 +415,7 @@ weight: 3
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.17 | [Outlander](/tartans/o/ou/outlander-4/) | 1 | 1 |
+| 0.17 | [Outlander](/tartans/o/ou/outlander-5/) | 1 | 1 |
 
 ### BKG
 <a class="pat" href="/stripes/bkg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BKG</span></a>

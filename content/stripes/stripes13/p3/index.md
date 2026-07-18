@@ -277,7 +277,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-3/) | 1 | 1 |
+| 0.07 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe/) | 1 | 1 |
 
 ### GRRGRRRRKGBWK
 <a class="pat" href="/stripes/grrgrrrrkgbwk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">GRRGRRRRKGBWK</span></a>
@@ -487,7 +487,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Spirit of Bannockburn](/tartans/s/sp/spirit-of-bannockburn-2/) | 1 | 1 |
+| 0.09 | [Spirit of Bannockburn](/tartans/s/sp/spirit-of-bannockburn-3/) | 1 | 1 |
 
 ### KBWBKBKBKGWKW
 <a class="pat" href="/stripes/kbwbkbkbkgwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KBWBKBKBKGWKW</span></a>
@@ -1040,7 +1040,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.04 | [MacGregor](/tartans/m/ma/macgregor-6/) | 1 | 1 |
+| 0.04 | [MacGregor](/tartans/m/ma/macgregor-7/) | 1 | 1 |
 
 ### RGRGRBKWKBGRY
 <a class="pat" href="/stripes/rgrgrbkwkbgry/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RGRGRBKWKBGRY</span></a>

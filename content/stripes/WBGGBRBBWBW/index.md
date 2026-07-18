@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fo/fothergill/">Fothergill</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/fothergill/"><img src="/variants/s11/w50dbi3w8dbi8db12r4db12g16dg12n4w4~dbi1406275-db1204274/sett.png" alt="Fothergill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fothergill/"><img src="/variants/s11/w50dbi3w8dbi8db12r4db12g16dg12n4w4~dbi3514276-db2911276/sett.png" alt="Fothergill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

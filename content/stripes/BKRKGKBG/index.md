@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kilgour-2/">Kilgour</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilgour-2/"><img src="/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/sett.png" alt="Kilgour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilgour-2/"><img src="/variants/s8/db6k3r14k3g14k3db6y1~x4~db3514276/sett.png" alt="Kilgour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/st-clement-of-rome/">St. Clement of Rome</a> <small class="dt">ΔTartan 0.39</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-clement-of-rome/"><img src="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/sett.png" alt="St. Clement of Rome sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-clement-of-rome/"><img src="/variants/s8/db18k5r26k5g25k5db18y2~x2~db2911276/sett.png" alt="St. Clement of Rome sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

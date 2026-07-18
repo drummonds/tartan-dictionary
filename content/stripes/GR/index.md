@@ -31,11 +31,11 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/mo/moncreiffe/">Moncreiffe</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mo/moncreiffe/"><img src="/variants/s2/r1g1/sett.png" alt="Moncreiffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-099/">Wilson's No.099</a> <small class="dt">ΔTartan 0.23</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-099/"><img src="/variants/s2/dg14r13~x2~dg1605139-r2109032/sett.png" alt="Wilson's No.099 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-099/"><img src="/variants/s2/dg14r13~x2~dg4112135-r5221030/sett.png" alt="Wilson's No.099 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-134-2/">Wilson's, No 134</a> <small class="dt">ΔTartan 0.89</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-134-2/"><img src="/variants/s2/r3g1~x14/sett.png" alt="Wilson's, No 134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-134/">Wilson's No.134</a> <small class="dt">ΔTartan 0.90</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-134/"><img src="/variants/s2/r3dg1~x14~r2109032-dg1605139/sett.png" alt="Wilson's No.134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-134/"><img src="/variants/s2/r3dg1~x14~r5221030-dg4112135/sett.png" alt="Wilson's No.134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/u/un/une-energie-nouvelle-xxx/">Une Energie Nouvelle XXX</a> <small class="dt">ΔTartan 1.40</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/une-energie-nouvelle-xxx/"><img src="/variants/s2/y1m1~x2/sett.png" alt="Une Energie Nouvelle XXX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

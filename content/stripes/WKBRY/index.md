@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/bryson-3/">Bryson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/bryson-3/"><img src="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bryson-3/"><img src="/variants/s5/lr2r1t7k7lb1~x8~lr70-lb8602213/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/he/heidrick/">Heidrick</a> <small class="dt">ΔTartan 1.43</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/heidrick/"><img src="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/sett.png" alt="Heidrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heidrick/"><img src="/variants/s5/w14k30t9r8lo9~x2~w90-t6518249/sett.png" alt="Heidrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

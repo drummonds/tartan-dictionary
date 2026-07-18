@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/b/br/braveheart-commemorative/">Braveheart Commemorative</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/b/br/braveheart-commemorative/"><img src="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/sett.png" alt="Braveheart Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/watt-2/">Watt</a> <small class="dt">ΔTartan 0.48</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/watt-2/"><img src="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4~db1406275-dp1607327/sett.png" alt="Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/watt-2/"><img src="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4~db3514276-dp4018327/sett.png" alt="Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

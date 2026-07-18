@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ab/aberdeen-academy-of-performing-art/">Aberdeen Academy of Performing Art</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-academy-of-performing-art/"><img src="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/sett.png" alt="Aberdeen Academy of Performing Art sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-academy-of-performing-art/"><img src="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi4018327-dp2712327/sett.png" alt="Aberdeen Academy of Performing Art sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

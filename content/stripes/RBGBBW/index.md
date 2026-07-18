@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/af/afternoon-tea-black-tea/">Afternoon Tea / Black Tea</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-black-tea/"><img src="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/sett.png" alt="Afternoon Tea / Black Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-black-tea/"><img src="/variants/s6/r15dt8g25dt72n98lb15~dt22-n50/sett.png" alt="Afternoon Tea / Black Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

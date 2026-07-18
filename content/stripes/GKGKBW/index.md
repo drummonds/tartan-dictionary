@@ -41,7 +41,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-8/"><img src="/variants/s6/y2k6g33k33dp33w2~x2/sett.png" alt="MacNeil 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/lo/lossiemouth-hersbruck-2/">Lossiemouth/Hersbruck</a> <small class="dt">ΔTartan 4.37</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/lossiemouth-hersbruck-2/"><img src="/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/sett.png" alt="Lossiemouth/Hersbruck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lossiemouth-hersbruck-2/"><img src="/variants/s6/dg26ki3dg12k10b15w2~x2~ki1410264/sett.png" alt="Lossiemouth/Hersbruck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

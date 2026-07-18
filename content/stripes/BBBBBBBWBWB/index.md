@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hi/highland-sky-2/">Highland Sky</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-sky-2/"><img src="/variants/s11/n43db2n3dt11n2db2n1lb1n20w4n7~x2~db1404245-w3502055/sett.png" alt="Highland Sky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-sky-2/"><img src="/variants/s11/n43db2n3dt11n2db2n1lb1n20w4n7~x2~db3409246-w8504057/sett.png" alt="Highland Sky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

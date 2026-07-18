@@ -778,7 +778,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Life Goes on Foundation](/tartans/l/li/life-goes-on-foundation/) | 1 | 1 |
+| 0.11 | [Life Goes on Foundation](/tartans/l/li/life-goes-on-foundation-2/) | 1 | 1 |
 
 ### BKBKBWBKGWRWG
 <a class="pat" href="/stripes/bkbkbwbkgwrwg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BKBKBWBKGWRWG</span></a>
@@ -792,7 +792,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [Life Goes on Foundation](/tartans/l/li/life-goes-on-foundation/) | 1 | 1 |
+| 0.14 | [Life Goes On Foundation](/tartans/l/li/life-goes-on-foundation/) | 1 | 1 |
 
 ### BKBKGBGKWWBWW
 <a class="pat" href="/stripes/bkbkgbgkwwbww/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKBKGBGKWWBWW</span></a>
@@ -1086,7 +1086,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.14 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-3/) | 1 | 1 |
+| 0.14 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-4/) | 1 | 1 |
 
 ### BRBBKBBBBBKBR
 <a class="pat" href="/stripes/brbbkbbbbbkbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRBBKBBBBBKBR</span></a>
@@ -1772,7 +1772,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-3/) | 1 | 1 |
+| 0.12 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-4/) | 1 | 1 |
 
 ### GBRRGRRBRRGRR
 <a class="pat" href="/stripes/gbrrgrrbrrgrr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">GBRRGRRBRRGRR</span></a>
@@ -1926,7 +1926,7 @@ weight: 13
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-3/) | 1 | 1 |
+| 0.12 | [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-4/) | 1 | 1 |
 
 ### GGRWGGRWGGBWG
 <a class="pat" href="/stripes/ggrwggrwggbwg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGRWGGRWGGBWG</span></a>

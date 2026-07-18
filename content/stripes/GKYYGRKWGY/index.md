@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/state-seal-of-maine/">State Seal of Maine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-maine/"><img src="/variants/s10/dg49k8ly20lyi3dg23r6k5lb3dg10ly10~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of Maine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-maine/"><img src="/variants/s10/dg49k8ly20lyi3dg23r6k5lb3dg10ly10~x2~ly6307084-lyi6614084/sett.png" alt="State Seal of Maine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

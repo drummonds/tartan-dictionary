@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/go/gordon-of-abergeldie/">Gordon of Abergeldie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-of-abergeldie/"><img src="/variants/s6/r63w4k4dp18ly4dg50~x2~dp1607327/sett.png" alt="Gordon of Abergeldie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-of-abergeldie/"><img src="/variants/s6/r63w4k4dp18ly4dg50~x2~dp4018327/sett.png" alt="Gordon of Abergeldie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

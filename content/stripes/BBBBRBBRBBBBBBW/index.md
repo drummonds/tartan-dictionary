@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/no/northfield-academy-2/">Northfield Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/no/northfield-academy-2/"><img src="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt1102249-t2308259/sett.png" alt="Northfield Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/northfield-academy-2/"><img src="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt2705249-t5719258/sett.png" alt="Northfield Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

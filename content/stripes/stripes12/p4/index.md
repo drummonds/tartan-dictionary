@@ -39,7 +39,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Rathmore](/tartans/r/ra/rathmore-2/) | 1 | 1 |
+| 0.10 | [Rathmore](/tartans/r/ra/rathmore/) | 1 | 1 |
 
 ### RBRBRKBKRKBW
 <a class="pat" href="/stripes/rbrbrkbkrkbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBRBRKBKRKBW</span></a>
@@ -249,7 +249,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.07 | [MacKinnon](/tartans/m/ma/mackinnon-4/) | 1 | 1 |
+| 0.07 | [MacKinnon](/tartans/m/ma/mackinnon-6/) | 1 | 1 |
 
 ### RRWRBRWRGRWW
 <a class="pat" href="/stripes/rrwrbrwrgrww/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRWRBRWRGRWW</span></a>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/griffiths-of-llangynin-2/">Griffiths of Llangynin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/griffiths-of-llangynin-2/"><img src="/variants/s18/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40y3~x2~db1204274/sett.png" alt="Griffiths of Llangynin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/griffiths-of-llangynin-2/"><img src="/variants/s18/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40y3~x2~db2911276/sett.png" alt="Griffiths of Llangynin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

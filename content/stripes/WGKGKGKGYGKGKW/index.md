@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/te/terre-d-ecosse/">Terre D'Ecosse</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/te/terre-d-ecosse/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/sett.png" alt="Terre D'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/terre-d-ecosse/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi4604168-dg3007159/sett.png" alt="Terre D'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/t/te/terre-de-ecosse/">Terre De'Ecosse</a> <small class="dt">ΔTartan 0.05</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/te/terre-de-ecosse/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3~x2~dgi1804158/sett.png" alt="Terre De'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/terre-de-ecosse/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3~x2~dgi4410159-dg3007159/sett.png" alt="Terre De'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

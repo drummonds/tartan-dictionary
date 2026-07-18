@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/v/vo/voluntary-service-aberdeen/">Voluntary Service Aberdeen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/v/vo/voluntary-service-aberdeen/"><img src="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/sett.png" alt="Voluntary Service Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vo/voluntary-service-aberdeen/"><img src="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi62-n47/sett.png" alt="Voluntary Service Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

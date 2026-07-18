@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sa/sail-chalmadale/">Sail Chalmadale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sa/sail-chalmadale/"><img src="/variants/s6/db4w1db17dr28dp17r2~x2~r1908022/sett.png" alt="Sail Chalmadale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sail-chalmadale/"><img src="/variants/s6/db4w1db17dr28dp17r2~x2~r4719021/sett.png" alt="Sail Chalmadale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/th/thorburn/">Thorburn</a> <small class="dt">ΔTartan 6.27</small></td></tr>
+<tr><td><a href="/tartans/t/th/thorburn/">Thorburn</a> <small class="dt">ΔTartan 6.26</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/thorburn/"><img src="/variants/s6/db3lb14db3n16db34r3~x2/sett.png" alt="Thorburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

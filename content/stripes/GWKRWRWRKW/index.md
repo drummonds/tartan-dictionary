@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ni/nisbett-rose-dress/">Nisbett Rose Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ni/nisbett-rose-dress/"><img src="/variants/s10/w16k16ri40w3r6w3r40k16w16g4~ri2406019-r2109032/sett.png" alt="Nisbett Rose Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nisbett-rose-dress/"><img src="/variants/s10/w16k16ri40w3r6w3r40k16w16g4~ri6016021-r5221030/sett.png" alt="Nisbett Rose Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

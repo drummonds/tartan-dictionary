@@ -9,25 +9,25 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/raaf/"><img src="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/sett.png" alt="RAAF" width="140"><br><strong>RAAF</strong></a></li>
 <li><a class="tartan" href="/families/rabbinical/"><img src="/variants/s14/db28k1r7k1db6k1lb4k1db6y2r3y2db4w6~x2/sett.png" alt="Rabbinical" width="140"><br><strong>Rabbinical</strong></a></li>
 <li><a class="tartan" href="/families/raeburn/"><img src="/variants/s4/k34y3k34y26~x2/sett.png" alt="Raeburn" width="140"><br><strong>Raeburn</strong></a></li>
-<li><a class="tartan" href="/families/rainbow/"><img src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/sett.png" alt="Rainbow" width="140"><br><strong>Rainbow</strong></a></li>
+<li><a class="tartan" href="/families/rainbow/"><img src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r5623030-ri5921033/sett.png" alt="Rainbow" width="140"><br><strong>Rainbow</strong></a></li>
 <li><a class="tartan" href="/families/ralston/"><img src="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/sett.png" alt="Ralston" width="140"><br><strong>Ralston</strong></a></li>
 <li><a class="tartan" href="/families/ramsay/"><img src="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/sett.png" alt="Ramsay" width="140"><br><strong>Ramsay</strong></a></li>
 <li><a class="tartan" href="/families/ramsay-of-dalhousie/"><img src="/variants/s6/k4w2k28r30k1r3~x2/sett.png" alt="Ramsay of Dalhousie" width="140"><br><strong>Ramsay of Dalhousie</strong></a></li>
 <li><a class="tartan" href="/families/rangers/"><img src="/variants/s4/db21k10dt8r3~x2/sett.png" alt="Rangers" width="140"><br><strong>Rangers</strong></a></li>
 <li><a class="tartan" href="/families/rankin/"><img src="/variants/s22/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2~x2/sett.png" alt="Rankin" width="140"><br><strong>Rankin</strong></a></li>
-<li><a class="tartan" href="/families/rathmore/"><img src="/variants/s12/dr10lb1dr2n1dr1n1lo1n4lbi2r1lbi2lo1~x8~lb3103284-lbi3200000/sett.png" alt="Rathmore" width="140"><br><strong>Rathmore</strong></a></li>
+<li><a class="tartan" href="/families/rathmore/"><img src="/variants/s12/dr10lb1dr2n1dr1n1lo1n4lbi2r1lbi2lo1~x8~lb7609282-lbi80/sett.png" alt="Rathmore" width="140"><br><strong>Rathmore</strong></a></li>
 <li><a class="tartan" href="/clan/rattray/"><img src="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray" width="140"><br><strong>Rattray</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/rattray-of-lude/"><img src="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray of Lude" width="140"><br><strong>Rattray of Lude</strong></a></li>
 <li><a class="tartan" href="/variants/s6/g20dr10ly2db100w1y10/"><strong>Ravetta</strong></a></li>
-<li><a class="tartan" href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><strong>Ravetta, Phil</strong></a></li>
+<li><a class="tartan" href="/variants/s6/g20dr10y2db100w1lg10~g5519141-lg7612141/"><strong>Ravetta, Phil</strong></a></li>
 <li><a class="tartan" href="/clan/raymond/"><img src="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/sett.png" alt="Raymond" width="140"><br><strong>Raymond</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/raymond-of-doune/"><img src="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/sett.png" alt="Raymond of Doune" width="140"><br><strong>Raymond of Doune</strong></a></li>
 <li><a class="tartan" href="/families/raznotravie/"><img src="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/sett.png" alt="Raznotravie" width="140"><br><strong>Raznotravie</strong></a></li>
 <li><a class="tartan" href="/families/reagan/"><img src="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/sett.png" alt="Reagan" width="140"><br><strong>Reagan</strong></a></li>
-<li><a class="tartan" href="/families/recovery/"><img src="/variants/s21/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/sett.png" alt="Recovery" width="140"><br><strong>Recovery</strong></a></li>
+<li><a class="tartan" href="/families/recovery/"><img src="/variants/s21/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg4514144-g6019141/sett.png" alt="Recovery" width="140"><br><strong>Recovery</strong></a></li>
 <li><a class="tartan" href="/families/redgate/"><img src="/variants/s13/db10r3db10k7dy5w2dy5w2dy5k7g10r3g7~x2/sett.png" alt="Redgate" width="140"><br><strong>Redgate</strong></a></li>
-<li><a class="tartan" href="/families/redmond/"><img src="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2~x2~dg1504144-g2007139/sett.png" alt="Redmond" width="140"><br><strong>Redmond</strong></a></li>
-<li><a class="tartan" href="/variants/s7/p26o15r7lt2lg7db17r4~x2~p2006332-o2305325-lt3603227-lg2702249/"><strong>Redpath, The Ronald</strong></a></li>
+<li><a class="tartan" href="/families/redmond/"><img src="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2~x2~dg3710150-g4917141/sett.png" alt="Redmond" width="140"><br><strong>Redmond</strong></a></li>
+<li><a class="tartan" href="/variants/s7/p26o15r7lt2lg7db17r4~x2~p4916327-o5712327-lt8806234-lg6806249/"><strong>Redpath, The Ronald</strong></a></li>
 <li><a class="tartan" href="/families/redwood/"><img src="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/sett.png" alt="Redwood" width="140"><br><strong>Redwood</strong></a></li>
 <li><a class="tartan" href="/variants/s7/w2ly44db8ly2db2ly3r1~x2/"><strong>Reece</strong></a></li>
 <li><a class="tartan" href="/variants/s7/w2dy44db8dy2db2dy3r1~x2/"><strong>Reece, Mathew</strong></a></li>
@@ -42,13 +42,13 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/renfrew/"><img src="/variants/s7/db6k2db18k18g18k3r2~x2/sett.png" alt="Renfrew" width="140"><br><strong>Renfrew</strong></a></li>
 <li><a class="tartan" href="/families/rennie/"><img src="/variants/s10/w6k1g28k24dp25g3dp3g3dp3g4~x2/sett.png" alt="Rennie" width="140"><br><strong>Rennie</strong></a></li>
 <li><a class="tartan" href="/families/renton/"><img src="/variants/s12/o8k2o8k4dr3k26db21t8k7t8db24k3~x2/sett.png" alt="Renton" width="140"><br><strong>Renton</strong></a></li>
-<li><a class="tartan" href="/families/rhys/"><img src="/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/sett.png" alt="Rhys" width="140"><br><strong>Rhys</strong></a></li>
-<li><a class="tartan" href="/families/rhys-of-wales/"><img src="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/sett.png" alt="Rhys of Wales" width="140"><br><strong>Rhys of Wales</strong></a></li>
-<li><a class="tartan" href="/families/rice/"><img src="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/sett.png" alt="Rice" width="140"><br><strong>Rice</strong></a></li>
-<li><a class="tartan" href="/families/rice-of-wales/"><img src="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/sett.png" alt="Rice of Wales" width="140"><br><strong>Rice of Wales</strong></a></li>
-<li><a class="tartan" href="/clan/richard/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/sett.png" alt="Richard" width="140"><br><strong>Richard</strong></a><div class="clan-territory">clan</div></li>
-<li><a class="tartan" href="/families/richard-of-wales/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/sett.png" alt="Richard of Wales" width="140"><br><strong>Richard of Wales</strong></a></li>
-<li><a class="tartan" href="/families/richards/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db1204274-dbi1404245/sett.png" alt="Richards" width="140"><br><strong>Richards</strong></a></li>
+<li><a class="tartan" href="/families/rhys/"><img src="/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi2911276-db1812264/sett.png" alt="Rhys" width="140"><br><strong>Rhys</strong></a></li>
+<li><a class="tartan" href="/families/rhys-of-wales/"><img src="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db1812264-dbi2911276/sett.png" alt="Rhys of Wales" width="140"><br><strong>Rhys of Wales</strong></a></li>
+<li><a class="tartan" href="/families/rice/"><img src="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db2911276/sett.png" alt="Rice" width="140"><br><strong>Rice</strong></a></li>
+<li><a class="tartan" href="/families/rice-of-wales/"><img src="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db2911276/sett.png" alt="Rice of Wales" width="140"><br><strong>Rice of Wales</strong></a></li>
+<li><a class="tartan" href="/clan/richard/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db2911276-dg3007159-dbi3409246/sett.png" alt="Richard" width="140"><br><strong>Richard</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/richard-of-wales/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db2911276-dg3007159-dbi3409246/sett.png" alt="Richard of Wales" width="140"><br><strong>Richard of Wales</strong></a></li>
+<li><a class="tartan" href="/families/richards/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db2911276-dg3007159-dbi3409246/sett.png" alt="Richards" width="140"><br><strong>Richards</strong></a></li>
 <li><a class="tartan" href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><strong>Richardson</strong></a></li>
 <li><a class="tartan" href="/families/riddoch/"><img src="/variants/s13/db8k1db1k1db1k8r1g14r1k8db9k1db1~x4/sett.png" alt="Riddoch" width="140"><br><strong>Riddoch</strong></a></li>
 <li><a class="tartan" href="/families/rikaco/"><img src="/variants/s10/n5lb5n2r47n18o2n5g9lb7o3~x2/sett.png" alt="Rikaco" width="140"><br><strong>Rikaco</strong></a></li>
@@ -60,8 +60,8 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/robbins/"><img src="/variants/s6/db1dr3db1dr3db6g1~x8/sett.png" alt="Robbins" width="140"><br><strong>Robbins</strong></a></li>
 <li><a class="tartan" href="/variants/s4/k5g40db20y3~x2/"><strong>Robert Byers</strong></a></li>
 <li><a class="tartan" href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/"><strong>Robert Dewar</strong></a></li>
-<li><a class="tartan" href="/clan/roberts/"><img src="/variants/s22/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/sett.png" alt="Roberts" width="140"><br><strong>Roberts</strong></a><div class="clan-territory">clan</div></li>
-<li><a class="tartan" href="/families/roberts-of-wales/"><img src="/variants/s22/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/sett.png" alt="Roberts of Wales" width="140"><br><strong>Roberts of Wales</strong></a></li>
+<li><a class="tartan" href="/clan/roberts/"><img src="/variants/s22/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4~db1812264/sett.png" alt="Roberts" width="140"><br><strong>Roberts</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/roberts-of-wales/"><img src="/variants/s22/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4~db1812264/sett.png" alt="Roberts of Wales" width="140"><br><strong>Roberts of Wales</strong></a></li>
 <li><a class="tartan" href="/families/robertson/"><img src="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/sett.png" alt="Robertson" width="140"><br><strong>Robertson</strong></a></li>
 <li><a class="tartan" href="/families/robertson-of-kindeace/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace" width="140"><br><strong>Robertson of Kindeace</strong></a></li>
 <li><a class="tartan" href="/families/robertson-of-struan/"><img src="/variants/s7/r3db1r1db11g10r2db2~x4/sett.png" alt="Robertson of Struan" width="140"><br><strong>Robertson of Struan</strong></a></li>

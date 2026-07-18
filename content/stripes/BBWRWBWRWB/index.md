@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/v/ve/vetoclock/">Vetoclock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/v/ve/vetoclock/"><img src="/variants/s10/n110lp3o14w1dp10w1o6lp3dp4n2~x2~n1900000-o2500000/sett.png" alt="Vetoclock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/ve/vetoclock/"><img src="/variants/s10/n110lp3o14w1dp10w1o6lp3dp4n2~x2~n47-o62/sett.png" alt="Vetoclock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

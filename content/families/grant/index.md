@@ -18,7 +18,7 @@ A family of [Clan Grant](/clan/grant/).
 <tbody>
 <tr><td><a href="/tartans/g/gr/grant-5/">Grant</a> ★</td><td>1819</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grant-5/"><img src="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gr/grant-3/">Grant</a></td><td>1819</td><td>3</td><td>3</td><td>4.33</td></tr>
+<tr><td><a href="/tartans/g/gr/grant-3/">Grant</a></td><td>1819</td><td>3</td><td>3</td><td>4.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grant-3/"><img src="r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2-rev.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grant-6/">Grant</a></td><td>1714</td><td>1</td><td>1</td><td>5.05</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grant-6/"><img src="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

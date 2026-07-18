@@ -11,7 +11,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><img src="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/sett.png" alt="Lamont #2" width="140"><br>Lamont #2</a></li>
 <li><a class="tartan" href="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/"><img src="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/sett.png" alt="Lamont #3" width="140"><br>Lamont #3</a></li>
 <li><a class="tartan" href="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/"><img src="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/sett.png" alt="Lamont (Clan)" width="140"><br>Lamont (Clan)</a></li>
-<li><a class="tartan" href="/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2~y2602166-ly3307090/"><img src="/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2~y2602166-ly3307090/sett.png" alt="Lasting" width="140"><br>Lasting</a></li>
+<li><a class="tartan" href="/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2~y6304159-ly8117093/"><img src="/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2~y6304159-ly8117093/sett.png" alt="Lasting" width="140"><br>Lasting</a></li>
 <li><a class="tartan" href="/variants/s6/g3db8g3k4g15r2~x2/"><img src="/variants/s6/g3db8g3k4g15r2~x2/sett.png" alt="Lauder (Family)" width="140"><br>Lauder (Family)</a></li>
 <li><a class="tartan" href="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/"><img src="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/sett.png" alt="Lauder Dress" width="140"><br>Lauder Dress</a></li>
 <li><a class="tartan" href="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/"><img src="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/sett.png" alt="Lauder Dress (Can)" width="140"><br>Lauder Dress (Can)</a></li>
@@ -38,9 +38,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/"><img src="/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/sett.png" alt="Linden" width="140"><br>Linden</a></li>
 <li><a class="tartan" href="/variants/s9/g20db2g2db2g2db8dr24db2dr3~x2/"><img src="/variants/s9/g20db2g2db2g2db8dr24db2dr3~x2/sett.png" alt="Lindsay" width="140"><br>Lindsay</a></li>
 <li><a class="tartan" href="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><img src="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/sett.png" alt="Lindsay #2" width="140"><br>Lindsay #2</a></li>
-<li><a class="tartan" href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2209032/"><img src="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2209032/sett.png" alt="Lindsay #3" width="140"><br>Lindsay #3</a></li>
+<li><a class="tartan" href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r4217018-ri5623030/"><img src="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r4217018-ri5623030/sett.png" alt="Lindsay #3" width="140"><br>Lindsay #3</a></li>
 <li><a class="tartan" href="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/"><img src="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/sett.png" alt="Lindsay (Chisholm Red)" width="140"><br>Lindsay (Chisholm Red)</a></li>
-<li><a class="tartan" href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><img src="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/sett.png" alt="Lindsay (Crimson version) (Clan?)" width="140"><br>Lindsay (Crimson version) (Clan?)</a></li>
+<li><a class="tartan" href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r5221030-ki17/"><img src="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r5221030-ki17/sett.png" alt="Lindsay (Crimson version) (Clan?)" width="140"><br>Lindsay (Crimson version) (Clan?)</a></li>
 <li><a class="tartan" href="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/"><img src="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/sett.png" alt="Lindsay Dress" width="140"><br>Lindsay Dress</a></li>
 <li><a class="tartan" href="/variants/s9/g26r3g3r3g3r11w27r3w5~x2/"><img src="/variants/s9/g26r3g3r3g3r11w27r3w5~x2/sett.png" alt="Lindsay Dress Red" width="140"><br>Lindsay Dress Red</a></li>
 <li><a class="tartan" href="/variants/s6/g3k15dr8g2n8k2~x4/"><img src="/variants/s6/g3k15dr8g2n8k2~x4/sett.png" alt="Lindsay Htg (Clan?)" width="140"><br>Lindsay Htg (Clan?)</a></li>
@@ -52,13 +52,13 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><img src="/variants/s7/r28g4k4g4k4lb6y1~x2/sett.png" alt="Livingstone MacLay MacLeay" width="140"><br>Livingstone MacLay MacLeay</a></li>
 <li><a class="tartan" href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/sett.png" alt="Llewellen of Wales" width="140"><br>Llewellen of Wales</a></li>
 <li><a class="tartan" href="/variants/s6/r2db61k13w2n20ly2~x2/"><img src="/variants/s6/r2db61k13w2n20ly2~x2/sett.png" alt="Lloyd of Astargus" width="140"><br>Lloyd of Astargus</a></li>
-<li><a class="tartan" href="/variants/s5/n40r2n20g19db2~db1204274/"><img src="/variants/s5/n40r2n20g19db2~db1204274/sett.png" alt="Lloyd of Wales" width="140"><br>Lloyd of Wales</a></li>
-<li><a class="tartan" href="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2307033/"><img src="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2307033/sett.png" alt="Lochiel (Cameron)" width="140"><br>Lochiel (Cameron)</a></li>
+<li><a class="tartan" href="/variants/s5/n40r2n20g19db2~db2911276/"><img src="/variants/s5/n40r2n20g19db2~db2911276/sett.png" alt="Lloyd of Wales" width="140"><br>Lloyd of Wales</a></li>
+<li><a class="tartan" href="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r5221030-ri5717030/"><img src="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r5221030-ri5717030/sett.png" alt="Lochiel (Cameron)" width="140"><br>Lochiel (Cameron)</a></li>
 <li><a class="tartan" href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><img src="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/sett.png" alt="Lockhart" width="140"><br>Lockhart</a></li>
 <li><a class="tartan" href="/variants/s7/db8r3db1r3g14r3db1~x4/"><img src="/variants/s7/db8r3db1r3g14r3db1~x4/sett.png" alt="Logan" width="140"><br>Logan</a></li>
 <li><a class="tartan" href="/variants/s7/db9r3y1r3g9r3y1~x2/"><img src="/variants/s7/db9r3y1r3g9r3y1~x2/sett.png" alt="Logan #2" width="140"><br>Logan #2</a></li>
 <li><a class="tartan" href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><img src="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/sett.png" alt="Logan #7" width="140"><br>Logan #7</a></li>
-<li><a class="tartan" href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><img src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/sett.png" alt="Logan Light" width="140"><br>Logan Light</a></li>
+<li><a class="tartan" href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r5419027-ri5623030/"><img src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r5419027-ri5623030/sett.png" alt="Logan Light" width="140"><br>Logan Light</a></li>
 <li><a class="tartan" href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><img src="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/sett.png" alt="Lougheed" width="140"><br>Lougheed</a></li>
 <li><a class="tartan" href="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><img src="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/sett.png" alt="Louise of Lorne" width="140"><br>Louise of Lorne</a></li>
 <li><a class="tartan" href="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/"><img src="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png" alt="Lovat or Fraser" width="140"><br>Lovat or Fraser</a></li>

@@ -231,7 +231,7 @@ weight: 21
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.12 | [Gordonstoun](/tartans/g/go/gordonstoun/) | 1 | 1 |
+| 0.12 | [Gordonstoun](/tartans/g/go/gordonstoun-2/) | 1 | 1 |
 
 ### BGWKBYBWYBKGBWGWBGBKW
 <a class="pat" href="/stripes/bgwkbybwybkgbwgwbgbkw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BGWKBYBWYBKGBWGWBGBKW</span></a>
@@ -553,7 +553,7 @@ weight: 21
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Gordonstoun](/tartans/g/go/gordonstoun-6/) | 1 | 1 |
+| 0.10 | [Gordonstoun](/tartans/g/go/gordonstoun-7/) | 1 | 1 |
 
 ### RKBRRBRBKBBBKBRBRRBKR
 <a class="pat" href="/stripes/rkbrrbrbkbbbkbrbrrbkr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">RKBRRBRBKBBBKBRBRRBKR</span></a>

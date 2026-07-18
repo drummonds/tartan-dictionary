@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pu/purdy-r-scott/">Purdy, R Scott</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pu/purdy-r-scott/"><img src="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/sett.png" alt="Purdy, R Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/purdy-r-scott/"><img src="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/sett.png" alt="Purdy, R Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

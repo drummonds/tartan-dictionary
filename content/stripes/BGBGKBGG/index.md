@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scottish-power-2/">Scottish Power</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-power-2/"><img src="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/sett.png" alt="Scottish Power sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-power-2/"><img src="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg4007180-g5408159/sett.png" alt="Scottish Power sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wo/womens-rural-institute/">Womens Rural Institute</a> <small class="dt">ΔTartan 0.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wo/womens-rural-institute/"><img src="/variants/s8/dg4g24dp4k6dg4dr3dg4dp3~x2/sett.png" alt="Womens Rural Institute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

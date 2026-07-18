@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wa/wattenhofer/">Wattenhofer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/wattenhofer/"><img src="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/sett.png" alt="Wattenhofer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wattenhofer/"><img src="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o5017036-lo7213069/sett.png" alt="Wattenhofer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

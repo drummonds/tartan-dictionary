@@ -9,7 +9,7 @@ crumbs:
 
 ## Tartan
 
-<a class="tartan" href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1~x2~dbi1406275-db1204274/"><img src="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1~x2~dbi1406275-db1204274/sett.png" alt="Payne" width="240"><br>Payne</a>
+<a class="tartan" href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1~x2~dbi3514276-db2911276/"><img src="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1~x2~dbi3514276-db2911276/sett.png" alt="Payne" width="240"><br>Payne</a>
 
 ## Families
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fu/fulbright-senator/">Fulbright, Senator</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fu/fulbright-senator/"><img src="/variants/s17/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db1106275-dbi1406275-t2302222-lr2800000/sett.png" alt="Fulbright, Senator sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fulbright-senator/"><img src="/variants/s17/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db2616276-dbi3514276-t5606234-lr70/sett.png" alt="Fulbright, Senator sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

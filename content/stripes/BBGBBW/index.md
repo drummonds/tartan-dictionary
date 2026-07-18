@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/mackerrell-of-hillhouse-hunting/">MacKerrell of Hillhouse Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackerrell-of-hillhouse-hunting/"><img src="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/sett.png" alt="MacKerrell of Hillhouse Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackerrell-of-hillhouse-hunting/"><img src="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi3514276-db2911276/sett.png" alt="MacKerrell of Hillhouse Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

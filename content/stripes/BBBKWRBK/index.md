@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/moorpark-primary-school/">Moorpark Primary School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/moorpark-primary-school/"><img src="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/sett.png" alt="Moorpark Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moorpark-primary-school/"><img src="/variants/s8/db3n10db3k3w10r4n28k2~x2~db2616276-n5004237/sett.png" alt="Moorpark Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

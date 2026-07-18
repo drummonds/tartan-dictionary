@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-matthews-check/">St. Matthews Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-matthews-check/"><img src="/variants/s5/db2ly21db11dbi21db1~x2~db1004274-dbi1404245/sett.png" alt="St. Matthews Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-matthews-check/"><img src="/variants/s5/db2ly21db11dbi21db1~x2~db2609279-dbi3409246/sett.png" alt="St. Matthews Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

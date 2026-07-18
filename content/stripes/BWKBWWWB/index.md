@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/comrie-navy/">Comrie Navy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/comrie-navy/"><img src="/variants/s8/dbi42lb2w2lb2dbi5k12w32db4~x2~dbi1404245-db1106275/sett.png" alt="Comrie Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/comrie-navy/"><img src="/variants/s8/dbi42lb2w2lb2dbi5k12w32db4~x2~dbi3409246-db2616276/sett.png" alt="Comrie Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

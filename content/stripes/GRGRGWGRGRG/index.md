@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/br/brithwe-dewi-sant/">Brithwe Dewi Sant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/br/brithwe-dewi-sant/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brithwe-dewi-sant/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~dg3007159-w98/sett.png" alt="Brithwe Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

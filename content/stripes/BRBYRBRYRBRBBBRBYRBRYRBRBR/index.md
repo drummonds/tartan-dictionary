@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fo/fontainbleu/">Fontainbleu</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/fontainbleu/"><img src="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/sett.png" alt="Fontainbleu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fontainbleu/"><img src="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~n48-dt22/sett.png" alt="Fontainbleu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

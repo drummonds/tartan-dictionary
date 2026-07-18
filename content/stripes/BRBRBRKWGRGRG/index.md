@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald/"><img src="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8/sett.png" alt="MacDonald of Clanranald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-1/">MacDonald of Clanranald 1</a> <small class="dt">ΔTartan 0.24</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-1/"><img src="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/sett.png" alt="MacDonald of Clanranald 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-d/">MacDonald of Clanranald D</a> <small class="dt">ΔTartan 0.53</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-d/"><img src="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/sett.png" alt="MacDonald of Clanranald D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-d/">MacDonald of Clanranald D</a> <small class="dt">ΔTartan 0.50</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-d/"><img src="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/sett.png" alt="MacDonald of Clanranald D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

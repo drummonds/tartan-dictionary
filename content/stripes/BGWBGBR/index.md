@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kildrummie/">Kildrummie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildrummie/"><img src="/variants/s7/db8y4w2bi25dy25b2r5~x2~db2719264-bi4531264-b3826264/sett.png" alt="Kildrummie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildrummie/"><img src="/variants/s7/dbi8y4w2db25dy25dbii2r5~x2~dbi3409246-db2616276-dbii3514276/sett.png" alt="Kildrummie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

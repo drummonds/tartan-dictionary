@@ -5,8 +5,8 @@ date: 2023-03-18
 69 Name tartans beginning with H. [Back to all Name tartans](/type/name/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2db4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell (2013)" width="140"><br>Haddrell (2013)</a></li>
 <li><a class="tartan" href="/variants/s7/r2t4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2t4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell (2013)" width="140"><br>Haddrell (2013)</a></li>
+<li><a class="tartan" href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2db4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell (2013)" width="140"><br>Haddrell (2013)</a></li>
 <li><a class="tartan" href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><img src="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/sett.png" alt="Haig Check" width="140"><br>Haig Check</a></li>
 <li><a class="tartan" href="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b4531264-t6121255-db2820264-lb7612255/"><img src="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b4531264-t6121255-db2820264-lb7612255/sett.png" alt="Halcrow Howell" width="140"><br>Halcrow Howell</a></li>
 <li><a class="tartan" href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi3514276-t5912243-db2609279-lb8007237/"><img src="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi3514276-t5912243-db2609279-lb8007237/sett.png" alt="Halcrow Howell (Name)" width="140"><br>Halcrow Howell (Name)</a></li>

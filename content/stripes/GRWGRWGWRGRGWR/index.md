@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/mordente/">Mordente</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/mordente/"><img src="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/sett.png" alt="Mordente sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mordente/"><img src="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/sett.png" alt="Mordente sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

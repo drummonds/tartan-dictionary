@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/ge/gedling-peter/">Gedling, Peter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/ge/gedling-peter/"><img src="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/sett.png" alt="Gedling, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/gedling-peter/"><img src="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/sett.png" alt="Gedling, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

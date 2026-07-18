@@ -6,8 +6,8 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r5221030/"><img src="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r5221030/sett.png" alt="Walker, Dress (Personal)" width="140"><br>Walker, Dress (Personal)</a></li>
-<li><a class="tartan" href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y5102165-dt22/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y5102165-dt22/sett.png" alt="Walker, Gauvin (Personal)" width="140"><br>Walker, Gauvin (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><img src="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/sett.png" alt="Walker, Gauvin (Personal)" width="140"><br>Walker, Gauvin (Personal)</a></li>
+<li><a class="tartan" href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y5102165-dt22/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y5102165-dt22/sett.png" alt="Walker, Gauvin (Personal)" width="140"><br>Walker, Gauvin (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/"><img src="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/sett.png" alt="Walker, Michael (Personal)" width="140"><br>Walker, Michael (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k1db7k7ly1~x10/"><img src="/variants/s4/k1db7k7ly1~x10/sett.png" alt="Wallace (Personal)" width="140"><br>Wallace (Personal)</a></li>
 <li><a class="tartan" href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><img src="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/sett.png" alt="Wallenberg, Nicolas (Personal)" width="140"><br>Wallenberg, Nicolas (Personal)</a></li>
@@ -16,8 +16,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><img src="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/sett.png" alt="Walls, Steve C (Personal)" width="140"><br>Walls, Steve C (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/n56w30n8r10n3r20/"><img src="/variants/s6/n56w30n8r10n3r20/sett.png" alt="Walsh, Michael Edward (Personal)" width="140"><br>Walsh, Michael Edward (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><img src="/variants/s7/r24w3y4dg18dp18g3lb4~x2/sett.png" alt="Walter (Personal)" width="140"><br>Walter (Personal)</a></li>
-<li><a class="tartan" href="/variants/s4/dg2dp2dg24g1~x4~dg4514144-g6019141/"><img src="/variants/s4/dg2dp2dg24g1~x4~dg4514144-g6019141/sett.png" alt="Walters (Personal)" width="140"><br>Walters (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/dg2dp2dg24dpi1~x4~dg4514144-dpi3717327/"><img src="/variants/s4/dg2dp2dg24dpi1~x4~dg4514144-dpi3717327/sett.png" alt="Walters (Personal)" width="140"><br>Walters (Personal)</a></li>
+<li><a class="tartan" href="/variants/s4/dg2dp2dg24g1~x4~dg4514144-g6019141/"><img src="/variants/s4/dg2dp2dg24g1~x4~dg4514144-g6019141/sett.png" alt="Walters (Personal)" width="140"><br>Walters (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><img src="/variants/s7/r8w2dr30g12dr3g12dr3~x2/sett.png" alt="Wasko (Personal)" width="140"><br>Wasko (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/"><img src="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/sett.png" alt="Wasko (Personal)" width="140"><br>Wasko (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><img src="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/sett.png" alt="Watson - Kirby (Personal)" width="140"><br>Watson - Kirby (Personal)</a></li>
@@ -33,8 +33,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s15/db8k4y3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/"><img src="/variants/s15/db8k4y3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/sett.png" alt="Wells, Edward G. (Personal)" width="140"><br>Wells, Edward G. (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/"><img src="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/sett.png" alt="Wells, Greg #2 (Personal)" width="140"><br>Wells, Greg #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/"><img src="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/sett.png" alt="Wells, Greg Dress (Personal)" width="140"><br>Wells, Greg Dress (Personal)</a></li>
-<li><a class="tartan" href="/variants/s18/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1~x10~n51-dt4004195/"><img src="/variants/s18/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1~x10~n51-dt4004195/sett.png" alt="Welly (Personal)" width="140"><br>Welly (Personal)</a></li>
 <li><a class="tartan" href="/variants/s18/o1lp1o1t1o1w1lp1t1w1lp1t1dp1lp1o1n1lp1t1w1~x10~o62-n47/"><img src="/variants/s18/o1lp1o1t1o1w1lp1t1w1lp1t1dp1lp1o1n1lp1t1w1~x10~o62-n47/sett.png" alt="Welly (Personal)" width="140"><br>Welly (Personal)</a></li>
+<li><a class="tartan" href="/variants/s18/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1~x10~n51-dt4004195/"><img src="/variants/s18/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1~x10~n51-dt4004195/sett.png" alt="Welly (Personal)" width="140"><br>Welly (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/"><img src="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/sett.png" alt="Welsh Stanley–Gpa (Personal)" width="140"><br>Welsh Stanley–Gpa (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/"><img src="/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/sett.png" alt="Welsh, Stanly-Gpa (Personal)" width="140"><br>Welsh, Stanly-Gpa (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k61dg10g20w4~x2~dg4514144-g6019141/"><img src="/variants/s4/k61dg10g20w4~x2~dg4514144-g6019141/sett.png" alt="Wesley Owen 2010 (Personal)" width="140"><br>Wesley Owen 2010 (Personal)</a></li>
@@ -47,8 +47,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi99-n50-lr70-w90/"><img src="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi99-n50-lr70-w90/sett.png" alt="Weston-McCue (Personal)" width="140"><br>Weston-McCue (Personal)</a></li>
 <li><a class="tartan" href="/variants/s3/k62t33ly1~x2/"><img src="/variants/s3/k62t33ly1~x2/sett.png" alt="Westwater (Personal)" width="140"><br>Westwater (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/y1b15w5b1w5b1~x4/"><img src="/variants/s6/y1b15w5b1w5b1~x4/sett.png" alt="Whitley (Personal)" width="140"><br>Whitley (Personal)</a></li>
-<li><a class="tartan" href="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/"><img src="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/sett.png" alt="Wicks (Personal)" width="140"><br>Wicks (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/y3dg8n20dp30y2~x2/"><img src="/variants/s5/y3dg8n20dp30y2~x2/sett.png" alt="Wicks (Personal)" width="140"><br>Wicks (Personal)</a></li>
+<li><a class="tartan" href="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/"><img src="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/sett.png" alt="Wicks (Personal)" width="140"><br>Wicks (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><img src="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/sett.png" alt="Wiegratz Alba (Personal)" width="140"><br>Wiegratz Alba (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly8818099-o6312063/"><img src="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly8818099-o6312063/sett.png" alt="Wilbers #2 (Personal)" width="140"><br>Wilbers #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><img src="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/sett.png" alt="Wilding, Michael John (Personal)" width="140"><br>Wilding, Michael John (Personal)</a></li>
@@ -60,8 +60,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/dp15dpi15g15dg15k8w5~x2~dp2712327-dpi4018327/"><img src="/variants/s6/dp15dpi15g15dg15k8w5~x2~dp2712327-dpi4018327/sett.png" alt="Williams, Edmund (Personal)" width="140"><br>Williams, Edmund (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/dp15o15g15dg15k8w5~x2/"><img src="/variants/s6/dp15o15g15dg15k8w5~x2/sett.png" alt="Williams, Edmund (Personal)" width="140"><br>Williams, Edmund (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/n2k20r2g3r4g35r1~x2/"><img src="/variants/s7/n2k20r2g3r4g35r1~x2/sett.png" alt="Williams, Jodi (Personal)" width="140"><br>Williams, Jodi (Personal)</a></li>
-<li><a class="tartan" href="/variants/s6/r7db20r4k18g20dp5~x2/"><img src="/variants/s6/r7db20r4k18g20dp5~x2/sett.png" alt="Williamson (Personal)" width="140"><br>Williamson (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/dr7db20dr4k18g20dp5~x2~db3514276-k17/"><img src="/variants/s6/dr7db20dr4k18g20dp5~x2~db3514276-k17/sett.png" alt="Williamson (Personal)" width="140"><br>Williamson (Personal)</a></li>
+<li><a class="tartan" href="/variants/s6/r7db20r4k18g20dp5~x2/"><img src="/variants/s6/r7db20r4k18g20dp5~x2/sett.png" alt="Williamson (Personal)" width="140"><br>Williamson (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do35-o63/"><img src="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do35-o63/sett.png" alt="Willsher Wedding (Personal)" width="140"><br>Willsher Wedding (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/n8o4w2o4n1o12g9n24dr4~x2~n47-o62/"><img src="/variants/s9/n8o4w2o4n1o12g9n24dr4~x2~n47-o62/sett.png" alt="Willsher Wedding (Personal)" width="140"><br>Willsher Wedding (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/n9r1g9db19w2db19g9r1n9dr1~x2/"><img src="/variants/s10/n9r1g9db19w2db19g9r1n9dr1~x2/sett.png" alt="Wilton (Toronto) (Personal)" width="140"><br>Wilton (Toronto) (Personal)</a></li>

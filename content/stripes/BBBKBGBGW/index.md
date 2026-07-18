@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/halcrow-howell/">Halcrow Howell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/halcrow-howell/"><img src="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi3514276-t5912243-db2609279-lb8007237/sett.png" alt="Halcrow Howell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/halcrow-howell/"><img src="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b4531264-t6121255-db2820264-lb7612255/sett.png" alt="Halcrow Howell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

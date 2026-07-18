@@ -26,7 +26,7 @@ A family of [Clan MacAlister](/clan/macalister/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macalister-2/"><img src="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macalister-8/">MacAlister</a></td><td>—</td><td>1</td><td>1</td><td>3.05</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macalister-8/"><img src="r32b2dg12r4lb4r4w2r4lb4r4dg12r2w2r24lb2r2dg44r2lb2r64lb2r2dg44r2lb2r22w2r2db16r2w2r10dg12b2r8b2dg12r3w2r2db10-rev.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macalister-7/">MacAlister</a></td><td>2004</td><td>1</td><td>1</td><td>3.14</td></tr>
+<tr><td><a href="/tartans/m/ma/macalister-7/">MacAlister</a></td><td>2004</td><td>1</td><td>1</td><td>3.15</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macalister-7/"><img src="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macalister/">MacAlister</a></td><td>—</td><td>1</td><td>1</td><td>3.31</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macalister/"><img src="r12g3y1r2y1g3r3db3r6lb1r1g8r1lb1r12lb1r1g8r1lb1r6g2r1lb1r2lb1r1g3y1r4-rev.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

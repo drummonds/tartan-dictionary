@@ -16,7 +16,7 @@ crumbs:
 <tbody>
 <tr><td><a href="/tartans/b/ba/balmoral-2/">Balmoral</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/balmoral-2/"><img src="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/b/ba/balmoral-4/">Balmoral</a></td><td>1853</td><td>5</td><td>5</td><td>2.42</td></tr>
+<tr><td><a href="/tartans/b/ba/balmoral-4/">Balmoral</a></td><td>1853</td><td>5</td><td>5</td><td>2.43</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/balmoral-4/"><img src="/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/ba/balmoral-5/">Balmoral</a></td><td>1860</td><td>1</td><td>1</td><td>3.13</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/balmoral-5/"><img src="n2r1n8lp2k2n1lp1n1lp4n2k1n1r1-rev.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

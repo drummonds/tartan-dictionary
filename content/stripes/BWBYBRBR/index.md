@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/heriot/">Heriot</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/heriot/"><img src="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/sett.png" alt="Heriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heriot/"><img src="/variants/s8/o20db2o2db2ly3db12w18db3~x2/sett.png" alt="Heriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

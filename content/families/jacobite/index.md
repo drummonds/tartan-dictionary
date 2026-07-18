@@ -22,7 +22,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jacobite-dress/"><img src="r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3-rev.png" alt="Jacobite Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/j/ja/jacobite-dress-2/">Jacobite, dress</a></td><td>—</td><td>1</td><td>1</td><td>5.37</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jacobite-dress-2/"><img src="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/sett.png" alt="Jacobite, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/j/ja/jacobite-3/">Jacobite</a></td><td>—</td><td>1</td><td>1</td><td>11.56</td></tr>
+<tr><td><a href="/tartans/j/ja/jacobite-3/">Jacobite</a></td><td>—</td><td>1</td><td>1</td><td>11.57</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jacobite-3/"><img src="/variants/s6/y70k30w3g30k3y10/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

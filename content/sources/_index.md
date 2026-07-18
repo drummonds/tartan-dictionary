@@ -17,7 +17,7 @@ When the same cloth is recorded by more than one source, the records **collapse*
 | [Logan, The Scottish Gaël (1831)](/sources/logan-1831/) | tartan setts | 55 | active |
 | [Peter, The Baronage of Angus and Mearns (1856)](/sources/peter-1856/) | tartan setts | 38 | active |
 | [Scottish Register of Tartans](/sources/register-of-tartans/) | tartan setts | 7427 | active |
-| [Our own research](/sources/research/) | tartan setts | 13 | active |
+| [Our own research](/sources/research/) | tartan setts | 14 | active |
 | [Tartan Register colour definitions](/sources/str-colours/) | colour / shade definitions | 145 | active |
 | [Scottish Tartans Authority](/sources/tartans-authority/) | tartan setts | 5999 | active |
 | [Weddslist](/sources/weddslist/) | tartan setts | 3397 | active |

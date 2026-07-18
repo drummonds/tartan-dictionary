@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gr/grey-spirit-2/">Grey Spirit</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grey-spirit-2/"><img src="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png" alt="Grey Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/se/selkirk-silver-band/">Selkirk Silver Band</a> <small class="dt">ΔTartan 10.36</small></td></tr>
+<tr><td><a href="/tartans/s/se/selkirk-silver-band/">Selkirk Silver Band</a> <small class="dt">ΔTartan 10.37</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/se/selkirk-silver-band/"><img src="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/sett.png" alt="Selkirk Silver Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

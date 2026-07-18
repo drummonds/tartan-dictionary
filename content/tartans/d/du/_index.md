@@ -2,7 +2,7 @@
 title: "Tartans — Du"
 date: 2023-03-18
 ---
-120 tartans beginning with Du, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
+121 tartans beginning with Du, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/d/du/du-lion/"><img src="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/sett.png" alt="Du Lion" width="140"><br><strong>Du Lion (1)</strong></a></li>
@@ -30,6 +30,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/d/du/duffy-2/"><img src="/variants/s13/dg25w1k23g7y2g2y2g7k23w1dg39g4dg14~x2~dg1806142-g2507147/sett.png" alt="Duffy" width="140"><br><strong>Duffy (2)</strong></a><div class="clan-territory">Duffy</div></li>
 <li><a class="tartan" href="/tartans/d/du/dugan/"><img src="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/sett.png" alt="Dugan" width="140"><br><strong>Dugan (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-edinburgh/"><img src="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/sett.png" alt="Duke of Edinburgh" width="140"><br><strong>Duke of Edinburgh (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth/"><img src="/variants/s14/k16r7k4r7dg17ly1dg5ly1dg17r32k5r4ly1r5~x2~k0601000-r1906038-dg1402111-ly2704072/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-rothesay/"><img src="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/sett.png" alt="Duke of Rothesay" width="140"><br><strong>Duke of Rothesay (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-rothesay-2/"><img src="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png" alt="Duke of Rothesay" width="140"><br><strong>Duke of Rothesay (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-sussex/"><img src="/variants/s7/r18g1k5g1k1g1r9~x2/sett.png" alt="Duke of Sussex" width="140"><br><strong>Duke of Sussex (1)</strong></a></li>

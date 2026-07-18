@@ -7,4 +7,4 @@ Tartan witnessed in art — catalogued paintings that depict tartan cloth, each 
 
 | Date | Painting | Artist | Gallery | Matched tartan |
 |---|---|---|---|---|
-| 1739 | [John Drummond, 4th titular Duke of Perth, 1714 - 1747. Jacobite](/paintings/duke-of-perth-portrait/) | Domenico Duprà | National Galleries of Scotland | [Drummond of Perth](/tartans/r36ln1b3y1g16r8b3ba2ln1/) |
+| 1739 | [John Drummond, 4th titular Duke of Perth, 1714 - 1747. Jacobite](/paintings/duke-of-perth-portrait/) | Domenico Duprà | National Galleries of Scotland | [Drummond of Perth](/tartans/p/pe/perthshire-or-drummond-of-perth/) |

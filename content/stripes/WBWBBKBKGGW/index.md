@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/carnegie-of-skibo/">Carnegie of Skibo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/carnegie-of-skibo/"><img src="/variants/s11/w3db5lb2db9dp10k2dp5k2dg8g29w2~x2/sett.png" alt="Carnegie of Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carnegie-of-skibo/"><img src="/variants/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/sett.png" alt="Carnegie of Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

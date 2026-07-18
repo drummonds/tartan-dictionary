@@ -3,7 +3,7 @@ title: 14 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 14
 ---
-572 setts across 547 tartans with 14 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+573 setts across 548 tartans with 14 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes14/">‹ prev</a> <a href="/stripes/stripes14/">1</a> <strong>2</strong> </nav>
 
 ### BRWBRKRWRKRBWR
@@ -1069,6 +1069,13 @@ weight: 14
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
 | 0.08 | [Drummond](/tartans/d/dr/drummond-4/) | 1 | 1 |
+
+### KRKRGYGYGRKRYR
+<a class="pat" href="/stripes/krkrgygygrkryr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRKRGYGYGRKRYR</span></a>
+
+| ΔT | Tartan | Setts | Variants |
+|---|---|---|---|
+| 0.13 | [Duke of Perth](/tartans/d/du/duke-of-perth/) | 1 | 1 |
 
 ### KRKRKRBKRKRKRK
 <a class="pat" href="/stripes/krkrkrbkrkrkrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">KRKRKRBKRKRKRK</span></a>

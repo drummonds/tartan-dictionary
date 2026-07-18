@@ -22,7 +22,7 @@ A family of [Clan Hughes](/clan/hughes/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hughes-4/"><img src="t4k12db3t4db3k3ly36db3t2ly3-rev.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/hu/hughes/">Hughes</a></td><td>2002</td><td>1</td><td>1</td><td>9.88</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hughes/"><img src="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/h/hu/hughes-3/">Hughes</a></td><td>1975</td><td>1</td><td>1</td><td>13.01</td></tr>
+<tr><td><a href="/tartans/h/hu/hughes-3/">Hughes</a></td><td>1975</td><td>1</td><td>1</td><td>13.02</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hughes-3/"><img src="k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4-rev.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/hu/hughes-5/">Hughes</a></td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hughes-5/"><img src="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

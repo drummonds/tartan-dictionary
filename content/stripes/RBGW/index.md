@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/k/ke/kellogg-college-university-of-oxford/"><img src="/variants/s4/r21db61dy8w21~x2/sett.png" alt="Kellogg College University of Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/ma/manor-of-wrentnall/">Manor of Wrentnall</a> <small class="dt">ΔTartan 1.96</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/manor-of-wrentnall/"><img src="/variants/s4/r31db33dg12w2~x2/sett.png" alt="Manor of Wrentnall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manor-of-wrentnall/"><img src="/variants/s4/r31db33g12w2~x2/sett.png" alt="Manor of Wrentnall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -30,9 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/g/gl/glenturret/">Glenturret</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glenturret/"><img src="/variants/s6/k3g14k14g2db15y2~x2/sett.png" alt="Glenturret sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/mackay-3/">MacKay</a> <small class="dt">ΔTartan 2.34</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-3/"><img src="/variants/s6/k14g80k80g9dp82g14/sett.png" alt="MacKay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackay-3/">MacKay</a> <small class="dt">ΔTartan 1.12</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-3/"><img src="/variants/s6/k3g14k14g2db14g3/sett.png" alt="MacKay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

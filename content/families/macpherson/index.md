@@ -50,7 +50,7 @@ A family of [Clan MacPherson](/clan/macpherson/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-4/"><img src="w5r3w26g20w3g8y3-rev.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-dress-6/">MacPherson Dress</a></td><td>1842</td><td>4</td><td>5</td><td>9.26</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-6/"><img src="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macpherson-8/">MacPherson 8</a></td><td>—</td><td>1</td><td>1</td><td>9.40</td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-8/">MacPherson 8</a></td><td>—</td><td>1</td><td>1</td><td>9.41</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-8/"><img src="/variants/s6/r1w14k6w1k3y1~x4/sett.png" alt="MacPherson 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-2/">MacPherson</a></td><td>1800</td><td>1</td><td>1</td><td>9.47</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-2/"><img src="r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3-rev.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

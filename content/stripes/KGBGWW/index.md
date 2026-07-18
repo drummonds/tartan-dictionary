@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/porteous/">Porteous</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/porteous/"><img src="/variants/s6/k3y3db20g25lb18w3~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/porteous/"><img src="/variants/s6/k1y1db8g10lb7w1~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,7 +20,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/seller/"><img src="/variants/s12/g46k3db6y2db3y2db3g7r6db2r3w4~x2/sett.png" alt="Seller sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/se/seller-dress/">Seller Dress</a></td><td>2002</td><td>1</td><td>1</td><td>5.52</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/seller-dress/"><img src="/variants/s12/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5~x2/sett.png" alt="Seller Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/se/seller-dress-2/">Seller Dress</a></td><td>—</td><td>1</td><td>1</td><td>9.25</td></tr>
+<tr><td><a href="/tartans/s/se/seller-dress-2/">Seller Dress</a></td><td>—</td><td>1</td><td>1</td><td>9.26</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/seller-dress-2/"><img src="w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5-rev.png" alt="Seller Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -107,8 +107,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><img src="/variants/s7/db67w1ly6r5dg25db3k5~x2/sett.png" alt="Guide Dogs" width="140"><br>Guide Dogs</a></li>
 <li><a class="tartan" href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><img src="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/sett.png" alt="Guild, The" width="140"><br>Guild, The</a></li>
 <li><a class="tartan" href="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/"><img src="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/sett.png" alt="Guildford Town Centre (British Columbia)" width="140"><br>Guildford Town Centre (British Columbia)</a></li>
-<li><a class="tartan" href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><img src="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/sett.png" alt="Guildry of Stirling" width="140"><br>Guildry of Stirling</a></li>
 <li><a class="tartan" href="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/"><img src="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/sett.png" alt="Guildry of Stirling" width="140"><br>Guildry of Stirling</a></li>
+<li><a class="tartan" href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><img src="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/sett.png" alt="Guildry of Stirling" width="140"><br>Guildry of Stirling</a></li>
 <li><a class="tartan" href="/variants/s5/db72lb6db12lb17w6~x2/"><img src="/variants/s5/db72lb6db12lb17w6~x2/sett.png" alt="GulfMark" width="140"><br>GulfMark</a></li>
 <li><a class="tartan" href="/variants/s3/lb8dg1dr2~x20/"><img src="/variants/s3/lb8dg1dr2~x20/sett.png" alt="Gyle" width="140"><br>Gyle</a></li>
 </ul>

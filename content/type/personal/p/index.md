@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/"><img src="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/sett.png" alt="Paget (Personal)" width="140"><br>Paget (Personal)</a></li>
 <li><a class="tartan" href="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/"><img src="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/sett.png" alt="Palatine Union (Personal)" width="140"><br>Palatine Union (Personal)</a></li>
-<li><a class="tartan" href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><img src="/variants/s6/db37g27dr22w1dp6ly5~x2/sett.png" alt="Palazzo Bloise (Personal)" width="140"><br>Palazzo Bloise (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/db74g54dr44w2dp15y10/"><img src="/variants/s6/db74g54dr44w2dp15y10/sett.png" alt="Palazzo Bloise (Personal)" width="140"><br>Palazzo Bloise (Personal)</a></li>
+<li><a class="tartan" href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><img src="/variants/s6/db37g27dr22w1dp6ly5~x2/sett.png" alt="Palazzo Bloise (Personal)" width="140"><br>Palazzo Bloise (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/"><img src="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/sett.png" alt="Parkin (Personal)" width="140"><br>Parkin (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/db22w2k10g11r3g4~x2/"><img src="/variants/s6/db22w2k10g11r3g4~x2/sett.png" alt="Paterson Blue (Personal)" width="140"><br>Paterson Blue (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><img src="/variants/s7/dr3g20k20g20lo2g2lo2~x2/sett.png" alt="Paton (Personal)" width="140"><br>Paton (Personal)</a></li>
@@ -36,8 +36,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/k65dr27w2k4y5~x2/"><img src="/variants/s5/k65dr27w2k4y5~x2/sett.png" alt="Perry Dress (Personal)" width="140"><br>Perry Dress (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/k75g26lr2g4lo5~x2/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting (Green) (Personal)" width="140"><br>Perry Hunting (Green) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k62n24ly5w8~x2/"><img src="/variants/s4/k62n24ly5w8~x2/sett.png" alt="Perry, Alex (Personal)" width="140"><br>Perry, Alex (Personal)</a></li>
-<li><a class="tartan" href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><img src="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="Peter of Lee (Chief) (Personal)" width="140"><br>Peter of Lee (Chief) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/"><img src="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="Peter of Lee (Chief) (Personal)" width="140"><br>Peter of Lee (Chief) (Personal)</a></li>
+<li><a class="tartan" href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><img src="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="Peter of Lee (Chief) (Personal)" width="140"><br>Peter of Lee (Chief) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><img src="/variants/s8/r3g1k1g12t12k1t1k1~x4/sett.png" alt="Peter of Lee (Personal)" width="140"><br>Peter of Lee (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/g9lb1g2k4g2~x4/"><img src="/variants/s5/g9lb1g2k4g2~x4/sett.png" alt="Peterhead (Personal)" width="140"><br>Peterhead (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/db4n4w1db2n50db20y1g25r4k2~x2/"><img src="/variants/s10/db4n4w1db2n50db20y1g25r4k2~x2/sett.png" alt="Philip Boisserolles de St-Julien, baron of Hartsyde (Personal)" width="140"><br>Philip Boisserolles de St-Julien, baron of Hartsyde (Personal)</a></li>
@@ -59,14 +59,14 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r100k15g48db5r7db16~x2/"><img src="/variants/s6/r100k15g48db5r7db16~x2/sett.png" alt="Plummer (Personal)" width="140"><br>Plummer (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/"><img src="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/sett.png" alt="Pompili, Antonio and Alessandro (Personal)" width="140"><br>Pompili, Antonio and Alessandro (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/w2dp2db25r3y3g1~x4/"><img src="/variants/s6/w2dp2db25r3y3g1~x4/sett.png" alt="Pool, Robert David (Personal)" width="140"><br>Pool, Robert David (Personal)</a></li>
-<li><a class="tartan" href="/variants/s6/k1y3db3do28db36y1~x2/"><img src="/variants/s6/k1y3db3do28db36y1~x2/sett.png" alt="Potts (Personal)" width="140"><br>Potts (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/y1db36do28db3y3ly1~x2/"><img src="/variants/s6/y1db36do28db3y3ly1~x2/sett.png" alt="Potts (Personal)" width="140"><br>Potts (Personal)</a></li>
+<li><a class="tartan" href="/variants/s6/k1y3db3do28db36y1~x2/"><img src="/variants/s6/k1y3db3do28db36y1~x2/sett.png" alt="Potts (Personal)" width="140"><br>Potts (Personal)</a></li>
 <li><a class="tartan" href="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><img src="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/sett.png" alt="Prestoungrange (Personal)" width="140"><br>Prestoungrange (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/"><img src="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/sett.png" alt="Price-Powell (Personal)" width="140"><br>Price-Powell (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/"><img src="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/sett.png" alt="Pride, George (Personal)" width="140"><br>Pride, George (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/dr3g32ly2g2k3dt2ly2dt28lb2dt2lb3~x2/"><img src="/variants/s11/dr3g32ly2g2k3dt2ly2dt28lb2dt2lb3~x2/sett.png" alt="Pringle #2 (Personal)" width="140"><br>Pringle #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><img src="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/sett.png" alt="Puffin (Personal)" width="140"><br>Puffin (Personal)</a></li>
-<li><a class="tartan" href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><img src="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/sett.png" alt="Purdy, R Scott (Personal)" width="140"><br>Purdy, R Scott (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/"><img src="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/sett.png" alt="Purdy, R Scott (Personal)" width="140"><br>Purdy, R Scott (Personal)</a></li>
+<li><a class="tartan" href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><img src="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/sett.png" alt="Purdy, R Scott (Personal)" width="140"><br>Purdy, R Scott (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/n18w2k1w4g13n40r2~x2/"><img src="/variants/s7/n18w2k1w4g13n40r2~x2/sett.png" alt="Puxty-Dunne (Personal)" width="140"><br>Puxty-Dunne (Personal)</a></li>
 </ul>

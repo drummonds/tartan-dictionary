@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sp/spirit-of-de-jong/">Spirit of de Jong</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-de-jong/"><img src="/variants/s15/dt103lo12dt20db7k5w5r5w5k5db7dt5g32dp14k5dp22~dt1402277-db1306275/sett.png" alt="Spirit of de Jong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-de-jong/"><img src="/variants/s15/db103lr12db20dbi7k5w5r5w5k5dbi7db5g32dp14k5dp22~db1404245-dbi1406275/sett.png" alt="Spirit of de Jong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

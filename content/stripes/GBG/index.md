@@ -35,8 +35,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/u/un/unidentified-pattern-3/">Unidentified pattern</a> <small class="dt">ΔTartan 1.04</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-pattern-3/"><img src="/variants/s3/g12db3y1~x4/sett.png" alt="Unidentified pattern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/e/el/elphinstone/">Elphinstone</a> <small class="dt">ΔTartan 1.66</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/el/elphinstone/"><img src="/variants/s3/g28dp10g3~x2/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elphinstone/">Elphinstone</a> <small class="dt">ΔTartan 1.40</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elphinstone/"><img src="/variants/s3/g12dp3g1~x2/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/e/el/elphinstone-check/">Elphinstone Check</a> <small class="dt">ΔTartan 1.87</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/el/elphinstone-check/"><img src="/variants/s3/g6dp2g1~x4/sett.png" alt="Elphinstone Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

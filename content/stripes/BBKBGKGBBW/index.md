@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/cowal/">Cowal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/cowal/"><img src="/variants/s10/b6db22k12dp10g3k1g3dp10b2w2~x2~b1511266-db1108266/sett.png" alt="Cowal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cowal/"><img src="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/sett.png" alt="Cowal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

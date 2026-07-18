@@ -5,6 +5,8 @@ date: 2023-03-18
 
 The Scottish Tartans Authority's reference collection — a heritage body holding one of the largest tartan archives.
 
+This is now a **historical source**. The Authority's dataset — the International Tartan Index — was folded into the [Scottish Register of Tartans](https://www.tartanregister.gov.uk/) at its 2009 launch, where a record's *STA reference* is the ITI number these records carry. The Authority's own record browser, the *Tartan Ferret*, has since been retired, so the original record links are dead: pages show them unlinked, with an Internet Archive copy where one exists. The [Scottish Tartans Authority](https://www.tartansauthority.com/) itself continues as a heritage charity.
+
 ## Provenance
 
 | | |

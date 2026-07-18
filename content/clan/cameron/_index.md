@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/cameron.svg" alt="Where Clan Cameron sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Lochaber · **1745 strength:** 800 men
 
 Designed in the 1940s by J.G. MacKay of Portree, evoking the blue and yellow worn by Camerons at Killiecrankie (1689).

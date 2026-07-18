@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/gordon.svg" alt="Where Clan Gordon (Duke of Gordon) sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Strathavon & Glenlivet · **1745 strength:** 300 men
 
 ## Tartan

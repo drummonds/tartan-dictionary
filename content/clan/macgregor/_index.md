@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/macgregor.svg" alt="Where Clan MacGregor (Clan Gregor) sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** dispersed (Balquhidder) · **1745 strength:** 500 men
 
 ## Tartan

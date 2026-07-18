@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/drummond.svg" alt="Where Clan Drummond sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Glen Artney / Strathearn · **1745 strength:** 300 men
 
 A lowland clan of Strathearn, the chiefly house seated at Drummond Castle. Its grandest title, the **Duke of Perth**, was the Jacobite dukedom of the line — James Drummond, Duke of Perth, was prominent in the 1745 rising and died in 1746 aboard a French frigate while attempting to escape. Its chief and herald is James David Drummond. See [Clan Drummond on Wikipedia](https://en.wikipedia.org/wiki/Clan_Drummond).

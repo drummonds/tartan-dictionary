@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/macpherson.svg" alt="Where Clan MacPherson sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Badenoch (Cluny) · **1745 strength:** 300 men
 
 ## Tartan

@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/robertson.svg" alt="Where Clan Robertson sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Rannoch & Brae of Atholl · **1745 strength:** 200 men
 
 ## Tartan

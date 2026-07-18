@@ -33,12 +33,12 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s29/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5~x2/"><img src="/variants/s29/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5~x2/sett.png" alt="Forsythe-Grant of Ecclesgreig" width="140"><br>Forsythe-Grant of Ecclesgreig</a></li>
 <li><a class="tartan" href="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/"><img src="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/sett.png" alt="Fowler" width="140"><br>Fowler</a></li>
 <li><a class="tartan" href="/variants/s8/r4k2g36k2t18y3t18k2~x2/"><img src="/variants/s8/r4k2g36k2t18y3t18k2~x2/sett.png" alt="Fox Hunting" width="140"><br>Fox Hunting</a></li>
-<li><a class="tartan" href="/variants/s25/db10r1db1r1dg10r13dg2r13dg10db10r1db1r1db10dg10r13dg2r13dg2r13dg10r1db1r1db5~x4/"><img src="/variants/s25/db10r1db1r1dg10r13dg2r13dg10db10r1db1r1db10dg10r13dg2r13dg2r13dg10r1db1r1db5~x4/sett.png" alt="Fraser" width="140"><br>Fraser</a></li>
 <li><a class="tartan" href="/variants/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/"><img src="/variants/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/sett.png" alt="Fraser" width="140"><br>Fraser</a></li>
+<li><a class="tartan" href="/variants/s25/db10r1db1r1dg10r13dg2r13dg10db10r1db1r1db10dg10r13dg2r13dg2r13dg10r1db1r1db5~x4/"><img src="/variants/s25/db10r1db1r1dg10r13dg2r13dg10db10r1db1r1db10dg10r13dg2r13dg2r13dg10r1db1r1db5~x4/sett.png" alt="Fraser" width="140"><br>Fraser</a></li>
 <li><a class="tartan" href="/variants/s6/dy1db3dy1g3dy4r1~x2/"><img src="/variants/s6/dy1db3dy1g3dy4r1~x2/sett.png" alt="Fraser Hunting #2" width="140"><br>Fraser Hunting #2</a></li>
 <li><a class="tartan" href="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/"><img src="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/sett.png" alt="Frater" width="140"><br>Frater</a></li>
 <li><a class="tartan" href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/"><img src="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/sett.png" alt="Frater (Name)" width="140"><br>Frater (Name)</a></li>
 <li><a class="tartan" href="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b1712264-db1108266/"><img src="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b1712264-db1108266/sett.png" alt="Free (Wishaw)" width="140"><br>Free (Wishaw)</a></li>
-<li><a class="tartan" href="/variants/s5/g15dg18dp23w4r8~x2/"><img src="/variants/s5/g15dg18dp23w4r8~x2/sett.png" alt="Friebe (2014)" width="140"><br>Friebe (2014)</a></li>
 <li><a class="tartan" href="/variants/s5/g15dg18db23w4r8~x2/"><img src="/variants/s5/g15dg18db23w4r8~x2/sett.png" alt="Friebe (2014)" width="140"><br>Friebe (2014)</a></li>
+<li><a class="tartan" href="/variants/s5/g15dg18dp23w4r8~x2/"><img src="/variants/s5/g15dg18dp23w4r8~x2/sett.png" alt="Friebe (2014)" width="140"><br>Friebe (2014)</a></li>
 </ul>

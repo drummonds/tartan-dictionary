@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/i/in/initial-city-link/">Initial City Link</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/initial-city-link/"><img src="/variants/s11/k50dg7k4w2k2y2k2dg7k2g3y2~x2/sett.png" alt="Initial City Link sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/initial-city-link/"><img src="/variants/s11/k50g7k4w2k2y2k2g7k2g3y2~x2/sett.png" alt="Initial City Link sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

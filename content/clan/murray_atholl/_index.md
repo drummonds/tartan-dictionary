@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/murray_atholl.svg" alt="Where Clan Murray (Duke of Atholl) sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Atholl · **1745 strength:** 3000 men
 
 ## Tartan

@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/fraser.svg" alt="Where Clan Fraser sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** The Aird & Stratherrick · **1745 strength:** 700 men
 
 ## Tartan

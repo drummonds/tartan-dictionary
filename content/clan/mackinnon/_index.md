@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/mackinnon.svg" alt="Where Clan MacKinnon sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Skye & Mull · **1745 strength:** 200 men
 
 Clan tartan certified c.1816 by The Mackinnon for the Highland Society of London; stripe colours varied across later sources.

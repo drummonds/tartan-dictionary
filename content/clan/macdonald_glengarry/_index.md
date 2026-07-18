@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/macdonald_glengarry.svg" alt="Where Clan MacDonald of Glengarry sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Glengarry & Knoydart · **1745 strength:** 500 men
 
 ## Tartan

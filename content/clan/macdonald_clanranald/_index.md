@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/macdonald_clanranald.svg" alt="Where Clan MacDonald of Clanranald sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Moidart & the Isles · **1745 strength:** 700 men
 
 Clan tartan distinguished by two white lines; sett from Lord Lyon records, matching Smith (1850) and Grant (1886).

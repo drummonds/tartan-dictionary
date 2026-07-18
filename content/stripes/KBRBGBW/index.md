@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wi/wishart-dress/">Wishart Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wishart-dress/"><img src="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/sett.png" alt="Wishart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wishart-dress/"><img src="/variants/s7/k7dbi4r31db3y2db27lb4~x2~dbi1406275-db1204274/sett.png" alt="Wishart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

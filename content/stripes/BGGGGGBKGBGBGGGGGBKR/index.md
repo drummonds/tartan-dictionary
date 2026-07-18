@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pe/peter-pan/">Peter Pan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pe/peter-pan/"><img src="/variants/s20/db22dgi2dg2dgi2dg2dgi2db6k3dgi14db1g4db1dgi2g2dgi2g2dgi1db1k1r2~x2~dgi1806142-g2408144/sett.png" alt="Peter Pan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peter-pan/"><img src="/variants/s20/db22dg2gi2dg2gi2dg2db6k3dg14db1g4db1dg2g2dg2g2dg1db1k1r2~x2~dg1806142-gi2504202-g2408144/sett.png" alt="Peter Pan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/sutherland.svg" alt="Where Clan Sutherland sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Sutherland · **1745 strength:** 700 men
 
 Dark Sutherland clan sett; 1618 letter ordered red and white lines removed for sept harmony.

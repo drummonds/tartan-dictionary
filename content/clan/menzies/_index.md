@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/menzies.svg" alt="Where Clan Menzies sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Appin of Dull & Rannoch · **1745 strength:** 300 men
 
 ## Tartan

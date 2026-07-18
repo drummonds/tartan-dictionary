@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/macleod.svg" alt="Where Clan MacLeod sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Glenelg, Skye & Harris · **1745 strength:** 700 men
 
 ## Tartan

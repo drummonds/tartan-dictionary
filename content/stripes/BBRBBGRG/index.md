@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/grampian/">Grampian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grampian/"><img src="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grampian/"><img src="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

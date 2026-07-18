@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sw/swiss-national/">Swiss National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sw/swiss-national/"><img src="/variants/s8/w10r47b2r2b2r18db3w4~x2~b1511266-db1108266/sett.png" alt="Swiss National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swiss-national/"><img src="/variants/s8/w10r47dbi2r2dbi2r18db3w4~x2~dbi1406275-db1204274/sett.png" alt="Swiss National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/te/tenmaya-check/">Tenmaya Check</a> <small class="dt">ΔTartan 5.42</small></td></tr>
+<tr><td><a href="/tartans/t/te/tenmaya-check/">Tenmaya Check</a> <small class="dt">ΔTartan 5.43</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/te/tenmaya-check/"><img src="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/sett.png" alt="Tenmaya Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

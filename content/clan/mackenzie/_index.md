@@ -5,6 +5,8 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
+<img class="clan-locator" src="/img/clanloc/mackenzie.svg" alt="Where Clan MacKenzie sits in Scotland" style="float:right;width:200px;max-width:38%;height:auto;margin:0 0 .6em 1em">
+
 **Territory:** Kintail, Ross & Lewis · **1745 strength:** 2000 men
 
 ## Tartan

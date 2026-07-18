@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/chattan-chief/">Chattan Chief</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/chattan-chief/"><img src="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/sett.png" alt="Chattan Chief sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chattan-chief/"><img src="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/sett.png" alt="Chattan Chief sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

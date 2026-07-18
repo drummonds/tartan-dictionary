@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdougall-9/">MacDougall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdougall-9/"><img src="/variants/s20/w1dp3r1g23r3g1r3db6dp4r1dp4g6r6g6r2db1r24dp1r1w1~x2/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdougall-9/"><img src="/variants/s20/w1dp2r1g22r3g1r3db9dp2r1dp2g8r8g8r1db1r22dp2r2w1~x2/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

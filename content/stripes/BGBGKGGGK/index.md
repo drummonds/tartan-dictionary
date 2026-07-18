@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/ol/oliver-hunting/">Oliver Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver-hunting/"><img src="/variants/s9/db40g3db2g12k2g2y2g2k3~x2/sett.png" alt="Oliver Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver-hunting/"><img src="/variants/s9/t62g5t3g22k3g3y3g3k6~x2/sett.png" alt="Oliver Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/campbell-of-loch-awe/">Campbell of Loch Awe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-loch-awe/"><img src="/variants/s5/k2db11k26g11k2~x2/sett.png" alt="Campbell of Loch Awe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-loch-awe/"><img src="/variants/s5/k2g11k26t11k2~x2/sett.png" alt="Campbell of Loch Awe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

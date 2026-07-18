@@ -21,10 +21,13 @@
   <p class="ce-caption ce-cap-1823">After the 1822 royal-visit boom, tartan spreads south to the <strong>Southern Uplands</strong>.</p>
   <p class="ce-caption ce-cap-now">The whole of Scotland in tartan, the border at the <strong>Solway&ndash;Tweed</strong> line; England in the Northumberland check.</p>
 
+  {{- /* <object>, not <img>: each clan's name pill is a link into its /clan/ page (#42), and
+         links inside an SVG are inert when it is loaded through <img>. The SVG's anchors carry
+         target="_top", so a click navigates this page, not the object's nested context. */ -}}
   <div class="ce-stage">
-    <img class="ce-map ce-map-1745" src="{{ "/img/clanmap-1745.svg" | relURL }}" alt="Tartan map of Scotland in 1745 — tartan country reaching the Highland Line" loading="lazy">
-    <img class="ce-map ce-map-1823" src="{{ "/img/clanmap-1823.svg" | relURL }}" alt="Tartan map of Scotland in 1823 — tartan spread to the Southern Uplands" loading="lazy">
-    <img class="ce-map ce-map-now"  src="{{ "/img/clanmap-now.svg"  | relURL }}" alt="Tartan map of Scotland today — the whole landmass in tartan" loading="lazy">
+    <object class="ce-map ce-map-1745" type="image/svg+xml" data="{{ "/img/clanmap-1745.svg" | relURL }}" role="img" aria-label="Tartan map of Scotland in 1745 — tartan country reaching the Highland Line"></object>
+    <object class="ce-map ce-map-1823" type="image/svg+xml" data="{{ "/img/clanmap-1823.svg" | relURL }}" role="img" aria-label="Tartan map of Scotland in 1823 — tartan spread to the Southern Uplands"></object>
+    <object class="ce-map ce-map-now"  type="image/svg+xml" data="{{ "/img/clanmap-now.svg"  | relURL }}" role="img" aria-label="Tartan map of Scotland today — the whole landmass in tartan"></object>
   </div>
 
   <p class="ce-foot">Clan centroids and setts are a first pass; territory polygons traced from the
@@ -40,7 +43,9 @@
   font-size: .9rem; background: #fff; color: #333; user-select: none;
 }
 .clanmap .ce-caption { display: none; text-align: center; font-style: italic; color: #444; margin: .2rem 0 .6rem; min-height: 3em; }
-.clanmap .ce-map { display: none; width: 100%; height: auto; border: 1px solid #e3ded0; border-radius: 6px; background: #eef1f4; }
+/* aspect-ratio pins the box to the SVG's 800×1000 viewBox: an <object> has no intrinsic
+   size from a viewBox-only SVG and would otherwise collapse to the 300×150 default. */
+.clanmap .ce-map { display: none; width: 100%; height: auto; aspect-ratio: 800 / 1000; border: 1px solid #e3ded0; border-radius: 6px; background: #eef1f4; }
 .clanmap .ce-foot { font-size: .8rem; color: #777; text-align: center; margin-top: .5rem; }
 
 /* active control highlight */

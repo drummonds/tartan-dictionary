@@ -277,108 +277,211 @@
     <text x="656.3" y="214.3" font-style="italic" font-size="11" font-family="serif" fill="#6b6354">Shetland</text>
   </g>
   <g class="labels">
+    <style>.labels a:hover rect{stroke:#1f4e8c;stroke-width:1.6}.labels a:hover text{fill:#1f4e8c}</style>
     <line x1="332.7" y1="368.4" x2="8.0" y2="57.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="332.7" cy="368.4" r="1.8" fill="#333"/>
-    <text x="8.0" y="62.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacKenzie</text>
+    <a href="/clan/mackenzie/" target="_top">
+    <rect x="-1.0" y="44.5" width="115.2" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="62.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacKenzie</text>
+    </a>
     <line x1="217.2" y1="377.2" x2="8.0" y2="116.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="217.2" cy="377.2" r="1.8" fill="#333"/>
-    <text x="8.0" y="121.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacLeod</text>
+    <a href="/clan/macleod/" target="_top">
+    <rect x="-1.0" y="103.5" width="93.6" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="121.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacLeod</text>
+    </a>
     <line x1="385.6" y1="394.7" x2="8.0" y2="175.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="385.6" cy="394.7" r="1.8" fill="#333"/>
-    <text x="8.0" y="180.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Chisholm</text>
+    <a href="/clan/chisholm/" target="_top">
+    <rect x="-1.0" y="162.5" width="104.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="180.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Chisholm</text>
+    </a>
     <line x1="270.1" y1="417.5" x2="8.0" y2="234.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="270.1" cy="417.5" r="1.8" fill="#333"/>
-    <text x="8.0" y="239.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacKinnon</text>
+    <a href="/clan/mackinnon/" target="_top">
+    <rect x="-1.0" y="221.5" width="115.2" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="239.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacKinnon</text>
+    </a>
     <line x1="387.5" y1="424.6" x2="8.0" y2="293.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="387.5" cy="424.6" r="1.8" fill="#333"/>
-    <text x="8.0" y="298.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Grant of Glenmoriston</text>
+    <a href="/clan/grant_glenmoriston/" target="_top">
+    <rect x="-1.0" y="280.5" width="244.8" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="298.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Grant of Glenmoriston</text>
+    </a>
     <line x1="275.0" y1="435.1" x2="8.0" y2="352.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="275.0" cy="435.1" r="1.8" fill="#333"/>
-    <text x="8.0" y="357.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacDonald of Sleat</text>
+    <a href="/clan/macdonald_sleat/" target="_top">
+    <rect x="-1.0" y="339.5" width="212.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="357.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacDonald of Sleat</text>
+    </a>
     <line x1="356.7" y1="443.9" x2="8.0" y2="411.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="356.7" cy="443.9" r="1.8" fill="#333"/>
-    <text x="8.0" y="416.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacDonald of Glengarry</text>
+    <a href="/clan/macdonald_glengarry/" target="_top">
+    <rect x="-1.0" y="398.5" width="255.6" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="416.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacDonald of Glengarry</text>
+    </a>
     <line x1="374.0" y1="470.2" x2="8.0" y2="470.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="374.0" cy="470.2" r="1.8" fill="#333"/>
-    <text x="8.0" y="475.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacDonald of Keppoch</text>
+    <a href="/clan/macdonald_keppoch/" target="_top">
+    <rect x="-1.0" y="457.5" width="234.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="475.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacDonald of Keppoch</text>
+    </a>
     <line x1="299.0" y1="482.5" x2="8.0" y2="529.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="299.0" cy="482.5" r="1.8" fill="#333"/>
-    <text x="8.0" y="534.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacDonald of Clanranald</text>
+    <a href="/clan/macdonald_clanranald/" target="_top">
+    <rect x="-1.0" y="516.5" width="266.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="534.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacDonald of Clanranald</text>
+    </a>
     <line x1="358.6" y1="482.5" x2="8.0" y2="588.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="358.6" cy="482.5" r="1.8" fill="#333"/>
-    <text x="8.0" y="593.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Cameron</text>
+    <a href="/clan/cameron/" target="_top">
+    <rect x="-1.0" y="575.5" width="93.6" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="593.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Cameron</text>
+    </a>
     <line x1="358.6" y1="512.3" x2="8.0" y2="647.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="358.6" cy="512.3" r="1.8" fill="#333"/>
-    <text x="8.0" y="652.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacDonald of Glencoe</text>
+    <a href="/clan/macdonald_glencoe/" target="_top">
+    <rect x="-1.0" y="634.5" width="234.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="652.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacDonald of Glencoe</text>
+    </a>
     <line x1="337.5" y1="535.1" x2="8.0" y2="706.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="337.5" cy="535.1" r="1.8" fill="#333"/>
-    <text x="8.0" y="711.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Stewart of Appin</text>
+    <a href="/clan/stewart_appin/" target="_top">
+    <rect x="-1.0" y="693.5" width="190.8" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="711.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Stewart of Appin</text>
+    </a>
     <line x1="275.0" y1="552.6" x2="8.0" y2="765.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="275.0" cy="552.6" r="1.8" fill="#333"/>
-    <text x="8.0" y="770.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Maclean</text>
+    <a href="/clan/maclean/" target="_top">
+    <rect x="-1.0" y="752.5" width="93.6" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="770.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Maclean</text>
+    </a>
     <line x1="318.2" y1="561.4" x2="8.0" y2="824.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="318.2" cy="561.4" r="1.8" fill="#333"/>
-    <text x="8.0" y="829.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacDougall of Lorn</text>
+    <a href="/clan/macdougall/" target="_top">
+    <rect x="-1.0" y="811.5" width="212.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="829.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacDougall of Lorn</text>
+    </a>
     <line x1="337.5" y1="596.5" x2="8.0" y2="883.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="337.5" cy="596.5" r="1.8" fill="#333"/>
-    <text x="8.0" y="888.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Campbell</text>
+    <a href="/clan/campbell/" target="_top">
+    <rect x="-1.0" y="870.5" width="104.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="888.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Campbell</text>
+    </a>
     <line x1="349.0" y1="628.1" x2="8.0" y2="942.5" stroke="#555" stroke-width="0.7"/>
     <circle cx="349.0" cy="628.1" r="1.8" fill="#333"/>
-    <text x="8.0" y="947.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacLachlan</text>
+    <a href="/clan/maclachlan/" target="_top">
+    <rect x="-1.0" y="929.5" width="126.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="8.0" y="947.5" text-anchor="start" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacLachlan</text>
+    </a>
     <line x1="520.2" y1="201.8" x2="792.0" y2="54.2" stroke="#555" stroke-width="0.7"/>
     <circle cx="520.2" cy="201.8" r="1.8" fill="#333"/>
-    <text x="792.0" y="59.2" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Sinclair</text>
+    <a href="/clan/sinclair/" target="_top">
+    <rect x="696.6" y="41.2" width="104.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="59.2" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Sinclair</text>
+    </a>
     <line x1="424.0" y1="210.5" x2="792.0" y2="106.7" stroke="#555" stroke-width="0.7"/>
     <circle cx="424.0" cy="210.5" r="1.8" fill="#333"/>
-    <text x="792.0" y="111.7" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Mackay</text>
+    <a href="/clan/mackay/" target="_top">
+    <rect x="718.2" y="93.7" width="82.8" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="111.7" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Mackay</text>
+    </a>
     <line x1="443.3" y1="245.6" x2="792.0" y2="159.1" stroke="#555" stroke-width="0.7"/>
     <circle cx="443.3" cy="245.6" r="1.8" fill="#333"/>
-    <text x="792.0" y="164.1" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Sutherland</text>
+    <a href="/clan/sutherland/" target="_top">
+    <rect x="675.0" y="146.1" width="126.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="164.1" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Sutherland</text>
+    </a>
     <line x1="414.4" y1="319.3" x2="792.0" y2="211.6" stroke="#555" stroke-width="0.7"/>
     <circle cx="414.4" cy="319.3" r="1.8" fill="#333"/>
-    <text x="792.0" y="216.6" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Ross</text>
+    <a href="/clan/ross/" target="_top">
+    <rect x="739.8" y="198.6" width="61.2" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="216.6" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Ross</text>
+    </a>
     <line x1="424.0" y1="347.4" x2="792.0" y2="264.0" stroke="#555" stroke-width="0.7"/>
     <circle cx="424.0" cy="347.4" r="1.8" fill="#333"/>
-    <text x="792.0" y="269.0" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Munro</text>
+    <a href="/clan/munro/" target="_top">
+    <rect x="729.0" y="251.0" width="72.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="269.0" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Munro</text>
+    </a>
     <line x1="414.4" y1="386.0" x2="792.0" y2="316.4" stroke="#555" stroke-width="0.7"/>
     <circle cx="414.4" cy="386.0" r="1.8" fill="#333"/>
-    <text x="792.0" y="321.4" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Fraser</text>
+    <a href="/clan/fraser/" target="_top">
+    <rect x="718.2" y="303.4" width="82.8" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="321.4" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Fraser</text>
+    </a>
     <line x1="501.0" y1="403.5" x2="792.0" y2="368.9" stroke="#555" stroke-width="0.7"/>
     <circle cx="501.0" cy="403.5" r="1.8" fill="#333"/>
-    <text x="792.0" y="373.9" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Grant</text>
+    <a href="/clan/grant/" target="_top">
+    <rect x="729.0" y="355.9" width="72.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="373.9" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Grant</text>
+    </a>
     <line x1="529.9" y1="421.1" x2="792.0" y2="421.3" stroke="#555" stroke-width="0.7"/>
     <circle cx="529.9" cy="421.1" r="1.8" fill="#333"/>
-    <text x="792.0" y="426.3" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Gordon (Duke of Gordon)</text>
+    <a href="/clan/gordon/" target="_top">
+    <rect x="534.6" y="408.3" width="266.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="426.3" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Gordon (Duke of Gordon)</text>
+    </a>
     <line x1="462.5" y1="424.6" x2="792.0" y2="473.8" stroke="#555" stroke-width="0.7"/>
     <circle cx="462.5" cy="424.6" r="1.8" fill="#333"/>
-    <text x="792.0" y="478.8" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Mackintosh (Clan Chattan)</text>
+    <a href="/clan/mackintosh/" target="_top">
+    <rect x="513.0" y="460.8" width="288.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="478.8" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Mackintosh (Clan Chattan)</text>
+    </a>
     <line x1="452.9" y1="447.4" x2="792.0" y2="526.2" stroke="#555" stroke-width="0.7"/>
     <circle cx="452.9" cy="447.4" r="1.8" fill="#333"/>
-    <text x="792.0" y="531.2" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacPherson</text>
+    <a href="/clan/macpherson/" target="_top">
+    <rect x="675.0" y="513.2" width="126.0" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="531.2" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacPherson</text>
+    </a>
     <line x1="520.2" y1="456.1" x2="792.0" y2="578.7" stroke="#555" stroke-width="0.7"/>
     <circle cx="520.2" cy="456.1" r="1.8" fill="#333"/>
-    <text x="792.0" y="583.7" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Farquharson</text>
+    <a href="/clan/farquharson/" target="_top">
+    <rect x="664.2" y="565.7" width="136.8" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="583.7" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Farquharson</text>
+    </a>
     <line x1="474.1" y1="491.2" x2="792.0" y2="631.1" stroke="#555" stroke-width="0.7"/>
     <circle cx="474.1" cy="491.2" r="1.8" fill="#333"/>
-    <text x="792.0" y="636.1" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Murray (Duke of Atholl)</text>
+    <a href="/clan/murray_atholl/" target="_top">
+    <rect x="534.6" y="618.1" width="266.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="636.1" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Murray (Duke of Atholl)</text>
+    </a>
     <line x1="433.7" y1="508.8" x2="792.0" y2="683.6" stroke="#555" stroke-width="0.7"/>
     <circle cx="433.7" cy="508.8" r="1.8" fill="#333"/>
-    <text x="792.0" y="688.6" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Robertson</text>
+    <a href="/clan/robertson/" target="_top">
+    <rect x="685.8" y="670.6" width="115.2" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="688.6" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Robertson</text>
+    </a>
     <line x1="462.5" y1="522.8" x2="792.0" y2="736.0" stroke="#555" stroke-width="0.7"/>
     <circle cx="462.5" cy="522.8" r="1.8" fill="#333"/>
-    <text x="792.0" y="741.0" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Menzies</text>
+    <a href="/clan/menzies/" target="_top">
+    <rect x="707.4" y="723.0" width="93.6" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="741.0" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Menzies</text>
+    </a>
     <line x1="493.3" y1="529.8" x2="792.0" y2="788.4" stroke="#555" stroke-width="0.7"/>
     <circle cx="493.3" cy="529.8" r="1.8" fill="#333"/>
-    <text x="792.0" y="793.4" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Stewart of Cairntullie</text>
+    <a href="/clan/stewart_cairntullie/" target="_top">
+    <rect x="545.4" y="775.4" width="255.6" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="793.4" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Stewart of Cairntullie</text>
+    </a>
     <line x1="422.1" y1="561.4" x2="792.0" y2="840.9" stroke="#555" stroke-width="0.7"/>
     <circle cx="422.1" cy="561.4" r="1.8" fill="#333"/>
-    <text x="792.0" y="845.9" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">MacGregor (Clan Gregor)</text>
+    <a href="/clan/macgregor/" target="_top">
+    <rect x="534.6" y="827.9" width="266.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="845.9" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">MacGregor (Clan Gregor)</text>
+    </a>
     <line x1="462.5" y1="575.4" x2="792.0" y2="893.3" stroke="#555" stroke-width="0.7"/>
     <circle cx="462.5" cy="575.4" r="1.8" fill="#333"/>
-    <text x="792.0" y="898.3" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Drummond</text>
+    <a href="/clan/drummond/" target="_top">
+    <rect x="696.6" y="880.3" width="104.4" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="898.3" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Drummond</text>
+    </a>
     <line x1="590.5" y1="701.8" x2="792.0" y2="945.8" stroke="#555" stroke-width="0.7"/>
     <circle cx="590.5" cy="701.8" r="1.8" fill="#333"/>
-    <text x="792.0" y="950.8" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a" paint-order="stroke" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round">Haig</text>
+    <a href="/clan/haig/" target="_top">
+    <rect x="739.8" y="932.8" width="61.2" height="26.0" rx="13.0" fill="#ffffff" fill-opacity="0.92" stroke="#a9a494" stroke-width="0.8"/>
+    <text x="792.0" y="950.8" text-anchor="end" font-size="18" font-family="sans-serif" font-weight="700" fill="#1a1a1a">Haig</text>
+    </a>
   </g>
   <text x="400.0" y="986.0" text-anchor="middle" font-size="13" font-family="sans-serif" font-weight="700" letter-spacing="3" fill="#8a1418" fill-opacity="0.55" paint-order="stroke" stroke="#ffffff" stroke-width="3" stroke-linejoin="round">DRAFT</text>
 </svg>

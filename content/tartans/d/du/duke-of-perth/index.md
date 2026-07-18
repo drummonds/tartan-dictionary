@@ -12,6 +12,8 @@ aliases:
 Its design is pattern [KRKRGYGYGRKRYR](/stripes/krkrgygygrkryr/) — the page of every tartan sharing this colour sequence.
 
 
+The register's own recovery (SRT 4417 / STA 460) of the plaid in Domenico Duprà's 1739 portrait of the 4th Duke of Perth — the same painted cloth as the research reading, so it groups as a second sett of the Duke of Perth tartan rather than under the accidental 'Unnamed C18th' name-key (#203).
+
 The **Duke of Perth** tartan is recorded as a single sett.
 
 <table class="sett-table">
@@ -22,3 +24,5 @@ The **Duke of Perth** tartan is recorded as a single sett.
 </tbody>
 </table>
 
+
+Witnessed in art: [4th Duke of Perth, by Duprà, 1739, NGS](/paintings/duke-of-perth-portrait/) — painted 1739. The sett was read from the painted cloth; the painting's page tells the story.

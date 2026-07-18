@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/go/gouranga/">Gouranga</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/go/gouranga/"><img src="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/sett.png" alt="Gouranga sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gouranga/"><img src="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/sett.png" alt="Gouranga sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

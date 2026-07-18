@@ -427,7 +427,7 @@ weight: 18
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Unnamed C18th](/tartans/u/un/unnamed-c18th-6/) | 1 | 1 |
+| 0.11 | [Duke of Perth](/tartans/d/du/duke-of-perth-8/) | 1 | 1 |
 
 ### BBBGRGBBYGYBBGRGBB
 <a class="pat" href="/stripes/bbbgrgbbygybbgrgbb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BBBGRGBBYGYBBGRGBB</span></a>
@@ -1456,7 +1456,7 @@ weight: 18
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Unnamed C18th](/tartans/u/un/unnamed-c18th-3/) | 1 | 1 |
+| 0.11 | [Duke of Perth](/tartans/d/du/duke-of-perth-9/) | 1 | 1 |
 
 ### RBRBKBGRBRKBGBGBRR
 <a class="pat" href="/stripes/rbrbkbgrbrkbgbgbrr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRBKBGRBRKBGBGBRR</span></a>

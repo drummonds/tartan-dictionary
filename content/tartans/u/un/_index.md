@@ -2,7 +2,7 @@
 title: "Tartans — Un"
 date: 2023-03-18
 ---
-357 tartans beginning with Un, each with the number of setts it groups. Back to [U](/tartans/u/) or the [A–Z](/tartans/).
+349 tartans beginning with Un, each with the number of setts it groups. Back to [U](/tartans/u/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/u/un/un-named/"><img src="/variants/s15/k3lb4r5k2lb5k2r5k2g25k3lb11k2r5k1w3~x2/sett.png" alt="Un-named" width="140"><br><strong>Un-named (1)</strong></a></li>
@@ -335,14 +335,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/u/un/unnamed-9/"><img src="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/sett.png" alt="Unnamed 9" width="140"><br><strong>Unnamed 9 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/u/un/unnamed-c18-19th/"><img src="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/sett.png" alt="Unnamed C18/19th" width="140"><br><strong>Unnamed C18/19th (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/u/un/unnamed-c18-19th-2/"><img src="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/sett.png" alt="Unnamed C18/19th" width="140"><br><strong>Unnamed C18/19th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th/"><img src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th-2/"><img src="/variants/s82/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10-h375b155ff366c7e7/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th-3/"><img src="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th-4/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th-5/"><img src="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th-6/"><img src="/variants/s18/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1~x2~dg1605139/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th-7/"><img src="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/u/un/unnamed-c18th-8/"><img src="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/sett.png" alt="Unnamed C18th" width="140"><br><strong>Unnamed C18th (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/u/un/unnamed-c19th/"><img src="/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/sett.png" alt="Unnamed C19th" width="140"><br><strong>Unnamed C19th (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/u/un/unnamed-c19th-2/"><img src="/variants/s18/n20w2dp70ly2k13w10dr5k2dr5k2dr5w10k13ly2do25w18k2ly2~x2/sett.png" alt="Unnamed C19th" width="140"><br><strong>Unnamed C19th (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/u/un/unnamed-c19th-3/"><img src="/variants/s11/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4~x2/sett.png" alt="Unnamed C19th" width="140"><br><strong>Unnamed C19th (1)</strong></a></li>

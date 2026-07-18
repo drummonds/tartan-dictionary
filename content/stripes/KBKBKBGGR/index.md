@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fa/falkirk-2/">Falkirk</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fa/falkirk-2/"><img src="/variants/s9/k4t4k2t4k2t22dy27y2r3~x2/sett.png" alt="Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/falkirk-2/"><img src="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/sett.png" alt="Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

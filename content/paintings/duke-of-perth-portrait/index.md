@@ -21,6 +21,8 @@ A proposed reading, recovered by hand from the painted cloth (see [the method](/
 
 Reference: `k16r7k4r7dg17ly1dg5ly1dg17r32k5r4ly1r5~x2~k0601000-r1906038-dg1402111-ly2704072` — [open in the TTD editor](/ttd/edit/#slug=k16r7k4r7dg17ly1dg5ly1dg17r32k5r4ly1r5~x2~k0601000-r1906038-dg1402111-ly2704072).
 
+This reading is in the dictionary: [the named tartan it leads](/tartans/d/du/duke-of-perth/) — [its own sett](/variants/s14/k16r7k4r7dg17ly1dg5ly1dg17r32k5r4ly1r5~x2~k0601000-r1906038-dg1402111-ly2704072/).
+
 ## The register's recovery
 
 This painting has been read before: the Scottish Register of Tartans holds [Unnamed C18th #4 (Duke of Perth)](https://www.tartanregister.gov.uk/tartanDetails?ref=4417) (STA 460, SRT 4417), an independent recovery of the same painted cloth.

@@ -2,7 +2,7 @@
 title: "Other tartans — U"
 date: 2023-03-18
 ---
-210 Other tartans beginning with U. [Back to all Other tartans](/type/other/).
+209 Other tartans beginning with U. [Back to all Other tartans](/type/other/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><img src="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/sett.png" alt="Ulster (Peat)" width="140"><br>Ulster (Peat)</a></li>
@@ -204,7 +204,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/"><img src="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/sett.png" alt="Unnamed C18/19th - Antigonish (A)" width="140"><br>Unnamed C18/19th - Antigonish (A)</a></li>
 <li><a class="tartan" href="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/"><img src="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/sett.png" alt="Unnamed C18/19th - Antigonish (A) #2" width="140"><br>Unnamed C18/19th - Antigonish (A) #2</a></li>
 <li><a class="tartan" href="/variants/s82/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10-h375b155ff366c7e7/"><img src="/variants/s82/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10-h375b155ff366c7e7/sett.png" alt="Unnamed C18th - Cant Counts" width="140"><br>Unnamed C18th - Cant Counts</a></li>
-<li><a class="tartan" href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/sett.png" alt="Unnamed C18th - Cf 4445" width="140"><br>Unnamed C18th - Cf 4445</a></li>
 <li><a class="tartan" href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/"><img src="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/sett.png" alt="Unnamed C18th - Duke of Perth" width="140"><br>Unnamed C18th - Duke of Perth</a></li>
 <li><a class="tartan" href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/"><img src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="Unnamed C18th - Prince Charles Edward" width="140"><br>Unnamed C18th - Prince Charles Edward</a></li>
 <li><a class="tartan" href="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/"><img src="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/sett.png" alt="Unnamed C18th - Prince Charles Edward #2" width="140"><br>Unnamed C18th - Prince Charles Edward #2</a></li>

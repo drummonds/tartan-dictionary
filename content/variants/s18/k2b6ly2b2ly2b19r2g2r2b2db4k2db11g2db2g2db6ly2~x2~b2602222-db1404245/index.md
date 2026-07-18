@@ -52,8 +52,8 @@ Where this cloth's colourway came from and what descended from it — the source
 
 Gave rise to:
 
-- *copied* → [Harmon of Plenderleith (Personal)](/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/) — Scottish Tartans Authority capture: copies the House of Tartan palette (gold, olive, navy, red, black are identical) and differs only in the blue role — a re-render drift, not a new colourway.
-- *registered* → [Harmon of Plenderleith (Personal)](/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/) — The Scottish Register of Tartans entry (ref 10021) — the official reading: a substantially different colourway (opal / lemon / moss) of the same developed sett.
+- *copied* → [Harmon of Plenderleith (Personal)](/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/) · ΔT 3.23 — Scottish Tartans Authority capture: copies the House of Tartan palette (gold, olive, navy, red, black are identical) and differs only in the blue role — a re-render drift, not a new colourway.
+- *registered* → [Harmon of Plenderleith (Personal)](/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/) · ΔT 0.18 — The Scottish Register of Tartans entry (ref 10021) — the official reading: a substantially different colourway (opal / lemon / moss) of the same developed sett.
 
 ## Thread count
 K/4 B12 LY4 B4 LY4 B38 R4 G4 R4 B4 DB8 K4 DB22 G4 DB4 G4 DB12 LY/4

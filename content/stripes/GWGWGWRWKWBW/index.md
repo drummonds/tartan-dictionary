@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/ol/old-england-house-check/">Old England House Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/ol/old-england-house-check/"><img src="/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/sett.png" alt="Old England House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/old-england-house-check/"><img src="/variants/s12/w46n4w9k8w9r4w9dy2w2dy2w2dy2~x2/sett.png" alt="Old England House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

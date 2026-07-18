@@ -14,8 +14,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r2109032-lr3303019/"><img src="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r2109032-lr3303019/sett.png" alt="Scobie (Name)" width="140"><br>Scobie (Name)</a></li>
 <li><a class="tartan" href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><img src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="Scott #2" width="140"><br>Scott #2</a></li>
 <li><a class="tartan" href="/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/"><img src="/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/sett.png" alt="Scottish Lion" width="140"><br>Scottish Lion</a></li>
-<li><a class="tartan" href="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><img src="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/sett.png" alt="Scruffy Wallace" width="140"><br>Scruffy Wallace</a></li>
 <li><a class="tartan" href="/variants/s10/db6k74db6k6db6k6db20g30k3w6/"><img src="/variants/s10/db6k74db6k6db6k6db20g30k3w6/sett.png" alt="Scruffy Wallace" width="140"><br>Scruffy Wallace</a></li>
+<li><a class="tartan" href="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><img src="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/sett.png" alt="Scruffy Wallace" width="140"><br>Scruffy Wallace</a></li>
 <li><a class="tartan" href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1806142/"><img src="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1806142/sett.png" alt="Selby" width="140"><br>Selby</a></li>
 <li><a class="tartan" href="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/"><img src="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/sett.png" alt="Semple (Name)" width="140"><br>Semple (Name)</a></li>
 <li><a class="tartan" href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><img src="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png" alt="Shadow Halls" width="140"><br>Shadow Halls</a></li>
@@ -37,8 +37,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/"><img src="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends (Hamburg) (Persona" width="140"><br>Simon and Friends (Hamburg) (Persona</a></li>
 <li><a class="tartan" href="/variants/s6/r36t8w1k5g20r18~x4/"><img src="/variants/s6/r36t8w1k5g20r18~x4/sett.png" alt="Sinclair" width="140"><br>Sinclair</a></li>
 <li><a class="tartan" href="/variants/s6/r36t8w1k5dg20r18~x4/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar" width="140"><br>Sinclair of Auldbar</a></li>
-<li><a class="tartan" href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><img src="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><img src="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
+<li><a class="tartan" href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><img src="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
 <li><a class="tartan" href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/"><img src="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/sett.png" alt="Skene of that Ilk" width="140"><br>Skene of that Ilk</a></li>
 <li><a class="tartan" href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><img src="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/sett.png" alt="Skinner" width="140"><br>Skinner</a></li>
 <li><a class="tartan" href="/variants/s4/db1r8k8lo1~x4/"><img src="/variants/s4/db1r8k8lo1~x4/sett.png" alt="Skinner (Name)" width="140"><br>Skinner (Name)</a></li>

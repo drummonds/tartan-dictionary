@@ -5,16 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Unnamed C18th"
-  url: "/tartans/u/un/unnamed-c18th-5/"
+- name: "Duke of Perth"
+  url: "/tartans/d/du/duke-of-perth-7/"
 - name: "Unnamed C18th - Hynde Cotton Plaid"
   url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/u/un/unnamed-c18th-5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW](/stripes/rrrrrwgrbrrrrrgrkwrrrrrrrgrrrrrrrwbrgrbrgrrbw/).
 
-Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duke of Perth](/tartans/d/du/duke-of-perth-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [45 stripe tartan](/stripes/stripes45/).
 

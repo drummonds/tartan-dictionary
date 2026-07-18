@@ -53,7 +53,7 @@ Where this cloth's colourway came from and what descended from it — the source
 
 Descended from:
 
-- *copied* ← [Harmon of Plenderleith Personal Tartan](/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/) — Scottish Tartans Authority capture: copies the House of Tartan palette (gold, olive, navy, red, black are identical) and differs only in the blue role — a re-render drift, not a new colourway.
+- *copied* ← [Harmon of Plenderleith Personal Tartan](/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/) · ΔT 0.18 — Scottish Tartans Authority capture: copies the House of Tartan palette (gold, olive, navy, red, black are identical) and differs only in the blue role — a re-render drift, not a new colourway.
 
 ## Thread count
 K/4 DBi12 LY4 DBi4 LY4 DBi38 R4 G4 R4 DBi4 DB8 K4 DB22 G4 DB4 G4 DB12 LY/4

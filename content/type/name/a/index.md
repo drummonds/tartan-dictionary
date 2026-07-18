@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/"><img src="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/sett.png" alt="A J Gallacher" width="140"><br>A J Gallacher</a></li>
 <li><a class="tartan" href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><img src="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/sett.png" alt="Abel (2015)" width="140"><br>Abel (2015)</a></li>
-<li><a class="tartan" href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/sett.png" alt="Abercrombie" width="140"><br>Abercrombie</a></li>
 <li><a class="tartan" href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><img src="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/sett.png" alt="Abercrombie" width="140"><br>Abercrombie</a></li>
+<li><a class="tartan" href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/sett.png" alt="Abercrombie" width="140"><br>Abercrombie</a></li>
 <li><a class="tartan" href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/"><img src="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png" alt="Abercrombie (McKinlay)" width="140"><br>Abercrombie (McKinlay)</a></li>
 <li><a class="tartan" href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><img src="/variants/s7/y1db14r28dg14r1g14y1~x2/sett.png" alt="Abernethy (Colerain, USA)" width="140"><br>Abernethy (Colerain, USA)</a></li>
 <li><a class="tartan" href="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/"><img src="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/sett.png" alt="Adair (Name)" width="140"><br>Adair (Name)</a></li>

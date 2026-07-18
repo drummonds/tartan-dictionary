@@ -1768,7 +1768,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.05 | [Unnamed C18th](/tartans/u/un/unnamed-c18th-8/) | 1 | 1 |
+| 0.05 | [Duke of Perth](/tartans/d/du/duke-of-perth-5/) | 1 | 1 |
 
 ### RWRRBWRRW
 <a class="pat" href="/stripes/rwrrbwrrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWRRBWRRW</span></a>

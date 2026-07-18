@@ -2,7 +2,7 @@
 title: "Other tartans — D"
 date: 2023-03-18
 ---
-47 Other tartans beginning with D. [Back to all Other tartans](/type/other/).
+48 Other tartans beginning with D. [Back to all Other tartans](/type/other/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s8/db3dy7g2y2g14dy2g2db3~x2/"><img src="/variants/s8/db3dy7g2y2g14dy2g2db3~x2/sett.png" alt="Daks (Loden)" width="140"><br>Daks (Loden)</a></li>
@@ -40,6 +40,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/y15r7k12y12k12dy12r7~x2/"><img src="/variants/s7/y15r7k12y12k12dy12r7~x2/sett.png" alt="Duffus Lord... Portrait Tartan" width="140"><br>Duffus Lord... Portrait Tartan</a></li>
 <li><a class="tartan" href="/variants/s10/r16lb3dr12k3dr12k3dr12ly3dr12ly3~x2/"><img src="/variants/s10/r16lb3dr12k3dr12k3dr12ly3dr12ly3~x2/sett.png" alt="Duffus Plaid, Lord" width="140"><br>Duffus Plaid, Lord</a></li>
 <li><a class="tartan" href="/variants/s13/dg25w1k23g7y2g2y2g7k23w1dg39g4dg14~x2~dg1806142-g2507147/"><img src="/variants/s13/dg25w1k23g7y2g2y2g7k23w1dg39g4dg14~x2~dg1806142-g2507147/sett.png" alt="Duffy Family Tartan" width="140"><br>Duffy Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/sett.png" alt="Duke of Perth" width="140"><br>Duke of Perth</a></li>
 <li><a class="tartan" href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><img src="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png" alt="Duke of Sussex (Earl of Inverness)" width="140"><br>Duke of Sussex (Earl of Inverness)</a></li>
 <li><a class="tartan" href="/variants/s6/k4r26k4w2k13y4~x2/"><img src="/variants/s6/k4r26k4w2k13y4~x2/sett.png" alt="Dunbar #2" width="140"><br>Dunbar #2</a></li>
 <li><a class="tartan" href="/variants/s36/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16~x2/"><img src="/variants/s36/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16~x2/sett.png" alt="Dunbar Plaid" width="140"><br>Dunbar Plaid</a></li>

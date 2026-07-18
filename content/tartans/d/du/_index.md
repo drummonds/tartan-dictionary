@@ -2,7 +2,7 @@
 title: "Tartans — Du"
 date: 2023-03-18
 ---
-121 tartans beginning with Du, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
+129 tartans beginning with Du, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/d/du/du-lion/"><img src="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/sett.png" alt="Du Lion" width="140"><br><strong>Du Lion (1)</strong></a></li>
@@ -31,6 +31,14 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/d/du/dugan/"><img src="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/sett.png" alt="Dugan" width="140"><br><strong>Dugan (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-edinburgh/"><img src="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/sett.png" alt="Duke of Edinburgh" width="140"><br><strong>Duke of Edinburgh (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-perth/"><img src="/variants/s14/k16r7k4r7dg17ly1dg5ly1dg17r32k5r4ly1r5~x2~k0601000-r1906038-dg1402111-ly2704072/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-2/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-3/"><img src="/variants/s82/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10-h375b155ff366c7e7/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-4/"><img src="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-5/"><img src="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-6/"><img src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-7/"><img src="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-8/"><img src="/variants/s18/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1~x2~dg1605139/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duke-of-perth-9/"><img src="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/sett.png" alt="Duke of Perth" width="140"><br><strong>Duke of Perth (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-rothesay/"><img src="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/sett.png" alt="Duke of Rothesay" width="140"><br><strong>Duke of Rothesay (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-rothesay-2/"><img src="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png" alt="Duke of Rothesay" width="140"><br><strong>Duke of Rothesay (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duke-of-sussex/"><img src="/variants/s7/r18g1k5g1k1g1r9~x2/sett.png" alt="Duke of Sussex" width="140"><br><strong>Duke of Sussex (1)</strong></a></li>

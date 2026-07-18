@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-2/"><img src="/variants/s9/r36w1db3y1g16r8db3t2w1~x2/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/p/pe/perthshire-or-drummond/">Perthshire or Drummond</a> <small class="dt">ΔTartan 1.40</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pe/perthshire-or-drummond/"><img src="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/sett.png" alt="Perthshire or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perthshire-or-drummond/"><img src="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/sett.png" alt="Perthshire or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

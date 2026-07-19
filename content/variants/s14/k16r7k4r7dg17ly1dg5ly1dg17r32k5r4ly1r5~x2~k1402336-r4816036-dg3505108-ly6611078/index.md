@@ -9,16 +9,16 @@ crumbs:
   url: "/clan/drummond/"
 - name: "Duke of Perth"
   url: "/families/drummond-of-duke-of-perth/"
-- name: "Duke of Perth (1739 Portrait)"
-  url: "/tartans/d/du/duke-of-perth-1739-portrait/"
+- name: "Duke of Perth 1739"
+  url: "/tartans/d/du/duke-of-perth-1739/"
 - name: "Duke of Perth - 1739 Portrait"
   url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-1739-portrait/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-1739/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRGYGYGRKRYR](/stripes/krkrgygygrkryr/).
 
-Part of the [Duke of Perth (1739 Portrait)](/tartans/d/du/duke-of-perth-1739-portrait/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duke of Perth 1739](/tartans/d/du/duke-of-perth-1739/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from research.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/d/dr/drummond-7/">Drummond</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-7/"><img src="/variants/s8/r22db3y1g12r6db3lb3w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-6/">Drummond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-6/"><img src="/variants/s8/r22db3y1g12r6db3lb3w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pr/prince-charles-cloak/">Prince Charles Cloak</a> <small class="dt">ΔTartan 0.68</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-charles-cloak/"><img src="/variants/s8/r48db3y1g14r8db3lb4w1/sett.png" alt="Prince Charles Cloak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -1839,7 +1839,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.09 | [Duke of Perth (Register C18th)](/tartans/d/du/duke-of-perth-register-c18th/) | 1 | 1 |
+| 0.09 | [Duke of Perth 1739](/tartans/d/du/duke-of-perth-1739/) | 1 | 1 |
 
 ### BRBWBWBWBYBRWB
 <a class="pat" href="/stripes/brbwbwbwbybrwb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">BRBWBWBWBYBRWB</span></a>

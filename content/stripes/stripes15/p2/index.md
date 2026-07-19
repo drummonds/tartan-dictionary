@@ -816,7 +816,7 @@ weight: 15
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Duke of Perth](/tartans/d/du/duke-of-perth-5/) | 1 | 1 |
+| 0.13 | [Duke of Perth](/tartans/d/du/duke-of-perth-4/) | 1 | 1 |
 
 ### RWGWWGGWGBGWBRW
 <a class="pat" href="/stripes/rwgwwggwgbgwbrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWGWWGGWGBGWBRW</span></a>

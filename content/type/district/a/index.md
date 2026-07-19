@@ -30,8 +30,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db3514276/"><img src="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db3514276/sett.png" alt="Angus" width="140"><br>Angus</a></li>
 <li><a class="tartan" href="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6~x2/"><img src="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6~x2/sett.png" alt="Angus (Paton)" width="140"><br>Angus (Paton)</a></li>
 <li><a class="tartan" href="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w98/"><img src="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w98/sett.png" alt="Angus Dress (Convergence 98)" width="140"><br>Angus Dress (Convergence 98)</a></li>
-<li><a class="tartan" href="/variants/s6/g30t8g5lb4g5r2~x4~t5912243-lb8007237/"><img src="/variants/s6/g30t8g5lb4g5r2~x4~t5912243-lb8007237/sett.png" alt="Annapolis Valley" width="140"><br>Annapolis Valley</a></li>
 <li><a class="tartan" href="/variants/s6/g30db8g5lb4g5r1~x4/"><img src="/variants/s6/g30db8g5lb4g5r1~x4/sett.png" alt="Annapolis Valley" width="140"><br>Annapolis Valley</a></li>
+<li><a class="tartan" href="/variants/s6/g30t8g5lb4g5r2~x4~t5912243-lb8007237/"><img src="/variants/s6/g30t8g5lb4g5r2~x4~t5912243-lb8007237/sett.png" alt="Annapolis Valley" width="140"><br>Annapolis Valley</a></li>
 <li><a class="tartan" href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi3514276-db3409246/"><img src="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi3514276-db3409246/sett.png" alt="Anne Arundel County" width="140"><br>Anne Arundel County</a></li>
 <li><a class="tartan" href="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/"><img src="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/sett.png" alt="Antigonish" width="140"><br>Antigonish</a></li>
 <li><a class="tartan" href="/variants/s9/k4lb2db5lb7db9g14n4g1n4~x2/"><img src="/variants/s9/k4lb2db5lb7db9g14n4g1n4~x2/sett.png" alt="Antigonish Centennial" width="140"><br>Antigonish Centennial</a></li>

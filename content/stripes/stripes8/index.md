@@ -1595,7 +1595,7 @@ weight: 8
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Drummond](/tartans/d/dr/drummond-7/) | 1 | 1 |
+| 0.10 | [Drummond](/tartans/d/dr/drummond-6/) | 1 | 1 |
 | 0.10 | [Prince Charles Cloak](/tartans/p/pr/prince-charles-cloak/) | 1 | 2 |
 
 ### RBRWRGRR

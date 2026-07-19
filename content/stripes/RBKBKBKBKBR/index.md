@@ -33,8 +33,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/r/ra/rangers-football-club/">Rangers Football Club</a> <small class="dt">ΔTartan 0.15</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-football-club/"><img src="/variants/s11/r3db16k12dbi34k12db2k2db2k2db7r3~x2~db2316264-dbi3912267/sett.png" alt="Rangers Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/ra/rangers-f-c-3/">Rangers F.C.</a> <small class="dt">ΔTartan 2.37</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c-3/"><img src="/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/sett.png" alt="Rangers F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rangers-f-c-3/">Rangers F.C.</a> <small class="dt">ΔTartan 1.98</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c-3/"><img src="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/sett.png" alt="Rangers F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rangers-f-c/">Rangers F. C.</a> <small class="dt">ΔTartan 4.62</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c/"><img src="/variants/s11/r3dbi12k12db32k12dbi2k2dbi2k2dbi4r3~dbi2911276-db2616276/sett.png" alt="Rangers F. C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/d/du/duke-of-perth-2/">Duke of Perth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-perth-2/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h850cfa4ffb7fdee0/sett.png?s=r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1~x2~b6306264-g4917141-lg7221144" alt="Duke of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duke-of-perth/">Duke of Perth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-perth/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h850cfa4ffb7fdee0/sett.png?s=r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1~x2~b6306264-g4917141-lg7221144" alt="Duke of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

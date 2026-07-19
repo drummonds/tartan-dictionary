@@ -3,7 +3,7 @@ title: "Families & clans — P"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-63 clans and families beginning with P. [Back to the A–Z](/families/).
+62 clans and families beginning with P. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s7/g46k18g6k13r4k4w4~x2/"><strong>Page</strong></a></li>
@@ -26,7 +26,6 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/pennsylvania/"><img src="/variants/s19/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2~x2/sett.png" alt="Pennsylvania" width="140"><br><strong>Pennsylvania</strong></a></li>
 <li><a class="tartan" href="/families/perkins/"><img src="/variants/s7/k3db10y5db29k10r6k2~x2/sett.png" alt="Perkins" width="140"><br><strong>Perkins</strong></a></li>
 <li><a class="tartan" href="/families/perry/"><img src="/variants/s5/k31r12y2n5k2~x4/sett.png" alt="Perry" width="140"><br><strong>Perry</strong></a></li>
-<li><a class="tartan" href="/families/perth/"><img src="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/sett.png" alt="Perth" width="140"><br><strong>Perth</strong></a></li>
 <li><a class="tartan" href="/clan/peter/"><img src="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="Peter" width="140"><br><strong>Peter</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/peter-of-lee/"><img src="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="Peter of Lee" width="140"><br><strong>Peter of Lee</strong></a></li>
 <li><a class="tartan" href="/families/peterhead/"><img src="/variants/s5/g9lb1g2k4g2~x4/sett.png" alt="Peterhead" width="140"><br><strong>Peterhead</strong></a></li>

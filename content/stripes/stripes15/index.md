@@ -367,7 +367,7 @@ weight: 15
 | 0.11 | [Grant and Drummond](/tartans/g/gr/grant-and-drummond/) | 1 | 1 |
 | 0.11 | [Grant of Ballindalloch](/tartans/g/gr/grant-of-ballindalloch/) | 1 | 1 |
 | 0.11 | [Grant or Drummond](/tartans/g/gr/grant-or-drummond/) | 1 | 1 |
-| 0.13 | [Drummond](/tartans/d/dr/drummond-8/) | 2 | 2 |
+| 0.13 | [Drummond](/tartans/d/dr/drummond-7/) | 2 | 2 |
 
 ### BKBKBKGKWKGKBKB
 <a class="pat" href="/stripes/bkbkbkgkwkgkbkb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">BKBKBKGKWKGKBKB</span></a>

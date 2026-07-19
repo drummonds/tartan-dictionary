@@ -25,8 +25,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r16y2dy7y2lb24k2g2~x2/"><img src="/variants/s7/r16y2dy7y2lb24k2g2~x2/sett.png" alt="Traill (Personal)" width="140"><br>Traill (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><img src="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/sett.png" alt="Trew 40th (Personal)" width="140"><br>Trew 40th (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/"><img src="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/sett.png" alt="Trillard (Personal)" width="140"><br>Trillard (Personal)</a></li>
-<li><a class="tartan" href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><img src="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/sett.png" alt="Trotter (Personal)" width="140"><br>Trotter (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><img src="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/sett.png" alt="Trotter (Personal)" width="140"><br>Trotter (Personal)</a></li>
+<li><a class="tartan" href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><img src="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/sett.png" alt="Trotter (Personal)" width="140"><br>Trotter (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/dr2w2dg8g2dg2db20lb8g2db15w2~x2/"><img src="/variants/s10/dr2w2dg8g2dg2db20lb8g2db15w2~x2/sett.png" alt="Tupper, John Charles (Personal)" width="140"><br>Tupper, John Charles (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/"><img src="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/sett.png" alt="Turblin, Jean Pierre (Personal)" width="140"><br>Turblin, Jean Pierre (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/db10g4w27db40r4~x2/"><img src="/variants/s5/db10g4w27db40r4~x2/sett.png" alt="Turnbull Dress, Bruce (Personal)" width="140"><br>Turnbull Dress, Bruce (Personal)</a></li>

@@ -9,13 +9,13 @@ crumbs:
 - name: "Duke of Perth"
   url: "/families/drummond-of-duke-of-perth/"
 aliases:
-- "/setts/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1/"
+- "/setts/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1/"
 ---
-<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwwrrwrrwwbrwggwwwwwggwwbwwrrwrrwwbwwggwwwwwggwrbwwrrwrrwwbrrwggwwwwwggwwbwwrrwrrw/">BWWRRWRRWWBRWGGWWWWWGGWWBWWRRWRRWWBWWGGWWWWWGGWRBWWRRWRRWWBRRWGGWWWWWGGWWBWWRRWRRW</a></nav>
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkrbwbbwbbwgywbbwrwbbwygwbbwbbwbwbwbwbwbbwbbwrrwrrwbbwbbwbwbwbwbwbbwbbwgywbbwrwbbw/">RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW</a></nav>
 
 A tartan of the [Duke of Perth](/families/drummond-of-duke-of-perth/) family.
 
-Its design is pattern [BWWRRWRRWWBRWGGWWWWWGGWWBWWRRWRRWWBWWGGWWWWWGGWRBWWRRWRRWWBRRWGGWWWWWGGWWBWWRRWRRW](/stripes/bwwrrwrrwwbrwggwwwwwggwwbwwrrwrrwwbwwggwwwwwggwrbwwrrwrrwwbrrwggwwwwwggwwbwwrrwrrw/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW](/stripes/rkrbwbbwbbwgywbbwrwbbwygwbbwbbwbwbwbwbwbbwbbwrrwrrwbbwbbwbwbwbwbwbbwbbwgywbbwrwbbw/) — the page of every tartan sharing this colour sequence.
 
 
 The register's own recovery (SRT 4417 / STA 460) of the plaid in Domenico Duprà's 1739 portrait of the 4th Duke of Perth — the same painted cloth as the research reading, so it groups as a second sett of the Duke of Perth tartan rather than under the accidental 'Unnamed C18th' name-key (#203).
@@ -25,8 +25,8 @@ The **Duke of Perth** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s82/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10-h7a0400a6fa8b0740/">Duke of Perth</a></td><td></td><td><code>DB/10 LB3 W1 Ri6 R12 W1 R12 Ri6 W1 LB3 DB10 R6 W1 DG10 Y6 W1 LB2 W1 LB2 W1 Y6 DG10 W1 LB3 DB10 LB3 W1 Ri5 R6 W1 R6 Ri5 W1 LB3 DB10 LB3 W1 DG10 Y6 W1 LB2 W1 LB2 W1 Y6 DG10 W1 R6 DB10 LB3 W1 Ri6 R12 W1 R12 Ri6 W1 LB3 DB10 R6 Ri5 W1 DG10 Y6 W1 LB2 W1 LB2 W1 Y6 DG10 W1 LB3 DB10 LB3 W1 Ri5 R6 W1 R6 Ri5 W/1</code></td><td>—</td><td>1799</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/variants/s82/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10-h7a0400a6fa8b0740/"><img src="/variants/s82/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10-h7a0400a6fa8b0740/sett.png" alt="Duke of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h850cfa4ffb7fdee0/">Duke of Perth</a></td><td></td><td><code>R/2 K2 R16 DP6 W1 DP2 B2 W1 B2 DP2 W1 G10 LG3 W1 DP3 B2 W1 R3 W1 B2 DP4 W1 LG3 G10 W1 DP2 B2 W1 B2 DP2 W1 DP24 W1 DP7 W1 DP7 W1 DP24 W1 DP2 B2 W1 B2 DP2 W1 R10 M5 W1 M5 R10 W1 DP2 B2 W1 B2 DP2 W1 DP24 W1 DP7 W1 DP7 W1 DP24 W1 DP2 B2 W1 B2 DP2 W1 G10 LG3 W1 DP4 B2 W1 R3 W1 B2 DP3 W/1</code></td><td>—</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h850cfa4ffb7fdee0/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h850cfa4ffb7fdee0/sett.png" alt="Duke of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

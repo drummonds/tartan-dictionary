@@ -1446,7 +1446,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Drummond](/tartans/d/dr/drummond-7/) | 1 | 1 |
+| 0.10 | [Drummond](/tartans/d/dr/drummond-6/) | 1 | 1 |
 
 ### RGBWWRBWW
 <a class="pat" href="/stripes/rgbwwrbww/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGBWWRBWW</span></a>
@@ -1782,7 +1782,7 @@ weight: 9
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.05 | [Duke of Perth](/tartans/d/du/duke-of-perth-7/) | 1 | 1 |
+| 0.05 | [Duke of Perth](/tartans/d/du/duke-of-perth-6/) | 1 | 1 |
 
 ### RWRRBWRRW
 <a class="pat" href="/stripes/rwrrbwrrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWRRBWRRW</span></a>

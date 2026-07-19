@@ -10,16 +10,16 @@ crumbs:
 - name: "Duke of Perth"
   url: "/families/drummond-of-duke-of-perth/"
 - name: "Duke of Perth"
-  url: "/tartans/d/du/duke-of-perth-2/"
+  url: "/tartans/d/du/duke-of-perth/"
 - name: "Unnamed C18th - Cf 4445"
   url: ""
 slug_full: "r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1~x2~b6306264-g4917141-lg7221144"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW](/stripes/rkrbwbbwbbwgywbbwrwbbwygwbbwbbwbwbwbwbwbbwbbwrrwrrwbbwbbwbwbwbwbwbbwbbwgywbbwrwbbw/).
 
-Part of the [Duke of Perth](/tartans/d/du/duke-of-perth-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duke of Perth](/tartans/d/du/duke-of-perth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 

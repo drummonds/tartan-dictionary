@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/d/dr/drummond-6/">Drummond</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-6/"><img src="/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-5/">Drummond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-5/"><img src="/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-of-drumtochty/">Drummond of Drumtochty</a> <small class="dt">ΔTartan 0.56</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-drumtochty/"><img src="/variants/s17/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1~x4/sett.png" alt="Drummond of Drumtochty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

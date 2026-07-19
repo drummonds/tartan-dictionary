@@ -33,8 +33,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/la/lauder/">Lauder</a> <small class="dt">ΔTartan 0.92</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/lauder/"><img src="/variants/s6/g3db8g3k4g15r2~x2/sett.png" alt="Lauder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/c/ca/casely/">Casely</a> <small class="dt">ΔTartan 3.28</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/casely/"><img src="/variants/s6/r4g11k11g2db11dg3~x4/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/casely/">Casely</a> <small class="dt">ΔTartan 1.52</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/casely/"><img src="/variants/s6/r4g11k11g2db11dy3~x4/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

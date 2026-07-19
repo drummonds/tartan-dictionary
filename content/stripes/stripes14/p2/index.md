@@ -914,7 +914,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.10 | [Drummond](/tartans/d/dr/drummond-5/) | 1 | 1 |
+| 0.10 | [Drummond](/tartans/d/dr/drummond-4/) | 1 | 1 |
 
 ### KBKGRGKGKGKGKR
 <a class="pat" href="/stripes/kbkgrgkgkgkgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KBKGRGKGKGKGKR</span></a>
@@ -1068,14 +1068,14 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Drummond](/tartans/d/dr/drummond-4/) | 1 | 1 |
+| 0.08 | [Duke of Perth 1739](/tartans/d/du/duke-of-perth-1739/) | 1 | 1 |
 
 ### KRKRGYGYGRKRYR
 <a class="pat" href="/stripes/krkrgygygrkryr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRKRGYGYGRKRYR</span></a>
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.13 | [Duke of Perth (1739 Portrait)](/tartans/d/du/duke-of-perth-1739-portrait/) | 1 | 1 |
+| 0.13 | [Duke of Perth 1739](/tartans/d/du/duke-of-perth-1739/) | 1 | 1 |
 
 ### KRKRKRBKRKRKRK
 <a class="pat" href="/stripes/krkrkrbkrkrkrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">KRKRKRBKRKRKRK</span></a>
@@ -1159,7 +1159,7 @@ weight: 14
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Drummond](/tartans/d/dr/drummond-9/) | 1 | 1 |
+| 0.11 | [Drummond](/tartans/d/dr/drummond-8/) | 1 | 1 |
 
 ### KWKGBKWKBGKWKR
 <a class="pat" href="/stripes/kwkgbkwkbgkwkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KWKGBKWKBGKWKR</span></a>

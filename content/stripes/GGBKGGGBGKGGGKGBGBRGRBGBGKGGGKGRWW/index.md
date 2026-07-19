@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/he/hebrides-inner-2/">Hebrides, Inner</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/he/hebrides-inner-2/"><img src="/variants/s34/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1~x2~g6019141-dg4514144/sett.png" alt="Hebrides, Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebrides-inner-2/"><img src="/variants/s34/g3dy1db2k3dy1g4dg5db8dy1k2dg3dy1dg3k2dy1db22dy1db4r4dy1r4db4dy1db22dy1k2dg3dy1dg3k2dy1r14lb6w1~x2~g6019141-dg4514144/sett.png" alt="Hebrides, Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

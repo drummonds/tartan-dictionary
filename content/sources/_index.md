@@ -11,7 +11,7 @@ When the same cloth is recorded by more than one source, the records **collapse*
 
 | Source | Holds | Records | Status |
 |---|---|---|---|
-| [Editorial curation](/sources/curation/) | editorial curation overlay | 5039 | active |
+| [Editorial curation](/sources/curation/) | editorial curation overlay | 5052 | active |
 | [DC Dalgleish shade card](/sources/dc-dalgleish-colours/) | colour / shade definitions | 2 | active |
 | [House of Tartan](/sources/house-of-tartan/) | tartan setts | 2152 | active |
 | [Logan, The Scottish Gaël (1831)](/sources/logan-1831/) | tartan setts | 55 | active |
@@ -22,7 +22,7 @@ When the same cloth is recorded by more than one source, the records **collapse*
 | [Scottish Tartans Authority](/sources/tartans-authority/) | tartan setts | 5999 | active |
 | [Weddslist](/sources/weddslist/) | tartan setts | 3397 | active |
 | [Ingles Buchan](/sources/inglesbuchan/) | cloth photographs | 519 | pending |
-| [Paintings](/sources/paintings/) | cloth photographs | 57 | pending |
+| [Paintings](/sources/paintings/) | cloth photographs | 76 | pending |
 | [Scottish Register of Tartans (site mirror)](/sources/registry/) | cloth photographs | 9505 | pending |
 | [Lochcarron shade card](/sources/lochcarron-colours/) | colour / shade definitions | 20 | scaffold |
 | [Wikipedia](/sources/wikipedia/) | descriptive text | 1 | scaffold |

@@ -421,7 +421,7 @@ weight: 17
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.08 | [Drummond](/tartans/d/dr/drummond-6/) | 1 | 1 |
+| 0.08 | [Drummond](/tartans/d/dr/drummond-5/) | 1 | 1 |
 | 0.09 | [Drummond of Drumtochty](/tartans/d/dr/drummond-of-drumtochty/) | 1 | 1 |
 
 ### WGRGRGRGRGRGRGWGW

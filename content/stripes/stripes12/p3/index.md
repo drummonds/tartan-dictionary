@@ -1047,7 +1047,7 @@ weight: 12
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.05 | [Drummond](/tartans/d/dr/drummond-10/) | 1 | 1 |
+| 0.05 | [Drummond](/tartans/d/dr/drummond-9/) | 1 | 1 |
 
 ### GRGRGKGWRWRW
 <a class="pat" href="/stripes/grgrgkgwrwrw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRGRGKGWRWRW</span></a>

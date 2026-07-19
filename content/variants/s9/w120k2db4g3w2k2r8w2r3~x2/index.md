@@ -10,15 +10,15 @@ crumbs:
 - name: "Duke of Perth"
   url: "/families/drummond-of-duke-of-perth/"
 - name: "Duke of Perth"
-  url: "/tartans/d/du/duke-of-perth-7/"
+  url: "/tartans/d/du/duke-of-perth-6/"
 - name: "Unnamed C18th - Blanket Pattern"
   url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKWGBKW](/stripes/rwrkwgbkw/).
 
-Part of the [Duke of Perth](/tartans/d/du/duke-of-perth-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duke of Perth](/tartans/d/du/duke-of-perth-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

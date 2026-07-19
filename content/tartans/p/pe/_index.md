@@ -45,7 +45,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/p/pe/perry-hunting/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting" width="140"><br><strong>Perry Hunting (1)</strong></a><div class="clan-territory">Perry</div></li>
 <li><a class="tartan" href="/tartans/p/pe/perry-arisaid-2/"><img src="/variants/s5/n65r27w2n4y5~x2/sett.png" alt="Perry, Arisaid" width="140"><br><strong>Perry, Arisaid (1)</strong></a><div class="clan-territory">Clan Perry</div></li>
 <li><a class="tartan" href="/tartans/p/pe/perry-hunting-2/"><img src="/variants/s5/k65g27w2k4y5~x2/sett.png" alt="Perry, hunting" width="140"><br><strong>Perry, hunting (1)</strong></a><div class="clan-territory">Perry</div></li>
-<li><a class="tartan" href="/tartans/p/pe/perth/"><img src="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png" alt="Perth" width="140"><br><strong>Perth (1)</strong></a><div class="clan-territory">Perth</div></li>
+<li><a class="tartan" href="/tartans/p/pe/perth/"><img src="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png" alt="Perth" width="140"><br><strong>Perth (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pe/perthshire/"><img src="/variants/s6/db26dr6g16db8g3dr2~x2/sett.png" alt="Perthshire" width="140"><br><strong>Perthshire (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pe/perthshire-clayquhat/"><img src="/variants/s7/r23k1g9r3db1lb1r1~x4/sett.png" alt="Perthshire Clayquhat" width="140"><br><strong>Perthshire Clayquhat (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pe/perthshire-highland-society/"><img src="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/sett.png" alt="Perthshire Highland Society" width="140"><br><strong>Perthshire Highland Society (1)</strong></a></li>

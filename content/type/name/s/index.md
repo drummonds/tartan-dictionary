@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><img src="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/sett.png" alt="Sandhu (Name)" width="140"><br>Sandhu (Name)</a></li>
 <li><a class="tartan" href="/variants/s5/ly6r1ly4r4db2~x5/"><img src="/variants/s5/ly6r1ly4r4db2~x5/sett.png" alt="Sands-Pingot (Name?)" width="140"><br>Sands-Pingot (Name?)</a></li>
-<li><a class="tartan" href="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db1812264-dbi2911276/"><img src="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db1812264-dbi2911276/sett.png" alt="Schmidt (2014)" width="140"><br>Schmidt (2014)</a></li>
 <li><a class="tartan" href="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db2911276-dbi3514276/"><img src="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db2911276-dbi3514276/sett.png" alt="Schmidt (2014)" width="140"><br>Schmidt (2014)</a></li>
+<li><a class="tartan" href="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db1812264-dbi2911276/"><img src="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db1812264-dbi2911276/sett.png" alt="Schmidt (2014)" width="140"><br>Schmidt (2014)</a></li>
 <li><a class="tartan" href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><img src="/variants/s8/r1k23y3db16y3k22r1w1~x2/sett.png" alt="Schöbitz (2016)" width="140"><br>Schöbitz (2016)</a></li>
 <li><a class="tartan" href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p5830306-mi6214333/"><img src="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p5830306-mi6214333/sett.png" alt="Scobie (Blackford)" width="140"><br>Scobie (Blackford)</a></li>
 <li><a class="tartan" href="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r5221030-lr8207018/"><img src="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r5221030-lr8207018/sett.png" alt="Scobie (Name)" width="140"><br>Scobie (Name)</a></li>
@@ -37,8 +37,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/"><img src="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends (Hamburg) (Persona" width="140"><br>Simon and Friends (Hamburg) (Persona</a></li>
 <li><a class="tartan" href="/variants/s6/r36t8w1k5g20r18~x4/"><img src="/variants/s6/r36t8w1k5g20r18~x4/sett.png" alt="Sinclair" width="140"><br>Sinclair</a></li>
 <li><a class="tartan" href="/variants/s6/r36t8w1k5dg20r18~x4/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar" width="140"><br>Sinclair of Auldbar</a></li>
-<li><a class="tartan" href="/variants/s6/n19w20dp18r2k7lb15~x2~n5507264-dp3705297/"><img src="/variants/s6/n19w20dp18r2k7lb15~x2~n5507264-dp3705297/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/t19w20dt18r2k7lb15~x2~t6107234-lb8007237/"><img src="/variants/s6/t19w20dt18r2k7lb15~x2~t6107234-lb8007237/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
+<li><a class="tartan" href="/variants/s6/n19w20dp18r2k7lb15~x2~n5507264-dp3705297/"><img src="/variants/s6/n19w20dp18r2k7lb15~x2~n5507264-dp3705297/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
 <li><a class="tartan" href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/"><img src="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/sett.png" alt="Skene of that Ilk" width="140"><br>Skene of that Ilk</a></li>
 <li><a class="tartan" href="/variants/s6/r8k8lo1k8r8db1~x4~db3514276/"><img src="/variants/s6/r8k8lo1k8r8db1~x4~db3514276/sett.png" alt="Skinner" width="140"><br>Skinner</a></li>
 <li><a class="tartan" href="/variants/s4/db1r8k8lo1~x4/"><img src="/variants/s4/db1r8k8lo1~x4/sett.png" alt="Skinner (Name)" width="140"><br>Skinner (Name)</a></li>

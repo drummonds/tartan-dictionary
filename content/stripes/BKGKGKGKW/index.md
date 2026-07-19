@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/coffield-limesand/">Coffield-Limesand</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/coffield-limesand/"><img src="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/sett.png" alt="Coffield-Limesand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coffield-limesand/"><img src="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/sett.png" alt="Coffield-Limesand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

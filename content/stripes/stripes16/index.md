@@ -985,7 +985,7 @@ weight: 16
 
 | ΔT | Tartan | Setts | Variants |
 |---|---|---|---|
-| 0.11 | [Drummond](/tartans/d/dr/drummond-8/) | 1 | 1 |
+| 0.11 | [Drummond](/tartans/d/dr/drummond-7/) | 1 | 1 |
 
 ### BRBWBWBWBWBWBRBW
 <a class="pat" href="/stripes/brbwbwbwbwbwbrbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BRBWBWBWBWBWBRBW</span></a>

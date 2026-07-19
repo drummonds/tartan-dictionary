@@ -50,8 +50,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/dr38w9dr3k9w3~x2/"><img src="/variants/s5/dr38w9dr3k9w3~x2/sett.png" alt="Loch Morar" width="140"><br>Loch Morar</a></li>
 <li><a class="tartan" href="/variants/s5/g19w5g2k5w2~x2/"><img src="/variants/s5/g19w5g2k5w2~x2/sett.png" alt="Loch Rannoch" width="140"><br>Loch Rannoch</a></li>
 <li><a class="tartan" href="/variants/s10/w48dy15lr2dy3w2dy3ly12w8dy2w6~x2/"><img src="/variants/s10/w48dy15lr2dy3w2dy3ly12w8dy2w6~x2/sett.png" alt="Loch Skene (Fashion)" width="140"><br>Loch Skene (Fashion)</a></li>
-<li><a class="tartan" href="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/"><img src="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/sett.png" alt="Loch Sween" width="140"><br>Loch Sween</a></li>
 <li><a class="tartan" href="/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16b2w3~x2/"><img src="/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16b2w3~x2/sett.png" alt="Loch Sween" width="140"><br>Loch Sween</a></li>
+<li><a class="tartan" href="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/"><img src="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/sett.png" alt="Loch Sween" width="140"><br>Loch Sween</a></li>
 <li><a class="tartan" href="/variants/s5/dy38w9dy3k9w3~x2/"><img src="/variants/s5/dy38w9dy3k9w3~x2/sett.png" alt="Loch Tummel" width="140"><br>Loch Tummel</a></li>
 <li><a class="tartan" href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o62-n47/"><img src="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o62-n47/sett.png" alt="Lochaber (Ingles Buchan)" width="140"><br>Lochaber (Ingles Buchan)</a></li>
 <li><a class="tartan" href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/"><img src="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/sett.png" alt="Lochalsh (Fashion)" width="140"><br>Lochalsh (Fashion)</a></li>

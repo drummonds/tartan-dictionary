@@ -10,7 +10,7 @@
    found, breaks the build loudly — a renamed record cannot silently 404 the post. Only a wholly
    absent map (task site:localserve, which stubs generated deps) degrades to "#" with a warning.
 */ -}}
-{{- $map := .Site.Data.logan1831 -}}
+{{- $map := hugo.Data.logan1831 -}}
 {{- if not $map -}}
   {{- warnf "logan shortcode: data/logan1831.json absent (localserve stub build?) — emitting #" -}}
   {{- print "#" -}}

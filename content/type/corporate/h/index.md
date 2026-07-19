@@ -5,8 +5,8 @@ date: 2023-03-18
 125 Corporate tartans beginning with H. [Back to all Corporate tartans](/type/corporate/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s4/r10lb5o5n4~x8~o62-n47/"><img src="/variants/s4/r10lb5o5n4~x8~o62-n47/sett.png" alt="Haggis Hostels" width="140"><br>Haggis Hostels</a></li>
 <li><a class="tartan" href="/variants/s4/r10db5lb5n4~x8/"><img src="/variants/s4/r10db5lb5n4~x8/sett.png" alt="Haggis Hostels" width="140"><br>Haggis Hostels</a></li>
+<li><a class="tartan" href="/variants/s4/r10lb5o5n4~x8~o62-n47/"><img src="/variants/s4/r10lb5o5n4~x8~o62-n47/sett.png" alt="Haggis Hostels" width="140"><br>Haggis Hostels</a></li>
 <li><a class="tartan" href="/variants/s5/r26k18r7k4y4~x2/"><img src="/variants/s5/r26k18r7k4y4~x2/sett.png" alt="Haig &amp; Haig Whisky" width="140"><br>Haig & Haig Whisky</a></li>
 <li><a class="tartan" href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><img src="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/sett.png" alt="Haileybury" width="140"><br>Haileybury</a></li>
 <li><a class="tartan" href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><img src="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/sett.png" alt="Haileybury Pipe Band (Corporate)" width="140"><br>Haileybury Pipe Band (Corporate)</a></li>

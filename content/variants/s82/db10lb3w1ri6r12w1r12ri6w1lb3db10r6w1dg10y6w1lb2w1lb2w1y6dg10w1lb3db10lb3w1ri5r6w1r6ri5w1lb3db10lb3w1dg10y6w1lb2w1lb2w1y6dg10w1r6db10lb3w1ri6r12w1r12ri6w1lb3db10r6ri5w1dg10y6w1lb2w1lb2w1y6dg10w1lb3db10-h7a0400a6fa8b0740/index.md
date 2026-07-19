@@ -9,21 +9,28 @@ crumbs:
   url: "/clan/drummond/"
 - name: "Duke of Perth"
   url: "/families/drummond-of-duke-of-perth/"
-- name: "Duke of Perth"
-  url: "/tartans/d/du/duke-of-perth/"
+- name: "Duke of Perth 1739"
+  url: "/tartans/d/du/duke-of-perth-1739/"
 - name: "Unnamed C18th - Cant Counts"
   url: ""
 slug_full: "db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1~x2~ri6914021-r5221030"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-perth-1739/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWRRWRRWWBRWGGWWWWWGGWWBWWRRWRRWWBWWGGWWWWWGGWRBWWRRWRRWWBRRWGGWWWWWGGWWBWWRRWRRW](/stripes/bwwrrwrrwwbrwggwwwwwggwwbwwrrwrrwwbwwggwwwwwggwrbwwrrwrrwwbrrwggwwwwwggwwbwwrrwrrw/).
 
-Part of the [Duke of Perth](/tartans/d/du/duke-of-perth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duke of Perth 1739](/tartans/d/du/duke-of-perth-1739/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 
+> ⚠ **This record is withdrawn** — kept as a historical reading, not a current registration.
+
+
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4414](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4414)
+
+## Provenance
+
+SRT 4414 has been withdrawn from the Scottish Register of Tartans. The reading — from James Cant's thread-count book (98 colour changes) — is one of several attempts to size the plaid in Domenico Duprà's 1739 portrait of Lord John Drummond; it is kept as a historical reading under the Duke of Perth 1739 tartan.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,6 +68,21 @@ One full sett is **1474 threads**.
 # Sample pattern
 
 <img class="tartan-sample" src="tartan.png?s=db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1~x2~ri6914021-r5221030&w=880&tpcm=16" alt="DB/20 LB6 W2 Ri12 R24 W2 R24 Ri12 W2 LB6 DB20 R12 W2 DG20 Y12 W2 LB4 W2 LB4 W2 Y12 DG20 W2 LB6 DB20 LB6 W2 Ri10 R12 W2 R12 Ri10 W2 LB6 DB20 LB6 W2 DG20 Y12 W2 LB4 W2 LB4 W2 Y12 DG20 W2 R12 DB20 LB6 W2 Ri12 R24 W2 R24 Ri12 W2 LB6 DB20 R12 Ri10 W2 DG20 Y12 W2 LB4 W2 LB4 W2 Y12 DG20 W2 LB6 DB20 LB6 W2 Ri10 R12 W2 R12 Ri10 W/2 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **12.76** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/k16r7k4r7dg17ly1dg5ly1dg17r32k5r4ly1r5/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest tartan variants
 

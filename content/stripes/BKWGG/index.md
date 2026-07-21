@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/ph/phoenix-police-honor-guard/">Phoenix Police Honor Guard</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/ph/phoenix-police-honor-guard/"><img src="/variants/s5/db10k3lb65g56y6/sett.png" alt="Phoenix Police Honor Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ph/phoenix-police-honor-guard/"><img src="/variants/s5/db10k3lb65dg56y6/sett.png" alt="Phoenix Police Honor Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/manitoba/">Manitoba</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba/"><img src="/variants/s8/y622r21g2dg6g41lb2g2lb6/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba/"><img src="/variants/s8/y6r21g2dg6g41lb2g2lb6/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

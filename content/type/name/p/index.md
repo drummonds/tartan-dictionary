@@ -21,8 +21,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><img src="/variants/s7/k3lb10dy5lb29k10r6k2~x2/sett.png" alt="Perkins 2015" width="140"><br>Perkins 2015</a></li>
 <li><a class="tartan" href="/variants/s5/k31r12y2n5k2~x4/"><img src="/variants/s5/k31r12y2n5k2~x4/sett.png" alt="Perry (2014)" width="140"><br>Perry (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/w1db15r1n10g2lp1~x4/"><img src="/variants/s6/w1db15r1n10g2lp1~x4/sett.png" alt="Peterson, Oren (Name)" width="140"><br>Peterson, Oren (Name)</a></li>
-<li><a class="tartan" href="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/"><img src="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/sett.png" alt="Philpotts, Brian" width="140"><br>Philpotts, Brian</a></li>
 <li><a class="tartan" href="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt8915195-lb82/"><img src="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt8915195-lb82/sett.png" alt="Philpotts, Brian" width="140"><br>Philpotts, Brian</a></li>
+<li><a class="tartan" href="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/"><img src="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/sett.png" alt="Philpotts, Brian" width="140"><br>Philpotts, Brian</a></li>
 <li><a class="tartan" href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><img src="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/sett.png" alt="Pilkington (2016)" width="140"><br>Pilkington (2016)</a></li>
 <li><a class="tartan" href="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb8007237-t5912243/"><img src="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb8007237-t5912243/sett.png" alt="Pincock (Name)" width="140"><br>Pincock (Name)</a></li>
 <li><a class="tartan" href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><img src="/variants/s7/r2w1lb50db24g12k1y1~x2/sett.png" alt="Pincock (Plockton), Dougie" width="140"><br>Pincock (Plockton), Dougie</a></li>
@@ -34,8 +34,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/k1dr9n8y8w1~x2/"><img src="/variants/s5/k1dr9n8y8w1~x2/sett.png" alt="Pople (Name)" width="140"><br>Pople (Name)</a></li>
 <li><a class="tartan" href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/"><img src="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/sett.png" alt="Pounds" width="140"><br>Pounds</a></li>
 <li><a class="tartan" href="/variants/s16/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2~x2/"><img src="/variants/s16/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2~x2/sett.png" alt="Pounds (Name)" width="140"><br>Pounds (Name)</a></li>
-<li><a class="tartan" href="/variants/s5/dp30y7w6db30ly8~x2~y5508084-ly8117093/"><img src="/variants/s5/dp30y7w6db30ly8~x2~y5508084-ly8117093/sett.png" alt="Pownall (2015)" width="140"><br>Pownall (2015)</a></li>
 <li><a class="tartan" href="/variants/s5/dp30ly7w6db30y8~x2/"><img src="/variants/s5/dp30ly7w6db30y8~x2/sett.png" alt="Pownall (2015)" width="140"><br>Pownall (2015)</a></li>
+<li><a class="tartan" href="/variants/s5/dp30y7w6db30ly8~x2~y5508084-ly8117093/"><img src="/variants/s5/dp30y7w6db30ly8~x2~y5508084-ly8117093/sett.png" alt="Pownall (2015)" width="140"><br>Pownall (2015)</a></li>
 <li><a class="tartan" href="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/"><img src="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/sett.png" alt="Presley of Lonmay #2" width="140"><br>Presley of Lonmay #2</a></li>
 <li><a class="tartan" href="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/"><img src="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/sett.png" alt="Pringle" width="140"><br>Pringle</a></li>
 <li><a class="tartan" href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><img src="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/sett.png" alt="Proctor" width="140"><br>Proctor</a></li>

@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/a/au/australian-police/">Australian Police</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/a/au/australian-police/"><img src="/variants/s8/k5w5k5t11k3n17k30t3~x2/sett.png" alt="Australian Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/la/laksaa/">Laksaa</a> <small class="dt">ΔTartan 3.58</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/laksaa/"><img src="/variants/s8/n22k2n2k2n2k16w16k3~x2/sett.png" alt="Laksaa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laksaa/">Laksaa</a> <small class="dt">ΔTartan 3.69</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laksaa/"><img src="/variants/s8/n21k2n2k2n2k15w17k3~x2/sett.png" alt="Laksaa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/le/leatherneck-u-s-marine-corps/">Leatherneck U.S.Marine Corps</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/leatherneck-u-s-marine-corps/"><img src="/variants/s8/g28r2g2r2g8db24y3r2~x2/sett.png" alt="Leatherneck U.S.Marine Corps sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leatherneck-u-s-marine-corps/"><img src="/variants/s8/g28r2g2r2g8db24dy3r2~x2/sett.png" alt="Leatherneck U.S.Marine Corps sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

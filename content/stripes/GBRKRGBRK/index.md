@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cr/crook/">Crook</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cr/crook/"><img src="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/sett.png" alt="Crook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crook/"><img src="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/sett.png" alt="Crook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -37,7 +37,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/w/wi/wilson-s-no-158/">Wilson's No 158</a> <small class="dt">ΔTartan 0.50</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-158/"><img src="/variants/s6/g21w2g4k17dp14k3~x2/sett.png" alt="Wilson's No 158 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/graham-w/">Graham W</a> <small class="dt">ΔTartan 1.50</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-w/"><img src="/variants/s6/g21w2g4k17db14k3/sett.png" alt="Graham W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-w/"><img src="/variants/s6/g21w2g4k17dr14k3/sett.png" alt="Graham W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/r/re/redland/">Redland</a> <small class="dt">ΔTartan 1.66</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/re/redland/"><img src="/variants/s6/g52lb7g9k35db35k7/sett.png" alt="Redland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menteith/">Menteith</a> <small class="dt">ΔTartan 1.74</small></td></tr>

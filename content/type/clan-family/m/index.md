@@ -19,8 +19,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/k9g3k3g12y2~x4/"><img src="/variants/s5/k9g3k3g12y2~x4/sett.png" alt="MacArthur" width="140"><br>MacArthur</a></li>
 <li><a class="tartan" href="/variants/s6/g18ly2g18k4g2k15~x2/"><img src="/variants/s6/g18ly2g18k4g2k15~x2/sett.png" alt="MacArthur (Highland Society)" width="140"><br>MacArthur (Highland Society)</a></li>
 <li><a class="tartan" href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><img src="/variants/s6/dg7db1dg1k4dp4k1~x4/sett.png" alt="MacArthur of Milton Hunting" width="140"><br>MacArthur of Milton Hunting</a></li>
-<li><a class="tartan" href="/variants/s6/k2r16g6r3g8w1~x2/"><img src="/variants/s6/k2r16g6r3g8w1~x2/sett.png" alt="MacAulay" width="140"><br>MacAulay</a></li>
 <li><a class="tartan" href="/variants/s6/k2r16g6r3g8lb1~x2/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay" width="140"><br>MacAulay</a></li>
+<li><a class="tartan" href="/variants/s6/k2r16g6r3g8w1~x2/"><img src="/variants/s6/k2r16g6r3g8w1~x2/sett.png" alt="MacAulay" width="140"><br>MacAulay</a></li>
 <li><a class="tartan" href="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/"><img src="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/sett.png" alt="MacAulay (MacGregor)" width="140"><br>MacAulay (MacGregor)</a></li>
 <li><a class="tartan" href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><img src="/variants/s8/g6k16w1k16g8k4g12r2~x2/sett.png" alt="MacAulay Hunting" width="140"><br>MacAulay Hunting</a></li>
 <li><a class="tartan" href="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/"><img src="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/sett.png" alt="MacAulay of Ardincaple (Clan)" width="140"><br>MacAulay of Ardincaple (Clan)</a></li>

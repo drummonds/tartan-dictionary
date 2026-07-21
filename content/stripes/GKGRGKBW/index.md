@@ -30,8 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/d/du/dunfermline-bank-of-scotland/">Dunfermline Bank of Scotland</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/dunfermline-bank-of-scotland/"><img src="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/sett.png" alt="Dunfermline Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macrae-hunting/">MacRae Hunting</a> <small class="dt">ΔTartan 0.63</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-hunting/"><img src="/variants/s8/g24k4g6r4g6k19db22w5~x2/sett.png" alt="MacRae Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-hunting/">MacRae Hunting</a> <small class="dt">ΔTartan 2.78</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-hunting/"><img src="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/sett.png" alt="MacRae Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

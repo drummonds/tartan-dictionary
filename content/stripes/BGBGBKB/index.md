@@ -29,8 +29,8 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/lawrie/">Lawrie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/lawrie/"><img src="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/sett.png" alt="Lawrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/lo/lowry/">Lowry</a> <small class="dt">ΔTartan 0.18</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawrie/"><img src="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp2712327/sett.png" alt="Lawrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lowry/">Lowry</a> <small class="dt">ΔTartan 0.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lowry/"><img src="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp2712327/sett.png" alt="Lowry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

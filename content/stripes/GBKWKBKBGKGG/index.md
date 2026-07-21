@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/canmore-highland-games/">Canmore Highland Games</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/canmore-highland-games/"><img src="/variants/s12/g70db3k9w4k4dp4k3db12g9k4g4y4~x2/sett.png" alt="Canmore Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canmore-highland-games/"><img src="/variants/s12/g70db3k9w4k4dr4k3db12g9k4g4y4~x2/sett.png" alt="Canmore Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

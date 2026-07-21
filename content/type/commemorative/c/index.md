@@ -25,6 +25,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/"><img src="/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/sett.png" alt="Cowal Highland Gathering" width="140"><br>Cowal Highland Gathering</a></li>
 <li><a class="tartan" href="/variants/s22/lb3dg12dy3lp3dy3lp4dg12n3dg3n3dg28w3dg3n3dg12lp4dy3lp3dy3dg12dy4dg2~x2/"><img src="/variants/s22/lb3dg12dy3lp3dy3lp4dg12n3dg3n3dg28w3dg3n3dg12lp4dy3lp3dy3dg12dy4dg2~x2/sett.png" alt="Cox" width="140"><br>Cox</a></li>
 <li><a class="tartan" href="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/"><img src="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/sett.png" alt="Craven County" width="140"><br>Craven County</a></li>
-<li><a class="tartan" href="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/"><img src="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/sett.png" alt="Cypress Presbyterian Church" width="140"><br>Cypress Presbyterian Church</a></li>
 <li><a class="tartan" href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><img src="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/sett.png" alt="Cypress Presbyterian Church" width="140"><br>Cypress Presbyterian Church</a></li>
+<li><a class="tartan" href="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/"><img src="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/sett.png" alt="Cypress Presbyterian Church" width="140"><br>Cypress Presbyterian Church</a></li>
 </ul>

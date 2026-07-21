@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/caribou/">Caribou</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/caribou/"><img src="/variants/s19/w1b4k1lt3k1n4db1n4k1lt3k1g4lt1g4k1lt3k1b4w1~x4~lt8208231-g6119141/sett.png" alt="Caribou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caribou/"><img src="/variants/s19/w1dr4k1lb3k1n4db1n4k1lb3k1g4lb1g4k1lb3k1dr4w1~x4/sett.png" alt="Caribou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

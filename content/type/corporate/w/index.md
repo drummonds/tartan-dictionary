@@ -8,8 +8,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr7808018/"><img src="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr7808018/sett.png" alt="Walk the Walk" width="140"><br>Walk the Walk</a></li>
 <li><a class="tartan" href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><img src="/variants/s8/w60r15w3r3w3r3w5r15~x2/sett.png" alt="Walk the Walk (Corporate)" width="140"><br>Walk the Walk (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><img src="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/sett.png" alt="Walkers Shortbread (Corporate)" width="140"><br>Walkers Shortbread (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><img src="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
 <li><a class="tartan" href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><img src="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
+<li><a class="tartan" href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><img src="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
 <li><a class="tartan" href="/variants/s4/k60lb3k9g7/"><img src="/variants/s4/k60lb3k9g7/sett.png" alt="Wallington (Corporate?)" width="140"><br>Wallington (Corporate?)</a></li>
 <li><a class="tartan" href="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/"><img src="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/sett.png" alt="Wanless" width="140"><br>Wanless</a></li>
 <li><a class="tartan" href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><img src="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/sett.png" alt="Warren Wilson College" width="140"><br>Warren Wilson College</a></li>
@@ -48,8 +48,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r2k1r2k14w1k1w1~x8/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting" width="140"><br>White Stripes Hunting</a></li>
 <li><a class="tartan" href="/variants/s7/k7w3k7w45r3w3r3~x2/"><img src="/variants/s7/k7w3k7w45r3w3r3~x2/sett.png" alt="White Stripes, The" width="140"><br>White Stripes, The</a></li>
 <li><a class="tartan" href="/variants/s6/n9k16dg10k22dp67y4/"><img src="/variants/s6/n9k16dg10k22dp67y4/sett.png" alt="Widows Sons Scotland (MRA)" width="140"><br>Widows Sons Scotland (MRA)</a></li>
-<li><a class="tartan" href="/variants/s6/lb12g16k12g24dp75y4/"><img src="/variants/s6/lb12g16k12g24dp75y4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
 <li><a class="tartan" href="/variants/s6/lb12g12k12g24dp75ly4/"><img src="/variants/s6/lb12g12k12g24dp75ly4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
+<li><a class="tartan" href="/variants/s6/lb12g16k12g24dp75y4/"><img src="/variants/s6/lb12g16k12g24dp75y4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
 <li><a class="tartan" href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/"><img src="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png" alt="Wilbers" width="140"><br>Wilbers</a></li>
 <li><a class="tartan" href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5~x2/"><img src="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5~x2/sett.png" alt="Wild Geese (Corporate)" width="140"><br>Wild Geese (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg4410159/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg4410159/sett.png" alt="Wild Highlanders" width="140"><br>Wild Highlanders</a></li>
@@ -66,8 +66,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/"><img src="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/sett.png" alt="Wisconsin in Scotland" width="140"><br>Wisconsin in Scotland</a></li>
 <li><a class="tartan" href="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/"><img src="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/sett.png" alt="Wisconsin in Scotland (Corporate)" width="140"><br>Wisconsin in Scotland (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s13/lb5w2lb2w4k27w2g2w2g6w2g2w22dr2~x2/"><img src="/variants/s13/lb5w2lb2w4k27w2g2w2g6w2g2w22dr2~x2/sett.png" alt="Wiseman, Robert" width="140"><br>Wiseman, Robert</a></li>
-<li><a class="tartan" href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><img src="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/sett.png" alt="Wojtek Memorial Trust" width="140"><br>Wojtek Memorial Trust</a></li>
 <li><a class="tartan" href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w8504057-wi98/"><img src="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w8504057-wi98/sett.png" alt="Wojtek Memorial Trust" width="140"><br>Wojtek Memorial Trust</a></li>
+<li><a class="tartan" href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><img src="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/sett.png" alt="Wojtek Memorial Trust" width="140"><br>Wojtek Memorial Trust</a></li>
 <li><a class="tartan" href="/variants/s6/y8w3db40k12w3y3~x2/"><img src="/variants/s6/y8w3db40k12w3y3~x2/sett.png" alt="Wolverine (Corporate)" width="140"><br>Wolverine (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/lr8w3db40k12w3lr3~x2/"><img src="/variants/s6/lr8w3db40k12w3lr3~x2/sett.png" alt="Wolverines (Corporate)" width="140"><br>Wolverines (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/n2dg2r9k9g2y2~x4~dg3109150-g6019141/"><img src="/variants/s6/n2dg2r9k9g2y2~x4~dg3109150-g6019141/sett.png" alt="Wolves Wod Kindred" width="140"><br>Wolves Wod Kindred</a></li>

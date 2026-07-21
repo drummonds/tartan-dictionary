@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ce/center/">Center</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ce/center/"><img src="/variants/s8/k50t2k13w1k13t5g15r2~x2/sett.png" alt="Center sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/center/"><img src="/variants/s8/k50db2k13w1k13db5g15r2~x2/sett.png" alt="Center sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

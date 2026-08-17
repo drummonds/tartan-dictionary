@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/al/alberta-2/">Alberta</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/alberta-2/"><img src="/variants/s7/g13k1r1k1t2k1ly4~x8/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alberta-2/"><img src="/variants/s7/g12k1r1k1t2k1ly4~x8~r6914021-ly7616093/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

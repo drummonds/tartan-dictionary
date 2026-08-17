@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/go/golden-glow/">Golden Glow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/go/golden-glow/"><img src="/variants/s17/y3k2r9k1do8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n4005291-ni5003213/sett.png" alt="Golden Glow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golden-glow/"><img src="/variants/s17/y3k2r9k1dp8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n5004237-ni5805261/sett.png" alt="Golden Glow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -32,10 +32,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian/"><img src="/variants/s6/r60dp20r8g45r8dp2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/lo/lovat-or-fraser-2/">Lovat or Fraser</a> <small class="dt">ΔTartan 0.49</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lovat-or-fraser-2/"><img src="/variants/s6/r80dp19r8g36r10dp2~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackintosh-4/">MacKintosh</a> <small class="dt">ΔTartan 2.35</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-4/"><img src="/variants/s6/r70db20r10g40r10db3/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-3/">MacKintosh 3</a> <small class="dt">ΔTartan 2.47</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-3/"><img src="/variants/s6/r68db18r9g34r9db3~x2/sett.png" alt="MacKintosh 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-4/">MacKintosh</a> <small class="dt">ΔTartan 2.48</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-4/"><img src="/variants/s6/r24db6r3g12r4db1/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-d/">MacKintosh D</a> <small class="dt">ΔTartan 2.51</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-d/"><img src="/variants/s6/r22db5r2g11r3db1/sett.png" alt="MacKintosh D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-2/">MacKintosh 2</a> <small class="dt">ΔTartan 2.56</small></td></tr>

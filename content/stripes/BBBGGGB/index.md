@@ -34,8 +34,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gl/gleneagles-2/">Gleneagles</a> <small class="dt">ΔTartan 3.18</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-2/"><img src="/variants/s7/do6dg6dy1dg6do5t6do1~x4/sett.png" alt="Gleneagles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/gleneagles-group/">Gleneagles Group</a> <small class="dt">ΔTartan 8.64</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-group/"><img src="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneagles-group/">Gleneagles Group</a> <small class="dt">ΔTartan 9.41</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-group/"><img src="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr3113000-gi5109120/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/charles-carberry/">Charles-Carberry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/charles-carberry/"><img src="/variants/s5/g21db10k26ly10r1~x2/sett.png" alt="Charles-Carberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/charles-carberry/"><img src="/variants/s5/dg21db10k26ly10r1~x2/sett.png" alt="Charles-Carberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

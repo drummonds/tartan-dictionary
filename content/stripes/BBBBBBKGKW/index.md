@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/st-kentigern-college/">St Kentigern College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/st-kentigern-college/"><img src="/variants/s10/dbi30db3dbi3db3dbi3db10k10dg20k2w4~x2~dbi2616276-db2207279/sett.png" alt="St Kentigern College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-kentigern-college/"><img src="/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2~b5519267-db2719264/sett.png" alt="St Kentigern College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

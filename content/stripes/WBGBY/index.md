@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mc/mcguinness-tam/">McGuinness, Tam</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcguinness-tam/"><img src="/variants/s5/lr2db4g60dp30w1~x2/sett.png" alt="McGuinness, Tam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcguinness-tam/"><img src="/variants/s5/lo2db4g60dp30w1~x2/sett.png" alt="McGuinness, Tam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

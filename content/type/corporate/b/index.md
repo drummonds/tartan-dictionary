@@ -70,8 +70,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi3514276-db2911276/"><img src="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi3514276-db2911276/sett.png" alt="Bergen Scottish" width="140"><br>Bergen Scottish</a></li>
 <li><a class="tartan" href="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/"><img src="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/sett.png" alt="Berwick Friendship" width="140"><br>Berwick Friendship</a></li>
 <li><a class="tartan" href="/variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/"><img src="/variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/sett.png" alt="Berwick Friendship (Corporate)" width="140"><br>Berwick Friendship (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s7/y3db22k3db3k11r20y3~x2/"><img src="/variants/s7/y3db22k3db3k11r20y3~x2/sett.png" alt="Biffy Clyro" width="140"><br>Biffy Clyro</a></li>
 <li><a class="tartan" href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><img src="/variants/s7/ly3db22k3db3k11r20ly3~x2/sett.png" alt="Biffy Clyro" width="140"><br>Biffy Clyro</a></li>
+<li><a class="tartan" href="/variants/s7/y3db22k3db3k11r20y3~x2/"><img src="/variants/s7/y3db22k3db3k11r20y3~x2/sett.png" alt="Biffy Clyro" width="140"><br>Biffy Clyro</a></li>
 <li><a class="tartan" href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><img src="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/sett.png" alt="Big Rory (Corporate)" width="140"><br>Big Rory (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/dg11y1dg1y6k1y1~x4/"><img src="/variants/s6/dg11y1dg1y6k1y1~x4/sett.png" alt="Big Spruce Brewing" width="140"><br>Big Spruce Brewing</a></li>
 <li><a class="tartan" href="/variants/s4/y1k8r13g1~x6/"><img src="/variants/s4/y1k8r13g1~x6/sett.png" alt="Billy Apple® Red" width="140"><br>Billy Apple® Red</a></li>
@@ -121,8 +121,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/w5r5w5k15r2~x2/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk" width="140"><br>Braes High School Falkirk</a></li>
 <li><a class="tartan" href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><img src="/variants/s9/r4k16w4k16r4k42r20k83r2/sett.png" alt="Brand Ambassador" width="140"><br>Brand Ambassador</a></li>
 <li><a class="tartan" href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><img src="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/sett.png" alt="Brand Ambassador (Corporate)" width="140"><br>Brand Ambassador (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><img src="/variants/s9/db60r5db60t40db36r10db36t40w5/sett.png" alt="Brash" width="140"><br>Brash</a></li>
 <li><a class="tartan" href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db2609279-dbi3409246/"><img src="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db2609279-dbi3409246/sett.png" alt="Brash" width="140"><br>Brash</a></li>
+<li><a class="tartan" href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><img src="/variants/s9/db60r5db60t40db36r10db36t40w5/sett.png" alt="Brash" width="140"><br>Brash</a></li>
 <li><a class="tartan" href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart" width="140"><br>Braveheart</a></li>
 <li><a class="tartan" href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/"><img src="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/sett.png" alt="Braveheart Warrior" width="140"><br>Braveheart Warrior</a></li>
 <li><a class="tartan" href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><img src="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/sett.png" alt="Braveheart Warrior (Dress)" width="140"><br>Braveheart Warrior (Dress)</a></li>
@@ -138,8 +138,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><img src="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/sett.png" alt="British Caledonian Airways #4" width="140"><br>British Caledonian Airways #4</a></li>
 <li><a class="tartan" href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><img src="/variants/s6/db52k12dp18dy1dp1dy4~x2/sett.png" alt="British Energy" width="140"><br>British Energy</a></li>
 <li><a class="tartan" href="/variants/s6/r12db2r12db17w2r2~x2~r4418030/"><img src="/variants/s6/r12db2r12db17w2r2~x2~r4418030/sett.png" alt="British European" width="140"><br>British European</a></li>
-<li><a class="tartan" href="/variants/s5/r2g17r8db8y2~x4/"><img src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="British Hills" width="140"><br>British Hills</a></li>
 <li><a class="tartan" href="/variants/s5/ly2db8r8g17r1~x4/"><img src="/variants/s5/ly2db8r8g17r1~x4/sett.png" alt="British Hills" width="140"><br>British Hills</a></li>
+<li><a class="tartan" href="/variants/s5/r2g17r8db8y2~x4/"><img src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="British Hills" width="140"><br>British Hills</a></li>
 <li><a class="tartan" href="/variants/s6/dr28r1db18y2g6db18~x2/"><img src="/variants/s6/dr28r1db18y2g6db18~x2/sett.png" alt="British Judo Association" width="140"><br>British Judo Association</a></li>
 <li><a class="tartan" href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb8007237-lr70/"><img src="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb8007237-lr70/sett.png" alt="Britten-Norman" width="140"><br>Britten-Norman</a></li>
 <li><a class="tartan" href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><img src="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/sett.png" alt="Bro-Dreger" width="140"><br>Bro-Dreger</a></li>
@@ -160,8 +160,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><img src="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/sett.png" alt="Brockton" width="140"><br>Brockton</a></li>
 <li><a class="tartan" href="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi3514276-db2616276/"><img src="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi3514276-db2616276/sett.png" alt="Brodie Countryfare (Corporate)" width="140"><br>Brodie Countryfare (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s4/r1g11k11y1~x4/"><img src="/variants/s4/r1g11k11y1~x4/sett.png" alt="Brooks Brothers" width="140"><br>Brooks Brothers</a></li>
-<li><a class="tartan" href="/variants/s4/dr1g11k11lo1~x4/"><img src="/variants/s4/dr1g11k11lo1~x4/sett.png" alt="Brooks Brothers (Corporate)" width="140"><br>Brooks Brothers (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/"><img src="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/sett.png" alt="Brooks Brothers (Corporate)" width="140"><br>Brooks Brothers (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s4/dr1g11k11lo1~x4/"><img src="/variants/s4/dr1g11k11lo1~x4/sett.png" alt="Brooks Brothers (Corporate)" width="140"><br>Brooks Brothers (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><img src="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/sett.png" alt="Brooks Brothers (WCWM)" width="140"><br>Brooks Brothers (WCWM)</a></li>
 <li><a class="tartan" href="/variants/s9/db5dy1dg7dr1db45dr5dy3db4dy3~x2/"><img src="/variants/s9/db5dy1dg7dr1db45dr5dy3db4dy3~x2/sett.png" alt="Brooks Brothers Signature" width="140"><br>Brooks Brothers Signature</a></li>
 <li><a class="tartan" href="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly8818096-dy3708054-y5311081/"><img src="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly8818096-dy3708054-y5311081/sett.png" alt="Broons, The (DC Thomson)" width="140"><br>Broons, The (DC Thomson)</a></li>

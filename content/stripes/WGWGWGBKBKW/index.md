@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fi/fitzpatrick/">Fitzpatrick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fi/fitzpatrick/"><img src="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fitzpatrick/"><img src="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

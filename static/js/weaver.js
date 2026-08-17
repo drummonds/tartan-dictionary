@@ -160,8 +160,15 @@
     }
   }
 
+  /* A download's file-name stem from the cloth's name: non-alphanumerics collapse to hyphens, and
+   * leading/trailing hyphens are trimmed so a name like "Drummond of Megginch…" can't end the stem
+   * in a dangling "-". */
+  function fileBase(info) {
+    return ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').replace(/^-+|-+$/g, '').toLowerCase() || 'tartan');
+  }
+
   function pngName(info, suffix) {
-    return ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan') + suffix + '.png';
+    return fileBase(info) + suffix + '.png';
   }
 
   /* Weave the whole sett tessellated across a page-sized image (at the cloth's real density), open it
@@ -224,7 +231,7 @@
       statLine('sample sheet failed: ' + ((res && res.error) || 'unknown'));
       return;
     }
-    var base = ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan');
+    var base = fileBase(info);
     var url = URL.createObjectURL(new Blob([res], { type: 'application/pdf' }));
     var a = document.createElement('a');
     a.href = url;

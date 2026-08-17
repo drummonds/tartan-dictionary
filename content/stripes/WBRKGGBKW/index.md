@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/n/na/national/">National</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/na/national/"><img src="/variants/s9/w2db3r6k8g12y1db4k2w2~x2/sett.png" alt="National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/na/national-millennium/">National Millennium</a> <small class="dt">ΔTartan 0.68</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/na/national-millennium/"><img src="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-millennium/">National Millennium</a> <small class="dt">ΔTartan 0.72</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-millennium/"><img src="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

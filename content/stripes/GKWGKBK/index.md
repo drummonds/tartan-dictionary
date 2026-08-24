@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccallum-2/">MacCallum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccallum-2/"><img src="/variants/s7/g21k6lb3g11k17db17k3~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccallum-2/"><img src="/variants/s7/g8k2lb1g4k6db6k1~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

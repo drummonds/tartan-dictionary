@@ -38,8 +38,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/de/deeside-royal/">Deeside, Royal</a> <small class="dt">ΔTartan 3.83</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/de/deeside-royal/"><img src="/variants/s6/lp4dy2dp4dy35t27r3~x2/sett.png" alt="Deeside, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/k/ki/kinfauns-castle/">Kinfauns Castle</a> <small class="dt">ΔTartan 5.37</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinfauns-castle/"><img src="/variants/s6/r4dp12dg2dp2dg46w1~x2/sett.png" alt="Kinfauns Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinfauns-castle/">Kinfauns Castle</a> <small class="dt">ΔTartan 5.15</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinfauns-castle/"><img src="/variants/s6/r4dp12g2dp2g46w1~x2/sett.png" alt="Kinfauns Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

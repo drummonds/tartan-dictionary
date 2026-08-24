@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/strathclyde-university-of/">Strathclyde, University of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/strathclyde-university-of/"><img src="/variants/s14/db7k1r3k1db24k1w3k3dg3k3dg3g19k2w4~x2/sett.png" alt="Strathclyde, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathclyde-university-of/"><img src="/variants/s14/db7k1r3k1db24k1w3k3g3k3g3dg19k2w4~x2~g4808117-dg4514144/sett.png" alt="Strathclyde, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

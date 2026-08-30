@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hi/highland-princess-the/">Highland Princess, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-princess-the/"><img src="/variants/s5/t15g15lo11r17m15~x2/sett.png" alt="Highland Princess, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-princess-the/"><img src="/variants/s5/db15g15lo11r17m15~x2~r5221030-m6525339/sett.png" alt="Highland Princess, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

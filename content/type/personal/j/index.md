@@ -46,8 +46,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/"><img src="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/sett.png" alt="Justus Black &amp; Gold (Angus) (Personal)" width="140"><br>Justus Black & Gold (Angus) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s2/k1lo1~x50/"><img src="/variants/s2/k1lo1~x50/sett.png" alt="Justus Check (Personal)" width="140"><br>Justus Check (Personal)</a></li>
 <li><a class="tartan" href="/variants/s2/k1y1~x40/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check (Personal)" width="140"><br>Justus Check (Personal)</a></li>
-<li><a class="tartan" href="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/sett.png" alt="Justus Dress (Personal)" width="140"><br>Justus Dress (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/sett.png" alt="Justus Dress (Personal)" width="140"><br>Justus Dress (Personal)</a></li>
+<li><a class="tartan" href="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/sett.png" alt="Justus Dress (Personal)" width="140"><br>Justus Dress (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/"><img src="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/sett.png" alt="Justus Htg (Personal)" width="140"><br>Justus Htg (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><img src="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/sett.png" alt="Justus Hunting (Personal)" width="140"><br>Justus Hunting (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w98/"><img src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w98/sett.png" alt="Justus International (Personal)" width="140"><br>Justus International (Personal)</a></li>

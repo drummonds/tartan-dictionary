@@ -9,8 +9,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><img src="/variants/s8/g4ly3r2ly22lb22w2lb3k2~x2/sett.png" alt="Pardo, Luis Alejandro Aguilar" width="140"><br>Pardo, Luis Alejandro Aguilar</a></li>
 <li><a class="tartan" href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><img src="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/sett.png" alt="Parker Black (2009)" width="140"><br>Parker Black (2009)</a></li>
 <li><a class="tartan" href="/variants/s8/w3dt9y1lb3dp9lb1dt40dp2~x2/"><img src="/variants/s8/w3dt9y1lb3dp9lb1dt40dp2~x2/sett.png" alt="Parkin" width="140"><br>Parkin</a></li>
-<li><a class="tartan" href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><img src="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/sett.png" alt="Patel (2013)" width="140"><br>Patel (2013)</a></li>
 <li><a class="tartan" href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><img src="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/sett.png" alt="Patel (2013)" width="140"><br>Patel (2013)</a></li>
+<li><a class="tartan" href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><img src="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/sett.png" alt="Patel (2013)" width="140"><br>Patel (2013)</a></li>
 <li><a class="tartan" href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1~x2~dbi3514276-db2911276/"><img src="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1~x2~dbi3514276-db2911276/sett.png" alt="Payne (Name)" width="140"><br>Payne (Name)</a></li>
 <li><a class="tartan" href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi3514276-db2609279/"><img src="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi3514276-db2609279/sett.png" alt="Peacock, Grahame (Name)" width="140"><br>Peacock, Grahame (Name)</a></li>
 <li><a class="tartan" href="/variants/s46/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1~x2/"><img src="/variants/s46/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1~x2/sett.png" alt="Peeper" width="140"><br>Peeper</a></li>
@@ -42,6 +42,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/"><img src="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/sett.png" alt="Proctor (Name)" width="140"><br>Proctor (Name)</a></li>
 <li><a class="tartan" href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/"><img src="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/sett.png" alt="Proven" width="140"><br>Proven</a></li>
 <li><a class="tartan" href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/"><img src="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/sett.png" alt="Purdy Black (Illinois)" width="140"><br>Purdy Black (Illinois)</a></li>
-<li><a class="tartan" href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki2008030-k17/"><img src="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki2008030-k17/sett.png" alt="Purves (2014)" width="140"><br>Purves (2014)</a></li>
 <li><a class="tartan" href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><img src="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/sett.png" alt="Purves (2014)" width="140"><br>Purves (2014)</a></li>
+<li><a class="tartan" href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki2008030-k17/"><img src="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki2008030-k17/sett.png" alt="Purves (2014)" width="140"><br>Purves (2014)</a></li>
 </ul>

@@ -5,8 +5,8 @@ date: 2023-03-18
 66 Personal tartans beginning with K. [Back to all Personal tartans](/type/personal/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><img src="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png" alt="Kagame (Personal)" width="140"><br>Kagame (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb8007237-db2609279/"><img src="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb8007237-db2609279/sett.png" alt="Kagame (Personal)" width="140"><br>Kagame (Personal)</a></li>
+<li><a class="tartan" href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><img src="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png" alt="Kagame (Personal)" width="140"><br>Kagame (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/"><img src="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/sett.png" alt="Kang (Personal)" width="140"><br>Kang (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><img src="/variants/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/sett.png" alt="Kapasi (Personal)" width="140"><br>Kapasi (Personal)</a></li>
 <li><a class="tartan" href="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><img src="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/sett.png" alt="Kapasi (Personal)" width="140"><br>Kapasi (Personal)</a></li>
@@ -15,8 +15,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><img src="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/sett.png" alt="Kelsey, William (Personal)" width="140"><br>Kelsey, William (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/"><img src="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/sett.png" alt="Kelsey, William (Personal)" width="140"><br>Kelsey, William (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/"><img src="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/sett.png" alt="Kelvin Family (Personal)" width="140"><br>Kelvin Family (Personal)</a></li>
-<li><a class="tartan" href="/variants/s17/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/"><img src="/variants/s17/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/sett.png" alt="Kennewell (Personal)" width="140"><br>Kennewell (Personal)</a></li>
 <li><a class="tartan" href="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/"><img src="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/sett.png" alt="Kennewell (Personal)" width="140"><br>Kennewell (Personal)</a></li>
+<li><a class="tartan" href="/variants/s17/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/"><img src="/variants/s17/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/sett.png" alt="Kennewell (Personal)" width="140"><br>Kennewell (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/dr4g2y2g24k2g3k3g3k10dp10w2dp4~x2/"><img src="/variants/s12/dr4g2y2g24k2g3k3g3k10dp10w2dp4~x2/sett.png" alt="Kerby (Personal)" width="140"><br>Kerby (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><img src="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/sett.png" alt="Kernbrownek (Personal)" width="140"><br>Kernbrownek (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1~x2/"><img src="/variants/s13/y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1~x2/sett.png" alt="Kerr of Ardgowan Arisaid (Personal)" width="140"><br>Kerr of Ardgowan Arisaid (Personal)</a></li>
@@ -33,12 +33,12 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><img src="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/sett.png" alt="Kettles, Ryan &amp; Alan (Personal)" width="140"><br>Kettles, Ryan & Alan (Personal)</a></li>
 <li><a class="tartan" href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1~x2/"><img src="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1~x2/sett.png" alt="Kettles, Ryan &amp; Alan (Personal)" width="140"><br>Kettles, Ryan & Alan (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r4518006-ri6914021/"><img src="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r4518006-ri6914021/sett.png" alt="Khosla, Sarah and Jatin (Personal)" width="140"><br>Khosla, Sarah and Jatin (Personal)</a></li>
-<li><a class="tartan" href="/variants/s8/b8r11b28r4k17o1k7r2~x2/"><img src="/variants/s8/b8r11b28r4k17o1k7r2~x2/sett.png" alt="Kilbranan Sound (Personal)" width="140"><br>Kilbranan Sound (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/db8r11db28r4k17o1k7r2~x2~db4210240/"><img src="/variants/s8/db8r11db28r4k17o1k7r2~x2~db4210240/sett.png" alt="Kilbranan Sound (Personal)" width="140"><br>Kilbranan Sound (Personal)</a></li>
+<li><a class="tartan" href="/variants/s8/b8r11b28r4k17o1k7r2~x2/"><img src="/variants/s8/b8r11b28r4k17o1k7r2~x2/sett.png" alt="Kilbranan Sound (Personal)" width="140"><br>Kilbranan Sound (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/db20w3db3w3db3w3k5dy10~x2/"><img src="/variants/s8/db20w3db3w3db3w3k5dy10~x2/sett.png" alt="Kile (No red line) (Personal)" width="140"><br>Kile (No red line) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><img src="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/sett.png" alt="Kile (Red line) (Personal)" width="140"><br>Kile (Red line) (Personal)</a></li>
-<li><a class="tartan" href="/variants/s4/w40t40r1k4~x2/"><img src="/variants/s4/w40t40r1k4~x2/sett.png" alt="Kimon Andreou Family (Personal)" width="140"><br>Kimon Andreou Family (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/w40db40r1k4~x2/"><img src="/variants/s4/w40db40r1k4~x2/sett.png" alt="Kimon Andreou Family (Personal)" width="140"><br>Kimon Andreou Family (Personal)</a></li>
+<li><a class="tartan" href="/variants/s4/w40t40r1k4~x2/"><img src="/variants/s4/w40t40r1k4~x2/sett.png" alt="Kimon Andreou Family (Personal)" width="140"><br>Kimon Andreou Family (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><img src="/variants/s7/k10lb30g3lb3g3lb3r6~x2/sett.png" alt="Kinding (Personal)" width="140"><br>Kinding (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><img src="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/sett.png" alt="King (Austria) (Personal)" width="140"><br>King (Austria) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><img src="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/sett.png" alt="King (Personal)" width="140"><br>King (Personal)</a></li>
@@ -50,8 +50,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/"><img src="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/sett.png" alt="Kipp (Personal)" width="140"><br>Kipp (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/"><img src="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/sett.png" alt="Klappert Original (Odsherred, Denmark) (Personal)" width="140"><br>Klappert Original (Odsherred, Denmark) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><img src="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/sett.png" alt="Klappert, Denmark (Personal)" width="140"><br>Klappert, Denmark (Personal)</a></li>
-<li><a class="tartan" href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><img src="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/sett.png" alt="Kleto, Susan (Personal)" width="140"><br>Kleto, Susan (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg4514144-g6019141/"><img src="/variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg4514144-g6019141/sett.png" alt="Kleto, Susan (Personal)" width="140"><br>Kleto, Susan (Personal)</a></li>
+<li><a class="tartan" href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><img src="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/sett.png" alt="Kleto, Susan (Personal)" width="140"><br>Kleto, Susan (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k70lo16db3o45/"><img src="/variants/s4/k70lo16db3o45/sett.png" alt="Klymson (Chicago) (Personal)" width="140"><br>Klymson (Chicago) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/n70lo16t3o45/"><img src="/variants/s4/n70lo16t3o45/sett.png" alt="Klymson (Personal)" width="140"><br>Klymson (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><img src="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/sett.png" alt="Knox #3 (Personal)" width="140"><br>Knox #3 (Personal)</a></li>
@@ -64,8 +64,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri6914021-r5221030/"><img src="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri6914021-r5221030/sett.png" alt="Kozlosky (Personal)" width="140"><br>Kozlosky (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/rii8r8ri8y3db1g1rii8ri8y3db1g1~x2~rii5717030-r4418030-ri4518006/"><img src="/variants/s11/rii8r8ri8y3db1g1rii8ri8y3db1g1~x2~rii5717030-r4418030-ri4518006/sett.png" alt="Kreutz, Arthur (Personal)" width="140"><br>Kreutz, Arthur (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/ri8dr8r8y3db1g1ri8dr8r9y3db1g1~x2~ri5623030-r4217018/"><img src="/variants/s12/ri8dr8r8y3db1g1ri8dr8r9y3db1g1~x2~ri5623030-r4217018/sett.png" alt="Kreutz, Arthur (Personal)" width="140"><br>Kreutz, Arthur (Personal)</a></li>
-<li><a class="tartan" href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri6914021-r5221021/"><img src="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri6914021-r5221021/sett.png" alt="Krifa-Jean (Personal)" width="140"><br>Krifa-Jean (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/dg4r5db4ly4do2n4r4~x5~r5221030/"><img src="/variants/s7/dg4r5db4ly4do2n4r4~x5~r5221030/sett.png" alt="Krifa-Jean (Personal)" width="140"><br>Krifa-Jean (Personal)</a></li>
+<li><a class="tartan" href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri6914021-r5221021/"><img src="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri6914021-r5221021/sett.png" alt="Krifa-Jean (Personal)" width="140"><br>Krifa-Jean (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/db2dr1k1lb1~x10/"><img src="/variants/s4/db2dr1k1lb1~x10/sett.png" alt="Kucher, Gregory (Personal)" width="140"><br>Kucher, Gregory (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><img src="/variants/s7/lp6w2lp1db6n30lb1r3~x2/sett.png" alt="Kuehle (Personal)" width="140"><br>Kuehle (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><img src="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/sett.png" alt="Kuehle Family (Personal)" width="140"><br>Kuehle Family (Personal)</a></li>

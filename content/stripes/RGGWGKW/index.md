@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/av/avalon-4/">Avalon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/av/avalon-4/"><img src="/variants/s7/r5dg3y6w3y5k55w5~x2~dg4514144/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/av/avalon-4/"><img src="/variants/s7/r5g3y6w3y5k55w5~x2/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

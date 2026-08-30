@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/charlotte-fire-department/">Charlotte Fire Department</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/charlotte-fire-department/"><img src="/variants/s6/k78r10g7y3db2w5~x2/sett.png" alt="Charlotte Fire Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/charlotte-fire-department/"><img src="/variants/s6/k75r10g7y3db2w5~x2/sett.png" alt="Charlotte Fire Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

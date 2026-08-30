@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fr/frame-3/">Frame</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fr/frame-3/"><img src="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/frame-3/"><img src="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

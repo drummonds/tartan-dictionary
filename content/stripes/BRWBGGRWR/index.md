@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/caledonia-no-3/">Caledonia No 3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonia-no-3/"><img src="/variants/s9/r13lb3r13g12y2b9lb9r13b2~x2/sett.png" alt="Caledonia No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonia-no-3/"><img src="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/sett.png" alt="Caledonia No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

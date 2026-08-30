@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ne/newall/">Newall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ne/newall/"><img src="/variants/s7/t30db15w4dg12w9t8w3~x2/sett.png" alt="Newall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newall/"><img src="/variants/s7/n30dp15w4g12w9n8w3~x2~n5507264-dp3705297/sett.png" alt="Newall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

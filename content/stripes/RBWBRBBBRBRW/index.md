@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ra/ramblers-red-hat-society/">Ramblers Red Hat Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/ramblers-red-hat-society/"><img src="/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2~dp2712327-dpi4018327/sett.png" alt="Ramblers Red Hat Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/ramblers-red-hat-society/"><img src="/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/sett.png" alt="Ramblers Red Hat Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

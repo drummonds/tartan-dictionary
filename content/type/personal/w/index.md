@@ -6,8 +6,8 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r5221030/"><img src="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r5221030/sett.png" alt="Walker, Dress (Personal)" width="140"><br>Walker, Dress (Personal)</a></li>
-<li><a class="tartan" href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><img src="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/sett.png" alt="Walker, Gauvin (Personal)" width="140"><br>Walker, Gauvin (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y5102165-dt22/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y5102165-dt22/sett.png" alt="Walker, Gauvin (Personal)" width="140"><br>Walker, Gauvin (Personal)</a></li>
+<li><a class="tartan" href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><img src="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/sett.png" alt="Walker, Gauvin (Personal)" width="140"><br>Walker, Gauvin (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/"><img src="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/sett.png" alt="Walker, Michael (Personal)" width="140"><br>Walker, Michael (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k1db7k7ly1~x10/"><img src="/variants/s4/k1db7k7ly1~x10/sett.png" alt="Wallace (Personal)" width="140"><br>Wallace (Personal)</a></li>
 <li><a class="tartan" href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><img src="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/sett.png" alt="Wallenberg, Nicolas (Personal)" width="140"><br>Wallenberg, Nicolas (Personal)</a></li>
@@ -16,10 +16,10 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r4418030-ri5221030/"><img src="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r4418030-ri5221030/sett.png" alt="Walls, Steve C (Personal)" width="140"><br>Walls, Steve C (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/n56w30n8r10n3r20/"><img src="/variants/s6/n56w30n8r10n3r20/sett.png" alt="Walsh, Michael Edward (Personal)" width="140"><br>Walsh, Michael Edward (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><img src="/variants/s7/r24w3y4dg18dp18g3lb4~x2/sett.png" alt="Walter (Personal)" width="140"><br>Walter (Personal)</a></li>
-<li><a class="tartan" href="/variants/s4/dg2dp2dg24dpi1~x4~dg4514144-dpi3717327/"><img src="/variants/s4/dg2dp2dg24dpi1~x4~dg4514144-dpi3717327/sett.png" alt="Walters (Personal)" width="140"><br>Walters (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/dg2dp2dg24g1~x4~dg4514144-g6019141/"><img src="/variants/s4/dg2dp2dg24g1~x4~dg4514144-g6019141/sett.png" alt="Walters (Personal)" width="140"><br>Walters (Personal)</a></li>
-<li><a class="tartan" href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><img src="/variants/s7/r8w2dr30g12dr3g12dr3~x2/sett.png" alt="Wasko (Personal)" width="140"><br>Wasko (Personal)</a></li>
+<li><a class="tartan" href="/variants/s4/dg2dp2dg24dpi1~x4~dg4514144-dpi3717327/"><img src="/variants/s4/dg2dp2dg24dpi1~x4~dg4514144-dpi3717327/sett.png" alt="Walters (Personal)" width="140"><br>Walters (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/"><img src="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/sett.png" alt="Wasko (Personal)" width="140"><br>Wasko (Personal)</a></li>
+<li><a class="tartan" href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><img src="/variants/s7/r8w2dr30g12dr3g12dr3~x2/sett.png" alt="Wasko (Personal)" width="140"><br>Wasko (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><img src="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/sett.png" alt="Watson - Kirby (Personal)" width="140"><br>Watson - Kirby (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><img src="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/sett.png" alt="Watson-Kirby (Personal)" width="140"><br>Watson-Kirby (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/"><img src="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/sett.png" alt="Watt (Dunfermline) (Personal)" width="140"><br>Watt (Dunfermline) (Personal)</a></li>
@@ -47,8 +47,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi99-n50-lr70-w90/"><img src="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi99-n50-lr70-w90/sett.png" alt="Weston-McCue (Personal)" width="140"><br>Weston-McCue (Personal)</a></li>
 <li><a class="tartan" href="/variants/s3/k62t33ly1~x2/"><img src="/variants/s3/k62t33ly1~x2/sett.png" alt="Westwater (Personal)" width="140"><br>Westwater (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/y1b15w5b1w5b1~x4/"><img src="/variants/s6/y1b15w5b1w5b1~x4/sett.png" alt="Whitley (Personal)" width="140"><br>Whitley (Personal)</a></li>
-<li><a class="tartan" href="/variants/s5/y3dg8n20dp30y2~x2/"><img src="/variants/s5/y3dg8n20dp30y2~x2/sett.png" alt="Wicks (Personal)" width="140"><br>Wicks (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/"><img src="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/sett.png" alt="Wicks (Personal)" width="140"><br>Wicks (Personal)</a></li>
+<li><a class="tartan" href="/variants/s5/y3dg8n20dp30y2~x2/"><img src="/variants/s5/y3dg8n20dp30y2~x2/sett.png" alt="Wicks (Personal)" width="140"><br>Wicks (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><img src="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/sett.png" alt="Wiegratz Alba (Personal)" width="140"><br>Wiegratz Alba (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly8818099-o6312063/"><img src="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly8818099-o6312063/sett.png" alt="Wilbers #2 (Personal)" width="140"><br>Wilbers #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><img src="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/sett.png" alt="Wilding, Michael John (Personal)" width="140"><br>Wilding, Michael John (Personal)</a></li>

@@ -21,8 +21,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><img src="/variants/s7/k3lb10dy5lb29k10r6k2~x2/sett.png" alt="Perkins 2015" width="140"><br>Perkins 2015</a></li>
 <li><a class="tartan" href="/variants/s5/k31r12y2n5k2~x4/"><img src="/variants/s5/k31r12y2n5k2~x4/sett.png" alt="Perry (2014)" width="140"><br>Perry (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/w1db15r1n10g2lp1~x4/"><img src="/variants/s6/w1db15r1n10g2lp1~x4/sett.png" alt="Peterson, Oren (Name)" width="140"><br>Peterson, Oren (Name)</a></li>
-<li><a class="tartan" href="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/"><img src="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/sett.png" alt="Philpotts, Brian" width="140"><br>Philpotts, Brian</a></li>
 <li><a class="tartan" href="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt8915195-lb82/"><img src="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt8915195-lb82/sett.png" alt="Philpotts, Brian" width="140"><br>Philpotts, Brian</a></li>
+<li><a class="tartan" href="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/"><img src="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t5912243-lb80/sett.png" alt="Philpotts, Brian" width="140"><br>Philpotts, Brian</a></li>
 <li><a class="tartan" href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><img src="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/sett.png" alt="Pilkington (2016)" width="140"><br>Pilkington (2016)</a></li>
 <li><a class="tartan" href="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb8007237-t5912243/"><img src="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb8007237-t5912243/sett.png" alt="Pincock (Name)" width="140"><br>Pincock (Name)</a></li>
 <li><a class="tartan" href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><img src="/variants/s7/r2w1lb50db24g12k1y1~x2/sett.png" alt="Pincock (Plockton), Dougie" width="140"><br>Pincock (Plockton), Dougie</a></li>

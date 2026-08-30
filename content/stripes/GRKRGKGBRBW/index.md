@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cr/crosser-crozier/">Crosser Crozier</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cr/crosser-crozier/"><img src="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/sett.png" alt="Crosser Crozier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crosser-crozier/"><img src="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/sett.png" alt="Crosser Crozier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

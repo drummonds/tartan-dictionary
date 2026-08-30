@@ -76,8 +76,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><img src="/variants/s7/r8lb45w1n4k11g6r4~x2/sett.png" alt="Ascension Island Heritage Trust" width="140"><br>Ascension Island Heritage Trust</a></li>
 <li><a class="tartan" href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><img src="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/sett.png" alt="ASDA Wal-Mart" width="140"><br>ASDA Wal-Mart</a></li>
 <li><a class="tartan" href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db3409246-dbi3514276/"><img src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db3409246-dbi3514276/sett.png" alt="ASF Official (Corporate)" width="140"><br>ASF Official (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><img src="/variants/s10/y4k3w3k44y4k22n22w3k3y4/sett.png" alt="Ashers of Nairn" width="140"><br>Ashers of Nairn</a></li>
 <li><a class="tartan" href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><img src="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/sett.png" alt="Ashers of Nairn" width="140"><br>Ashers of Nairn</a></li>
+<li><a class="tartan" href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><img src="/variants/s10/y4k3w3k44y4k22n22w3k3y4/sett.png" alt="Ashers of Nairn" width="140"><br>Ashers of Nairn</a></li>
 <li><a class="tartan" href="/variants/s6/k17g48y4r10db12g4/"><img src="/variants/s6/k17g48y4r10db12g4/sett.png" alt="Asheville Firefighters, The" width="140"><br>Asheville Firefighters, The</a></li>
 <li><a class="tartan" href="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/"><img src="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/sett.png" alt="Asile" width="140"><br>Asile</a></li>
 <li><a class="tartan" href="/variants/s14/r3k5w3y2db10k1yi19n19k28n3k3n3k3r3~yi59-n43/"><img src="/variants/s14/r3k5w3y2db10k1yi19n19k28n3k3n3k3r3~yi59-n43/sett.png" alt="Association Cornemuses du Monde" width="140"><br>Association Cornemuses du Monde</a></li>
@@ -88,8 +88,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r13o3r4o56n4o4~x2~o62-n47/"><img src="/variants/s6/r13o3r4o56n4o4~x2~o62-n47/sett.png" alt="Auchairne Grey" width="140"><br>Auchairne Grey</a></li>
 <li><a class="tartan" href="/variants/s6/db80r8w1r8y20db15~x2/"><img src="/variants/s6/db80r8w1r8y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army" width="140"><br>Auchtermuchty Tartan Army</a></li>
 <li><a class="tartan" href="/variants/s6/db80r7w1r7y20db15~x2/"><img src="/variants/s6/db80r7w1r7y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army (Corp)" width="140"><br>Auchtermuchty Tartan Army (Corp)</a></li>
-<li><a class="tartan" href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3dy3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
 <li><a class="tartan" href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3lo3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
+<li><a class="tartan" href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3dy3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
 <li><a class="tartan" href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><img src="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/sett.png" alt="Aurora House Check" width="140"><br>Aurora House Check</a></li>
 <li><a class="tartan" href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><img src="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/sett.png" alt="Austin College (Corporate)" width="140"><br>Austin College (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/"><img src="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/sett.png" alt="Austin College Page" width="140"><br>Austin College Page</a></li>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ar/arkansas/">Arkansas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ar/arkansas/"><img src="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg4514144/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arkansas/"><img src="/variants/s7/g3w1g12r6g3k3g2~x4/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

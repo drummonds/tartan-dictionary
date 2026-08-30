@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/an/ancient-gathering/">Ancient Gathering</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/an/ancient-gathering/"><img src="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/ancient-gathering/"><img src="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db2609279-dbi3409246/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/s/sp/spens-spence/">Spens/Spence</a> <small class="dt">ΔTartan 7.94</small></td></tr>
+<tr><td><a href="/tartans/s/sp/spens-spence/">Spens/Spence</a> <small class="dt">ΔTartan 7.34</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sp/spens-spence/"><img src="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t5912243/sett.png" alt="Spens/Spence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

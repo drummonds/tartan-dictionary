@@ -30,8 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/l/le/lendrum-2/">Lendrum</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/le/lendrum-2/"><img src="/variants/s14/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3~x2/sett.png" alt="Lendrum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macfarlane-2/">MacFarlane</a> <small class="dt">ΔTartan 0.30</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarlane-2/"><img src="/variants/s14/r42k1g12w2r3k1r3w2g2db12k4r3w4g3/sett.png" alt="MacFarlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/m/ma/macfarlane-2/">MacFarlane</a> <small class="dt">ΔTartan 1.62</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarlane-2/"><img src="/variants/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/sett.png" alt="MacFarlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

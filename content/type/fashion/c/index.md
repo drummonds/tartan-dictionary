@@ -19,8 +19,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><img src="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/sett.png" alt="Caledonia - 1819 (Wilsons') No.155" width="140"><br>Caledonia - 1819 (Wilsons') No.155</a></li>
 <li><a class="tartan" href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><img src="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/sett.png" alt="Caledonia No 3" width="140"><br>Caledonia No 3</a></li>
 <li><a class="tartan" href="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/"><img src="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/sett.png" alt="Caledonia Variant" width="140"><br>Caledonia Variant</a></li>
-<li><a class="tartan" href="/variants/s6/r60db20r8g45r8db2~x2/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian" width="140"><br>Caledonian</a></li>
 <li><a class="tartan" href="/variants/s6/r60dp20r8g45r8dp2~x2/"><img src="/variants/s6/r60dp20r8g45r8dp2~x2/sett.png" alt="Caledonian" width="140"><br>Caledonian</a></li>
+<li><a class="tartan" href="/variants/s6/r60db20r8g45r8db2~x2/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian" width="140"><br>Caledonian</a></li>
 <li><a class="tartan" href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/"><img src="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png" alt="Caledonian (WCWM)" width="140"><br>Caledonian (WCWM)</a></li>
 <li><a class="tartan" href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg7612141-dg4410159/"><img src="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg7612141-dg4410159/sett.png" alt="Caledonian Labrador Retrievers" width="140"><br>Caledonian Labrador Retrievers</a></li>
 <li><a class="tartan" href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><img src="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/sett.png" alt="Caledonian Maple" width="140"><br>Caledonian Maple</a></li>

@@ -30,9 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/e/eg/eglinton/">Eglinton</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/eg/eglinton/"><img src="/variants/s7/k1r1k1db7k1g1k1~x8/sett.png" alt="Eglinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/mo/montgomery/">Montgomery</a> <small class="dt">ΔTartan 1.77</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomery/"><img src="/variants/s7/k4r5k4dr28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montgomery/">Montgomery</a> <small class="dt">ΔTartan 0.05</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomery/"><img src="/variants/s7/k4r5k4db28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

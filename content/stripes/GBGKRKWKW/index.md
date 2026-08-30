@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bi/birch/">Birch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bi/birch/"><img src="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/sett.png" alt="Birch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/birch/"><img src="/variants/s9/g2dp2g10k6r2k6lb10k1w2~x2/sett.png" alt="Birch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/bahamas/">Bahamas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/bahamas/"><img src="/variants/s8/db6y2db22g7r2w11g11db3~x2/sett.png" alt="Bahamas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bahamas/"><img src="/variants/s8/db3g11w11r2g7db22y2db2~x2/sett.png" alt="Bahamas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

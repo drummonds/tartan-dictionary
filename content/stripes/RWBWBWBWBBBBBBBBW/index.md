@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pr/pride-of-lorient/">Pride of Lorient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-lorient/"><img src="/variants/s17/r2lb8t1lb4t2lb3t3lb1t15dt1t4dt2t2dt4t1dt9w2~x2~t4906243-dt3302252/sett.png" alt="Pride of Lorient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-lorient/"><img src="/variants/s17/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2~x2~dbi3514276-db3409246/sett.png" alt="Pride of Lorient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,8 +8,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/w8db16w2db2w1db1~x4/"><img src="/variants/s6/w8db16w2db2w1db1~x4/sett.png" alt="Ikelman #1 (Personal)" width="140"><br>Ikelman #1 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/n11k4dr4lo4n1~x4/"><img src="/variants/s5/n11k4dr4lo4n1~x4/sett.png" alt="Ikelman #2 (Personal)" width="140"><br>Ikelman #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/n11k4dr4lo4n11~x4/"><img src="/variants/s5/n11k4dr4lo4n11~x4/sett.png" alt="Ikelman #3 (Personal)" width="140"><br>Ikelman #3 (Personal)</a></li>
-<li><a class="tartan" href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><img src="/variants/s7/dr10db15g2db2w1db1w1~x4/sett.png" alt="Ikelman #4 (Personal)" width="140"><br>Ikelman #4 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/dr11k4dr4lo4dr11~x4/"><img src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="Ikelman #4 (Personal)" width="140"><br>Ikelman #4 (Personal)</a></li>
+<li><a class="tartan" href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><img src="/variants/s7/dr10db15g2db2w1db1w1~x4/sett.png" alt="Ikelman #4 (Personal)" width="140"><br>Ikelman #4 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><img src="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/sett.png" alt="Ikelman #5 (Personal)" width="140"><br>Ikelman #5 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><img src="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/sett.png" alt="Ikelman #6 (Personal)" width="140"><br>Ikelman #6 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><img src="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/sett.png" alt="Ikelman (Personal)" width="140"><br>Ikelman (Personal)</a></li>

@@ -19,10 +19,10 @@
   {{- with .Site.Params.favicon }}
   <link rel="icon" type="image/png" href="{{ . }}">
   {{- end }}
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/simpleness.css">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hint.css">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/dictionary.css">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/print.css">
+  <link rel="stylesheet" href="{{ "css/simpleness.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/hint.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/dictionary.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/print.css" | relURL }}">
   {{- if not .Params.redirect }}
   <link rel="canonical" href="{{ .Permalink }}">
   {{- end }}

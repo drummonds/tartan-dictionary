@@ -42,8 +42,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/r/re/redland/"><img src="/variants/s6/g52lb7g9k35db35k7/sett.png" alt="Redland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menteith/">Menteith</a> <small class="dt">ΔTartan 1.74</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/me/menteith/"><img src="/variants/s6/g9w1g6k7db7k1~x2/sett.png" alt="Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gr/graham-of-menteith/">Graham of Menteith</a> <small class="dt">ΔTartan 2.02</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-of-menteith/"><img src="/variants/s6/g8w2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-of-menteith/">Graham of Menteith</a> <small class="dt">ΔTartan 1.76</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-of-menteith/"><img src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

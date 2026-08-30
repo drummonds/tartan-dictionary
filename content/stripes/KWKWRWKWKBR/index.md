@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/me/merchiston-castle-school/">Merchiston Castle School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/me/merchiston-castle-school/"><img src="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/sett.png" alt="Merchiston Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merchiston-castle-school/"><img src="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/sett.png" alt="Merchiston Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

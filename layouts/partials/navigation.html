@@ -3,10 +3,10 @@
        when no menu is configured. Stays in the top row beside the hamburger on mobile. */}}
   <div class="nav-item nav-title nav-brand">
     {{ if not (gt (len .Site.Menus) 0) }}
-    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
     {{ else }}
-    <a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Title }} — home">
-      <img class="nav-logo" src="{{ "img/logo.svg" | absURL }}" alt="{{ .Site.Title }}">
+    <a href="{{ "/" | relURL }}" aria-label="{{ .Site.Title }} — home">
+      <img class="nav-logo" src="{{ "img/logo.svg" | relURL }}" alt="{{ .Site.Title }}">
     </a>
     {{ end }}
   </div>
@@ -88,7 +88,7 @@
       </a>
       {{ end }}
       {{ if .Site.Params.social.rss }}
-      <a href="{{ "index.xml" | absLangURL }}" target="_blank">
+      <a href="{{ "index.xml" | relLangURL }}" target="_blank">
         <i title="RSS" class="fas fa-rss"></i>
       </a>
       {{ end }}

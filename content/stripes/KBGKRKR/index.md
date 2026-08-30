@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wo/wounded-warriors-canada/">Wounded Warriors Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wo/wounded-warriors-canada/"><img src="/variants/s7/r9k4r9k25y3dp18k4~x2/sett.png" alt="Wounded Warriors Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wounded-warriors-canada/"><img src="/variants/s7/r9k4r9k25dy3dp18k4~x2/sett.png" alt="Wounded Warriors Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

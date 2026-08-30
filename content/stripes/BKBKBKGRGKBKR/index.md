@@ -29,8 +29,8 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/at/atholl/">Atholl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/at/atholl/"><img src="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/sett.png" alt="Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mu/murray-of-atholl/">Murray of Atholl</a> <small class="dt">ΔTartan 0.25</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/atholl/"><img src="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/sett.png" alt="Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-atholl/">Murray of Atholl</a> <small class="dt">ΔTartan 0.22</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-atholl/"><img src="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

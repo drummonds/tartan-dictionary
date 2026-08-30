@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/grewar/">Grewar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grewar/"><img src="/variants/s10/dy2gi2dy16gi2dp17dg10g10gi15dg1w2~x2~gi5408159-dg3007159-g4909174/sett.png" alt="Grewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grewar/"><img src="/variants/s10/dy2g2dy16g2dp17dg10gi10g15dg1w2~x2~dg3007159-gi4909174/sett.png" alt="Grewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

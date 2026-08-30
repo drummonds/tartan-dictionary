@@ -48,8 +48,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s4/lb3o6k4lb2~x2~o62/"><img src="/variants/s4/lb3o6k4lb2~x2~o62/sett.png" alt="Bedford Check" width="140"><br>Bedford Check</a></li>
 <li><a class="tartan" href="/variants/s4/lb3n6k4lb2~x2/"><img src="/variants/s4/lb3n6k4lb2~x2/sett.png" alt="Bedford Check (Fashion)" width="140"><br>Bedford Check (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/"><img src="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/sett.png" alt="BeeJay" width="140"><br>BeeJay</a></li>
-<li><a class="tartan" href="/variants/s7/n3k31w6k7n3k12w2~x2/"><img src="/variants/s7/n3k31w6k7n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
 <li><a class="tartan" href="/variants/s7/n3k31w6k8n3k12w2~x2/"><img src="/variants/s7/n3k31w6k8n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
+<li><a class="tartan" href="/variants/s7/n3k31w6k7n3k12w2~x2/"><img src="/variants/s7/n3k31w6k7n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
 <li><a class="tartan" href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr3313009-r4518006/"><img src="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr3313009-r4518006/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
 <li><a class="tartan" href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><img src="/variants/s8/k4o8m30k8o6k8o12w3~x2/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
 <li><a class="tartan" href="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/"><img src="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/sett.png" alt="Belk Festive (Fashion)" width="140"><br>Belk Festive (Fashion)</a></li>
@@ -92,8 +92,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><img src="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/sett.png" alt="Blue Dunnett (Fashion)" width="140"><br>Blue Dunnett (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/"><img src="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/sett.png" alt="Blue Matheson Hunting (Kinloch Anderson)" width="140"><br>Blue Matheson Hunting (Kinloch Anderson)</a></li>
 <li><a class="tartan" href="/variants/s4/t4g8t18w3~x2/"><img src="/variants/s4/t4g8t18w3~x2/sett.png" alt="Blue Meadow" width="140"><br>Blue Meadow</a></li>
-<li><a class="tartan" href="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b4818270-db2508270/"><img src="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b4818270-db2508270/sett.png" alt="Blue Pride" width="140"><br>Blue Pride</a></li>
 <li><a class="tartan" href="/variants/s11/b38k4b2g6bi11db3bi2r2b11k1w2~x2~b4819270-bi5819300/"><img src="/variants/s11/b38k4b2g6bi11db3bi2r2b11k1w2~x2~b4819270-bi5819300/sett.png" alt="Blue Pride" width="140"><br>Blue Pride</a></li>
+<li><a class="tartan" href="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b4818270-db2508270/"><img src="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b4818270-db2508270/sett.png" alt="Blue Pride" width="140"><br>Blue Pride</a></li>
 <li><a class="tartan" href="/variants/s8/db3k13db3k22db49k2db2lb1~x2/"><img src="/variants/s8/db3k13db3k22db49k2db2lb1~x2/sett.png" alt="Blue Spirit" width="140"><br>Blue Spirit</a></li>
 <li><a class="tartan" href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t5211240/"><img src="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t5211240/sett.png" alt="Blue Spruce, The" width="140"><br>Blue Spruce, The</a></li>
 <li><a class="tartan" href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t5508243-db3409246/"><img src="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t5508243-db3409246/sett.png" alt="Blue Toon (Fashion)" width="140"><br>Blue Toon (Fashion)</a></li>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/du/dundee-dress/">Dundee Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee-dress/"><img src="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r5221030-ri6914021/sett.png" alt="Dundee Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee-dress/"><img src="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri5021030-r4116015/sett.png" alt="Dundee Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

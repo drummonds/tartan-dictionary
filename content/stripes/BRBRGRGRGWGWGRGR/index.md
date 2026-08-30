@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ri/riley-utter-union/">Riley-Utter Union</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ri/riley-utter-union/"><img src="/variants/s16/db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2/sett.png" alt="Riley-Utter Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/riley-utter-union/"><img src="/variants/s16/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2/sett.png" alt="Riley-Utter Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

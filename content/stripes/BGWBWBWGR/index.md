@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/rosevear/">Rosevear</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/rosevear/"><img src="/variants/s9/dr50y4w16db2w4db2w15g27r4~x2/sett.png" alt="Rosevear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rosevear/"><img src="/variants/s9/dr50dy4w16db2w4db2w15g27r4~x2/sett.png" alt="Rosevear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

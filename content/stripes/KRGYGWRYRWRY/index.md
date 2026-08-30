@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/studio-wolf-polysun/">Studio Wolf Polysun</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/studio-wolf-polysun/"><img src="/variants/s12/lo18r3w3r3lo2r1w1g1lo2y1r1k1~x4/sett.png" alt="Studio Wolf Polysun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/studio-wolf-polysun/"><img src="/variants/s12/lr18r3w3r3lr2r1w1g1lr2y1r1k1~x4/sett.png" alt="Studio Wolf Polysun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

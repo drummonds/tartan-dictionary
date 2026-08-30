@@ -45,8 +45,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/"><img src="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/sett.png" alt="Emergency Medical Services Memorial Tartan" width="140"><br>Emergency Medical Services Memorial Tartan</a></li>
 <li><a class="tartan" href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/"><img src="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/sett.png" alt="Empire Golf Check" width="140"><br>Empire Golf Check</a></li>
 <li><a class="tartan" href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><img src="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/sett.png" alt="Enable (Corporate)" width="140"><br>Enable (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><img src="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/sett.png" alt="ENABLE Scotland" width="140"><br>ENABLE Scotland</a></li>
 <li><a class="tartan" href="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><img src="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/sett.png" alt="ENABLE Scotland" width="140"><br>ENABLE Scotland</a></li>
+<li><a class="tartan" href="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><img src="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/sett.png" alt="ENABLE Scotland" width="140"><br>ENABLE Scotland</a></li>
 <li><a class="tartan" href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><img src="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/sett.png" alt="Encyclopaedia Britannica" width="140"><br>Encyclopaedia Britannica</a></li>
 <li><a class="tartan" href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><img src="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/sett.png" alt="Encyclopaedia Britannica (Corporate)" width="140"><br>Encyclopaedia Britannica (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg4410159-ly6614111/"><img src="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg4410159-ly6614111/sett.png" alt="Entier" width="140"><br>Entier</a></li>
@@ -63,7 +63,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/dp18ly1k15r15k24db4w1~x2/"><img src="/variants/s7/dp18ly1k15r15k24db4w1~x2/sett.png" alt="European Congress of Immunology (Cor" width="140"><br>European Congress of Immunology (Cor</a></li>
 <li><a class="tartan" href="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/"><img src="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/sett.png" alt="European Congress of Immunology 2012" width="140"><br>European Congress of Immunology 2012</a></li>
 <li><a class="tartan" href="/variants/s6/r28ri1db18ly2g1db18~x2~r4418030-ri5221030/"><img src="/variants/s6/r28ri1db18ly2g1db18~x2~r4418030-ri5221030/sett.png" alt="European Judo Union" width="140"><br>European Judo Union</a></li>
-<li><a class="tartan" href="/variants/s6/db4r1db18t18w1t4~x4/"><img src="/variants/s6/db4r1db18t18w1t4~x4/sett.png" alt="Ewell Castle School" width="140"><br>Ewell Castle School</a></li>
 <li><a class="tartan" href="/variants/s6/dt4r1dt18db18w1db4~x4~dt2604240-db3409246/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt2604240-db3409246/sett.png" alt="Ewell Castle School" width="140"><br>Ewell Castle School</a></li>
+<li><a class="tartan" href="/variants/s6/db4r1db18t18w1t4~x4/"><img src="/variants/s6/db4r1db18t18w1t4~x4/sett.png" alt="Ewell Castle School" width="140"><br>Ewell Castle School</a></li>
 <li><a class="tartan" href="/variants/s5/dr3n34db4g47lb3~x2/"><img src="/variants/s5/dr3n34db4g47lb3~x2/sett.png" alt="Exabyte" width="140"><br>Exabyte</a></li>
 </ul>

@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/de/delaware-fine-spirits-guild/">Delaware Fine Spirits Guild</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/de/delaware-fine-spirits-guild/"><img src="/variants/s6/k5dg25k10g15y1g5~x2/sett.png" alt="Delaware Fine Spirits Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/delaware-fine-spirits-guild/"><img src="/variants/s6/k10dg25k10g15y1g5~x2/sett.png" alt="Delaware Fine Spirits Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/macarthur/">MacArthur</a> <small class="dt">ΔTartan 4.18</small></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur/">MacArthur</a> <small class="dt">ΔTartan 4.35</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur/"><img src="/variants/s6/g18y2g18k4g2k15~x2/sett.png" alt="MacArthur sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

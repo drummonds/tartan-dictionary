@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/j/jc/jcm-customs/">JCM Customs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/j/jc/jcm-customs/"><img src="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1w1lb1k1db4k1lb1w4k40r3~x2/sett.png" alt="JCM Customs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jc/jcm-customs/"><img src="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/sett.png" alt="JCM Customs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

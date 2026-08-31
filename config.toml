@@ -169,24 +169,32 @@ weight = 1
     name = "Tartan Register"
     url = "/colour/tartan-register/"
     weight = 7
+    # These four names also appear under the Sources flyout. Hugo keys a menu's entries by
+    # identifier-or-name, so same-named entries in one menu COLLAPSE to a single entry (the
+    # mills used to vanish from this flyout) — every duplicated name needs an identifier
+    # unique across the whole info menu.
     [[menu.info]]
     parent = "colour"
     name = "Logan (1831)"
+    identifier = "colour-logan-1831"
     url = "/colour/logan-1831/"
     weight = 8
     [[menu.info]]
     parent = "colour"
     name = "Ingles Buchan"
+    identifier = "colour-ingles-buchan"
     url = "/colour/ingles-buchan/"
     weight = 9
     [[menu.info]]
     parent = "colour"
     name = "Lochcarron"
+    identifier = "colour-lochcarron"
     url = "/colour/lochcarron/"
     weight = 10
     [[menu.info]]
     parent = "colour"
     name = "DC Dalgleish"
+    identifier = "colour-dc-dalgleish"
     url = "/colour/dc-dalgleish/"
     weight = 11
   [[menu.info]]
@@ -220,6 +228,7 @@ weight = 1
     [[menu.info]]
     parent = "sources"
     name = "Logan (1831)"
+    identifier = "sources-logan-1831"
     url = "/sources/logan-1831/"
     weight = 5
     [[menu.info]]
@@ -245,16 +254,19 @@ weight = 1
     [[menu.info]]
     parent = "sources"
     name = "DC Dalgleish"
+    identifier = "sources-dc-dalgleish"
     url = "/sources/dc-dalgleish-colours/"
     weight = 10
     [[menu.info]]
     parent = "sources"
     name = "Lochcarron"
+    identifier = "sources-lochcarron"
     url = "/sources/lochcarron-colours/"
     weight = 11
     [[menu.info]]
     parent = "sources"
     name = "Ingles Buchan"
+    identifier = "sources-ingles-buchan"
     url = "/sources/inglesbuchan/"
     weight = 12
     [[menu.info]]
@@ -265,6 +277,7 @@ weight = 1
     [[menu.info]]
     parent = "sources"
     name = "Paintings"
+    identifier = "sources-paintings"
     url = "/sources/paintings/"
     weight = 14
     [[menu.info]]

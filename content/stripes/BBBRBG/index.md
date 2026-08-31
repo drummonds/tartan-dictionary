@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/h/h-m-s-duncan/">H.M.S. DUNCAN</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/h/h-m-s-duncan/"><img src="/variants/s6/dp3n15db15r2db15y3~x2/sett.png" alt="H.M.S. DUNCAN sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/h/h-m-s-duncan/"><img src="/variants/s6/dp3dt15db15r2db15y3~x2/sett.png" alt="H.M.S. DUNCAN sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,14 +29,14 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/black-watch-isetan-men-s/">Black Watch/Isetan Men's</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-isetan-men-s/"><img src="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/sett.png" alt="Black Watch/Isetan Men's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/no/norwich-no-007/">Norwich No.007</a> <small class="dt">ΔTartan 0.87</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-isetan-men-s/"><img src="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/sett.png" alt="Black Watch/Isetan Men's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norwich-no-007/">Norwich No.007</a> <small class="dt">ΔTartan 0.86</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-no-007/"><img src="/variants/s13/r3k1db5k5g6k4g6k5db1k5db1k1db2~x2~db3514276/sett.png" alt="Norwich No.007 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/t/th/the-red-hackle/">The Red Hackle</a> <small class="dt">ΔTartan 3.53</small></td></tr>
+<tr><td><a href="/tartans/t/th/the-red-hackle/">The Red Hackle</a> <small class="dt">ΔTartan 3.25</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/t/th/the-red-hackle/"><img src="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/sett.png" alt="The Red Hackle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/r/re/red-hackle/">Red Hackle</a> <small class="dt">ΔTartan 5.37</small></td></tr>
+<tr><td><a href="/tartans/r/re/red-hackle/">Red Hackle</a> <small class="dt">ΔTartan 5.02</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/re/red-hackle/"><img src="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/sett.png" alt="Red Hackle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

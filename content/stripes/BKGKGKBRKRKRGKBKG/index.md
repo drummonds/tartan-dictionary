@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-old/"><img src="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/sett.png" alt="Stewart Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-stuart/">Stewart/Stuart</a> <small class="dt">ΔTartan 0.38</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-stuart/"><img src="/variants/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33~db2911276/sett.png" alt="Stewart/Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stewart-of-bute/">Stewart of Bute</a> <small class="dt">ΔTartan 0.46</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-bute/"><img src="/variants/s17/g34k2t2k2g34r3k34r2k34r3t33k2g2k2g2k2t33~x2/sett.png" alt="Stewart of Bute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-bute/">Stewart of Bute</a> <small class="dt">ΔTartan 0.47</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-bute/"><img src="/variants/s17/dg34k2t2k2dg34r3k34r2k34r3t33k2dg2k2dg2k2t33~x2~dg4514144/sett.png" alt="Stewart of Bute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

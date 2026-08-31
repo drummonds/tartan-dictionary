@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wa/waterford-county/">Waterford, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wa/waterford-county/"><img src="/variants/s6/dg42lo2g16db7do16r5~x2/sett.png" alt="Waterford, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waterford-county/"><img src="/variants/s6/dg24lo2g16db7do16r5~x2/sett.png" alt="Waterford, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/le/lermontov/">Lermontov</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/lermontov/"><img src="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db2911276/sett.png" alt="Lermontov sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lermontov/"><img src="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/sett.png" alt="Lermontov sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

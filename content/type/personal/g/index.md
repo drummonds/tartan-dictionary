@@ -21,8 +21,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><img src="/variants/s7/r4k9dg9db40r2db2w2~x2/sett.png" alt="Genet, Edmond Charles 'Citizen' (Personal)" width="140"><br>Genet, Edmond Charles 'Citizen' (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><img src="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/sett.png" alt="George (Personal)" width="140"><br>George (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><img src="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/sett.png" alt="George (Personal)" width="140"><br>George (Personal)</a></li>
-<li><a class="tartan" href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><img src="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/sett.png" alt="George, Stuart (Personal)" width="140"><br>George, Stuart (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><img src="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/sett.png" alt="George, Stuart (Personal)" width="140"><br>George, Stuart (Personal)</a></li>
+<li><a class="tartan" href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><img src="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/sett.png" alt="George, Stuart (Personal)" width="140"><br>George, Stuart (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><img src="/variants/s7/k5db15k5lb1k35dp1k2~x4/sett.png" alt="Gibson, Robert (Personal)" width="140"><br>Gibson, Robert (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/k15r8y2db25k5db13k5~x2/"><img src="/variants/s7/k15r8y2db25k5db13k5~x2/sett.png" alt="Gifford (Personal)" width="140"><br>Gifford (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/y7dg1k1y2k9g22dg7k27db4k3w4~x2~dg4514144-g6019141/"><img src="/variants/s11/y7dg1k1y2k9g22dg7k27db4k3w4~x2~dg4514144-g6019141/sett.png" alt="Gilhooley (Personal)" width="140"><br>Gilhooley (Personal)</a></li>

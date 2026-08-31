@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/moskyok-collins/">Moskyok-Collins</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/moskyok-collins/"><img src="/variants/s12/y6w2n4lb1dt6lb1t40lb1dt6lb1n4w4~x2~dt2705249-t5211240/sett.png" alt="Moskyok-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moskyok-collins/"><img src="/variants/s12/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2~dbi3514276-db2911276/sett.png" alt="Moskyok-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

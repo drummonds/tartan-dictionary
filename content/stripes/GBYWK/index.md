@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pr/prehospital-ems/">Prehospital EMS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/prehospital-ems/"><img src="/variants/s5/k1w7lo7db16dy1~x4/sett.png" alt="Prehospital EMS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prehospital-ems/"><img src="/variants/s5/k1w7lo7db16y1~x4/sett.png" alt="Prehospital EMS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

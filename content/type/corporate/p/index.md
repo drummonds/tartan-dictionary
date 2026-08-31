@@ -38,8 +38,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db2911276-dbi3514276/"><img src="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db2911276-dbi3514276/sett.png" alt="Pinney's of Scotland" width="140"><br>Pinney's of Scotland</a></li>
 <li><a class="tartan" href="/variants/s6/ly4t8dp4k53db54w2/"><img src="/variants/s6/ly4t8dp4k53db54w2/sett.png" alt="Pipers' Trail (Corporate)" width="140"><br>Pipers' Trail (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/k6w49db50dp6t8y4~db3409246-t6107234/"><img src="/variants/s6/k6w49db50dp6t8y4~db3409246-t6107234/sett.png" alt="Pipers' Trail Dance, The" width="140"><br>Pipers' Trail Dance, The</a></li>
-<li><a class="tartan" href="/variants/s6/y4lb8dp4k53db54w4/"><img src="/variants/s6/y4lb8dp4k53db54w4/sett.png" alt="Pipers' Trail, The" width="140"><br>Pipers' Trail, The</a></li>
 <li><a class="tartan" href="/variants/s6/w4db54k53dp4lb8ly4/"><img src="/variants/s6/w4db54k53dp4lb8ly4/sett.png" alt="Pipers' Trail, The" width="140"><br>Pipers' Trail, The</a></li>
+<li><a class="tartan" href="/variants/s6/y4lb8dp4k53db54w4/"><img src="/variants/s6/y4lb8dp4k53db54w4/sett.png" alt="Pipers' Trail, The" width="140"><br>Pipers' Trail, The</a></li>
 <li><a class="tartan" href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r4418030-ri5321009/"><img src="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r4418030-ri5321009/sett.png" alt="Pitcairn Heritage" width="140"><br>Pitcairn Heritage</a></li>
 <li><a class="tartan" href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><img src="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/sett.png" alt="Pitcairn Heritage Hunting" width="140"><br>Pitcairn Heritage Hunting</a></li>
 <li><a class="tartan" href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><img src="/variants/s8/db1r1y1k15y15r1db1y1~x4/sett.png" alt="Pittsburgh St Andrew's Society" width="140"><br>Pittsburgh St Andrew's Society</a></li>

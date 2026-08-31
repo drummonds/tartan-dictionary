@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bo/bouguet-adrian-hunting/">Bouguet, Adrian Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bo/bouguet-adrian-hunting/"><img src="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi8007237-lb80/sett.png" alt="Bouguet, Adrian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bouguet-adrian-hunting/"><img src="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb8007237-lbi82/sett.png" alt="Bouguet, Adrian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

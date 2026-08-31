@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/laurie/">Laurie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/laurie/"><img src="/variants/s7/dp6r2dp1dg25db16k2db4~x2/sett.png" alt="Laurie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laurie/"><img src="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp2712327/sett.png" alt="Laurie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

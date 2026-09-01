@@ -51,8 +51,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><img src="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/sett.png" alt="Tinkler, Andrew (Stobart Group)" width="140"><br>Tinkler, Andrew (Stobart Group)</a></li>
 <li><a class="tartan" href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><img src="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/sett.png" alt="Tom Morris (Official)" width="140"><br>Tom Morris (Official)</a></li>
 <li><a class="tartan" href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/"><img src="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/sett.png" alt="Tomatin Distillery" width="140"><br>Tomatin Distillery</a></li>
-<li><a class="tartan" href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><img src="/variants/s7/g4dy7o9dy9db20w2db2~x2/sett.png" alt="Tombow 140th Anniversary, The" width="140"><br>Tombow 140th Anniversary, The</a></li>
 <li><a class="tartan" href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><img src="/variants/s7/g4y7lo9y9db20w2db2~x2/sett.png" alt="Tombow 140th Anniversary, The" width="140"><br>Tombow 140th Anniversary, The</a></li>
+<li><a class="tartan" href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><img src="/variants/s7/g4dy7o9dy9db20w2db2~x2/sett.png" alt="Tombow 140th Anniversary, The" width="140"><br>Tombow 140th Anniversary, The</a></li>
 <li><a class="tartan" href="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/"><img src="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/sett.png" alt="Tombow 21st School Memorial" width="140"><br>Tombow 21st School Memorial</a></li>
 <li><a class="tartan" href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><img src="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/sett.png" alt="Tommy" width="140"><br>Tommy</a></li>
 <li><a class="tartan" href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><img src="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/sett.png" alt="Toronto Blue Jays" width="140"><br>Toronto Blue Jays</a></li>

@@ -61,6 +61,8 @@ One full sett is **610 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/20 DG30 K2 DG4 K2 DG30 K3 DBi30 K35 DR2 K35 DBi30 K3 DG30 K2 DG4 K2 DG30 K20 DB/2 tartan" width="880" height="480">
 
+[Sample sheet (PDF)](swatch.pdf) — the woven sample, thread count and palette on one printable A4, rendered on demand (the same sheet the TTD print page downloads).
+
 ## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.

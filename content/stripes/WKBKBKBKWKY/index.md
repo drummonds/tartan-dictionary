@@ -30,8 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccandlish-arisaid-2/">MacCandlish Arisaid</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish-arisaid-2/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb7609282-lbi80/sett.png" alt="MacCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/mc/mccandlish-arisaid-2/">McCandlish Arisaid</a> <small class="dt">ΔTartan 0.10</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccandlish-arisaid-2/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6w12k1lo1~x4/sett.png" alt="McCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/m/mc/mccandlish-arisaid-2/">McCandlish Arisaid</a> <small class="dt">ΔTartan 2.40</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccandlish-arisaid-2/"><img src="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/sett.png" alt="McCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

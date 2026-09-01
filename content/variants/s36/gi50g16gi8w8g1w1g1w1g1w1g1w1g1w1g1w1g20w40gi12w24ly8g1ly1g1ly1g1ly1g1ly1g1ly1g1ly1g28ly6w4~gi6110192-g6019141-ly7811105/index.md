@@ -61,4 +61,6 @@ One full sett is **442 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Gi/50 G16 Gi8 W8 G1 W1 G1 W1 G1 W1 G1 W1 G1 W1 G1 W1 G20 W40 Gi12 W24 LY8 G1 LY1 G1 LY1 G1 LY1 G1 LY1 G1 LY1 G1 LY1 G28 LY6 W/4 tartan" width="880" height="480">
 
+[Sample sheet (PDF)](swatch.pdf) — the woven sample, thread count and palette on one printable A4, rendered on demand (the same sheet the TTD print page downloads).
+
 ID: /variants/s36/gi50g16gi8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40gi12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4~gi6110192-g6019141-ly7811105/

@@ -62,6 +62,8 @@ One full sett is **597 threads**.
 
 <img class="tartan-sample" src="tartan.png?s=dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1~dg4514144-g6019141-t5313246&w=880&tpcm=16" alt="DG/16 G1 DG1 G1 DG1 G1 DG1 G1 DG1 G8 O16 DP32 O16 G8 DG1 G1 DG1 G1 DG1 G1 DG1 G1 DG16 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T16 LB32 T16 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T1 DG1 T16 LB32 T16 DG1 T1 DG1 T1 DG1 T/1 tartan" width="880" height="480">
 
+[Sample sheet (PDF)](swatch.pdf?s=dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1~dg4514144-g6019141-t5313246) — the woven sample, thread count and palette on one printable A4, rendered on demand (the same sheet the TTD print page downloads).
+
 ## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.

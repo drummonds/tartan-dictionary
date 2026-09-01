@@ -52,6 +52,8 @@ One full sett is **468 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 DB9 K3 DB3 K8 G27 R8 G27 K8 G5 K13 G8 K13 G5 K8 G27 Y8 G27 K8 DB3 K3 DB9 G/4 tartan" width="880" height="480">
 
+[Sample sheet (PDF)](swatch.pdf) — the woven sample, thread count and palette on one printable A4, rendered on demand (the same sheet the TTD print page downloads).
+
 ## Compared to the master
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.

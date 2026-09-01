@@ -1,7 +1,7 @@
 ---
 title: About Tartan Dictionary
 date: 2023-02-17
-lastmod: 2026-06-15
+lastmod: 2026-09-01
 author: Humphrey Drummond
 background: /bg/about.png # Drummond of Megginch — the tartan this site grew from
 ---
@@ -55,3 +55,12 @@ is collected in the [glossary of terms](/glossary/).
 [Tartanify]: https://tartanify.com/
 [XTartan gif collection]: https://dickgrune.com/Cult/tartan/
 [pyTartan]: https://github.com/clsn/pyTartan
+
+## Inspirational
+
+Ideas from elsewhere that shaped how the site draws and thinks:
+
+- [Fractal Jittered Voronoi Partitions][] by Boris the Brave — the technique behind the organic,
+  coastline-like territory boundaries and frontiers on the [clan maps](/)
+
+[Fractal Jittered Voronoi Partitions]: https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/

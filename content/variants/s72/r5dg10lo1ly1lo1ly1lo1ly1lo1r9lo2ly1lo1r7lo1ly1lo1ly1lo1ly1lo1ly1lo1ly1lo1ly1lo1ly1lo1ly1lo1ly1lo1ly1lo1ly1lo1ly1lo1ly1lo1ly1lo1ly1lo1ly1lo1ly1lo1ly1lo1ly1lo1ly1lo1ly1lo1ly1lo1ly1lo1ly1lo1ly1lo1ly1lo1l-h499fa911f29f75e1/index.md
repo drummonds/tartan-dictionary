@@ -58,4 +58,6 @@ One full sett is **388 threads**.
 
 <img class="tartan-sample" src="tartan.png?s=r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1~x2&w=880&tpcm=16" alt="R/10 DG20 LO2 LY2 LO2 LY2 LO2 LY2 LO2 R18 LO4 LY2 LO2 R14 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY2 LO2 LY/2 tartan" width="880" height="480">
 
+[Sample sheet (PDF)](swatch.pdf?s=r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1~x2) — the woven sample, thread count and palette on one printable A4, rendered on demand (the same sheet the TTD print page downloads).
+
 ID: /variants/s72/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1l-h499fa911f29f75e1/

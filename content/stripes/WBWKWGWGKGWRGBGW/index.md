@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/be/beckett-beaumont-2/">Beckett Beaumont</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/be/beckett-beaumont-2/"><img src="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt3705186-k1801018/sett.png" alt="Beckett Beaumont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beckett-beaumont-2/"><img src="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi4407138-dg3403084/sett.png" alt="Beckett Beaumont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

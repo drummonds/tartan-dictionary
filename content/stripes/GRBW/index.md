@@ -32,11 +32,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-5/"><img src="/variants/s4/g15r3db11lb2~x2/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/u/un/unidentified-10/">Unidentified 10</a> <small class="dt">ΔTartan 0.20</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-10/"><img src="/variants/s4/g14r3db9lb2~x2/sett.png" alt="Unidentified 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnab-wi2/">MacNab WI2</a> <small class="dt">ΔTartan 0.30</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-wi2/"><img src="/variants/s4/g15r3db11w2/sett.png" alt="MacNab WI2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mc/mcniff-kevin/">McNiff, Kevin</a> <small class="dt">ΔTartan 1.22</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mc/mcniff-kevin/"><img src="/variants/s4/g20r7db40w2~x2/sett.png" alt="McNiff, Kevin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/m/ma/macnab-wi2/">MacNab WI2</a> <small class="dt">ΔTartan 1.50</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-wi2/"><img src="/variants/s4/g15r3dr11lb2/sett.png" alt="MacNab WI2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/m/ma/macnab-7/">MacNab 7</a> <small class="dt">ΔTartan 1.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-7/"><img src="/variants/s4/g15r3dp11lb2~x2/sett.png" alt="MacNab 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

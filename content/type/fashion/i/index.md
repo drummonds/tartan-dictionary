@@ -10,8 +10,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/dr2b10k9bi13k7db3k2db3k2db3dr2~x2~bi4028264-db2316264/"><img src="/variants/s11/dr2b10k9bi13k7db3k2db3k2db3dr2~x2~bi4028264-db2316264/sett.png" alt="Impulse" width="140"><br>Impulse</a></li>
 <li><a class="tartan" href="/variants/s8/dr2k39db3k2db3k2db3dr2~x2/"><img src="/variants/s8/dr2k39db3k2db3k2db3dr2~x2/sett.png" alt="Impulse (Fashion)" width="140"><br>Impulse (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s17/t3k2lr20dr2lr3dr2lr3dr4lo3dr2db4dr2k2g6k3dr2lr3~x2/"><img src="/variants/s17/t3k2lr20dr2lr3dr2lr3dr4lo3dr2db4dr2k2g6k3dr2lr3~x2/sett.png" alt="Innes Red, Dress (Dance)" width="140"><br>Innes Red, Dress (Dance)</a></li>
-<li><a class="tartan" href="/variants/s5/r5db12g11n21y5~x2/"><img src="/variants/s5/r5db12g11n21y5~x2/sett.png" alt="Inspiration" width="140"><br>Inspiration</a></li>
 <li><a class="tartan" href="/variants/s5/dy5n21ly11db12r5~x2/"><img src="/variants/s5/dy5n21ly11db12r5~x2/sett.png" alt="Inspiration" width="140"><br>Inspiration</a></li>
+<li><a class="tartan" href="/variants/s5/r5db12g11n21y5~x2/"><img src="/variants/s5/r5db12g11n21y5~x2/sett.png" alt="Inspiration" width="140"><br>Inspiration</a></li>
 <li><a class="tartan" href="/variants/s7/p8w4p50k12p4k15r5~x2/"><img src="/variants/s7/p8w4p50k12p4k15r5~x2/sett.png" alt="Instakilt, Blue (Fashion)" width="140"><br>Instakilt, Blue (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><img src="/variants/s7/g8w4g50k12g4k15ly5~x2/sett.png" alt="Instakilt, Green (Fashion)" width="140"><br>Instakilt, Green (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s7/r8w4r50k12r4k15o5~x2/"><img src="/variants/s7/r8w4r50k12r4k15o5~x2/sett.png" alt="Instakilt, Pink (Fashion)" width="140"><br>Instakilt, Pink (Fashion)</a></li>

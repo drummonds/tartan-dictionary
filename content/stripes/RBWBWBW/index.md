@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/haddrell/">Haddrell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/haddrell/"><img src="/variants/s7/r2db4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haddrell/"><img src="/variants/s7/r2t4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

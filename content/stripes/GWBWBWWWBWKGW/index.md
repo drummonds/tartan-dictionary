@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wi/willox/">Willox</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/willox/"><img src="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/sett.png" alt="Willox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/willox/"><img src="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2~x2/sett.png" alt="Willox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -30,8 +30,9 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/f/fr/fraser-arisaid-3/">Fraser Arisaid</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-arisaid-3/"><img src="/variants/s5/w32dr12db12w2db3~x2/sett.png" alt="Fraser Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/l/la/laval/">Laval</a> <small class="dt">ΔTartan 0.69</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/laval/"><img src="/variants/s5/db2w2dr8db8w1~x2/sett.png" alt="Laval sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/l/la/laval/">Laval</a> <small class="dt">ΔTartan 1.91</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laval/"><img src="/variants/s5/db2w2b8db8w1~x2/sett.png" alt="Laval sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/l/la/laval-tartan-de/">Laval, Tartan de</a> <small class="dt">ΔTartan 3.59</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/la/laval-tartan-de/"><img src="/variants/s5/db1lb1dr4db4lb1~x4/sett.png" alt="Laval, Tartan de sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

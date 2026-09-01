@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/c/co/colchester-district-p-d-corporate/"><img src="/variants/s6/g10r4g46r69k2w6/sett.png" alt="Colchester &amp; District P&amp;D (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macgregor-of-balquhidder/">MacGregor of Balquhidder</a> <small class="dt">ΔTartan 0.71</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-of-balquhidder/"><img src="/variants/s6/g9r2g9r14k1w2~x2/sett.png" alt="MacGregor of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/p/pr/princess-margaret-rose/">Princess Margaret Rose</a> <small class="dt">ΔTartan 0.98</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-margaret-rose/"><img src="/variants/s6/g36r18g4r6k1w2~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-margaret-rose/">Princess Margaret Rose</a> <small class="dt">ΔTartan 0.99</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-margaret-rose/"><img src="/variants/s6/dg32r12dg6r6k2w3~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

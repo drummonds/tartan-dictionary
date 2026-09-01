@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/robertson-dress-hunting/">Robertson dress Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-dress-hunting/"><img src="/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/sett.png" alt="Robertson dress Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-dress-hunting/"><img src="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/sett.png" alt="Robertson dress Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/lockhart/">Lockhart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/lockhart/"><img src="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/sett.png" alt="Lockhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lockhart/"><img src="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/sett.png" alt="Lockhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

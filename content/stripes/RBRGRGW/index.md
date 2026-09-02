@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/cherry-john-s/">Cherry, John S</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/cherry-john-s/"><img src="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r5823030-ri6226030/sett.png" alt="Cherry, John S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/cherry-john-s/"><img src="/variants/s7/ri4db36r35g2r2g8w4~x2~ri6519045-r5221030/sett.png" alt="Cherry, John S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

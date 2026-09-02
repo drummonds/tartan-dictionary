@@ -36,7 +36,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaurin-of-brioch/"><img src="/variants/s7/db36k10g3r3g6k1y2~x2/sett.png" alt="MacLaurin of Brioch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/r/re/regent/">Regent</a> <small class="dt">ΔTartan 1.69</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/re/regent/"><img src="/variants/s7/dp18k7g5r4g7k1dy2~x2/sett.png" alt="Regent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/regent/"><img src="/variants/s7/dp18k7g5r4g7k1y2~x2/sett.png" alt="Regent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

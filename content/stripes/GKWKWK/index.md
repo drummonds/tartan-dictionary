@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/n/ne/new-zealand/">New Zealand</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-zealand/"><img src="/variants/s6/k21w2k5w9k13g2~x4/sett.png" alt="New Zealand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-zealand/"><img src="/variants/s6/k21lb2k5lb9k13g2~x4/sett.png" alt="New Zealand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

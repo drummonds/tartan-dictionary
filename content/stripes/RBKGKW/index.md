@@ -29,8 +29,8 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macphail-hunting/">MacPhail Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macphail-hunting/"><img src="/variants/s6/r2db23k14g16k2w2~x2/sett.png" alt="MacPhail Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/n/na/naysmith-2/">Naysmith</a> <small class="dt">ΔTartan 0.96</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macphail-hunting/"><img src="/variants/s6/r4db24k12g14k4lb3~x2/sett.png" alt="MacPhail Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/naysmith-2/">Naysmith</a> <small class="dt">ΔTartan 0.71</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/n/na/naysmith-2/"><img src="/variants/s6/r6db32k18g28k1lb2~x2/sett.png" alt="Naysmith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

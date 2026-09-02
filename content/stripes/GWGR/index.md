@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maclaine-of-lochbuie-2/">MacLaine of Lochbuie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaine-of-lochbuie-2/"><img src="/variants/s4/r32g8w4y1/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaine-of-lochbuie-2/"><img src="/variants/s4/r32g8lb4y1/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/on/one-account-2/">One Account</a> <small class="dt">ΔTartan 1.99</small></td></tr>
+<tr><td><a href="/tartans/o/on/one-account-2/">One Account</a> <small class="dt">ΔTartan 5.67</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/on/one-account-2/"><img src="/variants/s4/y6w5y12r2~x2/sett.png" alt="One Account sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

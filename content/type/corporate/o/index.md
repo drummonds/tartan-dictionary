@@ -55,8 +55,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><img src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="Outlander #1" width="140"><br>Outlander #1</a></li>
 <li><a class="tartan" href="/variants/s9/o7n6lb1ly6n1ly6n6lb1o6~x8~o62-n47/"><img src="/variants/s9/o7n6lb1ly6n1ly6n6lb1o6~x8~o62-n47/sett.png" alt="Outlander #2" width="140"><br>Outlander #2</a></li>
 <li><a class="tartan" href="/variants/s9/y7n6lt1dy6n1dy6n6lt1y6~x8~y59-lt8110237/"><img src="/variants/s9/y7n6lt1dy6n1dy6n6lt1y6~x8~y59-lt8110237/sett.png" alt="Outlander #2" width="140"><br>Outlander #2</a></li>
-<li><a class="tartan" href="/variants/s4/lb14n7dy6n2~x8/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander #3" width="140"><br>Outlander #3</a></li>
 <li><a class="tartan" href="/variants/s4/o14n7ly7n2~x8~o62-n47/"><img src="/variants/s4/o14n7ly7n2~x8~o62-n47/sett.png" alt="Outlander #3" width="140"><br>Outlander #3</a></li>
+<li><a class="tartan" href="/variants/s4/lb14n7dy6n2~x8/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander #3" width="140"><br>Outlander #3</a></li>
 <li><a class="tartan" href="/variants/s2/dy9n1~x12/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="Outlander #4" width="140"><br>Outlander #4</a></li>
 <li><a class="tartan" href="/variants/s3/dy27n3dy17~x4/"><img src="/variants/s3/dy27n3dy17~x4/sett.png" alt="Outlander #4" width="140"><br>Outlander #4</a></li>
 <li><a class="tartan" href="/variants/s3/n13dy15n2~x4/"><img src="/variants/s3/n13dy15n2~x4/sett.png" alt="Outlander #5" width="140"><br>Outlander #5</a></li>

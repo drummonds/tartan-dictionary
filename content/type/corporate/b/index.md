@@ -70,8 +70,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi3514276-db2911276/"><img src="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi3514276-db2911276/sett.png" alt="Bergen Scottish" width="140"><br>Bergen Scottish</a></li>
 <li><a class="tartan" href="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/"><img src="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/sett.png" alt="Berwick Friendship" width="140"><br>Berwick Friendship</a></li>
 <li><a class="tartan" href="/variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/"><img src="/variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/sett.png" alt="Berwick Friendship (Corporate)" width="140"><br>Berwick Friendship (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s7/y3db22k3db3k11r20y3~x2/"><img src="/variants/s7/y3db22k3db3k11r20y3~x2/sett.png" alt="Biffy Clyro" width="140"><br>Biffy Clyro</a></li>
 <li><a class="tartan" href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><img src="/variants/s7/ly3db22k3db3k11r20ly3~x2/sett.png" alt="Biffy Clyro" width="140"><br>Biffy Clyro</a></li>
+<li><a class="tartan" href="/variants/s7/y3db22k3db3k11r20y3~x2/"><img src="/variants/s7/y3db22k3db3k11r20y3~x2/sett.png" alt="Biffy Clyro" width="140"><br>Biffy Clyro</a></li>
 <li><a class="tartan" href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><img src="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/sett.png" alt="Big Rory (Corporate)" width="140"><br>Big Rory (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/dg11y1dg1y6k1y1~x4/"><img src="/variants/s6/dg11y1dg1y6k1y1~x4/sett.png" alt="Big Spruce Brewing" width="140"><br>Big Spruce Brewing</a></li>
 <li><a class="tartan" href="/variants/s4/y1k8r13g1~x6/"><img src="/variants/s4/y1k8r13g1~x6/sett.png" alt="Billy Apple® Red" width="140"><br>Billy Apple® Red</a></li>
@@ -86,8 +86,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><img src="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/sett.png" alt="Black Hills" width="140"><br>Black Hills</a></li>
 <li><a class="tartan" href="/variants/s6/k53n22k10n10k2n4~x2/"><img src="/variants/s6/k53n22k10n10k2n4~x2/sett.png" alt="Black Isle" width="140"><br>Black Isle</a></li>
 <li><a class="tartan" href="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/"><img src="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/sett.png" alt="Black Rose" width="140"><br>Black Rose</a></li>
-<li><a class="tartan" href="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/"><img src="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/sett.png" alt="Black Watch/Isetan Men's" width="140"><br>Black Watch/Isetan Men's</a></li>
 <li><a class="tartan" href="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/"><img src="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/sett.png" alt="Black Watch/Isetan Men's" width="140"><br>Black Watch/Isetan Men's</a></li>
+<li><a class="tartan" href="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/"><img src="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/sett.png" alt="Black Watch/Isetan Men's" width="140"><br>Black Watch/Isetan Men's</a></li>
 <li><a class="tartan" href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><img src="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/sett.png" alt="Blackdown Hills" width="140"><br>Blackdown Hills</a></li>
 <li><a class="tartan" href="/variants/s7/w8r4k8ki20db6ki3db5~x2~k17-ki2007141/"><img src="/variants/s7/w8r4k8ki20db6ki3db5~x2~k17-ki2007141/sett.png" alt="BlackRock (Asymmetrical)" width="140"><br>BlackRock (Asymmetrical)</a></li>
 <li><a class="tartan" href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k1309264-ki17/"><img src="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k1309264-ki17/sett.png" alt="BlackRock (Symmetrical)" width="140"><br>BlackRock (Symmetrical)</a></li>
@@ -121,8 +121,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/w5r5w5k15r2~x2/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk" width="140"><br>Braes High School Falkirk</a></li>
 <li><a class="tartan" href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><img src="/variants/s9/r4k16w4k16r4k42r20k83r2/sett.png" alt="Brand Ambassador" width="140"><br>Brand Ambassador</a></li>
 <li><a class="tartan" href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><img src="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/sett.png" alt="Brand Ambassador (Corporate)" width="140"><br>Brand Ambassador (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><img src="/variants/s9/db60r5db60t40db36r10db36t40w5/sett.png" alt="Brash" width="140"><br>Brash</a></li>
 <li><a class="tartan" href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db2609279-dbi3409246/"><img src="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db2609279-dbi3409246/sett.png" alt="Brash" width="140"><br>Brash</a></li>
+<li><a class="tartan" href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><img src="/variants/s9/db60r5db60t40db36r10db36t40w5/sett.png" alt="Brash" width="140"><br>Brash</a></li>
 <li><a class="tartan" href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart" width="140"><br>Braveheart</a></li>
 <li><a class="tartan" href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/"><img src="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/sett.png" alt="Braveheart Warrior" width="140"><br>Braveheart Warrior</a></li>
 <li><a class="tartan" href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><img src="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/sett.png" alt="Braveheart Warrior (Dress)" width="140"><br>Braveheart Warrior (Dress)</a></li>

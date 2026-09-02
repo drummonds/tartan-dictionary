@@ -26,8 +26,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><img src="/variants/s6/lb4r28k6lb12k12lb3~x2/sett.png" alt="Thomson, Red (Name)" width="140"><br>Thomson, Red (Name)</a></li>
 <li><a class="tartan" href="/variants/s9/db12lb2db2t6db4lb3db4lb18r1~x4~db3514276-t5912243/"><img src="/variants/s9/db12lb2db2t6db4lb3db4lb18r1~x4~db3514276-t5912243/sett.png" alt="Thorburn #1 (Name)" width="140"><br>Thorburn #1 (Name)</a></li>
 <li><a class="tartan" href="/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2~lb8007237-t5912243/"><img src="/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2~lb8007237-t5912243/sett.png" alt="Thorburn (1992)" width="140"><br>Thorburn (1992)</a></li>
-<li><a class="tartan" href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><img src="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/sett.png" alt="Timmins (2013)" width="140"><br>Timmins (2013)</a></li>
 <li><a class="tartan" href="/variants/s10/r4db2dp14db12y1t32db12t14db2g4~x2~db2508270-t6107234/"><img src="/variants/s10/r4db2dp14db12y1t32db12t14db2g4~x2~db2508270-t6107234/sett.png" alt="Timmins (2013)" width="140"><br>Timmins (2013)</a></li>
+<li><a class="tartan" href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><img src="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/sett.png" alt="Timmins (2013)" width="140"><br>Timmins (2013)</a></li>
 <li><a class="tartan" href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><img src="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/sett.png" alt="Tindal" width="140"><br>Tindal</a></li>
 <li><a class="tartan" href="/variants/s5/k8y1k8g13r2~x4/"><img src="/variants/s5/k8y1k8g13r2~x4/sett.png" alt="Tolmie" width="140"><br>Tolmie</a></li>
 <li><a class="tartan" href="/variants/s4/w14t5r1lb1~x8/"><img src="/variants/s4/w14t5r1lb1~x8/sett.png" alt="Triplett, Jack Arnold" width="140"><br>Triplett, Jack Arnold</a></li>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/we/west-highland-way/">West Highland Way</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/we/west-highland-way/"><img src="/variants/s12/db9lb1db1r3db14r1k12dg15dp3dg21r1dg8~x2~db3514276-dg4514144-dp4018327/sett.png" alt="West Highland Way sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-highland-way/"><img src="/variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/sett.png" alt="West Highland Way sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

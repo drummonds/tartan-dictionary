@@ -5,8 +5,8 @@ date: 2023-03-18
 69 Name tartans beginning with H. [Back to all Name tartans](/type/name/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2db4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell (2013)" width="140"><br>Haddrell (2013)</a></li>
 <li><a class="tartan" href="/variants/s7/r2t4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2t4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell (2013)" width="140"><br>Haddrell (2013)</a></li>
+<li><a class="tartan" href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2db4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell (2013)" width="140"><br>Haddrell (2013)</a></li>
 <li><a class="tartan" href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><img src="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/sett.png" alt="Haig Check" width="140"><br>Haig Check</a></li>
 <li><a class="tartan" href="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b4531264-t6121255-db2820264-lb7612255/"><img src="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b4531264-t6121255-db2820264-lb7612255/sett.png" alt="Halcrow Howell" width="140"><br>Halcrow Howell</a></li>
 <li><a class="tartan" href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi3514276-t5912243-db2609279-lb8007237/"><img src="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi3514276-t5912243-db2609279-lb8007237/sett.png" alt="Halcrow Howell (Name)" width="140"><br>Halcrow Howell (Name)</a></li>
@@ -17,8 +17,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/"><img src="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/sett.png" alt="Hanly" width="140"><br>Hanly</a></li>
 <li><a class="tartan" href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w90-dt22/"><img src="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w90-dt22/sett.png" alt="Hanson (2016)" width="140"><br>Hanson (2016)</a></li>
 <li><a class="tartan" href="/variants/s4/r2g1w1k1~x20/"><img src="/variants/s4/r2g1w1k1~x20/sett.png" alt="Harazeen" width="140"><br>Harazeen</a></li>
-<li><a class="tartan" href="/variants/s4/g21db34r14w6~x2/"><img src="/variants/s4/g21db34r14w6~x2/sett.png" alt="Harbison (2015)" width="140"><br>Harbison (2015)</a></li>
 <li><a class="tartan" href="/variants/s4/db21g34r14w6~x2/"><img src="/variants/s4/db21g34r14w6~x2/sett.png" alt="Harbison (2015)" width="140"><br>Harbison (2015)</a></li>
+<li><a class="tartan" href="/variants/s4/g21db34r14w6~x2/"><img src="/variants/s4/g21db34r14w6~x2/sett.png" alt="Harbison (2015)" width="140"><br>Harbison (2015)</a></li>
 <li><a class="tartan" href="/variants/s6/o4dg9w2dg24db37r3~x2/"><img src="/variants/s6/o4dg9w2dg24db37r3~x2/sett.png" alt="Hardie (Name)" width="140"><br>Hardie (Name)</a></li>
 <li><a class="tartan" href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n47/"><img src="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n47/sett.png" alt="Harding" width="140"><br>Harding</a></li>
 <li><a class="tartan" href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><img src="/variants/s10/g21db4w4db32g12y4g8r4g6db12/sett.png" alt="Harkness Hunting" width="140"><br>Harkness Hunting</a></li>
@@ -55,8 +55,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/r4k2r2k2r2k2dr8k6dr2g2db9g2k21w4~x2/"><img src="/variants/s14/r4k2r2k2r2k2dr8k6dr2g2db9g2k21w4~x2/sett.png" alt="Hitchens, William Henry" width="140"><br>Hitchens, William Henry</a></li>
 <li><a class="tartan" href="/variants/s9/y3lp9k3lp4k9g15k9db11w2~x4/"><img src="/variants/s9/y3lp9k3lp4k9g15k9db11w2~x4/sett.png" alt="Hoban (Name)" width="140"><br>Hoban (Name)</a></li>
 <li><a class="tartan" href="/variants/s7/k23r27db3r5w3k14y6~x2/"><img src="/variants/s7/k23r27db3r5w3k14y6~x2/sett.png" alt="Hoffman Texas German" width="140"><br>Hoffman Texas German</a></li>
-<li><a class="tartan" href="/variants/s13/dg49dr3w2ly1y3dg19w2ly1dg5dr3w2ly1y3~x2/"><img src="/variants/s13/dg49dr3w2ly1y3dg19w2ly1dg5dr3w2ly1y3~x2/sett.png" alt="Hogan" width="140"><br>Hogan</a></li>
 <li><a class="tartan" href="/variants/s4/g10w7ly41k7~x2/"><img src="/variants/s4/g10w7ly41k7~x2/sett.png" alt="Hogan" width="140"><br>Hogan</a></li>
+<li><a class="tartan" href="/variants/s13/dg49dr3w2ly1y3dg19w2ly1dg5dr3w2ly1y3~x2/"><img src="/variants/s13/dg49dr3w2ly1y3dg19w2ly1dg5dr3w2ly1y3~x2/sett.png" alt="Hogan" width="140"><br>Hogan</a></li>
 <li><a class="tartan" href="/variants/s4/g10w7y41k7~x2/"><img src="/variants/s4/g10w7y41k7~x2/sett.png" alt="Hogan (2014)" width="140"><br>Hogan (2014)</a></li>
 <li><a class="tartan" href="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/"><img src="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/sett.png" alt="Hogan (Name)" width="140"><br>Hogan (Name)</a></li>
 <li><a class="tartan" href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><img src="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/sett.png" alt="Hogg Dress" width="140"><br>Hogg Dress</a></li>

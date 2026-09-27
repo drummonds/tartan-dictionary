@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/re/read-dress-peter/">Read Dress, Peter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/re/read-dress-peter/"><img src="/variants/s18/o8k24n1k1n1k1n1k1n8k1n1k1n1k1n1o20y1w1~x2/sett.png" alt="Read Dress, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/read-dress-peter/"><img src="/variants/s18/r8k24n1k1n1k1n1k1n8k1n1k1n1k1n1r20y1w1~x2/sett.png" alt="Read Dress, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

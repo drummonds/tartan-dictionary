@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cr/crieff-primary-school/">Crieff Primary School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cr/crieff-primary-school/"><img src="/variants/s10/k3g1dr1dt6n2dt1n1dt1dr10lb1~x4/sett.png" alt="Crieff Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crieff-primary-school/"><img src="/variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/sett.png" alt="Crieff Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

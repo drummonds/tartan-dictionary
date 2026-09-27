@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/ramsay-2/"><img src="/variants/s6/k4w2k28db30k1db3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/ramsay-blue-hunting/">Ramsay Blue Hunting</a> <small class="dt">ΔTartan 0.44</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/ramsay-blue-hunting/"><img src="/variants/s6/k4lb2k28t30k1t3~x2/sett.png" alt="Ramsay Blue Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sw/swan/">Swan</a> <small class="dt">ΔTartan 0.68</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sw/swan/"><img src="/variants/s6/k3w2k18t18k2t3~x4/sett.png" alt="Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swan/">Swan</a> <small class="dt">ΔTartan 0.67</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swan/"><img src="/variants/s6/k3w2k18b18k2b3~x4/sett.png" alt="Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

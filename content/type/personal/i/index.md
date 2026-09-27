@@ -8,8 +8,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/w8db16w2db2w1db1~x4/"><img src="/variants/s6/w8db16w2db2w1db1~x4/sett.png" alt="Ikelman #1 (Personal)" width="140"><br>Ikelman #1 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/n11k4dr4lo4n1~x4/"><img src="/variants/s5/n11k4dr4lo4n1~x4/sett.png" alt="Ikelman #2 (Personal)" width="140"><br>Ikelman #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/n11k4dr4lo4n11~x4/"><img src="/variants/s5/n11k4dr4lo4n11~x4/sett.png" alt="Ikelman #3 (Personal)" width="140"><br>Ikelman #3 (Personal)</a></li>
-<li><a class="tartan" href="/variants/s5/dr11k4dr4lo4dr11~x4/"><img src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="Ikelman #4 (Personal)" width="140"><br>Ikelman #4 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><img src="/variants/s7/dr10db15g2db2w1db1w1~x4/sett.png" alt="Ikelman #4 (Personal)" width="140"><br>Ikelman #4 (Personal)</a></li>
+<li><a class="tartan" href="/variants/s5/dr11k4dr4lo4dr11~x4/"><img src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="Ikelman #4 (Personal)" width="140"><br>Ikelman #4 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><img src="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/sett.png" alt="Ikelman #5 (Personal)" width="140"><br>Ikelman #5 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><img src="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/sett.png" alt="Ikelman #6 (Personal)" width="140"><br>Ikelman #6 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><img src="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/sett.png" alt="Ikelman (Personal)" width="140"><br>Ikelman (Personal)</a></li>
@@ -25,7 +25,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w90/"><img src="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w90/sett.png" alt="Irving of Glentulchan (Personal)" width="140"><br>Irving of Glentulchan (Personal)</a></li>
 <li><a class="tartan" href="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/"><img src="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/sett.png" alt="Isla Grant (Personal)" width="140"><br>Isla Grant (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r3916030-dr2609033/"><img src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r3916030-dr2609033/sett.png" alt="Isle of Arran (Personal)" width="140"><br>Isle of Arran (Personal)</a></li>
-<li><a class="tartan" href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><img src="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/sett.png" alt="Ithilien Heather (Personal)" width="140"><br>Ithilien Heather (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi5408159-g4808117/"><img src="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi5408159-g4808117/sett.png" alt="Ithilien Heather (Personal)" width="140"><br>Ithilien Heather (Personal)</a></li>
+<li><a class="tartan" href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><img src="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/sett.png" alt="Ithilien Heather (Personal)" width="140"><br>Ithilien Heather (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/"><img src="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/sett.png" alt="Ivanka Trump (Personal)" width="140"><br>Ivanka Trump (Personal)</a></li>
 </ul>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/stewart-of-rothesay/">Stewart of Rothesay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-rothesay/"><img src="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/sett.png" alt="Stewart of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-rothesay/"><img src="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/sett.png" alt="Stewart of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/au/auchtermuchty-tartan-army/">Auchtermuchty Tartan Army</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/au/auchtermuchty-tartan-army/"><img src="/variants/s6/db80r7w1r7y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auchtermuchty-tartan-army/"><img src="/variants/s6/db80r8w1r8y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

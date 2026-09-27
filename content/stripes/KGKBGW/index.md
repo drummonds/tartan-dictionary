@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/longmuir/">Longmuir</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/longmuir/"><img src="/variants/s6/k43dg8k8dt21dg10w2~x2/sett.png" alt="Longmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longmuir/"><img src="/variants/s6/k43dg8k8db21dg10w2~x2/sett.png" alt="Longmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

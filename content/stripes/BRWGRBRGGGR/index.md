@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/lo/loch-creran/">Loch Creran</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-creran/"><img src="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/sett.png" alt="Loch Creran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-creran/"><img src="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/sett.png" alt="Loch Creran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

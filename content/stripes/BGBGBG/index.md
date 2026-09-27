@@ -33,11 +33,11 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/r/ro/royal/">Royal &amp;</a> <small class="dt">ΔTartan 0.61</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ro/royal/"><img src="/variants/s6/g49db16dy3db2dy2db6~x2/sett.png" alt="Royal &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/h/ha/harmony-12/">Harmony 12</a> <small class="dt">ΔTartan 3.16</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-12/"><img src="/variants/s6/db6g2db29g29db2g6~x2/sett.png" alt="Harmony 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/c/ca/carnet/">Carnet</a> <small class="dt">ΔTartan 7.01</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/carnet/"><img src="/variants/s6/do6g3do3g11do1g2~x4/sett.png" alt="Carnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/ha/harmony-12/">Harmony 12</a> <small class="dt">ΔTartan 9.17</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-12/"><img src="/variants/s6/dy6n2dy29n29dy2n6~x2/sett.png" alt="Harmony 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-11/">Harmony 11</a> <small class="dt">ΔTartan 14.99</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-11/"><img src="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

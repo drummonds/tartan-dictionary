@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kimon-andreou/">Kimon Andreou</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kimon-andreou/"><img src="/variants/s4/w40t40r1k4~x2/sett.png" alt="Kimon Andreou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kimon-andreou/"><img src="/variants/s4/w40db40r1k4~x2/sett.png" alt="Kimon Andreou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

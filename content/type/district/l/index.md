@@ -34,8 +34,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/w12k3g50w3k13dy6~x2/"><img src="/variants/s6/w12k3g50w3k13dy6~x2/sett.png" alt="Limerick County, Crest Range" width="140"><br>Limerick County, Crest Range</a></li>
 <li><a class="tartan" href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><img src="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/sett.png" alt="Limerick, County" width="140"><br>Limerick, County</a></li>
 <li><a class="tartan" href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><img src="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/sett.png" alt="Little Dress" width="140"><br>Little Dress</a></li>
-<li><a class="tartan" href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><img src="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/sett.png" alt="Loch Awe" width="140"><br>Loch Awe</a></li>
 <li><a class="tartan" href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><img src="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/sett.png" alt="Loch Awe" width="140"><br>Loch Awe</a></li>
+<li><a class="tartan" href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><img src="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/sett.png" alt="Loch Awe" width="140"><br>Loch Awe</a></li>
 <li><a class="tartan" href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><img src="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/sett.png" alt="Loch Carron" width="140"><br>Loch Carron</a></li>
 <li><a class="tartan" href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><img src="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/sett.png" alt="Loch Creran" width="140"><br>Loch Creran</a></li>
 <li><a class="tartan" href="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/"><img src="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/sett.png" alt="Loch Creran (District)" width="140"><br>Loch Creran (District)</a></li>

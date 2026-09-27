@@ -54,8 +54,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg2709141-dgi4314144/"><img src="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg2709141-dgi4314144/sett.png" alt="Gorman, George (Personal)" width="140"><br>Gorman, George (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/dg9g1b2g1db4r1~x12~dg4514144-g6019141/"><img src="/variants/s6/dg9g1b2g1db4r1~x12~dg4514144-g6019141/sett.png" alt="Gorman, George (Personal)" width="140"><br>Gorman, George (Personal)</a></li>
 <li><a class="tartan" href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><img src="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/sett.png" alt="Gotts (Personal)" width="140"><br>Gotts (Personal)</a></li>
-<li><a class="tartan" href="/variants/s7/k24w1r6k21y2k24g1~x2/"><img src="/variants/s7/k24w1r6k21y2k24g1~x2/sett.png" alt="Gourlay, George (Personal)" width="140"><br>Gourlay, George (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><img src="/variants/s7/k24w1r6k21ly2k24g1~x2/sett.png" alt="Gourlay, George (Personal)" width="140"><br>Gourlay, George (Personal)</a></li>
+<li><a class="tartan" href="/variants/s7/k24w1r6k21y2k24g1~x2/"><img src="/variants/s7/k24w1r6k21y2k24g1~x2/sett.png" alt="Gourlay, George (Personal)" width="140"><br>Gourlay, George (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><img src="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/sett.png" alt="Graden (Personal)" width="140"><br>Graden (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db3514276/"><img src="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db3514276/sett.png" alt="Grady (Personal)" width="140"><br>Grady (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/"><img src="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/sett.png" alt="Graham-Maila (Personal)" width="140"><br>Graham-Maila (Personal)</a></li>

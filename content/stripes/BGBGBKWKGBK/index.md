@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/ep/episcopal-clergy/">Episcopal Clergy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/ep/episcopal-clergy/"><img src="/variants/s11/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1~x4/sett.png" alt="Episcopal Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ep/episcopal-clergy/"><img src="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/sett.png" alt="Episcopal Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

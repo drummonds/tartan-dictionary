@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bo/borthwick-dress/">Borthwick Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bo/borthwick-dress/"><img src="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/sett.png" alt="Borthwick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/borthwick-dress/"><img src="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/sett.png" alt="Borthwick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bl/blair/">Blair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bl/blair/"><img src="/variants/s7/db4r1db18k20g18r1g4~x2/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/ga/gammell/">Gammell</a> <small class="dt">ΔTartan 0.50</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blair/"><img src="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg4514144-r5221030-db3514276/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gammell/">Gammell</a> <small class="dt">ΔTartan 0.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/ga/gammell/"><img src="/variants/s7/db3r2db22k11g22r2g3~x2/sett.png" alt="Gammell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macthomas/">MacThomas</a> <small class="dt">ΔTartan 0.50</small></td></tr>
+<tr><td><a href="/tartans/m/ma/macthomas/">MacThomas</a> <small class="dt">ΔTartan 0.56</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macthomas/"><img src="/variants/s7/db3r2db21k11g21r2g3/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -6,8 +6,8 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s6/k6lb1dr18db6dg18k2~x2/"><img src="/variants/s6/k6lb1dr18db6dg18k2~x2/sett.png" alt="Eachaidh" width="140"><br>Eachaidh</a></li>
-<li><a class="tartan" href="/variants/s7/r3db2ly1db50w1db2lb3~x2/"><img src="/variants/s7/r3db2ly1db50w1db2lb3~x2/sett.png" alt="Easton (2014)" width="140"><br>Easton (2014)</a></li>
 <li><a class="tartan" href="/variants/s7/n3db2w1db50y1db2r3~x2~n5507264-db2508270/"><img src="/variants/s7/n3db2w1db50y1db2r3~x2~n5507264-db2508270/sett.png" alt="Easton (2014)" width="140"><br>Easton (2014)</a></li>
+<li><a class="tartan" href="/variants/s7/r3db2ly1db50w1db2lb3~x2/"><img src="/variants/s7/r3db2ly1db50w1db2lb3~x2/sett.png" alt="Easton (2014)" width="140"><br>Easton (2014)</a></li>
 <li><a class="tartan" href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><img src="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/sett.png" alt="Edgar (2014)" width="140"><br>Edgar (2014)</a></li>
 <li><a class="tartan" href="/variants/s9/n37db4n7db4n9db40lb2db4n2/"><img src="/variants/s9/n37db4n7db4n9db40lb2db4n2/sett.png" alt="Edwards" width="140"><br>Edwards</a></li>
 <li><a class="tartan" href="/variants/s22/k9r3k3lb11k3g11k3g3k3g11k3lb11k3r3k9r3k3g11k3lb11k3lb3~x2/"><img src="/variants/s22/k9r3k3lb11k3g11k3g3k3g11k3lb11k3r3k9r3k3g11k3lb11k3lb3~x2/sett.png" alt="Ellenee" width="140"><br>Ellenee</a></li>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/on/ontario-ensign-of/">Ontario, Ensign of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/on/ontario-ensign-of/"><img src="/variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/sett.png" alt="Ontario, Ensign of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/on/ontario-ensign-of/"><img src="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/sett.png" alt="Ontario, Ensign of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

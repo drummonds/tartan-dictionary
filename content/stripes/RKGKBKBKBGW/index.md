@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/t/ti/tindal/">Tindal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/ti/tindal/"><img src="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/sett.png" alt="Tindal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tindal/"><img src="/variants/s11/r3k2g18k18db3k3db3k3db18y2w3~x2/sett.png" alt="Tindal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

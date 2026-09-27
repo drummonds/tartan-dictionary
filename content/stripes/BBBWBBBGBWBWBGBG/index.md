@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/stuart-houghton-hunting/">Stuart-Houghton Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-houghton-hunting/"><img src="/variants/s16/db11n4db4w2db4n4db11g26n4w3n4w2n14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-houghton-hunting/"><img src="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

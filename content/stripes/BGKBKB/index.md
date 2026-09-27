@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/mo/monarchs/">Monarchs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/mo/monarchs/"><img src="/variants/s6/db19k4b1k4dg9b1~x4/sett.png" alt="Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monarchs/"><img src="/variants/s6/db19k4dr1k4dg9dr1~x4/sett.png" alt="Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

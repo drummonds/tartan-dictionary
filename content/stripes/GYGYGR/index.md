@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/confederate-artillery/">Confederate Artillery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/confederate-artillery/"><img src="/variants/s6/r2g12ly3g8ly14g2~x2/sett.png" alt="Confederate Artillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/confederate-artillery/"><img src="/variants/s6/dg2ly14dg8ly3dg12r2~x2/sett.png" alt="Confederate Artillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

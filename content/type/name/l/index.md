@@ -33,8 +33,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><img src="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/sett.png" alt="Letham (S.Australia)" width="140"><br>Letham (S.Australia)</a></li>
 <li><a class="tartan" href="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/"><img src="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/sett.png" alt="Letham Hunting" width="140"><br>Letham Hunting</a></li>
 <li><a class="tartan" href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><img src="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/sett.png" alt="Letham Hunting (Name)" width="140"><br>Letham Hunting (Name)</a></li>
-<li><a class="tartan" href="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"><img src="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/sett.png" alt="Letter Dress (2014)" width="140"><br>Letter Dress (2014)</a></li>
 <li><a class="tartan" href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><img src="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/sett.png" alt="Letter Dress (2014)" width="140"><br>Letter Dress (2014)</a></li>
+<li><a class="tartan" href="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"><img src="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/sett.png" alt="Letter Dress (2014)" width="140"><br>Letter Dress (2014)</a></li>
 <li><a class="tartan" href="/variants/s4/lb53g20w18db14~x2/"><img src="/variants/s4/lb53g20w18db14~x2/sett.png" alt="Leutz (Name?)" width="140"><br>Leutz (Name?)</a></li>
 <li><a class="tartan" href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><img src="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell (New York) (Name)" width="140"><br>Liddell (New York) (Name)</a></li>
 <li><a class="tartan" href="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/"><img src="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell (Newfane, New York)" width="140"><br>Liddell (Newfane, New York)</a></li>

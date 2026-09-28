@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/du/dutch/">Dutch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/du/dutch/"><img src="/variants/s6/w2db12lo1k12lo12k1~x2/sett.png" alt="Dutch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dutch/"><img src="/variants/s6/k4lo19k19lo2dp22w4~x2/sett.png" alt="Dutch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

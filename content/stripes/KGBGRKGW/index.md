@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/lambert-kai/">Lambert Kai</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-kai/"><img src="/variants/s8/k3g34db10g5r2k8dy2w3~x2/sett.png" alt="Lambert Kai sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-kai/"><img src="/variants/s8/k3g34t10g5r2k8dy2w3~x2/sett.png" alt="Lambert Kai sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

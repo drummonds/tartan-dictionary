@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pu/puxty-dunne/">Puxty-Dunne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pu/puxty-dunne/"><img src="/variants/s7/n18w2k1w4dg13n40r2~x2/sett.png" alt="Puxty-Dunne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/puxty-dunne/"><img src="/variants/s7/n18w2k1w4g13n40r2~x2/sett.png" alt="Puxty-Dunne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

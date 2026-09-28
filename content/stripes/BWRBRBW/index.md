@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/coronation/">Coronation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/coronation/"><img src="/variants/s7/db11w1r12db6r1db6w1~x2/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coronation/"><img src="/variants/s7/db7w1r7db4r2db4w2~x2/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

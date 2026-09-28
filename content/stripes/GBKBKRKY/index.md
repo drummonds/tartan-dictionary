@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cu/cumnock/">Cumnock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumnock/"><img src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="Cumnock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumnock/"><img src="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/sett.png" alt="Cumnock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

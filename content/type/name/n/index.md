@@ -5,8 +5,8 @@ date: 2023-03-18
 17 Name tartans beginning with N. [Back to all Name tartans](/type/name/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s5/r1k8g2db4r1~x4/"><img src="/variants/s5/r1k8g2db4r1~x4/sett.png" alt="Nairn" width="140"><br>Nairn</a></li>
 <li><a class="tartan" href="/variants/s5/r1k8dg2db4r1~x8/"><img src="/variants/s5/r1k8dg2db4r1~x8/sett.png" alt="Nairn" width="140"><br>Nairn</a></li>
+<li><a class="tartan" href="/variants/s5/r1k8g2db4r1~x4/"><img src="/variants/s5/r1k8g2db4r1~x4/sett.png" alt="Nairn" width="140"><br>Nairn</a></li>
 <li><a class="tartan" href="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/"><img src="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/sett.png" alt="Nance (1998)" width="140"><br>Nance (1998)</a></li>
 <li><a class="tartan" href="/variants/s6/r6db32k18g28k1lb2~x2/"><img src="/variants/s6/r6db32k18g28k1lb2~x2/sett.png" alt="Naysmith (Name)" width="140"><br>Naysmith (Name)</a></li>
 <li><a class="tartan" href="/variants/s7/y6g28r4k20r3db45k5~x2/"><img src="/variants/s7/y6g28r4k20r3db45k5~x2/sett.png" alt="Nery" width="140"><br>Nery</a></li>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/da/dama-resort/">Dama Resort</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/da/dama-resort/"><img src="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/sett.png" alt="Dama Resort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dama-resort/"><img src="/variants/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/sett.png" alt="Dama Resort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

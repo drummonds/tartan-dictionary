@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccallum-of-berwick/">MacCallum of Berwick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccallum-of-berwick/"><img src="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/sett.png" alt="MacCallum of Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccallum-of-berwick/"><img src="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/sett.png" alt="MacCallum of Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

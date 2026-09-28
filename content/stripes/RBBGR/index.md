@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sk/skibo-2/">Skibo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sk/skibo-2/"><img src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skibo-2/"><img src="/variants/s5/r2g23db11dbi22r2~x2~db1913264-dbi3911270/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

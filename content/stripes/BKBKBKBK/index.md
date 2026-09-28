@@ -29,16 +29,16 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/do/douglas-3/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-3/"><img src="/variants/s8/k10n1k2n1k4n10k1n2~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/d/do/douglas-vs/">Douglas VS</a> <small class="dt">ΔTartan 0.44</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-3/"><img src="/variants/s8/k9n1k2n1k4n9k1n2~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas-vs/">Douglas VS</a> <small class="dt">ΔTartan 0.46</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-vs/"><img src="/variants/s8/k16n1k1n1k8n16k1n2~x2/sett.png" alt="Douglas VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sp/spirit-of-glyndwr/">Spirit of Glyndwr</a> <small class="dt">ΔTartan 0.84</small></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-glyndwr/">Spirit of Glyndwr</a> <small class="dt">ΔTartan 0.83</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-glyndwr/"><img src="/variants/s8/k24n18k11n4k11n18k53n4/sett.png" alt="Spirit of Glyndwr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/o/ob/oban-3/">Oban</a> <small class="dt">ΔTartan 3.99</small></td></tr>
+<tr><td><a href="/tartans/o/ob/oban-3/">Oban</a> <small class="dt">ΔTartan 3.85</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/o/ob/oban-3/"><img src="/variants/s8/k6db10k10b1k1b1k10b6~x4~db3514276/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/g/gl/glasgow-academy-2/">Glasgow Academy</a> <small class="dt">ΔTartan 7.91</small></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-academy-2/">Glasgow Academy</a> <small class="dt">ΔTartan 7.69</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-academy-2/"><img src="/variants/s8/db7k2db2k2db2k7dp7k2~x4/sett.png" alt="Glasgow Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

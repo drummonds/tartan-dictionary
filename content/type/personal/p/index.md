@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg4514144-g4808117/"><img src="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg4514144-g4808117/sett.png" alt="Paget (Personal)" width="140"><br>Paget (Personal)</a></li>
 <li><a class="tartan" href="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/"><img src="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/sett.png" alt="Palatine Union (Personal)" width="140"><br>Palatine Union (Personal)</a></li>
-<li><a class="tartan" href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><img src="/variants/s6/db37g27dr22w1dp6ly5~x2/sett.png" alt="Palazzo Bloise (Personal)" width="140"><br>Palazzo Bloise (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/db74g54dr44w2dp15y10/"><img src="/variants/s6/db74g54dr44w2dp15y10/sett.png" alt="Palazzo Bloise (Personal)" width="140"><br>Palazzo Bloise (Personal)</a></li>
+<li><a class="tartan" href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><img src="/variants/s6/db37g27dr22w1dp6ly5~x2/sett.png" alt="Palazzo Bloise (Personal)" width="140"><br>Palazzo Bloise (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/"><img src="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/sett.png" alt="Parkin (Personal)" width="140"><br>Parkin (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/db22w2k10g11r3g4~x2/"><img src="/variants/s6/db22w2k10g11r3g4~x2/sett.png" alt="Paterson Blue (Personal)" width="140"><br>Paterson Blue (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><img src="/variants/s7/dr3g20k20g20lo2g2lo2~x2/sett.png" alt="Paton (Personal)" width="140"><br>Paton (Personal)</a></li>
@@ -30,8 +30,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/k83g4r4g10k1w3~x2/"><img src="/variants/s6/k83g4r4g10k1w3~x2/sett.png" alt="Perratt (Personal)" width="140"><br>Perratt (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k62n24y5w3~x2/"><img src="/variants/s4/k62n24y5w3~x2/sett.png" alt="Perry (Calgary), Alex (Personal)" width="140"><br>Perry (Calgary), Alex (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/k75r26w2k4y5~x2/"><img src="/variants/s5/k75r26w2k4y5~x2/sett.png" alt="Perry / Pirrie (Personal)" width="140"><br>Perry / Pirrie (Personal)</a></li>
-<li><a class="tartan" href="/variants/s4/k75y29k4ly6~x2~y59-ly8117093/"><img src="/variants/s4/k75y29k4ly6~x2~y59-ly8117093/sett.png" alt="Perry Ancient (Personal)" width="140"><br>Perry Ancient (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/ly75k29ly4y6~x2~ly8117093-k17/"><img src="/variants/s4/ly75k29ly4y6~x2~ly8117093-k17/sett.png" alt="Perry Ancient (Personal)" width="140"><br>Perry Ancient (Personal)</a></li>
+<li><a class="tartan" href="/variants/s4/k75y29k4ly6~x2~y59-ly8117093/"><img src="/variants/s4/k75y29k4ly6~x2~y59-ly8117093/sett.png" alt="Perry Ancient (Personal)" width="140"><br>Perry Ancient (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/lb65r27w2lb4dy5~x2/"><img src="/variants/s5/lb65r27w2lb4dy5~x2/sett.png" alt="Perry Arisaid (Personal)" width="140"><br>Perry Arisaid (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/k65dr27w2k4y5~x2/"><img src="/variants/s5/k65dr27w2k4y5~x2/sett.png" alt="Perry Dress (Personal)" width="140"><br>Perry Dress (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/k75g26lr2g4lo5~x2/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting (Green) (Personal)" width="140"><br>Perry Hunting (Green) (Personal)</a></li>

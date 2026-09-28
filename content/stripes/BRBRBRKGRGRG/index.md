@@ -28,18 +28,18 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/m/ma/macdonald-3/">MacDonald</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-3/"><img src="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/sett.png" alt="MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-5/">MacDonald 5</a> <small class="dt">ΔTartan 0.21</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-5/"><img src="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/sett.png" alt="MacDonald 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-4/">MacDonald 4</a> <small class="dt">ΔTartan 0.26</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-4/"><img src="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/sett.png" alt="MacDonald 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-7/">MacDonald 7</a> <small class="dt">ΔTartan 0.39</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-7/"><img src="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/sett.png" alt="MacDonald 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-mini-design/">MacDonald MINI Design</a> <small class="dt">ΔTartan 0.48</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-mini-design/"><img src="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/sett.png" alt="MacDonald MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonald-2/">MacDonald 2</a> <small class="dt">ΔTartan 0.49</small></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-2/">MacDonald 2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-2/"><img src="/variants/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/sett.png" alt="MacDonald 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-mini-design/">MacDonald MINI Design</a> <small class="dt">ΔTartan 0.14</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-mini-design/"><img src="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/sett.png" alt="MacDonald MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-7/">MacDonald 7</a> <small class="dt">ΔTartan 0.29</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-7/"><img src="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/sett.png" alt="MacDonald 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-3/">MacDonald 3</a> <small class="dt">ΔTartan 0.49</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-3/"><img src="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/sett.png" alt="MacDonald 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-5/">MacDonald 5</a> <small class="dt">ΔTartan 0.51</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-5/"><img src="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/sett.png" alt="MacDonald 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-4/">MacDonald 4</a> <small class="dt">ΔTartan 0.53</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-4/"><img src="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/sett.png" alt="MacDonald 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

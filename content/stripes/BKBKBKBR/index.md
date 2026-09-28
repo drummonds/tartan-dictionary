@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kinnaird/">Kinnaird</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinnaird/"><img src="/variants/s8/b33k4b4k5b4k7db41r4~x2/sett.png" alt="Kinnaird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinnaird/"><img src="/variants/s8/n33k4n4k5n4k7db41r4~x2/sett.png" alt="Kinnaird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

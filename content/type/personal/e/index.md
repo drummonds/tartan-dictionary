@@ -21,7 +21,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/"><img src="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/sett.png" alt="Elmore (Personal)" width="140"><br>Elmore (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/db36t21y4n12dp2~x2~db3409246-t6107234/"><img src="/variants/s5/db36t21y4n12dp2~x2~db3409246-t6107234/sett.png" alt="Emond, Kenneth (Personal)" width="140"><br>Emond, Kenneth (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><img src="/variants/s8/k38y1w7y1k4y2k3y2~x2/sett.png" alt="Erck, Georges van (Personal)," width="140"><br>Erck, Georges van (Personal),</a></li>
-<li><a class="tartan" href="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/"><img src="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/sett.png" alt="Esteba-Quer (Personal)" width="140"><br>Esteba-Quer (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2~x2/"><img src="/variants/s15/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2~x2/sett.png" alt="Esteba-Quer (Personal)" width="140"><br>Esteba-Quer (Personal)</a></li>
+<li><a class="tartan" href="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/"><img src="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/sett.png" alt="Esteba-Quer (Personal)" width="140"><br>Esteba-Quer (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/r3db12r4g18r6k2~x2/"><img src="/variants/s6/r3db12r4g18r6k2~x2/sett.png" alt="Eyre (Personal)" width="140"><br>Eyre (Personal)</a></li>
 </ul>

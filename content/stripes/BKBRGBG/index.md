@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/ba/bailies-of-bennachie/">Bailies of Bennachie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/ba/bailies-of-bennachie/"><img src="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg4309123/sett.png" alt="Bailies of Bennachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bailies-of-bennachie/"><img src="/variants/s7/g27dr2g4r15db26k2db6~x2/sett.png" alt="Bailies of Bennachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

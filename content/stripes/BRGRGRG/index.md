@@ -29,14 +29,14 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sk/skene/">Skene</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene/"><img src="/variants/s7/db6r3g2r3g12r3g2~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/sk/skene-d/">Skene D</a> <small class="dt">ΔTartan 0.60</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene/"><img src="/variants/s7/db6r3g1r3g12r3g1~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skene-d/">Skene D</a> <small class="dt">ΔTartan 0.33</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sk/skene-d/"><img src="/variants/s7/db9r6g2r6g18r6g2/sett.png" alt="Skene D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/logan-7/">Logan</a> <small class="dt">ΔTartan 3.40</small></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-7/">Logan</a> <small class="dt">ΔTartan 2.71</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-7/"><img src="/variants/s7/db9r3y1r3g9r3y1~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/logan-with/">Logan with</a> <small class="dt">ΔTartan 4.34</small></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-with/">Logan with</a> <small class="dt">ΔTartan 2.97</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-with/"><img src="/variants/s7/dp8r3y1r3g14r3y1~x4/sett.png" alt="Logan with sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

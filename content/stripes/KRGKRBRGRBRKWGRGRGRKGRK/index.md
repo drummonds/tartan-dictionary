@@ -35,9 +35,8 @@ second parent, beside its family or clan).
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ha/hay-or-leith-2/">Hay, or Leith</a> <small class="dt">ΔTartan 1.37</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-or-leith-2/"><img src="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/sett.png" alt="Hay, or Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/h/ha/hay-and-leith/">Hay and Leith</a> <small class="dt">ΔTartan 2.11</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-and-leith/"><img src="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-and-leith/">Hay and Leith</a> <small class="dt">ΔTartan 2.35</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-and-leith/"><img src="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

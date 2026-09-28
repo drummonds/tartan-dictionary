@@ -29,8 +29,8 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdonell-of-keppoch-4/">MacDonell of Keppoch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-keppoch-4/"><img src="/variants/s10/g2r2db1r24w1db6r3g12r4db1/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/mackillop-2/">MacKillop</a> <small class="dt">ΔTartan 0.85</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-keppoch-4/"><img src="/variants/s10/g2r2db1r24lb1db6r3g12r4db1/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackillop-2/">MacKillop</a> <small class="dt">ΔTartan 0.55</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackillop-2/"><img src="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/sett.png" alt="MacKillop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

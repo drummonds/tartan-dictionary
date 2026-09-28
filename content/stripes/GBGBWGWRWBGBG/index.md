@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ae/aelfleda-arisaid/">Aelfleda Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ae/aelfleda-arisaid/"><img src="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ae/aelfleda-arisaid/"><img src="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

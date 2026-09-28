@@ -98,8 +98,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/db5k10db48k72w12dg48r5/"><img src="/variants/s7/db5k10db48k72w12dg48r5/sett.png" alt="Colquhoun (Clan)" width="140"><br>Colquhoun (Clan)</a></li>
 <li><a class="tartan" href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/"><img src="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/sett.png" alt="Colquhoun Dress" width="140"><br>Colquhoun Dress</a></li>
 <li><a class="tartan" href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><img src="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/sett.png" alt="Comyn/Cumming" width="140"><br>Comyn/Cumming</a></li>
-<li><a class="tartan" href="/variants/s6/r8k8y1k8r8w1~x4/"><img src="/variants/s6/r8k8y1k8r8w1~x4/sett.png" alt="Connel" width="140"><br>Connel</a></li>
 <li><a class="tartan" href="/variants/s4/y1k8r8w1~x2/"><img src="/variants/s4/y1k8r8w1~x2/sett.png" alt="Connel" width="140"><br>Connel</a></li>
+<li><a class="tartan" href="/variants/s6/r8k8y1k8r8w1~x4/"><img src="/variants/s6/r8k8y1k8r8w1~x4/sett.png" alt="Connel" width="140"><br>Connel</a></li>
 <li><a class="tartan" href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><img src="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/sett.png" alt="Connolly Dress" width="140"><br>Connolly Dress</a></li>
 <li><a class="tartan" href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><img src="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/sett.png" alt="Connolly Hunting" width="140"><br>Connolly Hunting</a></li>
 <li><a class="tartan" href="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/"><img src="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/sett.png" alt="Conquergood" width="140"><br>Conquergood</a></li>

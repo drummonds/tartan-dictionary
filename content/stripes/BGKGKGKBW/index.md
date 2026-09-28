@@ -29,10 +29,10 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/hu/hunter-of-bute/">Hunter of Bute</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-of-bute/"><img src="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/sett.png" alt="Hunter of Bute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stuart-stewart-of-bute-hunting/">Stuart/Stewart of Bute Hunting</a> <small class="dt">ΔTartan 0.62</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-of-bute/"><img src="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/sett.png" alt="Hunter of Bute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stuart-stewart-of-bute-hunting/">Stuart/Stewart of Bute Hunting</a> <small class="dt">ΔTartan 0.25</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-stewart-of-bute-hunting/"><img src="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/sett.png" alt="Stuart/Stewart of Bute Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/s/st/stewart-of-bute-hunting/">Stewart of Bute Hunting</a> <small class="dt">ΔTartan 0.73</small></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-bute-hunting/">Stewart of Bute Hunting</a> <small class="dt">ΔTartan 0.70</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-bute-hunting/"><img src="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/sett.png" alt="Stewart of Bute Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

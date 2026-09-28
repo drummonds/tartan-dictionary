@@ -16,8 +16,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly8117093-y59/"><img src="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly8117093-y59/sett.png" alt="Katsushika" width="140"><br>Katsushika</a></li>
 <li><a class="tartan" href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db3409246/"><img src="/variants/s7/db7w3db2w6db16lb26dr4~x2~db3409246/sett.png" alt="Keela" width="140"><br>Keela</a></li>
 <li><a class="tartan" href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db3514276/"><img src="/variants/s6/lo3dy33db24dy2db2dy2~x2~db3514276/sett.png" alt="Keepers of the Quaich" width="140"><br>Keepers of the Quaich</a></li>
-<li><a class="tartan" href="/variants/s4/r21db61dy8w21~x2/"><img src="/variants/s4/r21db61dy8w21~x2/sett.png" alt="Kellogg College University of Oxford" width="140"><br>Kellogg College University of Oxford</a></li>
 <li><a class="tartan" href="/variants/s4/r21db61y8w21~x2/"><img src="/variants/s4/r21db61y8w21~x2/sett.png" alt="Kellogg College University of Oxford" width="140"><br>Kellogg College University of Oxford</a></li>
+<li><a class="tartan" href="/variants/s4/r21db61dy8w21~x2/"><img src="/variants/s4/r21db61dy8w21~x2/sett.png" alt="Kellogg College University of Oxford" width="140"><br>Kellogg College University of Oxford</a></li>
 <li><a class="tartan" href="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/"><img src="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/sett.png" alt="Kells Irish Pubs" width="140"><br>Kells Irish Pubs</a></li>
 <li><a class="tartan" href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><img src="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/sett.png" alt="Kells Irish Pubs (Corporate)" width="140"><br>Kells Irish Pubs (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s8/w4n15db8k4db28k2db4w2/"><img src="/variants/s8/w4n15db8k4db28k2db4w2/sett.png" alt="Kelvinside Academy (School)" width="140"><br>Kelvinside Academy (School)</a></li>

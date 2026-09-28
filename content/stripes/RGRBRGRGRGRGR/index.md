@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/grant-of-rothiemurchus/">Grant of Rothiemurchus</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-rothiemurchus/"><img src="/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Grant of Rothiemurchus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-rothiemurchus/"><img src="/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Grant of Rothiemurchus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

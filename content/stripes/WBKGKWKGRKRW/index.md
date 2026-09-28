@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-9/"><img src="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-dress/">Stewart Dress</a> <small class="dt">ΔTartan 2.59</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-dress/"><img src="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-dress/"><img src="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-dress-mini/">Stewart Dress MINI</a> <small class="dt">ΔTartan 3.50</small></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-dress-mini/"><img src="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/sett.png" alt="Stewart Dress MINI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

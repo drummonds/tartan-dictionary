@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/connaught-ancestry/">Connaught Ancestry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/connaught-ancestry/"><img src="/variants/s11/db4n21db8k4db4dy4db9n9db38k1w3~x2/sett.png" alt="Connaught Ancestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connaught-ancestry/"><img src="/variants/s11/db4n21db8k4db4y4db9n9db38k1w3~x2/sett.png" alt="Connaught Ancestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/tartans/m/ma/macdona/">MacDona</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdona/"><img src="/variants/s7/r35g52db18g17r12g17k18/sett.png" alt="MacDona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdonagh/">MacDonagh</a> <small class="dt">ΔTartan 0.36</small></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonagh/"><img src="/variants/s7/r20g29db10g16r6g10k19~x2/sett.png" alt="MacDonagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonagh/">MacDonagh</a> <small class="dt">ΔTartan 0.48</small></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonagh/"><img src="/variants/s7/r20dg29db10dg16r6dg10k19~x2/sett.png" alt="MacDonagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

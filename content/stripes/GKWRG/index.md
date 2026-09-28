@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/o/oa/oakley/">Oakley</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/o/oa/oakley/"><img src="/variants/s5/dg37k22w4r15y3~x2/sett.png" alt="Oakley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oa/oakley/"><img src="/variants/s5/g37k22w4r15y3~x2/sett.png" alt="Oakley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

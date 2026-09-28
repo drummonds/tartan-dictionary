@@ -39,6 +39,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/"><img src="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/sett.png" alt="Frater" width="140"><br>Frater</a></li>
 <li><a class="tartan" href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r3815015-ri6914021/"><img src="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r3815015-ri6914021/sett.png" alt="Frater (Name)" width="140"><br>Frater (Name)</a></li>
 <li><a class="tartan" href="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b4229264-db2719264/"><img src="/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6dr6~b4229264-db2719264/sett.png" alt="Free (Wishaw)" width="140"><br>Free (Wishaw)</a></li>
-<li><a class="tartan" href="/variants/s5/g15dg18db23w4r8~x2/"><img src="/variants/s5/g15dg18db23w4r8~x2/sett.png" alt="Friebe (2014)" width="140"><br>Friebe (2014)</a></li>
 <li><a class="tartan" href="/variants/s5/g15dg18dp23w4r8~x2/"><img src="/variants/s5/g15dg18dp23w4r8~x2/sett.png" alt="Friebe (2014)" width="140"><br>Friebe (2014)</a></li>
+<li><a class="tartan" href="/variants/s5/g15dg18db23w4r8~x2/"><img src="/variants/s5/g15dg18db23w4r8~x2/sett.png" alt="Friebe (2014)" width="140"><br>Friebe (2014)</a></li>
 </ul>
